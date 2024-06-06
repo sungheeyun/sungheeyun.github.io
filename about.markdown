@@ -18,4 +18,6 @@ E-mail - [sunghee.yun@gmail.com](mailto:sunghee.yun@gmail.com)
 
 LinkedIn - [linkedin.com/in/sungheeyun](https://www.linkedin.com/in/sungheeyun)
 
+Facebook - [facebook.com/sunghee.yun1](https://www.facebook.com/sunghee.yun1/)
+
 KakaoTalk ID - shoptyun
