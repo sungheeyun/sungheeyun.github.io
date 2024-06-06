@@ -13,6 +13,7 @@ My eventual life goal, though, is to make everyone's future secure with health, 
 I am an Adjunct Professor @ Sogang University, Advisory Professor @ Daegu Gyeongbuk Institute of Science and Technology (DGIST),
 & Network Expert @ Gerson Lehrman Group.
 
+[CV](resource/CV/Sunghee_Yun_CV_1.pdf)
 
 E-mail - [sunghee.yun@gmail.com](mailto:sunghee.yun@gmail.com)
 
