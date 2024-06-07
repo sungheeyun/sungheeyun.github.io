@@ -2,7 +2,7 @@
 layout: posts
 title:  Math is Beautiful and Fun! - v0.0
 date:   2024-06-05 23:23:59 -0700
-categories: jekyll update
+categories: math
 ---
 
 # 823 slides

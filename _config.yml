@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -113,26 +113,26 @@ analytics:
 # Site Author
 author:
   name             : "Sunghee Yun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/resource/photos/bio-photo.jpg"
   bio              : "Co-founder / CAIO @ Erudio Bio, Inc., Adjunct Professor @ [Sogang University](https://ee.sogang.ac.kr/eng/employee/professor03.php), Advisory Professor @ [DGIST](https://www.dgist.ac.kr/en_eecs/?bo_table=eng2_1&sca=Advisory+Professor)"
   location         : "Palo Alto, CA, USA"
-  email            :
+#  email            : sunghee.yun@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:sunghee.yun@gmail.com"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.linkedin.com/in/sungheeyun/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/sunghee14"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/sunghee.yun1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/sungheeyun"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,24 +140,25 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sunghee.yun@gmail.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/sungheeyun/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/sunghee14"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://facebook.com/sunghee.yun1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/sungheeyun"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://instagram.com/"
+
 
 
 # Reading Files
@@ -319,6 +320,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
