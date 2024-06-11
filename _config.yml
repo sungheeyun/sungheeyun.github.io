@@ -18,10 +18,7 @@ repository: sungheeyun/sungheeyun.github.io
 
 title: Mr. FunnyBunny's homepage
 email: sunghee.yun@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: I am Mr. FunnyBunny.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -68,11 +65,11 @@ author:
   avatar           : "/resource/photos/bio-photo.jpg"
   bio              : "Co-founder / CAIO @ Erudio Bio, Inc., Adjunct Professor @ [Sogang University](https://ee.sogang.ac.kr/eng/employee/professor03.php), Advisory Professor @ [DGIST](https://www.dgist.ac.kr/en_eecs/?bo_table=eng2_1&sca=Advisory+Professor)"
   location         : "Palo Alto, CA, USA"
-#  email            : sunghee.yun@gmail.com
+  email            : sunghee.yun@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sunghee.yun@gmail.com"
+ #     url: "mailto:sunghee.yun@gmail.com"
     - label: "CV"
       icon: "fab fa-fw fa-instagram"
       url: /resource/CV/Sunghee_Yun_CV_1.pdf
