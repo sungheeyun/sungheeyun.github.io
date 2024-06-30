@@ -24,4 +24,13 @@ I am an Adjunct Professor @ Sogang University, Advisory Professor @ Daegu Gyeong
 <p>
 My eventual life goal, though, is to make everyone's future secure with health, safety, liberty, and equity!
 
+<p>
+E-mail: <a href="mailto:sunghee.yun@email.com">sunghee.yun@gmail.com</a>
+<br>
+Mobile: +1-408-549-4077 (US) / +82-10-6500-7045 (Korea)
+<br>
+LinkedIn: <a href="https://www.linkedin.com/in/sungheeyun/">https://www.linkedin.com/in/sungheeyun/</a>
+<br>
+KakaoTalk ID: shoptyun
+
 <!--/div-->
