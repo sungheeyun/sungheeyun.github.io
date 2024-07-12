@@ -63,7 +63,7 @@ plugins:
 author:
   name             : "Mr. FunnyBunny"
   avatar           : "/resource/photos/bio-photo.jpg"
-  bio              : "Co-founder / CAIO @ Erudio Bio, Inc., Adjunct Professor @ [Sogang University](https://ee.sogang.ac.kr/eng/employee/professor03.php), Advisory Professor @ [DGIST](https://www.dgist.ac.kr/en_eecs/?bo_table=eng2_1&sca=Advisory+Professor)"
+  bio              : "Co-founder & CTO @ Erudio Bio, Inc., Adjunct Professor @ [Sogang University](https://ee.sogang.ac.kr/eng/employee/professor03.php), Advisory Professor @ [DGIST](https://www.dgist.ac.kr/en_eecs/?bo_table=eng2_1&sca=Advisory+Professor)"
   location         : "Palo Alto, CA, USA"
   email            : sunghee.yun@gmail.com
   links:

@@ -6,7 +6,7 @@ permalink: /about/
 
 <!--div style="font-size:0.9em;"-->
 <p>
-I am Co-founder / CAIO - AI Technology & Product Strategy @ Erudio Bio, Inc. with expertise in Artificial Intelligence (AI) and Convex Optimization. I have led AI and optimization projects for applications in various fields such as semiconductor design/manufacturing/tests, strategic marketing and sales, e-commerce, industrial AI, and biotech.
+I am Co-founder / CTO - AI Technology & Product Strategy @ Erudio Bio, Inc. with expertise in Artificial Intelligence (AI) and Convex Optimization. I have led AI and optimization projects for applications in various fields such as semiconductor design/manufacturing/tests, strategic marketing and sales, e-commerce, industrial AI, and biotech.
 <!--/span-->
 
 <!--span style="font-size:0.8em;"-->
