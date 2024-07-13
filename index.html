@@ -30,12 +30,12 @@ eg, via <a href="/posts/">blog</a>.
 
 <h1 id="blog">Most recent blog post</h1>
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-	  {% break %}
-    </li>
-  {% endfor %}
+	{% for post in site.posts %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+		{% break %}
+	{% endfor %}
 </ul>
 
 
