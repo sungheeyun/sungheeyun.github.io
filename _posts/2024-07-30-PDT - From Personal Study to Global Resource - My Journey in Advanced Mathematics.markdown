@@ -1,12 +1,13 @@
 ---
-title: From personal fun to global resource - my Journey in Advanced Mathematics
-date: Wed Jul 31 19:56:59 PDT 2024
+title: From personal fun to global resource - my journey in Advanced Mathematics
+date: Wed Jul 30 19:56:59 PDT 2024
 categories:
  - blog
 tags:
  - evangelism
  - math
  - cvxopt
+ - algebra
  - abstract algebra
  - realy analysis
  - statistics
@@ -14,8 +15,12 @@ tags:
  - document
 ---
 
-- [fun math slides (written using LaTeX)](/resource/fun math/fun_math - 2024_0730.pdf)
-- [fun math - article version (automatically converted from slides by Python script)](/resource/fun math/fun_math_article - 2024_0730.pdf)
+Post date: {{ page.date| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
+
+- [fun math slides](/resource/fun math/fun_math - 2024_0731.pdf)
+- [fun math - article version (automatically converted from slides)](/resource/fun math/fun_math_article - 2024_0731.pdf)
 
 [From Personal Study to Global Resource: My Journey in Advanced Mathematics]: #
 
@@ -46,21 +51,16 @@ Mathematics is a universal language that has the power to connect and inspire. B
 <h2>Stay Connected!!</h2>
 
 I encourage you to share your thoughts, questions, and feedback. Together, we can continue to learn, grow, and appreciate the beauty and utility of mathematics.
-Please email me to <sunghee.yun@gmail.com>.
+Please email me to <sunghee.yun@gmail.com> with any types of comments with subject starting with "fun math"!
 
-***In blog posts that are to come,
+***In blog posts that are to come (below),
 I will visit each topic one by one
 and discuss some details.
 Please stay tuned!***
 
+- [From Personal Study to Global Resource - Algebra]({{ site.baseurl }}{% post_url 2024-07-31-PDT - From Personal Study to Global Resource - Algebra %})
 
 -- Mr. FunnyBunny
 
 (This blog post serves as a preface to the detailed mathematical content I have compiled, highlighting my journey, intentions, and the value this work aims to provide. I hope it resonates with like-minded individuals and contributes positively to their mathematical endeavors.)
-
-
-
-
-
-
 

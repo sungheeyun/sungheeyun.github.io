@@ -6,6 +6,7 @@ categories:
 tags:
  - math
  - cvxopt
+ - algebra
  - abstract algebra
  - realy analysis
  - statistics
