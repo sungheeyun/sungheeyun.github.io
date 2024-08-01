@@ -1,5 +1,5 @@
 ---
-title:  Math is Beautiful and Fun!
+title:  Math is Fun & Beautiful!
 date: Wed Jul 01 00:13:05 PDT 2024
 categories:
  - blog
