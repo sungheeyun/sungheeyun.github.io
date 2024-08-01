@@ -15,7 +15,7 @@ tags:
  - document
 ---
 
-Post date: {{ page.date| date: "%d-%b-%Y" }}
+posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 

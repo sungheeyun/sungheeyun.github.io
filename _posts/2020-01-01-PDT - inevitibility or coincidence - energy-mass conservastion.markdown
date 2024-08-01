@@ -7,5 +7,8 @@ tags:
  - WIP
 ---
 
+posted: {{ page.date| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
 
 TO BE FILLED LATER

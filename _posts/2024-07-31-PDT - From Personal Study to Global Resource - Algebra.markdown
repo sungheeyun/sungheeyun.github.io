@@ -1,6 +1,7 @@
 ---
 title: From personal fun to global resource - my journey in Algebra
-date: Wed Jul 31 22:26:38 PDT 2024
+date: Wed Jul 31 22:26:38 PDT 2023
+last_modified_at: Wed Jul 31 22:26:38 PDT 2024
 categories:
  - blog
 tags:
@@ -11,8 +12,9 @@ tags:
  - document
 ---
 
-Post date: {{ page.date| date: "%d-%b-%Y" }}
+posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
+
 
 - [algebra slides](/resource/fun math/fun_math_algebra - 2024_0731.pdf)
 

@@ -11,6 +11,9 @@ tags:
  - seminar
 ---
 
+posted: {{ page.date| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
 
 Last month, I had the privilege of doing AI seminar series at Samsung Electronics, Seoul National University (SNU), Pohang University of Science and Technology (POSTECH), Sogang University, and Yonsei University during Seoul biz & family trip. I was utterly honored to have such opportunities where I could share my insight and learn a lot from Q&As with talented AI researchers and practitioners in academia and industry.
 
