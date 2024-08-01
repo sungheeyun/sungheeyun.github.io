@@ -4,9 +4,11 @@ date: Tue Jul 23 14:37:06 PDT 2024
 categories:
  - blog
 tags:
- - trip
  - business
+ - trip
  - seoul
+ - AI
+ - seminar
 ---
 
 

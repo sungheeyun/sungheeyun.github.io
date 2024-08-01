@@ -5,6 +5,12 @@ categories:
  - blog
 tags:
  - math
+ - cvxopt
+ - abstract algebra
+ - realy analysis
+ - statistics
+ - slides
+ - document
 ---
 
 - [fun math slides (written using LaTeX)](/resource/fun math/fun_math - 2024_0730.pdf)
