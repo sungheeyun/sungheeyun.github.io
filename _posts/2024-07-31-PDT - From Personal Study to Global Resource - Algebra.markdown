@@ -1,6 +1,6 @@
 ---
 title: From personal fun to global resource - my journey in Algebra
-date: Wed Jul 31 22:26:38 PDT 2023
+date: Wed Jul 31 22:26:38 PDT 2024
 last_modified_at: Wed Jul 31 22:26:38 PDT 2024
 categories:
  - blog
