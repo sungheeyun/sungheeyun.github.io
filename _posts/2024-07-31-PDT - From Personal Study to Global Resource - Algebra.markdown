@@ -1,5 +1,5 @@
 ---
-title: From personal fun to global resource - my journey in Algebra
+title: Serendipity finds essential resources in Algebra
 date: Wed Jul 31 22:26:38 PDT 2024
 last_modified_at: Wed Jul 31 22:26:38 PDT 2024
 categories:
@@ -15,8 +15,11 @@ tags:
 posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
+<h1>Algebra</h1>
 
-- [algebra slides](/resource/fun math/fun_math_algebra - 2024_0731.pdf)
+[(parent blog)]({{ site.baseurl }}{% post_url 2024-07-30-PDT - From Personal Study to Global Resource - My Journey in Advanced Mathematics %})
+
+- Algebra Codex - [algebra slides](/resource/fun math/fun_math_algebra - 2024_0731.pdf)
 
 In my "Math is Fun & Beautiful! - Algebra" slides, I present a comprehensive exploration of fundamental algebraic concepts, with a focus on inequalities and number theory. The presentation begins with an overview of mathematical notations and conventions, setting the stage for more complex topics. A significant portion of the slides is dedicated to inequalities, providing detailed explanations and proofs for key concepts like Jensen's inequality and the Arithmetic Mean-Geometric Mean (AM-GM) inequality. I offer multiple proof methods for each concept, demonstrating the beauty and versatility of mathematical reasoning.
 
