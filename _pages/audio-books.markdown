@@ -1,7 +1,7 @@
 ---
 layout: single
-title: audio books
-permalink: /audio-books/
+title: Audio books
+permalink: /audio-books
 ---
 
 <ul>

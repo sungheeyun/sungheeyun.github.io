@@ -65,7 +65,7 @@ Please stay tuned!***
 
 - [Serendipity finds essential resources in Algebra]({{ site.baseurl }}{% post_url 2024-07-31-PDT - From Personal Study to Global Resource - Algebra %})
 
--- Mr. FunnyBunny
+-- Mr. Funnybunny
 
 (This blog post serves as a preface to the detailed mathematical content I have compiled, highlighting my journey, intentions, and the value this work aims to provide. I hope it resonates with like-minded individuals and contributes positively to their mathematical endeavors.)
 

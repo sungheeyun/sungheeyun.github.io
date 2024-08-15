@@ -1,7 +1,7 @@
 ---
 layout: single
-title: music
-permalink: /music/
+title: Music
+permalink: /music
 ---
 
 <ul>

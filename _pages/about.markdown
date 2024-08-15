@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 <!--div style="font-size:0.9em;"-->

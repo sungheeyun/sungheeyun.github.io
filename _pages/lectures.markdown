@@ -1,7 +1,7 @@
 ---
 layout: single
-title: lectures
-permalink: /lectures/
+title: Lectures
+permalink: /lectures
 ---
 
 <ul>
