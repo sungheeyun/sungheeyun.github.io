@@ -68,6 +68,7 @@ toc_sticky: true
 
 <li>
 	<a href="https://www.audible.com/pd/B002V0PN36?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	<a href="https://a.co/gf12DBI">E</a>
 	The Power of Now - A Guide to Spiritual Enlightenment
 	&mdash; Eckhart Tolle &amp; Eckhart Tolle (N)
 </li>
