@@ -133,7 +133,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      classes: wide
+      #classes: wide
       layout: single
       author_profile: true
 
