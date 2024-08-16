@@ -4,20 +4,28 @@ title: Music
 permalink: /music
 ---
 
+M - Melon Music App
+{: .notice}
+
 <ul>
 <li>
-	<a href="https://kko.to/XBJoRc4S3i">서시- 신성우</a>
+	서시- 신성우
+	<a href="https://kko.to/XBJoRc4S3i">M</a>
 </li>
 <li>
-	<a href="https://kko.to/YXN3ecddlt">늦지않았음을 - 송재호</a>
+	늦지않았음을 - 송재호
+	<a href="https://kko.to/YXN3ecddlt">M</a>
 </li>
 <li>
-	<a href="https://kko.to/D_LlWfqaVc">당신은 어디 있나요 - 양수경</a>
+	당신은 어디 있나요 - 양수경
+	<a href="https://kko.to/D_LlWfqaVc">M</a>
 </li>
 <li>
-	<a href="https://kko.to/bsc2T6mqWf">너를 사랑해 - 한동준</a>
+	너를 사랑해 - 한동준
+	<a href="https://kko.to/bsc2T6mqWf">M</a>
 </li>
 <li>
-	<a href="https://kko.to/1DaO735W3B">방황 - 이승철</a>
+	방황 - 이승철
+	<a href="https://kko.to/1DaO735W3B">M</a>
 </li>
 </ul>
