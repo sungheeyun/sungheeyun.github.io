@@ -40,14 +40,14 @@ P - paperback book, A - audio book (w/ narrator name)
 	To Have or to Be?
 	&mdash; Erich Fromm
 	<a href="https://www.audible.com/pd/B08966H5GK?source_code=ASSORAP0511160006&share_location=pdp">
-	A &amp; Adriel Brandt
+	A - Adriel Brandt
 	</a>
 </li>
 <li>
 	The Art of Being
 	&mdash; Erich Fromm
 	<a href="https://www.audible.com/pd/B002V8N9SO?source_code=ASSORAP0511160006&share_location=pdp">
-	A &amp; Raymond Todd
+	A - Raymond Todd
 	</a>
 </li>
 <li>
@@ -116,7 +116,7 @@ P - paperback book, A - audio book (w/ narrator name)
 	Thinking, Fast and Slow
 	&mdash; Daniel Kahneman
 	<a href="https://www.audible.com/pd/B005TKKCWC?source_code=ASSORAP0511160006&share_location=pdp">
-	A &amp; Patrick Egan
+	A - Patrick Egan
 	</a>
 </li>
 
@@ -124,7 +124,7 @@ P - paperback book, A - audio book (w/ narrator name)
 	Never Split the Difference - Negotiating as if Your Life Depended on It
 	&mdash; Chris Voss
 	<a href="https://www.audible.com/pd/B01CF5O89G?source_code=ASSORAP0511160006&share_location=pdp">
-	A &amp; Michael Kramer
+	A - Michael Kramer
 	</a>
 </li>
 
@@ -132,7 +132,7 @@ P - paperback book, A - audio book (w/ narrator name)
 	Get Out of Your Mind & Into Your Life - The New Acceptance & Commitment Therapy
 	&mdash; Spencer Smith, Steven C. Hayes
 	<a href="https://www.audible.com/pd/B006H79I7G?source_code=ASSORAP0511160006&share_location=pdp">
-	A &amp; Paul Boehmer
+	A - Paul Boehmer
 	</a>
 </li>
 </ul>
@@ -152,7 +152,7 @@ P - paperback book, A - audio book (w/ narrator name)
 	A New Earth - Awakening Your Life's Purpose
 	&mdash; Eckhart Tolle
 	<a href="https://www.audible.com/pd/B002V0RAUU?source_code=ASSORAP0511160006&share_location=pdp">
-	A &amp; Eckhart Tolle
+	A - Eckhart Tolle
 	</a>
 </li>
 
@@ -168,7 +168,7 @@ P - paperback book, A - audio book (w/ narrator name)
 	Chip War - The Quest to Dominate the World's Most Critical Technology
 	&mdash; Chris Miller
 	<a href="https://www.audible.com/pd/B09TX11LQB?source_code=ASSORAP0511160006&share_location=pdp">
-	A &amp; Stephen Graybill
+	A - Stephen Graybill
 	</a>
 </li>
 
