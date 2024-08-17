@@ -4,7 +4,7 @@ title: Music
 permalink: /music
 ---
 
-M - Melon Music App
+M - Melon
 {: .notice}
 
 <ol>
