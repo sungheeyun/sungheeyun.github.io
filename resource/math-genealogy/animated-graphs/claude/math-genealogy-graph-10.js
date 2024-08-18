@@ -1,7 +1,7 @@
 // Wait for the DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', function() {
     // Load and process the JSON data
-    d3.json("my_math_gen - 20.json").then(function(data) {
+    d3.json("my_math_gen - 10.json").then(function(data) {
         const nodes = Object.values(data);
         const links = [];
 
@@ -84,17 +84,14 @@ document.addEventListener('DOMContentLoaded', function() {
             // For example, you could use the node's id, name, or any other property
             //if (d.id === "12345") return "red";
 			//console.log("Node name:", d.name); // Add
-            if (d.name === "Sunghee  Yun") {console.log(d.name); return "blue";}
+            if (d.name === "Sunghee Yun") {console.log(d.name); return "blue";}
             if (d.name.startsWith("Carl Friedrich")) {console.log(d.name); return "red";}
 			if (d.name === "Jean-Baptiste Joseph Fourier") {console.log(d.name); return "red";}
 			if (d.name === "Rudolf Otto Sigismund Lipschitz") {console.log(d.name); return "red";}
 			if (d.name.includes(" Denis Poisson")) {console.log(d.name); return "red";}
 			if (d.name === "Stephen Poythress Boyd") {console.log(d.name); return "red";}
+			if (d.name === "Stephen Poythress Boyd") {console.log(d.name); return "red";}
 			if (d.name === "Gustav Peter Lejeune Dirichlet") {console.log(d.name); return "red";}
-			if (d.name.startsWith("Pierre-Simon")) {console.log(d.name); return "red";}
-			if (d.name === "Leonhard  Euler") {console.log(d.name); return "red";}
-			if (d.name === "Jacob  Bernoulli") {console.log(d.name); return "red";}
-			if (d.name === "C. Felix (Christian) Klein") {console.log(d.name); return "red";}
             //if (d.id === "283283" ) {console.log(d.name); return "red";}
             //if (d.id === "283283" ) {console.log(d.name); return "red";}
             // Add more conditions as needed

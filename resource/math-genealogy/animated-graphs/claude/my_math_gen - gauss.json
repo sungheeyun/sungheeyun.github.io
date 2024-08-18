@@ -1,7 +1,7 @@
 {
   "283283": {
     "id": "283283",
-    "name": "Sunghee  Yun",
+    "name": "Sunghee Yun",
     "advisors": [
       {
         "name": "Stephen Poythress Boyd",
@@ -93,7 +93,7 @@
     "name": "C. Felix (Christian) Klein",
     "advisors": [
       {
-        "name": "Julius  Pl\u00fccker",
+        "name": "Julius Pl\u00fccker",
         "id": "7402"
       },
       {
@@ -105,7 +105,7 @@
   },
   "7402": {
     "id": "7402",
-    "name": "Julius  Pl\u00fccker",
+    "name": "Julius Pl\u00fccker",
     "advisors": [
       {
         "name": "Christian Ludwig Gerling",

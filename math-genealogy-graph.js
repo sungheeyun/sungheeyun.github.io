@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Set up the SVG
         const width = 600  // window.innerWidth * .4;
-        const height = 600 // window.innerHeight * .6;
+        const height = 300 // window.innerHeight * .6;
         const svg = d3.select("#graph")
             .append("svg")
             .attr("width", width)
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Create a force simulation
         const simulation = d3.forceSimulation(nodes)
             .force("link", d3.forceLink(links).id(d => d.id).distance(100))
-            .force("charge", d3.forceManyBody().strength(-300))
+            .force("charge", d3.forceManyBody().strength(-200))
             .force("center", d3.forceCenter(width / 2, height / 2))
             .force("boundary", boundingBoxForce); // Add this line
 
@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // For example, you could use the node's id, name, or any other property
             //if (d.id === "12345") return "red";
 			//console.log("Node name:", d.name); // Add
-            if (d.name === "Sunghee  Yun") {console.log(d.name); return "blue";}
+            if (d.name === "Sunghee Yun") {console.log(d.name); return "blue";}
             if (d.name.startsWith("Carl Friedrich")) {console.log(d.name); return "red";}
             //if (d.id === "283283" ) {console.log(d.name); return "red";}
             //if (d.id === "283283" ) {console.log(d.name); return "red";}

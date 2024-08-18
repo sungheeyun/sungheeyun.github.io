@@ -1,7 +1,7 @@
 {
   "283283": {
     "id": "283283",
-    "name": "Sunghee  Yun",
+    "name": "Sunghee Yun",
     "advisors": [
       {
         "name": "Stephen Poythress Boyd",
@@ -93,7 +93,7 @@
     "name": "C. Felix (Christian) Klein",
     "advisors": [
       {
-        "name": "Julius  Pl\u00fccker",
+        "name": "Julius Pl\u00fccker",
         "id": "7402"
       },
       {
@@ -105,7 +105,7 @@
   },
   "7402": {
     "id": "7402",
-    "name": "Julius  Pl\u00fccker",
+    "name": "Julius Pl\u00fccker",
     "advisors": [
       {
         "name": "Christian Ludwig Gerling",
@@ -182,7 +182,7 @@
     "name": "Johann Christoph Wichmannshausen",
     "advisors": [
       {
-        "name": "Otto  Mencke",
+        "name": "Otto Mencke",
         "id": "21235"
       }
     ],
@@ -190,10 +190,10 @@
   },
   "21235": {
     "id": "21235",
-    "name": "Otto  Mencke",
+    "name": "Otto Mencke",
     "advisors": [
       {
-        "name": "Jakob  Thomasius",
+        "name": "Jakob Thomasius",
         "id": "137705"
       }
     ],
@@ -201,10 +201,10 @@
   },
   "137705": {
     "id": "137705",
-    "name": "Jakob  Thomasius",
+    "name": "Jakob Thomasius",
     "advisors": [
       {
-        "name": "Friedrich  Leibniz",
+        "name": "Friedrich Leibniz",
         "id": "143630"
       }
     ],
@@ -215,7 +215,7 @@
     "name": "Johann Andreas Planer",
     "advisors": [
       {
-        "name": "Johann  Pasch",
+        "name": "Johann Pasch",
         "id": "128046"
       },
       {
@@ -227,10 +227,10 @@
   },
   "128046": {
     "id": "128046",
-    "name": "Johann  Pasch",
+    "name": "Johann Pasch",
     "advisors": [
       {
-        "name": "Michael d. J.  Walther",
+        "name": "Michael d. J. Walther",
         "id": "127962"
       }
     ],
@@ -238,14 +238,14 @@
   },
   "127962": {
     "id": "127962",
-    "name": "Michael d. J.  Walther",
+    "name": "Michael d. J. Walther",
     "advisors": [
       {
-        "name": "Aegidius  Strauch",
+        "name": "Aegidius Strauch",
         "id": "127801"
       },
       {
-        "name": "Constantin  Ziegra",
+        "name": "Constantin Ziegra",
         "id": "230796"
       }
     ],
@@ -253,10 +253,10 @@
   },
   "127801": {
     "id": "127801",
-    "name": "Aegidius  Strauch",
+    "name": "Aegidius Strauch",
     "advisors": [
       {
-        "name": "Nicolaus  Zapf",
+        "name": "Nicolaus Zapf",
         "id": "127734"
       }
     ],
@@ -264,18 +264,18 @@
   },
   "127734": {
     "id": "127734",
-    "name": "Nicolaus  Zapf",
+    "name": "Nicolaus Zapf",
     "advisors": [
       {
-        "name": "Erasmus  Schmidt",
+        "name": "Erasmus Schmidt",
         "id": "127424"
       },
       {
-        "name": "Abraham  Heinecke",
+        "name": "Abraham Heinecke",
         "id": "189659"
       },
       {
-        "name": "Jacobus  Martini",
+        "name": "Jacobus Martini",
         "id": "127848"
       }
     ],
@@ -283,14 +283,14 @@
   },
   "127424": {
     "id": "127424",
-    "name": "Erasmus  Schmidt",
+    "name": "Erasmus Schmidt",
     "advisors": [
       {
-        "name": "Sethus  Calvisius",
+        "name": "Sethus Calvisius",
         "id": "127898"
       },
       {
-        "name": "Petrus  Otto",
+        "name": "Petrus Otto",
         "id": "127942"
       }
     ],
@@ -298,10 +298,10 @@
   },
   "127898": {
     "id": "127898",
-    "name": "Sethus  Calvisius",
+    "name": "Sethus Calvisius",
     "advisors": [
       {
-        "name": "Nikolaus  Selnecker",
+        "name": "Nikolaus Selnecker",
         "id": "127864"
       },
       {
@@ -320,7 +320,7 @@
         "id": "126827"
       },
       {
-        "name": "Johann  Hoffmann",
+        "name": "Johann Hoffmann",
         "id": "184935"
       }
     ],
@@ -331,7 +331,7 @@
     "name": "Georg Joachim von Leuchen Rheticus",
     "advisors": [
       {
-        "name": "Johannes  Volmar",
+        "name": "Johannes Volmar",
         "id": "126730"
       },
       {
@@ -343,10 +343,10 @@
   },
   "126730": {
     "id": "126730",
-    "name": "Johannes  Volmar",
+    "name": "Johannes Volmar",
     "advisors": [
       {
-        "name": "Bonifazius  Erasmi",
+        "name": "Bonifazius Erasmi",
         "id": "126724"
       }
     ],
@@ -376,7 +376,7 @@
         "id": "126109"
       },
       {
-        "name": " Luca  Pacioli",
+        "name": "Luca Pacioli",
         "id": "126888"
       }
     ],
@@ -387,11 +387,11 @@
     "name": "Johannes M\u00fcller Regiomontanus",
     "advisors": [
       {
-        "name": "Georg  von Peuerbach",
+        "name": "Georg von Peuerbach",
         "id": "126087"
       },
       {
-        "name": "Basilios  Bessarion",
+        "name": "Basilios Bessarion",
         "id": "131561"
       }
     ],
@@ -399,10 +399,10 @@
   },
   "126087": {
     "id": "126087",
-    "name": "Georg  von Peuerbach",
+    "name": "Georg von Peuerbach",
     "advisors": [
       {
-        "name": "Johannes  von Gmunden",
+        "name": "Johannes von Gmunden",
         "id": "126887"
       }
     ],
@@ -410,10 +410,10 @@
   },
   "126887": {
     "id": "126887",
-    "name": "Johannes  von Gmunden",
+    "name": "Johannes von Gmunden",
     "advisors": [
       {
-        "name": "Heinrich  von Langenstein",
+        "name": "Heinrich von Langenstein",
         "id": "127264"
       }
     ],
@@ -421,7 +421,7 @@
   },
   "131561": {
     "id": "131561",
-    "name": "Basilios  Bessarion",
+    "name": "Basilios Bessarion",
     "advisors": [
       {
         "name": "Georgios Plethon Gemistos",
@@ -435,11 +435,11 @@
     "name": "Georgios Plethon Gemistos",
     "advisors": [
       {
-        "name": "Demetrios  Kydones",
+        "name": "Demetrios Kydones",
         "id": "134780"
       },
       {
-        "name": "Elissaeus  Judaeus",
+        "name": "Elissaeus Judaeus",
         "id": "134781"
       }
     ],
@@ -447,10 +447,10 @@
   },
   "134780": {
     "id": "134780",
-    "name": "Demetrios  Kydones",
+    "name": "Demetrios Kydones",
     "advisors": [
       {
-        "name": "Nilos  Kabasilas",
+        "name": "Nilos Kabasilas",
         "id": "146365"
       }
     ],
@@ -458,10 +458,10 @@
   },
   "146365": {
     "id": "146365",
-    "name": "Nilos  Kabasilas",
+    "name": "Nilos Kabasilas",
     "advisors": [
       {
-        "name": "Gregory  Palamas",
+        "name": "Gregory Palamas",
         "id": "176844"
       }
     ],
@@ -469,184 +469,21 @@
   },
   "176844": {
     "id": "176844",
-    "name": "Gregory  Palamas",
+    "name": "Gregory Palamas",
     "advisors": [
       {
-        "name": "Theodore  Metochites",
+        "name": "Theodore Metochites",
         "id": "184631"
       }
     ],
     "height": 30
   },
-  "184631": {
-    "id": "184631",
-    "name": "Theodore  Metochites",
-    "advisors": [
-      {
-        "name": "Manuel  Bryennios",
-        "id": "184632"
-      }
-    ],
-    "height": 31
-  },
-  "184632": {
-    "id": "184632",
-    "name": "Manuel  Bryennios",
-    "advisors": [
-      {
-        "name": "Gregory  Chioniadis",
-        "id": "201288"
-      }
-    ],
-    "height": 32
-  },
-  "201288": {
-    "id": "201288",
-    "name": "Gregory  Chioniadis",
-    "advisors": [
-      {
-        "name": "Shams al\u2010D\u012bn  al\u2010Bukh\u0101r\u012b",
-        "id": "204293"
-      }
-    ],
-    "height": 33
-  },
-  "204293": {
-    "id": "204293",
-    "name": "Shams al\u2010D\u012bn  al\u2010Bukh\u0101r\u012b",
-    "advisors": [
-      {
-        "name": "Nasir al-D\u012bn  al-\u1e6c\u016bs\u012b",
-        "id": "217509"
-      }
-    ],
-    "height": 34
-  },
-  "217509": {
-    "id": "217509",
-    "name": "Nasir al-D\u012bn  al-\u1e6c\u016bs\u012b",
-    "advisors": [
-      {
-        "name": "Kam\u0101l al-D\u012bn  Ibn Y\u016bnus",
-        "id": "223724"
-      },
-      {
-        "name": "Ath\u012br al-D\u012bn  al-Mufa\u1e0d\u1e0dal al-Abhar\u012b",
-        "id": "287480"
-      }
-    ],
-    "height": 35
-  },
-  "223724": {
-    "id": "223724",
-    "name": "Kam\u0101l al-D\u012bn  Ibn Y\u016bnus",
-    "advisors": [
-      {
-        "name": "Sharaf al-D\u012bn  al-\u1e6c\u016bs\u012b",
-        "id": "230926"
-      },
-      {
-        "name": "Saraf al-D\u012bn Muhammad  al-Mas\u02bf\u016bd\u012b al-Marwaz\u012b",
-        "id": "287466"
-      }
-    ],
-    "height": 36
-  },
-  "287466": {
-    "id": "287466",
-    "name": "Saraf al-D\u012bn Muhammad  al-Mas\u02bf\u016bd\u012b al-Marwaz\u012b",
-    "advisors": [
-      {
-        "name": "Ghiy\u0101th al-D\u012bn Ab\u016b al-Fat\u1e25 \u02bfUmar ibn Ibr\u0101h\u012bm al-Khayy\u0101m al-N\u012bs\u0101b\u016br\u012b",
-        "id": "295739"
-      }
-    ],
-    "height": 37
-  },
-  "295739": {
-    "id": "295739",
-    "name": "Ghiy\u0101th al-D\u012bn Ab\u016b al-Fat\u1e25 \u02bfUmar ibn Ibr\u0101h\u012bm al-Khayy\u0101m al-N\u012bs\u0101b\u016br\u012b",
-    "advisors": [
-      {
-        "name": "Bahmany\u0101r  ibn al-Marzub\u0101n",
-        "id": "287468"
-      }
-    ],
-    "height": 38
-  },
-  "287468": {
-    "id": "287468",
-    "name": "Bahmany\u0101r  ibn al-Marzub\u0101n",
-    "advisors": [
-      {
-        "name": "Abu \u02bfAli al-Husayn (Avicenna) ibn Sina",
-        "id": "298616"
-      }
-    ],
-    "height": 39
-  },
-  "298616": {
-    "id": "298616",
-    "name": "Abu \u02bfAli al-Husayn (Avicenna) ibn Sina",
-    "advisors": [
-      {
-        "name": "Abu Abdallah Al-Husayn  ibn Ibrahim al-Natili",
-        "id": "316872"
-      },
-      {
-        "name": "Abu Sahl 'Isa  ibn Yahya al-Masihi",
-        "id": "310782"
-      },
-      {
-        "name": "Abu Mansur al-Hasan  ibn Nuh al-Qumri",
-        "id": "316873"
-      }
-    ],
-    "height": 40
-  },
-  "287480": {
-    "id": "287480",
-    "name": "Ath\u012br al-D\u012bn  al-Mufa\u1e0d\u1e0dal al-Abhar\u012b",
-    "advisors": [
-      {
-        "name": "Kam\u0101l al-D\u012bn  Ibn Y\u016bnus",
-        "id": "223724"
-      },
-      {
-        "name": "Qutb al-D\u012bn  Ibr\u0101h\u012bm al-M\u012b\u1e63r\u012b",
-        "id": "287479"
-      }
-    ],
-    "height": 36
-  },
-  "287479": {
-    "id": "287479",
-    "name": "Qutb al-D\u012bn  Ibr\u0101h\u012bm al-M\u012b\u1e63r\u012b",
-    "advisors": [
-      {
-        "name": "Fakhr al-D\u012bn Muhammad  al-R\u0113z\u012b",
-        "id": "287478"
-      }
-    ],
-    "height": 37
-  },
-  "287478": {
-    "id": "287478",
-    "name": "Fakhr al-D\u012bn Muhammad  al-R\u0113z\u012b",
-    "advisors": [
-      {
-        "name": "Saraf al-D\u012bn Muhammad  al-Mas\u02bf\u016bd\u012b al-Marwaz\u012b",
-        "id": "287466"
-      }
-    ],
-    "height": 38
-  },
   "127848": {
     "id": "127848",
-    "name": "Jacobus  Martini",
+    "name": "Jacobus Martini",
     "advisors": [
       {
-        "name": "Cornelius  Martini",
+        "name": "Cornelius Martini",
         "id": "128105"
       }
     ],
@@ -654,14 +491,14 @@
   },
   "128105": {
     "id": "128105",
-    "name": "Cornelius  Martini",
+    "name": "Cornelius Martini",
     "advisors": [
       {
-        "name": "Albert  Clampius",
+        "name": "Albert Clampius",
         "id": "200006"
       },
       {
-        "name": "Duncan  Liddel",
+        "name": "Duncan Liddel",
         "id": "128122"
       }
     ],
@@ -669,10 +506,10 @@
   },
   "200006": {
     "id": "200006",
-    "name": "Albert  Clampius",
+    "name": "Albert Clampius",
     "advisors": [
       {
-        "name": "Reinhard  Bachoff von Echt",
+        "name": "Reinhard Bachoff von Echt",
         "id": "224249"
       }
     ],
@@ -698,7 +535,7 @@
     "name": "Georg Balthasar Metzger",
     "advisors": [
       {
-        "name": "Gottfried  M\u00f6bius",
+        "name": "Gottfried M\u00f6bius",
         "id": "182089"
       },
       {
@@ -710,10 +547,10 @@
   },
   "182089": {
     "id": "182089",
-    "name": "Gottfried  M\u00f6bius",
+    "name": "Gottfried M\u00f6bius",
     "advisors": [
       {
-        "name": "Werner  Rolfinck",
+        "name": "Werner Rolfinck",
         "id": "125154"
       }
     ],
@@ -721,14 +558,14 @@
   },
   "125154": {
     "id": "125154",
-    "name": "Werner  Rolfinck",
+    "name": "Werner Rolfinck",
     "advisors": [
       {
-        "name": "Daniel  Sennert",
+        "name": "Daniel Sennert",
         "id": "126111"
       },
       {
-        "name": "Adriaan  van den Spieghel",
+        "name": "Adriaan van den Spieghel",
         "id": "125006"
       }
     ],
@@ -736,14 +573,14 @@
   },
   "126111": {
     "id": "126111",
-    "name": "Daniel  Sennert",
+    "name": "Daniel Sennert",
     "advisors": [
       {
-        "name": "Jacobus  Martini",
+        "name": "Jacobus Martini",
         "id": "127848"
       },
       {
-        "name": "Jan  Jessenius",
+        "name": "Jan Jessenius",
         "id": "127278"
       }
     ],
@@ -751,7 +588,7 @@
   },
   "125006": {
     "id": "125006",
-    "name": "Adriaan  van den Spieghel",
+    "name": "Adriaan van den Spieghel",
     "advisors": [
       {
         "name": "Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius",
@@ -765,7 +602,7 @@
     "name": "Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius",
     "advisors": [
       {
-        "name": "Gabriele  Falloppio",
+        "name": "Gabriele Falloppio",
         "id": "125142"
       }
     ],
@@ -773,7 +610,7 @@
   },
   "125142": {
     "id": "125142",
-    "name": "Gabriele  Falloppio",
+    "name": "Gabriele Falloppio",
     "advisors": [
       {
         "name": "Antonio Musa Brasavola",
@@ -791,7 +628,7 @@
     "name": "Antonio Musa Brasavola",
     "advisors": [
       {
-        "name": "Niccol\u00f2  Leoniceno",
+        "name": "Niccol\u00f2 Leoniceno",
         "id": "127166"
       }
     ],
@@ -799,18 +636,18 @@
   },
   "127166": {
     "id": "127166",
-    "name": "Niccol\u00f2  Leoniceno",
+    "name": "Niccol\u00f2 Leoniceno",
     "advisors": [
       {
         "name": "Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo",
         "id": "149192"
       },
       {
-        "name": "  Pelope",
+        "name": "Pelope",
         "id": "127144"
       },
       {
-        "name": "Pietro  Roccabonella",
+        "name": "Pietro Roccabonella",
         "id": "136726"
       }
     ],
@@ -821,7 +658,7 @@
     "name": "Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo",
     "advisors": [
       {
-        "name": "Vittorino  da Feltre",
+        "name": "Vittorino da Feltre",
         "id": "134873"
       }
     ],
@@ -829,18 +666,18 @@
   },
   "134873": {
     "id": "134873",
-    "name": "Vittorino  da Feltre",
+    "name": "Vittorino da Feltre",
     "advisors": [
       {
-        "name": "Gasparino  da Barzizza",
+        "name": "Gasparino da Barzizza",
         "id": "298290"
       },
       {
-        "name": "Giovanni  Conversini",
+        "name": "Giovanni Conversini",
         "id": "298304"
       },
       {
-        "name": "Guarino  da Verona",
+        "name": "Guarino da Verona",
         "id": "134931"
       }
     ],
@@ -848,14 +685,14 @@
   },
   "134931": {
     "id": "134931",
-    "name": "Guarino  da Verona",
+    "name": "Guarino da Verona",
     "advisors": [
       {
-        "name": "Manuel  Chrysoloras",
+        "name": "Manuel Chrysoloras",
         "id": "135185"
       },
       {
-        "name": "Giovanni  Conversini",
+        "name": "Giovanni Conversini",
         "id": "298304"
       }
     ],
@@ -863,10 +700,10 @@
   },
   "135185": {
     "id": "135185",
-    "name": "Manuel  Chrysoloras",
+    "name": "Manuel Chrysoloras",
     "advisors": [
       {
-        "name": "Demetrios  Kydones",
+        "name": "Demetrios Kydones",
         "id": "134780"
       }
     ],
@@ -874,14 +711,14 @@
   },
   "136726": {
     "id": "136726",
-    "name": "Pietro  Roccabonella",
+    "name": "Pietro Roccabonella",
     "advisors": [
       {
-        "name": "Gaetano  da Thiene",
+        "name": "Gaetano da Thiene",
         "id": "148882"
       },
       {
-        "name": "Sigismondo  Polcastro",
+        "name": "Sigismondo Polcastro",
         "id": "164338"
       }
     ],
@@ -889,7 +726,7 @@
   },
   "148882": {
     "id": "148882",
-    "name": "Gaetano  da Thiene",
+    "name": "Gaetano da Thiene",
     "advisors": [
       {
         "name": "Paolo (Nicoletti) da Venezia",
@@ -922,7 +759,7 @@
         "id": "119097"
       },
       {
-        "name": "Giovanni Battista  della Monte",
+        "name": "Giovanni Battista della Monte",
         "id": "152904"
       }
     ],
@@ -933,7 +770,7 @@
     "name": "Johannes Winter von Andernach",
     "advisors": [
       {
-        "name": "Rutger  Rescius",
+        "name": "Rutger Rescius",
         "id": "126571"
       },
       {
@@ -945,7 +782,7 @@
   },
   "126571": {
     "id": "126571",
-    "name": "Rutger  Rescius",
+    "name": "Rutger Rescius",
     "advisors": [
       {
         "name": "Girolamo (Hieronymus Aleander) Aleandro",
@@ -959,11 +796,11 @@
     "name": "Girolamo (Hieronymus Aleander) Aleandro",
     "advisors": [
       {
-        "name": "Moses  Perez",
+        "name": "Moses Perez",
         "id": "131446"
       },
       {
-        "name": "Scipione  Fortiguerra",
+        "name": "Scipione Fortiguerra",
         "id": "131447"
       }
     ],
@@ -971,10 +808,10 @@
   },
   "131447": {
     "id": "131447",
-    "name": "Scipione  Fortiguerra",
+    "name": "Scipione Fortiguerra",
     "advisors": [
       {
-        "name": "Angelo  Poliziano",
+        "name": "Angelo Poliziano",
         "id": "131535"
       }
     ],
@@ -982,14 +819,14 @@
   },
   "131535": {
     "id": "131535",
-    "name": "Angelo  Poliziano",
+    "name": "Angelo Poliziano",
     "advisors": [
       {
-        "name": "Marsilio  Ficino",
+        "name": "Marsilio Ficino",
         "id": "131539"
       },
       {
-        "name": "Cristoforo  Landino",
+        "name": "Cristoforo Landino",
         "id": "131540"
       }
     ],
@@ -997,10 +834,10 @@
   },
   "131539": {
     "id": "131539",
-    "name": "Marsilio  Ficino",
+    "name": "Marsilio Ficino",
     "advisors": [
       {
-        "name": "Johannes  Argyropoulos",
+        "name": "Johannes Argyropoulos",
         "id": "131444"
       }
     ],
@@ -1008,10 +845,10 @@
   },
   "131444": {
     "id": "131444",
-    "name": "Johannes  Argyropoulos",
+    "name": "Johannes Argyropoulos",
     "advisors": [
       {
-        "name": "Basilios  Bessarion",
+        "name": "Basilios Bessarion",
         "id": "131561"
       }
     ],
@@ -1019,10 +856,10 @@
   },
   "131540": {
     "id": "131540",
-    "name": "Cristoforo  Landino",
+    "name": "Cristoforo Landino",
     "advisors": [
       {
-        "name": "George  of Trebizond",
+        "name": "George of Trebizond",
         "id": "298288"
       }
     ],
@@ -1030,10 +867,10 @@
   },
   "298288": {
     "id": "298288",
-    "name": "George  of Trebizond",
+    "name": "George of Trebizond",
     "advisors": [
       {
-        "name": "Vittorino  da Feltre",
+        "name": "Vittorino da Feltre",
         "id": "134873"
       }
     ],
@@ -1044,11 +881,11 @@
     "name": "Jacobus (Jacques Dubois) Sylvius",
     "advisors": [
       {
-        "name": "Fran\u00e7ois  Dubois",
+        "name": "Fran\u00e7ois Dubois",
         "id": "128987"
       },
       {
-        "name": "Jean  Tagault",
+        "name": "Jean Tagault",
         "id": "128921"
       }
     ],
@@ -1081,7 +918,7 @@
     "name": "Maarten (Martinus Dorpius) van Dorp",
     "advisors": [
       {
-        "name": "Leo  Outers",
+        "name": "Leo Outers",
         "id": "125897"
       }
     ],
@@ -1089,18 +926,18 @@
   },
   "152904": {
     "id": "152904",
-    "name": "Giovanni Battista  della Monte",
+    "name": "Giovanni Battista della Monte",
     "advisors": [
       {
-        "name": "Niccol\u00f2  Leoniceno",
+        "name": "Niccol\u00f2 Leoniceno",
         "id": "127166"
       },
       {
-        "name": "Marco  Musuro",
+        "name": "Marco Musuro",
         "id": "152901"
       },
       {
-        "name": "Pietro  Pomponazzi",
+        "name": "Pietro Pomponazzi",
         "id": "152903"
       }
     ],
@@ -1108,10 +945,10 @@
   },
   "152901": {
     "id": "152901",
-    "name": "Marco  Musuro",
+    "name": "Marco Musuro",
     "advisors": [
       {
-        "name": "Janus  Lascaris",
+        "name": "Janus Lascaris",
         "id": "131541"
       }
     ],
@@ -1119,14 +956,14 @@
   },
   "131541": {
     "id": "131541",
-    "name": "Janus  Lascaris",
+    "name": "Janus Lascaris",
     "advisors": [
       {
-        "name": "Basilios  Bessarion",
+        "name": "Basilios Bessarion",
         "id": "131561"
       },
       {
-        "name": "Demetrios  Chalcocondyles",
+        "name": "Demetrios Chalcocondyles",
         "id": "131576"
       }
     ],
@@ -1134,10 +971,10 @@
   },
   "131576": {
     "id": "131576",
-    "name": "Demetrios  Chalcocondyles",
+    "name": "Demetrios Chalcocondyles",
     "advisors": [
       {
-        "name": "Theodoros  Gazes",
+        "name": "Theodoros Gazes",
         "id": "131584"
       }
     ],
@@ -1145,10 +982,10 @@
   },
   "131584": {
     "id": "131584",
-    "name": "Theodoros  Gazes",
+    "name": "Theodoros Gazes",
     "advisors": [
       {
-        "name": "Vittorino  da Feltre",
+        "name": "Vittorino da Feltre",
         "id": "134873"
       }
     ],
@@ -1156,14 +993,14 @@
   },
   "152903": {
     "id": "152903",
-    "name": "Pietro  Pomponazzi",
+    "name": "Pietro Pomponazzi",
     "advisors": [
       {
-        "name": "Nicoletto  Vernia",
+        "name": "Nicoletto Vernia",
         "id": "152902"
       },
       {
-        "name": "Pietro  Roccabonella",
+        "name": "Pietro Roccabonella",
         "id": "136726"
       }
     ],
@@ -1171,14 +1008,14 @@
   },
   "152902": {
     "id": "152902",
-    "name": "Nicoletto  Vernia",
+    "name": "Nicoletto Vernia",
     "advisors": [
       {
-        "name": "Gaetano  da Thiene",
+        "name": "Gaetano da Thiene",
         "id": "148882"
       },
       {
-        "name": "Paolo  da Pergola",
+        "name": "Paolo da Pergola",
         "id": "232228"
       }
     ],
@@ -1186,7 +1023,7 @@
   },
   "232228": {
     "id": "232228",
-    "name": "Paolo  da Pergola",
+    "name": "Paolo da Pergola",
     "advisors": [
       {
         "name": "Paolo (Nicoletti) da Venezia",
@@ -1211,7 +1048,7 @@
     "name": "Johannes Nicolaus Stupanus",
     "advisors": [
       {
-        "name": "Theodor  Zwinger",
+        "name": "Theodor Zwinger",
         "id": "125148"
       }
     ],
@@ -1219,18 +1056,18 @@
   },
   "125148": {
     "id": "125148",
-    "name": "Theodor  Zwinger",
+    "name": "Theodor Zwinger",
     "advisors": [
       {
         "name": "Petrus (Pierre de La Ram\u00e9e) Ramus",
         "id": "125047"
       },
       {
-        "name": "Bassiano  Landi",
+        "name": "Bassiano Landi",
         "id": "152906"
       },
       {
-        "name": "Vittore  Trincavelli",
+        "name": "Vittore Trincavelli",
         "id": "152905"
       }
     ],
@@ -1245,7 +1082,7 @@
         "id": "125665"
       },
       {
-        "name": "Jacques  Toussain",
+        "name": "Jacques Toussain",
         "id": "131546"
       }
     ],
@@ -1290,7 +1127,7 @@
         "id": "125760"
       },
       {
-        "name": "Matthaeus  Adrianus",
+        "name": "Matthaeus Adrianus",
         "id": "125794"
       }
     ],
@@ -1301,11 +1138,11 @@
     "name": "Johann (Johannes Kapnion) Reuchlin",
     "advisors": [
       {
-        "name": "Johannes  Argyropoulos",
+        "name": "Johannes Argyropoulos",
         "id": "131444"
       },
       {
-        "name": "Jacob ben Jehiel  Loans",
+        "name": "Jacob ben Jehiel Loans",
         "id": "125755"
       }
     ],
@@ -1313,10 +1150,10 @@
   },
   "131546": {
     "id": "131546",
-    "name": "Jacques  Toussain",
+    "name": "Jacques Toussain",
     "advisors": [
       {
-        "name": "Guillaume  Bud\u00e9",
+        "name": "Guillaume Bud\u00e9",
         "id": "131517"
       }
     ],
@@ -1324,14 +1161,14 @@
   },
   "131517": {
     "id": "131517",
-    "name": "Guillaume  Bud\u00e9",
+    "name": "Guillaume Bud\u00e9",
     "advisors": [
       {
-        "name": "Georgius  Hermonymus",
+        "name": "Georgius Hermonymus",
         "id": "131443"
       },
       {
-        "name": "Janus  Lascaris",
+        "name": "Janus Lascaris",
         "id": "131541"
       }
     ],
@@ -1339,14 +1176,14 @@
   },
   "152906": {
     "id": "152906",
-    "name": "Bassiano  Landi",
+    "name": "Bassiano Landi",
     "advisors": [
       {
-        "name": "Giovanni Battista  della Monte",
+        "name": "Giovanni Battista della Monte",
         "id": "152904"
       },
       {
-        "name": "Vittore  Trincavelli",
+        "name": "Vittore Trincavelli",
         "id": "152905"
       }
     ],
@@ -1354,10 +1191,10 @@
   },
   "152905": {
     "id": "152905",
-    "name": "Vittore  Trincavelli",
+    "name": "Vittore Trincavelli",
     "advisors": [
       {
-        "name": "Pietro  Pomponazzi",
+        "name": "Pietro Pomponazzi",
         "id": "152903"
       }
     ],
@@ -1454,11 +1291,11 @@
     "name": "Franciscus de le Bo\u00eb Sylvius",
     "advisors": [
       {
-        "name": "Adolph  Vorstius",
+        "name": "Adolph Vorstius",
         "id": "125023"
       },
       {
-        "name": "Emmanuel  Stupanus",
+        "name": "Emmanuel Stupanus",
         "id": "125125"
       }
     ],
@@ -1466,14 +1303,14 @@
   },
   "125023": {
     "id": "125023",
-    "name": "Adolph  Vorstius",
+    "name": "Adolph Vorstius",
     "advisors": [
       {
-        "name": "Gilbert  Jacchaeus",
+        "name": "Gilbert Jacchaeus",
         "id": "114992"
       },
       {
-        "name": "Adriaan  van den Spieghel",
+        "name": "Adriaan van den Spieghel",
         "id": "125006"
       }
     ],
@@ -1481,10 +1318,10 @@
   },
   "125125": {
     "id": "125125",
-    "name": "Emmanuel  Stupanus",
+    "name": "Emmanuel Stupanus",
     "advisors": [
       {
-        "name": "Petrus  Ryff",
+        "name": "Petrus Ryff",
         "id": "130248"
       }
     ],
@@ -1492,10 +1329,10 @@
   },
   "130248": {
     "id": "130248",
-    "name": "Petrus  Ryff",
+    "name": "Petrus Ryff",
     "advisors": [
       {
-        "name": "Felix  Plater",
+        "name": "Felix Plater",
         "id": "182090"
       }
     ],
@@ -1503,10 +1340,10 @@
   },
   "182090": {
     "id": "182090",
-    "name": "Felix  Plater",
+    "name": "Felix Plater",
     "advisors": [
       {
-        "name": "Guillaume  Rondelet",
+        "name": "Guillaume Rondelet",
         "id": "158329"
       }
     ],
@@ -1543,7 +1380,7 @@
         "id": "146034"
       },
       {
-        "name": "Hiob  Ludolf",
+        "name": "Hiob Ludolf",
         "id": "145708"
       }
     ],
@@ -1551,18 +1388,18 @@
   },
   "145708": {
     "id": "145708",
-    "name": "Hiob  Ludolf",
+    "name": "Hiob Ludolf",
     "advisors": [
       {
-        "name": "Johann  M\u00f6ller",
+        "name": "Johann M\u00f6ller",
         "id": "146374"
       },
       {
-        "name": "Jacobus  Golius",
+        "name": "Jacobus Golius",
         "id": "125408"
       },
       {
-        "name": "Constantijn  l\u2019Empereur van Oppyck",
+        "name": "Constantijn l\u2019Empereur van Oppyck",
         "id": "145707"
       }
     ],
@@ -1570,14 +1407,14 @@
   },
   "125408": {
     "id": "125408",
-    "name": "Jacobus  Golius",
+    "name": "Jacobus Golius",
     "advisors": [
       {
         "name": "Willebrord (Snel van Royen) Snellius",
         "id": "125302"
       },
       {
-        "name": "Thomas  Erpenius",
+        "name": "Thomas Erpenius",
         "id": "125378"
       }
     ],
@@ -1588,7 +1425,7 @@
     "name": "Willebrord (Snel van Royen) Snellius",
     "advisors": [
       {
-        "name": "Ludolph  van Ceulen",
+        "name": "Ludolph van Ceulen",
         "id": "125232"
       },
       {
@@ -1603,11 +1440,11 @@
     "name": "Rudolph (Snel van Royen) Snellius",
     "advisors": [
       {
-        "name": "Valentine  Naibod",
+        "name": "Valentine Naibod",
         "id": "125160"
       },
       {
-        "name": "Immanuel  Tremellius",
+        "name": "Immanuel Tremellius",
         "id": "125159"
       }
     ],
@@ -1615,10 +1452,10 @@
   },
   "125160": {
     "id": "125160",
-    "name": "Valentine  Naibod",
+    "name": "Valentine Naibod",
     "advisors": [
       {
-        "name": "Erasmus  Reinhold",
+        "name": "Erasmus Reinhold",
         "id": "126736"
       }
     ],
@@ -1626,10 +1463,10 @@
   },
   "126736": {
     "id": "126736",
-    "name": "Erasmus  Reinhold",
+    "name": "Erasmus Reinhold",
     "advisors": [
       {
-        "name": "Jakob  Milich",
+        "name": "Jakob Milich",
         "id": "126667"
       }
     ],
@@ -1637,14 +1474,14 @@
   },
   "126667": {
     "id": "126667",
-    "name": "Jakob  Milich",
+    "name": "Jakob Milich",
     "advisors": [
       {
-        "name": "Desiderius  Erasmus",
+        "name": "Desiderius Erasmus",
         "id": "125938"
       },
       {
-        "name": "Ulrich  Zasius",
+        "name": "Ulrich Zasius",
         "id": "126659"
       }
     ],
@@ -1652,7 +1489,7 @@
   },
   "125378": {
     "id": "125378",
-    "name": "Thomas  Erpenius",
+    "name": "Thomas Erpenius",
     "advisors": [
       {
         "name": "Joseph Justus Scaliger",
@@ -1666,7 +1503,7 @@
     "name": "Joseph Justus Scaliger",
     "advisors": [
       {
-        "name": "Adrien  Turn\u00e8be",
+        "name": "Adrien Turn\u00e8be",
         "id": "131606"
       }
     ],
@@ -1674,10 +1511,10 @@
   },
   "131606": {
     "id": "131606",
-    "name": "Adrien  Turn\u00e8be",
+    "name": "Adrien Turn\u00e8be",
     "advisors": [
       {
-        "name": "Jacques  Toussain",
+        "name": "Jacques Toussain",
         "id": "131546"
       }
     ],
@@ -1685,7 +1522,7 @@
   },
   "145707": {
     "id": "145707",
-    "name": "Constantijn  l\u2019Empereur van Oppyck",
+    "name": "Constantijn l\u2019Empereur van Oppyck",
     "advisors": [
       {
         "name": "Johannes (van den Driesche) Drusius",
@@ -1710,7 +1547,7 @@
     "name": "Raoul (Rodolphus Cavellerius) le Chevalier",
     "advisors": [
       {
-        "name": "Fran\u00e7ois  Vatable",
+        "name": "Fran\u00e7ois Vatable",
         "id": "131235"
       },
       {
@@ -1722,7 +1559,7 @@
   },
   "131235": {
     "id": "131235",
-    "name": "Fran\u00e7ois  Vatable",
+    "name": "Fran\u00e7ois Vatable",
     "advisors": [
       {
         "name": "Girolamo (Hieronymus Aleander) Aleandro",
@@ -1740,11 +1577,11 @@
     "name": "Jacques (Jacobus Faber) Lef\u00e8vre d'\u00c9taples",
     "advisors": [
       {
-        "name": "Georgius  Hermonymus",
+        "name": "Georgius Hermonymus",
         "id": "131443"
       },
       {
-        "name": "Johannes  Argyropoulos",
+        "name": "Johannes Argyropoulos",
         "id": "131444"
       }
     ],
@@ -1770,11 +1607,11 @@
     "name": "Wolfgang Fabricius Capito",
     "advisors": [
       {
-        "name": "Ulrich  Zasius",
+        "name": "Ulrich Zasius",
         "id": "126659"
       },
       {
-        "name": "Desiderius  Erasmus",
+        "name": "Desiderius Erasmus",
         "id": "125938"
       }
     ],
@@ -1789,7 +1626,7 @@
         "id": "17946"
       },
       {
-        "name": "Martin  Ohm",
+        "name": "Martin Ohm",
         "id": "47064"
       }
     ],
@@ -1819,7 +1656,7 @@
         "id": "17864"
       },
       {
-        "name": "Pierre-Simon  Laplace",
+        "name": "Pierre-Simon Laplace",
         "id": "108295"
       }
     ],
@@ -1830,7 +1667,7 @@
     "name": "Joseph Louis Lagrange",
     "advisors": [
       {
-        "name": "Leonhard  Euler",
+        "name": "Leonhard Euler",
         "id": "38586"
       },
       {
@@ -1842,10 +1679,10 @@
   },
   "38586": {
     "id": "38586",
-    "name": "Leonhard  Euler",
+    "name": "Leonhard Euler",
     "advisors": [
       {
-        "name": "Johann  Bernoulli",
+        "name": "Johann Bernoulli",
         "id": "53410"
       }
     ],
@@ -1853,14 +1690,14 @@
   },
   "53410": {
     "id": "53410",
-    "name": "Johann  Bernoulli",
+    "name": "Johann Bernoulli",
     "advisors": [
       {
-        "name": "Jacob  Bernoulli",
+        "name": "Jacob Bernoulli",
         "id": "54440"
       },
       {
-        "name": "Nikolaus  Eglinger",
+        "name": "Nikolaus Eglinger",
         "id": "129628"
       }
     ],
@@ -1868,14 +1705,14 @@
   },
   "54440": {
     "id": "54440",
-    "name": "Jacob  Bernoulli",
+    "name": "Jacob Bernoulli",
     "advisors": [
       {
-        "name": "Peter  Werenfels",
+        "name": "Peter Werenfels",
         "id": "143084"
       },
       {
-        "name": "Nicolas  Malebranche",
+        "name": "Nicolas Malebranche",
         "id": "143011"
       }
     ],
@@ -1883,10 +1720,10 @@
   },
   "143084": {
     "id": "143084",
-    "name": "Peter  Werenfels",
+    "name": "Peter Werenfels",
     "advisors": [
       {
-        "name": "Theodor  Zwinger, Jr.",
+        "name": "Theodor Zwinger, Jr.",
         "id": "143083"
       }
     ],
@@ -1894,10 +1731,10 @@
   },
   "143083": {
     "id": "143083",
-    "name": "Theodor  Zwinger, Jr.",
+    "name": "Theodor Zwinger, Jr.",
     "advisors": [
       {
-        "name": "Sebastian  Beck",
+        "name": "Sebastian Beck",
         "id": "143082"
       }
     ],
@@ -1905,7 +1742,7 @@
   },
   "143082": {
     "id": "143082",
-    "name": "Sebastian  Beck",
+    "name": "Sebastian Beck",
     "advisors": [
       {
         "name": "Johann Jacob Grynaeus",
@@ -1919,11 +1756,11 @@
     "name": "Johann Jacob Grynaeus",
     "advisors": [
       {
-        "name": "Simon  Sulzer",
+        "name": "Simon Sulzer",
         "id": "182092"
       },
       {
-        "name": "Jacob  Andreae",
+        "name": "Jacob Andreae",
         "id": "143044"
       }
     ],
@@ -1931,14 +1768,14 @@
   },
   "182092": {
     "id": "182092",
-    "name": "Simon  Sulzer",
+    "name": "Simon Sulzer",
     "advisors": [
       {
         "name": "Wolfgang Fabricius Capito",
         "id": "131399"
       },
       {
-        "name": "Simon  Grynaeus",
+        "name": "Simon Grynaeus",
         "id": "182045"
       }
     ],
@@ -1946,14 +1783,14 @@
   },
   "182045": {
     "id": "182045",
-    "name": "Simon  Grynaeus",
+    "name": "Simon Grynaeus",
     "advisors": [
       {
         "name": "Johann (Johannes Kapnion) Reuchlin",
         "id": "125760"
       },
       {
-        "name": "Philipp  Melanchthon",
+        "name": "Philipp Melanchthon",
         "id": "126956"
       }
     ],
@@ -1961,10 +1798,10 @@
   },
   "126956": {
     "id": "126956",
-    "name": "Philipp  Melanchthon",
+    "name": "Philipp Melanchthon",
     "advisors": [
       {
-        "name": "Johannes  St\u00f6ffler",
+        "name": "Johannes St\u00f6ffler",
         "id": "127107"
       },
       {
@@ -1976,10 +1813,10 @@
   },
   "143044": {
     "id": "143044",
-    "name": "Jacob  Andreae",
+    "name": "Jacob Andreae",
     "advisors": [
       {
-        "name": "Jakob  Beuerlin",
+        "name": "Jakob Beuerlin",
         "id": "152648"
       }
     ],
@@ -1987,10 +1824,10 @@
   },
   "152648": {
     "id": "152648",
-    "name": "Jakob  Beuerlin",
+    "name": "Jakob Beuerlin",
     "advisors": [
       {
-        "name": "Balthasar  Kaeuffelin",
+        "name": "Balthasar Kaeuffelin",
         "id": "152647"
       }
     ],
@@ -1998,10 +1835,10 @@
   },
   "129628": {
     "id": "129628",
-    "name": "Nikolaus  Eglinger",
+    "name": "Nikolaus Eglinger",
     "advisors": [
       {
-        "name": "Emmanuel  Stupanus",
+        "name": "Emmanuel Stupanus",
         "id": "125125"
       },
       {
@@ -2016,7 +1853,7 @@
     "name": "Johann Caspar Bauhin",
     "advisors": [
       {
-        "name": "Emmanuel  Stupanus",
+        "name": "Emmanuel Stupanus",
         "id": "125125"
       }
     ],
@@ -2024,7 +1861,7 @@
   },
   "108295": {
     "id": "108295",
-    "name": "Pierre-Simon  Laplace",
+    "name": "Pierre-Simon Laplace",
     "advisors": [
       {
         "name": "Jean Le Rond d'Alembert",
@@ -2038,7 +1875,7 @@
     "name": "Jean Le Rond d'Alembert",
     "advisors": [
       {
-        "name": "L\u00e9onor  Caron",
+        "name": "L\u00e9onor Caron",
         "id": "294942"
       }
     ],
@@ -2046,10 +1883,10 @@
   },
   "294942": {
     "id": "294942",
-    "name": "L\u00e9onor  Caron",
+    "name": "L\u00e9onor Caron",
     "advisors": [
       {
-        "name": "Pierre  Varignon",
+        "name": "Pierre Varignon",
         "id": "112689"
       }
     ],
@@ -2057,10 +1894,10 @@
   },
   "112689": {
     "id": "112689",
-    "name": "Pierre  Varignon",
+    "name": "Pierre Varignon",
     "advisors": [
       {
-        "name": "Nicolas  Malebranche",
+        "name": "Nicolas Malebranche",
         "id": "143011"
       }
     ],
@@ -2079,7 +1916,7 @@
   },
   "47064": {
     "id": "47064",
-    "name": "Martin  Ohm",
+    "name": "Martin Ohm",
     "advisors": [
       {
         "name": "Karl Christian von Langsdorf",
@@ -2152,7 +1989,7 @@
     "name": "Frederick Emmons Terman",
     "advisors": [
       {
-        "name": "Vannevar  Bush",
+        "name": "Vannevar Bush",
         "id": "84507"
       }
     ],
@@ -2160,7 +1997,7 @@
   },
   "84507": {
     "id": "84507",
-    "name": "Vannevar  Bush",
+    "name": "Vannevar Bush",
     "advisors": [
       {
         "name": "Arthur Edwin Kennelly",

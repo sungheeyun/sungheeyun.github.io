@@ -20,7 +20,7 @@ def create_graph(data_file):
     for node_id, node_data in data.items():
         G.add_node(node_id, name=node_data["name"], height=node_data["height"])
         for advisor in node_data["advisors"]:
-            G.add_edge(advisor["id"], node_id)
+            G.add_edge(advisor["id_"], node_id)
 
     return G
 

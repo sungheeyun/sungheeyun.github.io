@@ -1,7 +1,7 @@
 {
   "283283": {
     "id": "283283",
-    "name": "Sunghee  Yun",
+    "name": "Sunghee Yun",
     "advisors": [
       {
         "name": "Stephen Poythress Boyd",
@@ -93,7 +93,7 @@
     "name": "C. Felix (Christian) Klein",
     "advisors": [
       {
-        "name": "Julius  Pl\u00fccker",
+        "name": "Julius Pl\u00fccker",
         "id": "7402"
       },
       {
@@ -105,7 +105,7 @@
   },
   "7402": {
     "id": "7402",
-    "name": "Julius  Pl\u00fccker",
+    "name": "Julius Pl\u00fccker",
     "advisors": [
       {
         "name": "Christian Ludwig Gerling",
@@ -136,6 +136,192 @@
     ],
     "height": 10
   },
+  "18230": {
+    "id": "18230",
+    "name": "Johann Friedrich Pfaff",
+    "advisors": [
+      {
+        "name": "Abraham Gotthelf K\u00e4stner",
+        "id": "66476"
+      },
+      {
+        "name": "Johann Elert Bode",
+        "id": "127710"
+      }
+    ],
+    "height": 11
+  },
+  "66476": {
+    "id": "66476",
+    "name": "Abraham Gotthelf K\u00e4stner",
+    "advisors": [
+      {
+        "name": "Christian August Hausen",
+        "id": "57670"
+      }
+    ],
+    "height": 12
+  },
+  "57670": {
+    "id": "57670",
+    "name": "Christian August Hausen",
+    "advisors": [
+      {
+        "name": "Johann Christoph Wichmannshausen",
+        "id": "72669"
+      },
+      {
+        "name": "Johann Andreas Planer",
+        "id": "128986"
+      }
+    ],
+    "height": 13
+  },
+  "72669": {
+    "id": "72669",
+    "name": "Johann Christoph Wichmannshausen",
+    "advisors": [
+      {
+        "name": "Otto Mencke",
+        "id": "21235"
+      }
+    ],
+    "height": 14
+  },
+  "21235": {
+    "id": "21235",
+    "name": "Otto Mencke",
+    "advisors": [
+      {
+        "name": "Jakob Thomasius",
+        "id": "137705"
+      }
+    ],
+    "height": 15
+  },
+  "128986": {
+    "id": "128986",
+    "name": "Johann Andreas Planer",
+    "advisors": [
+      {
+        "name": "Johann Pasch",
+        "id": "128046"
+      },
+      {
+        "name": "Rudolf Jakob Camerarius",
+        "id": "128938"
+      }
+    ],
+    "height": 14
+  },
+  "128046": {
+    "id": "128046",
+    "name": "Johann Pasch",
+    "advisors": [
+      {
+        "name": "Michael d. J. Walther",
+        "id": "127962"
+      }
+    ],
+    "height": 15
+  },
+  "128938": {
+    "id": "128938",
+    "name": "Rudolf Jakob Camerarius",
+    "advisors": [
+      {
+        "name": "Georg Balthasar Metzger",
+        "id": "123974"
+      },
+      {
+        "name": "Elias Rudolph Camerarius, Sr.",
+        "id": "76481"
+      }
+    ],
+    "height": 15
+  },
+  "127710": {
+    "id": "127710",
+    "name": "Johann Elert Bode",
+    "advisors": [
+      {
+        "name": "Johann Georg B\u00fcsch",
+        "id": "127668"
+      }
+    ],
+    "height": 12
+  },
+  "127668": {
+    "id": "127668",
+    "name": "Johann Georg B\u00fcsch",
+    "advisors": [
+      {
+        "name": "Johann Andreas Segner",
+        "id": "60782"
+      },
+      {
+        "name": "Siegmund Jakob Baumgarten",
+        "id": "208259"
+      }
+    ],
+    "height": 13
+  },
+  "60782": {
+    "id": "60782",
+    "name": "Johann Andreas Segner",
+    "advisors": [
+      {
+        "name": "Georg Erhard Hamberger",
+        "id": "125886"
+      },
+      {
+        "name": "Georg Erhard Hamberger",
+        "id": "125886"
+      },
+      {
+        "name": "Simon Paul Hilscher",
+        "id": "125971"
+      },
+      {
+        "name": "Simon Paul Hilscher",
+        "id": "125971"
+      }
+    ],
+    "height": 14
+  },
+  "125971": {
+    "id": "125971",
+    "name": "Simon Paul Hilscher",
+    "advisors": [
+      {
+        "name": "Rudolf Wilhelm Krause",
+        "id": "124000"
+      }
+    ],
+    "height": 15
+  },
+  "208259": {
+    "id": "208259",
+    "name": "Siegmund Jakob Baumgarten",
+    "advisors": [
+      {
+        "name": "Christian Benedict Michaelis",
+        "id": "146035"
+      }
+    ],
+    "height": 14
+  },
+  "146035": {
+    "id": "146035",
+    "name": "Christian Benedict Michaelis",
+    "advisors": [
+      {
+        "name": "Johann Heinrich Michaelis",
+        "id": "145770"
+      }
+    ],
+    "height": 15
+  },
   "19964": {
     "id": "19964",
     "name": "Rudolf Otto Sigismund Lipschitz",
@@ -145,7 +331,7 @@
         "id": "17946"
       },
       {
-        "name": "Martin  Ohm",
+        "name": "Martin Ohm",
         "id": "47064"
       }
     ],
@@ -175,11 +361,159 @@
         "id": "17864"
       },
       {
-        "name": "Pierre-Simon  Laplace",
+        "name": "Pierre-Simon Laplace",
         "id": "108295"
       }
     ],
     "height": 10
+  },
+  "17864": {
+    "id": "17864",
+    "name": "Joseph Louis Lagrange",
+    "advisors": [
+      {
+        "name": "Leonhard Euler",
+        "id": "38586"
+      },
+      {
+        "name": "Giovanni Battista (Giambattista) Beccaria",
+        "id": "146036"
+      }
+    ],
+    "height": 11
+  },
+  "38586": {
+    "id": "38586",
+    "name": "Leonhard Euler",
+    "advisors": [
+      {
+        "name": "Johann Bernoulli",
+        "id": "53410"
+      }
+    ],
+    "height": 12
+  },
+  "53410": {
+    "id": "53410",
+    "name": "Johann Bernoulli",
+    "advisors": [
+      {
+        "name": "Jacob Bernoulli",
+        "id": "54440"
+      },
+      {
+        "name": "Nikolaus Eglinger",
+        "id": "129628"
+      }
+    ],
+    "height": 13
+  },
+  "54440": {
+    "id": "54440",
+    "name": "Jacob Bernoulli",
+    "advisors": [
+      {
+        "name": "Peter Werenfels",
+        "id": "143084"
+      },
+      {
+        "name": "Nicolas Malebranche",
+        "id": "143011"
+      }
+    ],
+    "height": 14
+  },
+  "143084": {
+    "id": "143084",
+    "name": "Peter Werenfels",
+    "advisors": [
+      {
+        "name": "Theodor Zwinger, Jr.",
+        "id": "143083"
+      }
+    ],
+    "height": 15
+  },
+  "129628": {
+    "id": "129628",
+    "name": "Nikolaus Eglinger",
+    "advisors": [
+      {
+        "name": "Emmanuel Stupanus",
+        "id": "125125"
+      },
+      {
+        "name": "Johann Caspar Bauhin",
+        "id": "129708"
+      }
+    ],
+    "height": 14
+  },
+  "125125": {
+    "id": "125125",
+    "name": "Emmanuel Stupanus",
+    "advisors": [
+      {
+        "name": "Petrus Ryff",
+        "id": "130248"
+      }
+    ],
+    "height": 15
+  },
+  "129708": {
+    "id": "129708",
+    "name": "Johann Caspar Bauhin",
+    "advisors": [
+      {
+        "name": "Emmanuel Stupanus",
+        "id": "125125"
+      }
+    ],
+    "height": 15
+  },
+  "108295": {
+    "id": "108295",
+    "name": "Pierre-Simon Laplace",
+    "advisors": [
+      {
+        "name": "Jean Le Rond d'Alembert",
+        "id": "108266"
+      }
+    ],
+    "height": 11
+  },
+  "108266": {
+    "id": "108266",
+    "name": "Jean Le Rond d'Alembert",
+    "advisors": [
+      {
+        "name": "L\u00e9onor Caron",
+        "id": "294942"
+      }
+    ],
+    "height": 12
+  },
+  "294942": {
+    "id": "294942",
+    "name": "L\u00e9onor Caron",
+    "advisors": [
+      {
+        "name": "Pierre Varignon",
+        "id": "112689"
+      }
+    ],
+    "height": 13
+  },
+  "112689": {
+    "id": "112689",
+    "name": "Pierre Varignon",
+    "advisors": [
+      {
+        "name": "Nicolas Malebranche",
+        "id": "143011"
+      }
+    ],
+    "height": 14
   },
   "17981": {
     "id": "17981",
@@ -194,7 +528,7 @@
   },
   "47064": {
     "id": "47064",
-    "name": "Martin  Ohm",
+    "name": "Martin Ohm",
     "advisors": [
       {
         "name": "Karl Christian von Langsdorf",
@@ -267,7 +601,7 @@
     "name": "Frederick Emmons Terman",
     "advisors": [
       {
-        "name": "Vannevar  Bush",
+        "name": "Vannevar Bush",
         "id": "84507"
       }
     ],
@@ -275,7 +609,7 @@
   },
   "84507": {
     "id": "84507",
-    "name": "Vannevar  Bush",
+    "name": "Vannevar Bush",
     "advisors": [
       {
         "name": "Arthur Edwin Kennelly",
@@ -364,6 +698,17 @@
       }
     ],
     "height": 10
+  },
+  "19953": {
+    "id": "19953",
+    "name": "Johann Benedict Listing",
+    "advisors": [
+      {
+        "name": "Carl Friedrich Gau\u00df",
+        "id": "18231"
+      }
+    ],
+    "height": 11
   },
   "71449": {
     "id": "71449",

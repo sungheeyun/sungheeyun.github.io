@@ -12,7 +12,7 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-<head>
+<!--head>
 	<title>Math Genealogy - starting from Mr. Funnybunny</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,7 +30,7 @@ toc_sticky: true
 			stroke-width: 1.5px;
         }
         .node-label {
-            font-size: 22px;
+            font-size: 18px;
             pointer-events: none;
         }
         .tooltip {
@@ -41,7 +41,82 @@ toc_sticky: true
             border-radius: 5px;
             pointer-events: none;
         }
+        body {
+            font-size: 20px; /* You can use px, em, %, etc. */
+			}
+		.boxed-quote {
+		  border: 2px solid #00f;
+		  padding: 10px;
+		  border-radius: 5px;
+		  background-color: #eeeeee;
+		  margin-left: 0;  /* Aligns to the left */
+			width: auto;     /* Allows it to take its natural width */
+			}
     </style>
+	    <!-- Compressed CSS -->
+    <!--link rel="stylesheet" href= 
+"https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/css/foundation.min.css"
+        crossorigin="anonymous"--> 
+  
+    <!-- Compressed JavaScript -->
+    <!--script src= 
+"https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/js/foundation.min.js"
+        crossorigin="anonymous"></script--> 
+</head-->
+
+<!-- pretty indentation by Claude -->
+<head>
+    <title>Math Genealogy - starting from Mr. Funnybunny</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Genealogy Graph</title>
+    <!-- Include D3.js from a CDN -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        .node {
+            /* fill: rgba(0, 0, 255, .8); */
+            stroke: #fff;
+            stroke-width: 2px;
+        }
+        .link {
+            stroke: rgba(0, 0, 0, .5);
+            stroke-width: 1.5px;
+        }
+        .node-label {
+            font-size: 18px;
+            pointer-events: none;
+        }
+        .tooltip {
+            position: absolute;
+            background-color: white;
+            border: 1px solid #ddd;
+            padding: 10px;
+            border-radius: 5px;
+            pointer-events: none;
+        }
+        body {
+            font-size: 20px; /* You can use px, em, %, etc. */
+        }
+        .boxed-quote {
+            border: 2px solid #00f;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #eeeeee;
+            margin-left: 0;  /* Aligns to the left */
+            width: auto;     /* Allows it to take its natural width */
+        }
+    </style>
+    <!-- Compressed CSS -->
+    <!--
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/css/foundation.min.css"
+        crossorigin="anonymous">
+    -->
+  
+    <!-- Compressed JavaScript -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/js/foundation.min.js"
+        crossorigin="anonymous"></script>
+    -->
 </head>
 
 <br>
@@ -91,7 +166,7 @@ Let's <b><em>connect</em></b> and <b><em>grow together!</em></b>
 <h1 id="math-genealogy">Mathematician genealogy</h1>
 
 <p>
-<a href="/resource/math genealogy/animated graphs/claude/math-genealogy-15.html">Here</a>
+<a href="/resource/math genealogy/animated-graphs/claude/math-genealogy-15.html">Here</a>
 is a huge (but obviously not exhausive)
 mathematician genealogy directed graph
 where I found I can be related to
@@ -107,7 +182,7 @@ C. Felix (Christian) Klein
 along various paths.
 </p>
 
-<p>
+<!--p>
 For example,
 I am related to Carl Friedrich Gau&szlig;
 because
@@ -143,10 +218,63 @@ who is a student of Christian Ludwig Gerling,
 who is a student of Carl Friedrich Gau&szlig;.
 </li>
 </ul>
+</p-->
 
+<p>
+For example,
+I am related to <font color="red">Carl Friedrich Gau&szlig;</font>
+because
 <div id="graph"></div>
 <script src="math-genealogy-graph.js"></script>
+<ul>
+<li>
+he was an advisor of Christian Ludwig Gerling,
+</li>
+<li>
+who was an advisor of Julius  Pl&uuml;fccker,
+</li>
+<li>
+who was an advisor of C. Felix (Christian) Klein,
+</li>
+<li>
+who was an advisor of C. L. Ferdinand (Carl Louis) Lindemannt,
+</li>
+<li>
+who was an advisor of Arnold Johannes Wilhelm Sommerfeld,
+</li>
+<li>
+who was an advisor of Ernst Adolph Guillemin,
+</li>
+<li>
+who was an advisor of Robert Mario Fano,
+</li>
+<li>
+who was an advisor of Charles Auguste Desoer,
+</li>
+<li>
+who was an advisor of Prof. Stephen P. Boyd at Stanford University,
+</li>
+<li>
+who is a former advisor of <font color="blue">mine!</font>
+</li>
+</ul>
+</p>
 
+<p class="callout success">
+You see ... I am related to <font color="red">Carl Friedrich Gauss</font>
+not only because I co-founded
+and was a CTO of <a href="http://gausslabs.ai">Gauss Labs Inc.</a>,
+but also my advisor's advisor's ... advisor
+was Gauss!
+</p>
+
+<blockquote class="boxed-quote">
+You see ... I am related to <font color="red">Carl Friedrich Gauss</font>
+not only because I co-founded
+and was a CTO of <a href="http://gausslabs.ai">Gauss Labs Inc.</a>,
+but also my advisor's advisor's ... advisor
+was Gauss!
+</blockquote>
 
 
 <!-- BLOG -->
