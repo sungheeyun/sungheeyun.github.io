@@ -1,7 +1,7 @@
 ---
-title: Serendipity finds essential resources in Algebra
+title: Math is Fun &amp; Beautiful! - Algebra
 date: Wed Jul 31 22:26:38 PDT 2024
-last_modified_at: Wed Jul 31 22:26:38 PDT 2024
+last_modified_at: Sun Aug 18 00:44:01 PDT 2024
 categories:
  - blog
 tags:
