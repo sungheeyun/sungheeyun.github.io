@@ -103,7 +103,6 @@ A - audio book, Pa - paperback book, Ph - photo
 	&mdash; Mark W. Muesse
 	- <a href="https://www.audible.com/pd/B00DDVQQLA?source_code=ASSORAP0511160006&share_location=pdp">A</a>
 </li>
-
 <li>
 	The Power of Now - A Guide to Spiritual Enlightenment
 	&mdash; Eckhart Tolle
@@ -111,13 +110,11 @@ A - audio book, Pa - paperback book, Ph - photo
 	&amp;
 	 <a href="https://a.co/gf12DBI">E</a>
 </li>
-
 <li>
 	Quiet - The Power of Introverts in a World That Can't Stop Talking
 	&mdash; Susan Cain
 	- <a href="https://www.audible.com/pd/B006TIKUN4?source_code=ASSORAP0511160006&share_location=pdp">A</a>
 </li>
-
 <li>
 	Justice
 	&mdash; Michael J. Sandel
@@ -125,13 +122,11 @@ A - audio book, Pa - paperback book, Ph - photo
 	&amp;
 	<a href="https://read.amazon.com/kp/kshare?asin=B002Q7H7L0&id=dywikatc3fbwfa5yogpbmuhl54&reshareId=M4A3YEQ783WTN73EST1J&reshareChannel=system">E</a>
 </li>
-
 <li>
 	Thinking, Fast and Slow
 	&mdash; Daniel Kahneman
 	- <a href="https://www.audible.com/pd/B005TKKCWC?source_code=ASSORAP0511160006&share_location=pdp">A</a>
 </li>
-
 <li>
 	Never Split the Difference - Negotiating as if Your Life Depended on It
 	&mdash; Chris Voss
@@ -169,6 +164,14 @@ A - audio book, Pa - paperback book, Ph - photo
     Ph
     </a>
 </li>
+<li>
+	Chip War - The Quest to Dominate the World's Most Critical Technology
+	&mdash; Chris Miller
+	-
+	<a href="https://www.audible.com/pd/B09TX11LQB?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	&amp;
+	<a href="https://a.co/bTcP8qN">E</a>
+</li>
 </ul>
 
 
@@ -200,15 +203,6 @@ A - audio book, Pa - paperback book, Ph - photo
 </li>
 
 <li>
-	Chip War - The Quest to Dominate the World's Most Critical Technology
-	&mdash; Chris Miller
-	-
-	<a href="https://www.audible.com/pd/B09TX11LQB?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-	&amp;
-	<a href="https://a.co/bTcP8qN">E</a>
-</li>
-
-<li>
 	Civil Liberties and the Bill of Rights (The Great Courses: Modern History)
 	&mdash; John E. Finn
 	- <a href="https://www.audible.com/pd/B00DG65ZNC?source_code=ASSORAP0511160006&share_location=pdp">A</a>
@@ -232,19 +226,14 @@ A - audio book, Pa - paperback book, Ph - photo
 	<a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-59 018.jpeg">Ph</a>
 </li>
 <li>
+	The Lean Startup - How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+	&mdash; Eric Ries
+	- <a href="https://www.audible.com/pd/B005LXV0HI?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+</li>
+<li>
 	Zero to One - Notes on Startups, or How to Build the Future
 	&mdash; Peter Thiel, Blake Masters
 	- <a href="https://www.audible.com/pd/B00M27LBU2?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-</li>
-<li>
-    The Conquest of Happiness 
-    &mdash; 
-    Bertrand Russell, 
-    W.W. Norton & Company, 
-    2013 
-	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-44 013.jpeg">
-    Ph
-    </a>
 </li>
 </ul>
 
@@ -280,12 +269,6 @@ A - audio book, Pa - paperback book, Ph - photo
 	<a href="https://read.amazon.com/kp/kshare?asin=B00HUU13Y0&id=tlkeg52hojhoxclybaiwz7vcui&reshareId=S7CENXF44QMX5ZX2C35E&reshareChannel=system">E</a>
 </li>
 <li>
-	The Lean Startup - How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
-	&mdash; Eric Ries
-	- <a href="https://www.audible.com/pd/B005LXV0HI?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-</li>
-
-<li>
 	The Master Algorithm - How the Quest for the Ultimate Learning Machine Will Remake Our World
 	&mdash; Pedro Domingos
 	- <a href="https://www.audible.com/pd/B014X1DS8W?source_code=ASSORAP0511160006&share_location=pdp">A</a>
@@ -319,6 +302,14 @@ A - audio book, Pa - paperback book, Ph - photo
 	The Checklist Manifesto - How to Get Things Right
 	&mdash; Atul Gawande
 	- <a href="https://www.audible.com/pd/B0030ZYDD2?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+</li>
+<li>
+	Measure What Matters - How Google, Bono, and the Gates Foundation Rock the World with OKRs
+	&mdash; John Doerr &amp; Larry Page - foreword
+	-
+	<a href="https://read.amazon.com/kp/kshare?asin=B078FZ9SYB&id=43wwluq37bgfxg3luaghyy5up4&reshareId=GV2XK6CTJR8V7XC80NVN&reshareChannel=system">E</a>
+	&amp;
+	<a href="https://www.audible.com/pd/B07BMHFBCM?source_code=ASSORAP0511160006&share_location=pdp">A</a>
 </li>
 </ul>
 
@@ -387,23 +378,6 @@ A - audio book, Pa - paperback book, Ph - photo
 </ul>
 
 
-<h1 id="fun-stories">Fun stories</h1>
-
-<ul>
-<li>
-	The Trojan War - A New History
-	&mdash; Barry Strauss
-	- <a href="https://www.audible.com/pd/B079G2MMXD?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-</li>
-
-<li>
-	The Odyssey of Homer (The Great Courses: Western Literature)
-	&mdash; Elizabeth Vandiver
-	- <a href="https://www.audible.com/pd/B00DE2CLXU?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-</li>
-</ul>
-
-
 <h1 id="quite-disappointing">Quite disappointing</h1>
 
 <ul>
@@ -418,21 +392,43 @@ A - audio book, Pa - paperback book, Ph - photo
 	&mdash; Nassim Nicholas Taleb
 	- <a href="https://www.audible.com/pd/B07KRNNLFF?source_code=ASSORAP0511160006&share_location=pdp">A</a>
 </li>
-
-<li>
-	Measure What Matters - How Google, Bono, and the Gates Foundation Rock the World with OKRs
-	&mdash; John Doerr &amp; Larry Page - foreword
-	-
-	<a href="https://read.amazon.com/kp/kshare?asin=B078FZ9SYB&id=43wwluq37bgfxg3luaghyy5up4&reshareId=GV2XK6CTJR8V7XC80NVN&reshareChannel=system">E</a>
-	&amp;
-	<a href="https://www.audible.com/pd/B07BMHFBCM?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-</li>
 </ul>
 
 
 <h1 id="literature">Literature</h1>
 
 <ul>
+<li>
+	The Trojan War - A New History
+	&mdash; Barry Strauss
+	- <a href="https://www.audible.com/pd/B079G2MMXD?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+</li>
+
+<li>
+	The Odyssey of Homer (The Great Courses: Western Literature)
+	&mdash; Elizabeth Vandiver
+	- <a href="https://www.audible.com/pd/B00DE2CLXU?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+</li>
+	The Trojan War - A New History
+	&mdash; Barry Strauss
+	- <a href="https://www.audible.com/pd/B079G2MMXD?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+</li>
+
+<li>
+	The Odyssey of Homer (The Great Courses: Western Literature)
+	&mdash; Elizabeth Vandiver
+	- <a href="https://www.audible.com/pd/B00DE2CLXU?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+</li>
+<li>
+    The Conquest of Happiness 
+    &mdash; 
+    Bertrand Russell, 
+    W.W. Norton & Company, 
+    2013 
+	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-44 013.jpeg">
+    Ph
+    </a>
+</li>
 <li>
     Becoming 
     &mdash; 
@@ -483,53 +479,12 @@ A - audio book, Pa - paperback book, Ph - photo
 	-
 	<a href="https://www.audible.com/pd/Great-Minds-of-the-Western-Intellectual-Tradition-3rd-Edition-Audiobook/B00DMDG6WS?source_code=ASSORAP0511160006&share_location=library_overflow">A</a>
 </li>
-</ul>
-
-<h2 id="political-philosophy">Political philosophy</h2>
-
-<ul>
 <li>
 	What Money Can&#39;t Buy: The Moral Limits of Markets
 	&mdash;
 	Michael J. Sandel
 	-
 	<a href="https://read.amazon.com/kp/kshare?asin=B00633PFQC&id=rz2tdy2ntnf3dh6yairqi56nem&reshareId=K2W5BEGN6Y88GNTCPSBA&reshareChannel=system">E</a>
-</li>
-</ul>
-
-
-<h1 id="liberal-arts">Liberal arts</h1>
-
-<ul>
-<li>
-    그리스 로마 신화 1 
-    &mdash; 
-    이윤기, 
-    웅진, 
-    1998 
-	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-35 010.jpeg">
-    Ph
-    </a>
-</li>
-<li>
-    그리스 로마 신화 2 
-    &mdash; 
-    이윤기, 
-    웅진, 
-    1998 
-	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-35 010.jpeg">
-    Ph
-    </a>
-</li>
-<li>
-    Why Jesus 
-    &mdash; 
-    Ravi Zacharias, 
-    FaithWords, 
-    2012 
-	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-41 012.jpeg">
-    Ph
-    </a>
 </li>
 </ul>
 
@@ -1692,14 +1647,12 @@ A - audio book, Pa - paperback book, Ph - photo
 	&amp;
 	<a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">Ph</a>
 </li>
-
 <li>
 	The Five Dysfunctions of a Team - A Leadership Fable
 	&mdash; Patrick Lencioni
 	-
 	<a href="https://www.audible.com/pd/B002V08E64?source_code=ASSORAP0511160006&share_location=pdp">A</a>
 </li>
-
 <li>
 	Rework
 	&mdash; Jason Fried, David Heinemeier Hansson
@@ -1712,9 +1665,37 @@ A - audio book, Pa - paperback book, Ph - photo
 
 
 <!--
-xxx
-
 <ul>
+<li>
+    그리스 로마 신화 1 
+    &mdash; 
+    이윤기, 
+    웅진, 
+    1998 
+	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-35 010.jpeg">
+    Ph
+    </a>
+</li>
+<li>
+    그리스 로마 신화 2 
+    &mdash; 
+    이윤기, 
+    웅진, 
+    1998 
+	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-35 010.jpeg">
+    Ph
+    </a>
+</li>
+<li>
+    Why Jesus 
+    &mdash; 
+    Ravi Zacharias, 
+    FaithWords, 
+    2012 
+	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-41 012.jpeg">
+    Ph
+    </a>
+</li>
 <li>
     과학기술 패권국가 
     &mdash; 
