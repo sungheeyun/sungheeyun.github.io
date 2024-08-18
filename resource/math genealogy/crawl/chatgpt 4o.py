@@ -18,7 +18,7 @@ class StopCrawlingException(Exception):
     pass
 
 
-def crawl(data: dict[str, Any], id: str, depth: int, /) -> None:
+def crawl(data: dict[str, Any], id: str, depth: int, height: int, /) -> None:
     if depth < 0 or id in data:
         return
 
@@ -34,7 +34,10 @@ def crawl(data: dict[str, Any], id: str, depth: int, /) -> None:
     soup = BeautifulSoup(response.content, "html.parser")
 
     # Extracting the mathematician's name
-    name: str = soup.find("h2").get_text().strip()
+    try:
+        name: str = soup.find("h2").get_text().strip()
+    except AttributeError:
+        return
 
     # Extracting advisor(s)
     advisors = []
@@ -51,27 +54,27 @@ def crawl(data: dict[str, Any], id: str, depth: int, /) -> None:
         ).group(1)
         advisors.append(dict(name=advisor_name, id=advisor_id))
 
-    data[id] = dict(id=id, name=name, advisors=advisors, height=depth)
-    print(depth, id, name)
+    data[id] = dict(id=id, name=name, advisors=advisors, height=height-depth)
+    logger.info(f"depth - {depth}, id - {id}, name - {name}")
 
-    if name.startswith("Carl Friedrich"):
-        raise StopCrawlingException()
+    # if name.startswith("Carl Friedrich"):
+    #      raise StopCrawlingException()
 
     for advisor in advisors:
-        crawl(data, advisor["id"], depth - 1)
+        crawl(data, advisor["id"], depth - 1, height)
 
 
 if __name__ == "__main__":
     set_logging_basic_config(__file__)
 
     my_id: str = "283283"
-    depth: int = 10
+    depth: int = 100
     my_math_gen_data: dict[str, dict[str, Any]] = dict()
     try:
-        crawl(my_math_gen_data, my_id, depth)
+        crawl(my_math_gen_data, my_id, depth, depth)
     except StopCrawlingException:
         pass
 
-    print(json.dumps(my_math_gen_data, indent=2))
-    with open("my_math_gen.json", "w") as fid:
+    logger.info(json.dumps(my_math_gen_data, indent=2))
+    with open(f"my_math_gen - {depth}.json", "w") as fid:
         json.dump(my_math_gen_data, fid, indent=2)

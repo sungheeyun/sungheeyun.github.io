@@ -1,7 +1,7 @@
 // Wait for the DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', function() {
     // Load and process the JSON data
-    d3.json("my_math_gen - gauss.json").then(function(data) {
+    d3.json("my_math_gen - 15.json").then(function(data) {
         const nodes = Object.values(data);
         const links = [];
 
@@ -20,8 +20,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
         // Set up the SVG
-        const width = 600 // window.innerWidth * .4;
-        const height = 600 // window.innerHeight * .6;
+        const width = window.innerWidth * .9;
+        const height = window.innerHeight * .9;
         const svg = d3.select("#graph")
             .append("svg")
             .attr("width", width)
@@ -86,6 +86,15 @@ document.addEventListener('DOMContentLoaded', function() {
 			//console.log("Node name:", d.name); // Add
             if (d.name === "Sunghee  Yun") {console.log(d.name); return "blue";}
             if (d.name.startsWith("Carl Friedrich")) {console.log(d.name); return "red";}
+			if (d.name === "Jean-Baptiste Joseph Fourier") {console.log(d.name); return "red";}
+			if (d.name === "Rudolf Otto Sigismund Lipschitz") {console.log(d.name); return "red";}
+			if (d.name.includes(" Denis Poisson")) {console.log(d.name); return "red";}
+			if (d.name === "Stephen Poythress Boyd") {console.log(d.name); return "red";}
+			if (d.name === "Gustav Peter Lejeune Dirichlet") {console.log(d.name); return "red";}
+			if (d.name.startsWith("Pierre-Simon")) {console.log(d.name); return "red";}
+			if (d.name === "Leonhard  Euler") {console.log(d.name); return "red";}
+			if (d.name === "Jacob  Bernoulli") {console.log(d.name); return "red";}
+			if (d.name === "C. Felix (Christian) Klein") {console.log(d.name); return "red";}
             //if (d.id === "283283" ) {console.log(d.name); return "red";}
             //if (d.id === "283283" ) {console.log(d.name); return "red";}
             // Add more conditions as needed

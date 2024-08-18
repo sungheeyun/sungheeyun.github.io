@@ -20,8 +20,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
         // Set up the SVG
-        const width = 600 // window.innerWidth * .4;
-        const height = 600 // window.innerHeight * .6;
+        const width = window.innerWidth * .9;
+        const height = window.innerHeight * .9;
         const svg = d3.select("#graph")
             .append("svg")
             .attr("width", width)
@@ -86,6 +86,12 @@ document.addEventListener('DOMContentLoaded', function() {
 			//console.log("Node name:", d.name); // Add
             if (d.name === "Sunghee  Yun") {console.log(d.name); return "blue";}
             if (d.name.startsWith("Carl Friedrich")) {console.log(d.name); return "red";}
+			if (d.name === "Jean-Baptiste Joseph Fourier") {console.log(d.name); return "red";}
+			if (d.name === "Rudolf Otto Sigismund Lipschitz") {console.log(d.name); return "red";}
+			if (d.name.includes(" Denis Poisson")) {console.log(d.name); return "red";}
+			if (d.name === "Stephen Poythress Boyd") {console.log(d.name); return "red";}
+			if (d.name === "Stephen Poythress Boyd") {console.log(d.name); return "red";}
+			if (d.name === "Gustav Peter Lejeune Dirichlet") {console.log(d.name); return "red";}
             //if (d.id === "283283" ) {console.log(d.name); return "red";}
             //if (d.id === "283283" ) {console.log(d.name); return "red";}
             // Add more conditions as needed
