@@ -77,7 +77,7 @@ start_url = "https://genealogy.math.ndsu.nodak.edu/id.php?id=283283"  # Example 
 genealogy_data = crawl_genealogy(start_url)
 
 # Write to CSV
-with open("math_genealogy.csv", "w", newline="", encoding="utf-8") as csvfile:
+with open("../math_genealogy.csv", "w", newline="", encoding="utf-8") as csvfile:
     fieldnames = [
         "Name",
         "Advisor",
