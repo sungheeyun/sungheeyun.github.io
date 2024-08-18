@@ -14,6 +14,7 @@ from freq_used.logging_utils import set_logging_basic_config
 
 logger: Logger = getLogger()
 
+
 class StopCrawlingException(Exception):
     pass
 
@@ -41,7 +42,7 @@ def crawl(data: dict[str, Any], id: str, depth: int, height: int, /) -> None:
 
     # Extracting advisor(s)
     advisors = []
-    advisor_elements = soup.find_all(string=re.compile("Advisor(\s+\d)?:.*"))
+    advisor_elements = soup.find_all(string=re.compile(r"Advisor(\s+\d)?:.*"))
     for advisor_element in advisor_elements:
         try:
             advisor_name: str = advisor_element.find_next_sibling("a").get_text()
@@ -49,12 +50,12 @@ def crawl(data: dict[str, Any], id: str, depth: int, height: int, /) -> None:
             logger.warning(f"AttributeError: {e}, {advisor_element}")
             return
 
-        advisor_id: str = re.match(
-            "id\.php\?id=(\d+)$", advisor_element.next_element.attrs["href"]
+        advisor_id: str = re.match(  # type:ignore
+            r"id\.php\?id=(\d+)$", advisor_element.next_element.attrs["href"]
         ).group(1)
         advisors.append(dict(name=advisor_name, id=advisor_id))
 
-    data[id] = dict(id=id, name=name, advisors=advisors, height=height-depth)
+    data[id] = dict(id=id, name=name, advisors=advisors, height=height - depth)
     logger.info(f"depth - {depth}, id - {id}, name - {name}")
 
     # if name.startswith("Carl Friedrich"):
