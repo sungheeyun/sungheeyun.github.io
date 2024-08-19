@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
         // Set up the SVG
-        const width = 600  // window.innerWidth * .4;
+        const width = Math.min(600, window.innerWidth * .9)  // window.innerWidth * .4;
         const height = 300 // window.innerHeight * .6;
         const svg = d3.select("#graph")
             .append("svg")
