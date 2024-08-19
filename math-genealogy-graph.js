@@ -51,9 +51,22 @@ document.addEventListener('DOMContentLoaded', function() {
             .style("stroke", "none");
 
         // Create a force simulation
+		const link_dist_ratio = 0.1;
+		const chrg_strn_ratio = 0.4;
+		const min_dim = Math.min(width, height)
+
+		const link_dist = link_dist_ratio * min_dim;
+		const chrg_strn = chrg_strn_ratio * min_dim;
+
+		console.log(width)
+		console.log(height)
+		console.log(min_dim)
+		console.log(link_dist)
+		console.log(chrg_strn)
+
         const simulation = d3.forceSimulation(nodes)
-            .force("link", d3.forceLink(links).id(d => d.id).distance(100))
-            .force("charge", d3.forceManyBody().strength(-200))
+            .force("link", d3.forceLink(links).id(d => d.id).distance(link_dist))
+            .force("charge", d3.forceManyBody().strength(-chrg_strn))
             .force("center", d3.forceCenter(width / 2, height / 2))
             .force("boundary", boundingBoxForce); // Add this line
 
