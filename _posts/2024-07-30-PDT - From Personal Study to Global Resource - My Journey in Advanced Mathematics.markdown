@@ -15,12 +15,17 @@ tags:
  - document
 ---
 
+<head>
+	<link rel="stylesheet" href="/resource/styles.css">
+</head>
+
 posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 <!--h1>
 My Search for meaning in advanced math and statistics
 </h1-->
+
 
 ***Personal Search for Beauty and Practicality of Math leads to Valuable Resource for Like-minded Intellectuals***
 
@@ -30,6 +35,8 @@ My Search for meaning in advanced math and statistics
 - [fun math - article version (automatically converted from slides)](/resource/fun math/fun_math_article - 2024_0731.pdf)
 
 <h2>Introduction</h2>
+
+For hours, protesters furious over the Biden administration’s support for Israel and its failure to end the war in Gaza held signs, chanted and pushed for Ms. Harris to break with the president on those issues. The loudest challenge to the opening day of the Democratic National Convention was coming not from Republicans, but from the progressive left.
 
 Mathematics has always been a profound passion of mine because of the pure beauty I found and the fun that I can have exploring it. This passion has led me through the intricate landscapes of abstract algebra, measure theory, convex optimization, linear algebra, numerical linear algebra, statistics, and machine learning. I started making slides using LaTeX for me to revisit the topics later, but it grew enormously large, and I realized its potential as a comprehensive resource that I am thrilled to share with the world. This article, born from my extensive slides and research, is designed to benefit advanced learners and professionals who share my enthusiasm for mathematics. Through clear explanations and detailed proofs, I aim to make complex concepts more accessible and engaging.
 

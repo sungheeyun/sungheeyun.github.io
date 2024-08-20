@@ -58,6 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		const link_dist = link_dist_ratio * min_dim;
 		const chrg_strn = chrg_strn_ratio * min_dim;
 
+		console.log(window.innerWidth)
 		console.log(width)
 		console.log(height)
 		console.log(min_dim)

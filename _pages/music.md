@@ -4,6 +4,10 @@ title: Music
 permalink: /music
 ---
 
+<head>
+	<link rel="stylesheet" href="/resource/styles.css">
+</head>
+
 M - Melon
 {: .notice}
 

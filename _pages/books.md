@@ -8,6 +8,10 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
+<head>
+	<link rel="stylesheet" href="/resource/styles.css">
+</head>
+
 A - audio book, Pa - paperback book, Ph - photo
 {: .notice}
 

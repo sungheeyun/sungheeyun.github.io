@@ -5,121 +5,22 @@
 layout: single
 author_profile: true
 title: "Welcome to Mr. Funnybunny's Home!"
-#date: 2019-04-18T15:34:30-04:00
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
 toc_sticky: true
 ---
 
-<!--head>
-	<title>Math Genealogy - starting from Mr. Funnybunny</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Math Genealogy Graph</title>
-    <!-- Include D3.js from a CDN -->
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-    <style>
-        .node {
-            //fill: rgba(0, 0, 255, .8);
-            stroke: #fff;
-            stroke-width: 2px;
-        }
-        .link {
-            stroke: rgba(0, 0, 0, .5);
-			stroke-width: 1.5px;
-        }
-        .node-label {
-            font-size: 18px;
-            pointer-events: none;
-        }
-        .tooltip {
-            position: absolute;
-            background-color: white;
-            border: 1px solid #ddd;
-            padding: 10px;
-            border-radius: 5px;
-            pointer-events: none;
-        }
-        body {
-            font-size: 20px; /* You can use px, em, %, etc. */
-			}
-		.boxed-quote {
-		  border: 2px solid #00f;
-		  padding: 10px;
-		  border-radius: 5px;
-		  background-color: #eeeeee;
-		  margin-left: 0;  /* Aligns to the left */
-			width: auto;     /* Allows it to take its natural width */
-			}
-    </style>
-	    <!-- Compressed CSS -->
-    <!--link rel="stylesheet" href= 
-"https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/css/foundation.min.css"
-        crossorigin="anonymous"--> 
-  
-    <!-- Compressed JavaScript -->
-    <!--script src= 
-"https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/js/foundation.min.js"
-        crossorigin="anonymous"></script--> 
-</head-->
-
-<!-- pretty indentation by Claude -->
 <head>
     <title>Math Genealogy - starting from Mr. Funnybunny</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Math Genealogy Graph</title>
+	<link rel="stylesheet" href="./styles.css">
+
     <!-- Include D3.js from a CDN -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
-    <style>
-        .node {
-            /* fill: rgba(0, 0, 255, .8); */
-            stroke: #fff;
-            stroke-width: 2px;
-        }
-        .link {
-            stroke: rgba(0, 0, 0, .5);
-            stroke-width: 1.5px;
-        }
-        .node-label {
-            font-size: 18px;
-            pointer-events: none;
-        }
-        .tooltip {
-            position: absolute;
-            background-color: white;
-            border: 1px solid #ddd;
-            padding: 10px;
-            border-radius: 5px;
-            pointer-events: none;
-        }
-        body {
-            font-size: 20px; /* You can use px, em, %, etc. */
-        }
-        .boxed-quote {
-            border: 2px solid #00f;
-            padding: 10px;
-            border-radius: 5px;
-            background-color: #eeeeee;
-            margin-left: 0;  /* Aligns to the left */
-            width: auto;     /* Allows it to take its natural width */
-        }
-    </style>
-    <!-- Compressed CSS -->
-    <!--
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/css/foundation.min.css"
-        crossorigin="anonymous">
-    -->
-  
-    <!-- Compressed JavaScript -->
-    <!--
-    <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/js/foundation.min.js"
-        crossorigin="anonymous"></script>
-    -->
 </head>
-
-<br>
 
 <!-- PAGES -->
 <h1 id="pages">Pages</h1>
@@ -175,7 +76,7 @@ Leonhard  Euler,
 Jean-Baptiste Joseph Fourier,
 Sim&eacute;on Denis Poisson,
 Pierre-Simon  Laplace,
-Carl Friedrich Gau&szlig;,
+<a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss">Carl Friedrich Gau&szlig;</a>,
 Rudolf Otto Sigismund Lipschitz,
 and
 C. Felix (Christian) Klein
@@ -184,7 +85,7 @@ along various paths.
 
 <!--p>
 For example,
-I am related to Carl Friedrich Gau&szlig;
+I am related to <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss">Carl Friedrich Gau&szlig;</a>
 because
 <ul class="dashed">
 <li>
@@ -215,14 +116,14 @@ who is a student of Julius  Pl&uuml;fccker,
 who is a student of Christian Ludwig Gerling,
 </li>
 <li>
-who is a student of Carl Friedrich Gau&szlig;.
+who is a student of <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss">Carl Friedrich Gau&szlig;</a>.
 </li>
 </ul>
 </p-->
 
 <p>
 For example,
-I am related to <font color="red">Carl Friedrich Gau&szlig;</font>
+I am related to <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss"><font color="red">Carl Friedrich Gau&szlig;</font></a>
 because
 <div id="graph"></div>
 <script src="math-genealogy-graph.js"></script>
@@ -261,7 +162,7 @@ who is a former advisor of <font color="blue">mine!</font>
 </p>
 
 <blockquote class="boxed-quote">
-You see ... I am related to <font color="red">Carl Friedrich Gauss</font>
+You see ... I am related to <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss">Carl Friedrich Gauss</a>
 not only because I founded
 and was a CTO of <a href="http://gausslabs.ai">Gauss Labs Inc.</a>,
 but also my advisor's advisor's ... advisor
