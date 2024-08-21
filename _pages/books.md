@@ -1643,7 +1643,8 @@ toc_sticky: true
 	The Five Dysfunctions of a Team - A Leadership Fable
 	&mdash; Patrick Lencioni
 	-
-	<a href="https://www.audible.com/pd/B002V08E64?source_code=ASSORAP0511160006&share_location=pdp"><img sourcehttps://www.audible.co.uk/favicon.ico="https://www.audible.co.uk/favicon.ico"></a>
+	<a href="https://www.audible.com/pd/B002V08E64?source_code=ASSORAP0511160006&share_location=pdp">
+	<img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	Rework
