@@ -63,6 +63,17 @@ Let's <b><em>connect</em></b> and <b><em>grow together!</em></b>
 </p>
 
 
+<!-- BLOG -->
+<h1 id="blog">Most recent blog posts</h1>
+<ul>
+	{% for post in site.posts limit:5 %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	{% endfor %}
+</ul>
+
+
 <!-- MATH GENEALOGY -->
 <h1 id="math-genealogy">Mathematician genealogy</h1>
 
@@ -168,17 +179,6 @@ and was a CTO of <a href="http://gausslabs.ai">Gauss Labs Inc.</a>,
 but also my advisor's advisor's ... advisor
 was Gauss!
 </blockquote>
-
-
-<!-- BLOG -->
-<h1 id="blog">Most recent blog posts</h1>
-<ul>
-	{% for post in site.posts limit:5 %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
-		</li>
-	{% endfor %}
-</ul>
 
 
 <!-- PIANO -->
