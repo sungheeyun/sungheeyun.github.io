@@ -36,10 +36,29 @@
 }
 
 body {
-  font-family: 'Merriweather', serif;
   font-size: var(--body-font-size);
   line-height: 1.6;
   color: #333;
+}
+
+@font-face {
+    font-family: "PrettyKorean";
+    src: url("./NotoSerifKR-VariableFont_wght.ttf") format("tff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.pretty-korean {
+/*
+  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Sunflower', sans-serif;
+  font-family: 'Sunflower', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'Nanum Gothic', 'Noto Sans KR', sans-serif;
+  */
+  font-family: "PrettyKorean";
 }
 
 h1, h2, h3, h4, h5, h6 {
