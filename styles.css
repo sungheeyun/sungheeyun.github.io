@@ -43,7 +43,7 @@ body {
 
 @font-face {
     font-family: "PrettyKorean";
-    src: url("./NotoSerifKR-VariableFont_wght.ttf") format("tff");
+    src: url("./resource/fonts/NotoSerifKR-VariableFont_wght.ttf") format("tff");
     font-weight: normal;
     font-style: normal;
 }
