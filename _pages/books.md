@@ -12,69 +12,66 @@ toc_sticky: true
 	<link rel="stylesheet" href="/resource/styles.css">
 </head>
 
-A - audio book, Pa - paperback book, Ph - photo
-{: .notice}
-
 <h1 id="listening-or-reading">Listening or Reading</h1>
 
 <ul>
 <li>
 	Quest for Meaning: Values, Ethics, and the Modern Experience (The Great Courses: Modern Philosophy)
 	&mdash; Robert H. Kane
-	- <a href="https://www.audible.com/pd/B00DHHX8FW?source_code=ASSORAP0511160006&share_location=player_overflow">A</a>
+	- <a href="https://www.audible.com/pd/B00DHHX8FW?source_code=ASSORAP0511160006&share_location=player_overflow"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 
 </li>
 <li>
 	Remembrance of Things Past - Swann's Way
 	&mdash; Marcel Proust
-	- <a href="https://www.audible.com/pd/B002V9ZH3S?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B002V9ZH3S?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	Heidegger in 90 Minutes
 	&mdash; Paul Strathern
-	- <a href="https://www.audible.com/pd/B002V8KYZK?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B002V8KYZK?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	To Have or to Be?
 	&mdash; Erich Fromm
-	- <a href="https://www.audible.com/pd/B08966H5GK?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B08966H5GK?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	The Art of Being
 	&mdash; Erich Fromm
-	- <a href="https://www.audible.com/pd/B002V8N9SO?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B002V8N9SO?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	The Poetry of Robert Frost
 	&mdash; Robert Frost
-	- <a href="https://www.audible.com/pd/B09WBVDBQM?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B09WBVDBQM?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	Microbiology for Dummies
 	&mdash; Jennifer C. Stearns PhD, Michael G. Surette PhD, Julienne C. Kaiser PhD
-	- <a href="https://www.audible.com/pd/1515948862?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/1515948862?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	DNA Demystified - Unravelling the Double Helix
 	&mdash; Alan McHughen
-	- <a href="https://www.audible.com/pd/1696601274?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/1696601274?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	The Tyranny of Merit - What's Become of the Common Good?
 	&mdash; Michael J. Sandel
-	- <a href="https://www.audible.com/pd/1250770025?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/1250770025?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 </ul>
 
 
-<h1 id="feel-like-i-have-to-but-no-fun">Feel like I have to, but it's not that much <img src="/resource/favicons/smileys/smiley 03.png" width="35" height="35"></h1>
+<h1 id="feel-like-i-have-to-but-no-fun">Feel like I have to, but it's not that much <img width=16 height=16 src="/resource/favicons/smileys/smiley 03.png" width="35" height="35"></h1>
 
 <ul>
 <li>
 	Anna Karenina
 	&mdash; Leo Tolstoy
 	-
-	<a href="https://www.audible.com/pd/Anna-Karenina-Audiobook/B002V8HN40?source_code=ASSORAP0511160006&share_location=library_overflow">A</a>
+	<a href="https://www.audible.com/pd/Anna-Karenina-Audiobook/B002V8HN40?source_code=ASSORAP0511160006&share_location=library_overflow"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
     The Gene: An Intimate History 
@@ -83,7 +80,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Scribner, 
     2016 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-55 017.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -93,7 +90,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Knopf, 
     2021 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-51 015.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -105,48 +102,48 @@ A - audio book, Pa - paperback book, Ph - photo
 <li>
 	Practicing Mindfulness: An Introduction to Meditation (The Great Courses: Better Living)
 	&mdash; Mark W. Muesse
-	- <a href="https://www.audible.com/pd/B00DDVQQLA?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B00DDVQQLA?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	The Power of Now - A Guide to Spiritual Enlightenment
 	&mdash; Eckhart Tolle
-	- <a href="https://www.audible.com/pd/B002V0PN36?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-	&amp;
-	 <a href="https://a.co/gf12DBI">E</a>
+	- <a href="https://www.audible.com/pd/B002V0PN36?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
+	&nbsp;
+	 <a href="https://a.co/gf12DBI"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
 </li>
 <li>
 	Quiet - The Power of Introverts in a World That Can't Stop Talking
 	&mdash; Susan Cain
-	- <a href="https://www.audible.com/pd/B006TIKUN4?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B006TIKUN4?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	Justice
 	&mdash; Michael J. Sandel
-	- <a href="https://www.audible.com/pd/B002V1OC6Y?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-	&amp;
-	<a href="https://read.amazon.com/kp/kshare?asin=B002Q7H7L0&id=dywikatc3fbwfa5yogpbmuhl54&reshareId=M4A3YEQ783WTN73EST1J&reshareChannel=system">E</a>
+	- <a href="https://www.audible.com/pd/B002V1OC6Y?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
+	&nbsp;
+	<a href="https://read.amazon.com/kp/kshare?asin=B002Q7H7L0&id=dywikatc3fbwfa5yogpbmuhl54&reshareId=M4A3YEQ783WTN73EST1J&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
 </li>
 <li>
 	Thinking, Fast and Slow
 	&mdash; Daniel Kahneman
-	- <a href="https://www.audible.com/pd/B005TKKCWC?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B005TKKCWC?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	Never Split the Difference - Negotiating as if Your Life Depended on It
 	&mdash; Chris Voss
 	-
-	<a href="https://www.audible.com/pd/B01CF5O89G?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-	&amp;
-	<a href="https://read.amazon.com/kp/kshare?asin=B014DUR7L2&id=wivai7g545d47px3cfown2ulfe&reshareId=WA1A09Z6FWAKPVDFXBJC&reshareChannel=system">E</a>
+	<a href="https://www.audible.com/pd/B01CF5O89G?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
+	&nbsp;
+	<a href="https://read.amazon.com/kp/kshare?asin=B014DUR7L2&id=wivai7g545d47px3cfown2ulfe&reshareId=WA1A09Z6FWAKPVDFXBJC&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
 </li>
 
 <li>
 	Get Out of Your Mind & Into Your Life - The New Acceptance & Commitment Therapy
 	&mdash; Spencer Smith, Steven C. Hayes
 	-
-	<a href="https://read.amazon.com/kp/kshare?asin=B0054M063A&id=yglapxjehfd7fa5ibjsrrzxcua&ref_=r_sa_glf_b_0_hdrw_ss_AAAUAAA&reshareId=795715ECXE86EM5WRMZ5&reshareChannel=system">E</a>
-	&amp;
-	<a href="https://www.audible.com/pd/B006H79I7G?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	<a href="https://read.amazon.com/kp/kshare?asin=B0054M063A&id=yglapxjehfd7fa5ibjsrrzxcua&ref_=r_sa_glf_b_0_hdrw_ss_AAAUAAA&reshareId=795715ECXE86EM5WRMZ5&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
+	&nbsp;
+	<a href="https://www.audible.com/pd/B006H79I7G?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 
 <li>
@@ -156,7 +153,7 @@ A - audio book, Pa - paperback book, Ph - photo
 	W.W. Norton & Company, 
 	1999 
 	-
-	<a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-48 014.jpeg">Ph</a>
+	<a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-48 014.jpeg"><img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png"></a>
 </li>
 <li>
     The Language of God 
@@ -165,16 +162,16 @@ A - audio book, Pa - paperback book, Ph - photo
     Free Press, 
     2006 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-48 014.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
 	Chip War - The Quest to Dominate the World's Most Critical Technology
 	&mdash; Chris Miller
 	-
-	<a href="https://www.audible.com/pd/B09TX11LQB?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-	&amp;
-	<a href="https://a.co/bTcP8qN">E</a>
+	<a href="https://www.audible.com/pd/B09TX11LQB?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
+	&nbsp;
+	<a href="https://a.co/bTcP8qN"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
 </li>
 </ul>
 
@@ -186,36 +183,36 @@ A - audio book, Pa - paperback book, Ph - photo
 	Four Wise Men - The Lives of The Lives and Teachings of Confucius, the Buddha, Jesus, and Muhammad
 	&mdash; Mark W. Muesse
 	-
-	<a href="/resource/photos/books/Four Wise Men - Mark W. Muesse - 1.jpeg">Pa</a>
-	&amp;
-	<a href="/resource/photos/books/Four Wise Men - Mark W. Muesse - 2.jpeg">Pa</a>
+	<a href="/resource/photos/books/Four Wise Men - Mark W. Muesse - 1.jpeg"><img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png"></a>
+	&nbsp;
+	<a href="/resource/photos/books/Four Wise Men - Mark W. Muesse - 2.jpeg"><img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png"></a>
 </li>
 
 <li>
 	A New Earth - Awakening Your Life's Purpose
 	&mdash; Eckhart Tolle
 	-
-	<a href="https://read.amazon.com/kp/kshare?asin=B000PC0S5K&id=zy7nild23vgalk3cubu4llwdsy&ref_=r_sa_glf_b_0_hdrw_ss_AAAUAAA&reshareId=WRYACCV9NCB99V4ZBHB2&reshareChannel=system">E</a>
-	&amp;
-	<a href="https://www.audible.com/pd/B002V0RAUU?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	<a href="https://read.amazon.com/kp/kshare?asin=B000PC0S5K&id=zy7nild23vgalk3cubu4llwdsy&ref_=r_sa_glf_b_0_hdrw_ss_AAAUAAA&reshareId=WRYACCV9NCB99V4ZBHB2&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
+	&nbsp;
+	<a href="https://www.audible.com/pd/B002V0RAUU?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 
 <li>
 	Meditations
 	&mdash; Marcus Aurelius
-	- <a href="https://www.audible.com/pd/B004IBRMZS?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B004IBRMZS?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 
 <li>
 	Civil Liberties and the Bill of Rights (The Great Courses: Modern History)
 	&mdash; John E. Finn
-	- <a href="https://www.audible.com/pd/B00DG65ZNC?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B00DG65ZNC?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 
 <li>
 	The Signal and the Noise - Why So Many Predictions Fail - but Some Don't
 	&mdash; Nate Silver
-	- <a href="https://www.audible.com/pd/B009DQN090?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B009DQN090?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 
 <li>
@@ -224,20 +221,21 @@ A - audio book, Pa - paperback book, Ph - photo
     HarperOne, 
     1952 
 	-
-	<a href="https://www.audible.com/pd/B002V1NHU6?source_code=ASSORAP0511160006&share_location=pdp">A</a>,
-	<a href="https://read.amazon.com/kp/kshare?asin=B002BD2UR0&id=gxr5x77kebaanl3tg2b6zqwkoy&ref_=r_sa_glf_b_0_hdrw_ss_AAAUAAA&reshareId=12N9EFHQ96TJTKSDB1HN&reshareChannel=system">E</a>
-	&amp;
-	<a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-59 018.jpeg">Ph</a>
+	<a href="https://www.audible.com/pd/B002V1NHU6?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
+	&nbsp;
+	<a href="https://read.amazon.com/kp/kshare?asin=B002BD2UR0&id=gxr5x77kebaanl3tg2b6zqwkoy&ref_=r_sa_glf_b_0_hdrw_ss_AAAUAAA&reshareId=12N9EFHQ96TJTKSDB1HN&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
+	&nbsp;
+	<a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-59 018.jpeg"><img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png"></a>
 </li>
 <li>
 	The Lean Startup - How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
 	&mdash; Eric Ries
-	- <a href="https://www.audible.com/pd/B005LXV0HI?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B005LXV0HI?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	Zero to One - Notes on Startups, or How to Build the Future
 	&mdash; Peter Thiel, Blake Masters
-	- <a href="https://www.audible.com/pd/B00M27LBU2?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B00M27LBU2?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 </ul>
 
@@ -252,68 +250,68 @@ A - audio book, Pa - paperback book, Ph - photo
     Da Capo Lifelong Books, 
     2019 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-48 014.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
 	Survival of the Friendliest - Understanding Our Origins and Rediscovering Our Common Humanity
 	&mdash; Brian Hare, Vanessa Woods
-	- <a href="https://www.audible.com/pd/0593209826?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/0593209826?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	Behind Every Good Decision - How Anyone Can Use Business Analytics to Turn Data into Profitable Insight
 	&mdash; Piyanka Jain, Puneet Sharma
 	-
-	<a href="https://www.audible.com/pd/Behind-Every-Good-Decision-Audiobook/B00P898BRC?source_code=ASSORAP0511160006&share_location=library_overflow">A</a>
+	<a href="https://www.audible.com/pd/Behind-Every-Good-Decision-Audiobook/B00P898BRC?source_code=ASSORAP0511160006&share_location=library_overflow"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	How Google Works
 	&mdash; Eric Schmidt, Jonathan Rosenberg
 	-
-	<a href="https://read.amazon.com/kp/kshare?asin=B00HUU13Y0&id=tlkeg52hojhoxclybaiwz7vcui&reshareId=S7CENXF44QMX5ZX2C35E&reshareChannel=system">E</a>
+	<a href="https://read.amazon.com/kp/kshare?asin=B00HUU13Y0&id=tlkeg52hojhoxclybaiwz7vcui&reshareId=S7CENXF44QMX5ZX2C35E&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
 </li>
 <li>
 	The Master Algorithm - How the Quest for the Ultimate Learning Machine Will Remake Our World
 	&mdash; Pedro Domingos
-	- <a href="https://www.audible.com/pd/B014X1DS8W?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B014X1DS8W?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 
 <li>
 	Emotional Intelligence 2.0
 	&mdash; Travis Bradberry, Jean Greaves
-	- <a href="https://www.audible.com/pd/B003HU6KLI?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B003HU6KLI?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 
 <li>
 	Middle School Matters -- The 10 Key Skills Kids Need to Thrive in Middle School and Beyond - and How Parents Can Help
 	&mdash; Phyllis L. Fagell
-	- <a href="https://www.audible.com/pd/1549113399?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/1549113399?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 
 <li>
 	What I Wish Every Job Candidate Knew - 15 Minutes to a Better Interview
 	&mdash; Russell Tuckerton
-	- <a href="https://www.audible.com/pd/B01GP0MERU?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B01GP0MERU?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 
 <li>
 	23 Anti-Procrastination Habits - How to Stop Being Lazy and Get Results in Your Life
 	&mdash; S. J. Scott
-	- <a href="https://www.audible.com/pd/B00HYGESSI?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B00HYGESSI?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 
 <li>
 	The Checklist Manifesto - How to Get Things Right
 	&mdash; Atul Gawande
-	- <a href="https://www.audible.com/pd/B0030ZYDD2?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B0030ZYDD2?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	Measure What Matters - How Google, Bono, and the Gates Foundation Rock the World with OKRs
 	&mdash; John Doerr &amp; Larry Page - foreword
 	-
-	<a href="https://read.amazon.com/kp/kshare?asin=B078FZ9SYB&id=43wwluq37bgfxg3luaghyy5up4&reshareId=GV2XK6CTJR8V7XC80NVN&reshareChannel=system">E</a>
-	&amp;
-	<a href="https://www.audible.com/pd/B07BMHFBCM?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	<a href="https://read.amazon.com/kp/kshare?asin=B078FZ9SYB&id=43wwluq37bgfxg3luaghyy5up4&reshareId=GV2XK6CTJR8V7XC80NVN&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
+	&nbsp;
+	<a href="https://www.audible.com/pd/B07BMHFBCM?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 </ul>
 
@@ -324,19 +322,19 @@ A - audio book, Pa - paperback book, Ph - photo
 <li>
 	Schopenhauer - A Very Short Introduction
 	&mdash; Christopher Janaway
-	- <a href="https://www.audible.com/pd/1666113840?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/1666113840?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	The Republic
 	&mdash; Plato
 	-
-	<a href="https://www.audible.com/pd/B002UZHXF8?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	<a href="https://www.audible.com/pd/B002UZHXF8?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	AI Ethics (MIT Press Essential Knowledge Series)
 	&mdash; Mark Coeckelbergh
 	-
-	<a href="https://www.audible.com/pd/1469078236?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	<a href="https://www.audible.com/pd/1469078236?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 </ul>
 
@@ -347,26 +345,26 @@ A - audio book, Pa - paperback book, Ph - photo
 	The Fabric of the Cosmos: Space, Time, and the Texture of Reality
 	&mdash; Brian Greene
 	-
-	<a href="https://www.audible.com/pd/The-Fabric-of-the-Cosmos-Audiobook/B002V1K1IM?source_code=ASSORAP0511160006&share_location=library_overflow">A</a>
-	&amp;
-	<a href="https://read.amazon.com/kp/kshare?asin=B000XUDGV2&id=y4uaosvrfnfk7i5gdnpfht3aoa&reshareId=R4TF7ERKRX8C7VERDGZN&reshareChannel=system">E</a>
+	<a href="https://www.audible.com/pd/The-Fabric-of-the-Cosmos-Audiobook/B002V1K1IM?source_code=ASSORAP0511160006&share_location=library_overflow"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
+	&nbsp;
+	<a href="https://read.amazon.com/kp/kshare?asin=B000XUDGV2&id=y4uaosvrfnfk7i5gdnpfht3aoa&reshareId=R4TF7ERKRX8C7VERDGZN&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
 </li>
 <li>
 	The Critique of Practical Reason
 	&mdash; Immanuel Kant
-	- <a href="https://www.audible.com/pd/B0076CLT7I?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B0076CLT7I?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	Critique of Pure Reason
 	&mdash;
 	Immanuel Kant &amp; J. M. D. Meiklejohn
 	-
-	<a href="https://read.amazon.com/kp/kshare?asin=B08R5KYH4G&id=yp22t53zffd6nfhg3jzow5zq2i&reshareId=PBF8EFXS7MBCQJ9QT551&reshareChannel=system">E</a>
+	<a href="https://read.amazon.com/kp/kshare?asin=B08R5KYH4G&id=yp22t53zffd6nfhg3jzow5zq2i&reshareId=PBF8EFXS7MBCQJ9QT551&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
 </li>
 <li>
 	Fundamental Principles of the Metaphysics of Morals
 	&mdash; Immanuel Kant
-	- <a href="https://www.audible.com/pd/B004XNIBYW?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B004XNIBYW?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 </ul>
 
@@ -377,7 +375,7 @@ A - audio book, Pa - paperback book, Ph - photo
 <li>
 	More Than Words Can Say (A Patchwork Family Novel, Book 2)
 	&mdash; Karen Witemeyer
-	- <a href="https://www.audible.com/pd/1980033978?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/1980033978?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 </ul>
 
@@ -389,12 +387,12 @@ A - audio book, Pa - paperback book, Ph - photo
 	Homo Deus - A Brief History of Tomorrow
 	&mdash; Yuval Noah Harari
 	-
-	<a href="https://www.audible.com/pd/Homo-Deus-Audiobook/B01N4DCBK6?source_code=ASSORAP0511160006&share_location=library_overflow">A</a>
+	<a href="https://www.audible.com/pd/Homo-Deus-Audiobook/B01N4DCBK6?source_code=ASSORAP0511160006&share_location=library_overflow"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	The Black Swan, Second Edition
 	&mdash; Nassim Nicholas Taleb
-	- <a href="https://www.audible.com/pd/B07KRNNLFF?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B07KRNNLFF?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 </ul>
 
@@ -405,23 +403,13 @@ A - audio book, Pa - paperback book, Ph - photo
 <li>
 	The Trojan War - A New History
 	&mdash; Barry Strauss
-	- <a href="https://www.audible.com/pd/B079G2MMXD?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B079G2MMXD?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 
 <li>
 	The Odyssey of Homer (The Great Courses: Western Literature)
 	&mdash; Elizabeth Vandiver
-	- <a href="https://www.audible.com/pd/B00DE2CLXU?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-</li>
-	The Trojan War - A New History
-	&mdash; Barry Strauss
-	- <a href="https://www.audible.com/pd/B079G2MMXD?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-</li>
-
-<li>
-	The Odyssey of Homer (The Great Courses: Western Literature)
-	&mdash; Elizabeth Vandiver
-	- <a href="https://www.audible.com/pd/B00DE2CLXU?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	- <a href="https://www.audible.com/pd/B00DE2CLXU?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
     The Conquest of Happiness 
@@ -430,7 +418,7 @@ A - audio book, Pa - paperback book, Ph - photo
     W.W. Norton & Company, 
     2013 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-44 013.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -440,7 +428,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Crown, 
     2018 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-44 013.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -455,7 +443,7 @@ A - audio book, Pa - paperback book, Ph - photo
     중앙북스, 
     2017 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-02 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -463,32 +451,32 @@ A - audio book, Pa - paperback book, Ph - photo
 	&mdash; 
 	Christine M. Korsgaard, Mary Gregor, Jens Timmermann, Christine M. Korsgaard
 	-
-	<a href="https://read.amazon.com/kp/kshare?asin=B0087GZHYI&id=tcjri7udsnb5pjd3gcd37egq7a&reshareId=NAG01KKK0AR50R6V8K8B&reshareChannel=system">E</a>
+	<a href="https://read.amazon.com/kp/kshare?asin=B0087GZHYI&id=tcjri7udsnb5pjd3gcd37egq7a&reshareId=NAG01KKK0AR50R6V8K8B&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
 </li>
 <li>
 	The Great Questions of Philosophy and Physics
 	&mdash; Steven Gimbel (The Great Courses)
 	-
-	<a href="https://www.audible.com/pd/The-Great-Questions-of-Philosophy-and-Physics-Audiobook/1629978825?source_code=ASSORAP0511160006&share_location=library_overflow">A</a>
+	<a href="https://www.audible.com/pd/The-Great-Questions-of-Philosophy-and-Physics-Audiobook/1629978825?source_code=ASSORAP0511160006&share_location=library_overflow"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	On Liberty
 	&mdash; John Stuart Mill
 	-
-	<a href="https://www.audible.com/pd/On-Liberty-Audiobook/1982776757?source_code=ASSORAP0511160006&share_location=library_overflow">A</a>
+	<a href="https://www.audible.com/pd/On-Liberty-Audiobook/1982776757?source_code=ASSORAP0511160006&share_location=library_overflow"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	Great Minds of the Western Intellectual Tradition, 3rd Edition
 	&mdash; The Great Courses, Alan Charles Kors, Darren Staloff, Dennis Dalton, Douglas Kellner
 	-
-	<a href="https://www.audible.com/pd/Great-Minds-of-the-Western-Intellectual-Tradition-3rd-Edition-Audiobook/B00DMDG6WS?source_code=ASSORAP0511160006&share_location=library_overflow">A</a>
+	<a href="https://www.audible.com/pd/Great-Minds-of-the-Western-Intellectual-Tradition-3rd-Edition-Audiobook/B00DMDG6WS?source_code=ASSORAP0511160006&share_location=library_overflow"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	What Money Can&#39;t Buy: The Moral Limits of Markets
 	&mdash;
 	Michael J. Sandel
 	-
-	<a href="https://read.amazon.com/kp/kshare?asin=B00633PFQC&id=rz2tdy2ntnf3dh6yairqi56nem&reshareId=K2W5BEGN6Y88GNTCPSBA&reshareChannel=system">E</a>
+	<a href="https://read.amazon.com/kp/kshare?asin=B00633PFQC&id=rz2tdy2ntnf3dh6yairqi56nem&reshareId=K2W5BEGN6Y88GNTCPSBA&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
 </li>
 </ul>
 
@@ -501,7 +489,7 @@ A - audio book, Pa - paperback book, Ph - photo
 	&mdash;
 	Stephen Hawking, Leonard Mlodinow
 	-
-	<a href="https://read.amazon.com/kp/kshare?asin=B000SEIKIW&id=guvt6l2735dpfovm6eqktmppoa&reshareId=47R6HAR84SRKKFKZ1DPS&reshareChannel=system">E</a>
+	<a href="https://read.amazon.com/kp/kshare?asin=B000SEIKIW&id=guvt6l2735dpfovm6eqktmppoa&reshareId=47R6HAR84SRKKFKZ1DPS&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
 </li>
 <li>
     The Elegant Universe 
@@ -510,7 +498,7 @@ A - audio book, Pa - paperback book, Ph - photo
     W.W. Norton & Company, 
     1999 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-48 014.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -521,7 +509,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley, 
     1976 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-04 002.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -532,7 +520,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Jones and Bartlett Publishers, 
     1990 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-04 002.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -543,7 +531,7 @@ A - audio book, Pa - paperback book, Ph - photo
     W.H. Freeman, 
     1982 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-04 002.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -554,7 +542,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Garland Science, 
     1994 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-07 003.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -565,7 +553,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley-Blackwell, 
     2015 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-07 003.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -576,7 +564,7 @@ A - audio book, Pa - paperback book, Ph - photo
     W.H. Freeman, 
     1995 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-07 003.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -587,7 +575,7 @@ A - audio book, Pa - paperback book, Ph - photo
     W.H. Freeman, 
     2000 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-10 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -597,7 +585,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Mosby, 
     2003 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-10 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -607,7 +595,7 @@ A - audio book, Pa - paperback book, Ph - photo
     국제문화, 
     1993 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-10 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -618,7 +606,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley, 
     2005 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-10 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -636,7 +624,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Cambridge University Press, 
     2004 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-25 007.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -646,7 +634,7 @@ A - audio book, Pa - paperback book, Ph - photo
     SIAM, 
     1994 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-35 010.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -656,7 +644,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley-Interscience, 
     1997 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-25 007.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -666,7 +654,7 @@ A - audio book, Pa - paperback book, Ph - photo
     SIAM, 
     1997 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-25 007.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -676,7 +664,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Athena Scientific, 
     2009 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-25 007.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -686,7 +674,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Athena Scientific, 
     2003 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-29 008.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -696,7 +684,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Cambridge University Press, 
     2010 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-29 008.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -706,7 +694,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Athena Scientific, 
     1997 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-29 008.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -722,7 +710,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Athena Scientific, 
     2005 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-25 007.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -732,7 +720,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     1991 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-25 007.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -743,7 +731,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2008 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-25 007.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -753,7 +741,7 @@ A - audio book, Pa - paperback book, Ph - photo
     SIAM, 
     2001 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-25 007.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -763,7 +751,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Dover Publications, 
     1994 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-29 008.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -774,7 +762,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Athena Scientific, 
     1999 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-29 008.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -786,7 +774,7 @@ A - audio book, Pa - paperback book, Ph - photo
 	The Connection Algorithm: Take Risks, Defy the Status Quo, and Live Your Passions
 	&mdash; Jesse Tevelow
 	-
-	<a href="https://www.audible.com/pd/The-Connection-Algorithm-Take-Risks-Defy-the-Status-Quo-and-Live-Your-Passions-Audiobook/B013RS2TNW?source_code=ASSORAP0511160006&share_location=library_overflow">A</a>
+	<a href="https://www.audible.com/pd/The-Connection-Algorithm-Take-Risks-Defy-the-Status-Quo-and-Live-Your-Passions-Audiobook/B013RS2TNW?source_code=ASSORAP0511160006&share_location=library_overflow"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
     Machine Learning: A Probabilistic Perspective 
@@ -795,7 +783,7 @@ A - audio book, Pa - paperback book, Ph - photo
     MIT Press, 
     2012 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-20 005.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -805,7 +793,7 @@ A - audio book, Pa - paperback book, Ph - photo
     MIT Press, 
     2009 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-20 005.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -815,7 +803,7 @@ A - audio book, Pa - paperback book, Ph - photo
     MIT Press, 
     2016 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-20 005.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -825,7 +813,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2013 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-20 005.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -835,7 +823,7 @@ A - audio book, Pa - paperback book, Ph - photo
     MIT Press, 
     2006 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-20 005.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -845,7 +833,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Cambridge University Press, 
     2018 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-20 005.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -855,7 +843,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Cambridge University Press, 
     2006 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-20 005.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -865,7 +853,7 @@ A - audio book, Pa - paperback book, Ph - photo
     MIT Press, 
     1990 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-15-23-24-39 006.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -875,7 +863,7 @@ A - audio book, Pa - paperback book, Ph - photo
     MIT Press, 
     2010 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-15-23-24-43 007.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -886,7 +874,7 @@ A - audio book, Pa - paperback book, Ph - photo
     MIT Press, 
     2016 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-15-23-24-54 008.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -897,7 +885,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2009 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-15-23-24-58 009.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -908,7 +896,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Cambridge University Press, 
     2020 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-15-23-25-16 010.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -919,7 +907,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2006 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-15-23-25-22 011.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -934,7 +922,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     1996 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-59 018.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -944,7 +932,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     1996 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-39 011.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -954,7 +942,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Cengage Learning, 
     2010 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-39 011.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -965,7 +953,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley, 
     1994 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-39 011.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -976,7 +964,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley, 
     2004 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-39 011.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -987,7 +975,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Addison-Wesley, 
     1989 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-39 011.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -998,7 +986,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     2006 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-39 011.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1008,7 +996,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley-IEEE Press, 
     2006 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-39 011.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1019,7 +1007,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Johns Hopkins University Press, 
     1989 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-35 010.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1030,7 +1018,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     1987 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-32 009.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1040,7 +1028,7 @@ A - audio book, Pa - paperback book, Ph - photo
     SIAM, 
     1997 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-32 009.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1051,7 +1039,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     1988 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-22 006.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1062,7 +1050,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Apress, 
     2014 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-22 006.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1073,7 +1061,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     1996 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-22 006.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1084,7 +1072,7 @@ A - audio book, Pa - paperback book, Ph - photo
     McGraw-Hill, 
     1999 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-22 006.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1095,7 +1083,7 @@ A - audio book, Pa - paperback book, Ph - photo
     2nd Edition, 
     2001 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-22 006.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1106,7 +1094,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2006 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-22 006.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1117,7 +1105,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     1999 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-22 006.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1128,7 +1116,7 @@ A - audio book, Pa - paperback book, Ph - photo
     W. H. Freeman, 
     2007 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-22 006.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -1143,7 +1131,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Dover Publications, 
     2001 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-15 003.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1153,7 +1141,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2000 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -1168,7 +1156,7 @@ A - audio book, Pa - paperback book, Ph - photo
     McGraw-Hill, 
     1968 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-59 018.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1179,7 +1167,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley, 
     1999 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-35 010.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1190,7 +1178,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     1994 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-32 009.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1200,7 +1188,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2006 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-20 005.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1210,7 +1198,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     2002 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-15 003.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1222,7 +1210,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2002 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-10 002.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1233,7 +1221,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     1973 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-10 002.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1244,7 +1232,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     1993 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -1261,7 +1249,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wellesley-Cambridge Press, 
     2003 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-10 002.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1272,7 +1260,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley-Interscience, 
     1997 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-35 010.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1283,7 +1271,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley, 
     1970 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-10 002.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -1300,7 +1288,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Pearson, 
     2010 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-32 009.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1311,7 +1299,7 @@ A - audio book, Pa - paperback book, Ph - photo
     McGraw-Hill, 
     1987 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-20 005.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1322,7 +1310,7 @@ A - audio book, Pa - paperback book, Ph - photo
     5th Edition, 
     2003 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-15 003.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1333,7 +1321,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Cambridge University Press, 
     2004 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-10 002.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1344,7 +1332,7 @@ A - audio book, Pa - paperback book, Ph - photo
     AMS, 
     2001 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1355,7 +1343,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     1993 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1365,7 +1353,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Princeton University Press, 
     1970 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1376,7 +1364,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2013 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1387,7 +1375,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Cambridge University Press, 
     1988 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1398,7 +1386,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley-Interscience, 
     2002 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1409,7 +1397,7 @@ A - audio book, Pa - paperback book, Ph - photo
     McGraw-Hill, 
     1991 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1420,7 +1408,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     1974 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -1436,7 +1424,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2007 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-15 003.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1446,7 +1434,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wellesley-Cambridge Press, 
     1986 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-10 002.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -1463,7 +1451,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley, 
     1995 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-32 009.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1474,7 +1462,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Pearson, 
     2006 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-22 006.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1484,7 +1472,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     2000 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-25 007.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1494,7 +1482,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     2000 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-18 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1505,7 +1493,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley, 
     1996 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-18 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1516,7 +1504,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Addison-Wesley, 
     1994 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-18 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1527,7 +1515,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Academic Press, 
     2010 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-18 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1537,7 +1525,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Academic Press, 
     2007 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-18 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1548,7 +1536,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Duxbury Press, 
     1996 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-18 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1559,7 +1547,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley-Interscience, 
     1991 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-15-23-24-36 005.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -1574,7 +1562,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2001 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-18 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1585,7 +1573,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Springer, 
     2003 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-18 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1595,7 +1583,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley, 
     2012 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-18 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -1612,7 +1600,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Prentice Hall, 
     1997 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-15-23-24-24 002.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1623,7 +1611,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Cambridge University Press, 
     1995 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-15-23-24-31 003.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1634,7 +1622,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Wiley, 
     1998 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-15-23-24-33 004.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
@@ -1647,23 +1635,23 @@ A - audio book, Pa - paperback book, Ph - photo
 	HBR&#39;s 10 Must Reads Ultimate Boxed Set (14 Books)
 	&mdash; Harvard Business Review, Daniel Goleman, Peter F. Drucker, Clayton M. Christensen, Michael E. Porter
 	-
-	<a href="https://read.amazon.com/kp/kshare?asin=B01M7V84YC&id=vqrohepjvbeipohgrug3yinpla&reshareId=B6BS64DYKYZ7R8XKCFVW&reshareChannel=system">E</a>
-	&amp;
-	<a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg">Ph</a>
+	<a href="https://read.amazon.com/kp/kshare?asin=B01M7V84YC&id=vqrohepjvbeipohgrug3yinpla&reshareId=B6BS64DYKYZ7R8XKCFVW&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
+	&nbsp;
+	<a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-07 001.jpeg"><img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png"></a>
 </li>
 <li>
 	The Five Dysfunctions of a Team - A Leadership Fable
 	&mdash; Patrick Lencioni
 	-
-	<a href="https://www.audible.com/pd/B002V08E64?source_code=ASSORAP0511160006&share_location=pdp">A</a>
+	<a href="https://www.audible.com/pd/B002V08E64?source_code=ASSORAP0511160006&share_location=pdp"><img sourcehttps://www.audible.co.uk/favicon.ico="https://www.audible.co.uk/favicon.ico"></a>
 </li>
 <li>
 	Rework
 	&mdash; Jason Fried, David Heinemeier Hansson
 	-
-	<a href="https://www.audible.com/pd/B0036FLXLQ?source_code=ASSORAP0511160006&share_location=pdp">A</a>
-	&amp;
-	<a href="https://read.amazon.com/kp/kshare?asin=B002MUAJ2A&id=spayxn6vgrblnl5oyghahw62eu&reshareId=34HB5X663R88R70XN0C5&reshareChannel=system">E</a>
+	<a href="https://www.audible.com/pd/B0036FLXLQ?source_code=ASSORAP0511160006&share_location=pdp"><img width=16 height=16 src="https://www.audible.co.uk/favicon.ico"></a>
+	&nbsp;
+	<a href="https://read.amazon.com/kp/kshare?asin=B002MUAJ2A&id=spayxn6vgrblnl5oyghahw62eu&reshareId=34HB5X663R88R70XN0C5&reshareChannel=system"><img width=16 height=16 src="https://www.amazon.com:443/favicon.ico"></a>
 </li>
 </ul>
 
@@ -1677,7 +1665,7 @@ A - audio book, Pa - paperback book, Ph - photo
     웅진, 
     1998 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-35 010.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1687,7 +1675,7 @@ A - audio book, Pa - paperback book, Ph - photo
     웅진, 
     1998 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-35 010.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1697,7 +1685,7 @@ A - audio book, Pa - paperback book, Ph - photo
     FaithWords, 
     2012 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-41 012.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1707,7 +1695,7 @@ A - audio book, Pa - paperback book, Ph - photo
     동아일보사, 
     2022 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-41 012.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1717,7 +1705,7 @@ A - audio book, Pa - paperback book, Ph - photo
     RHK, 
     2021 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-41 012.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1727,7 +1715,7 @@ A - audio book, Pa - paperback book, Ph - photo
     김영사, 
     2017 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-44 013.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1737,7 +1725,7 @@ A - audio book, Pa - paperback book, Ph - photo
     성문출판사, 
     1985 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-44 013.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1747,7 +1735,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Pantheon Books, 
     1986 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-48 014.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1757,7 +1745,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Pantheon Books, 
     1991 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-48 014.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1768,7 +1756,7 @@ A - audio book, Pa - paperback book, Ph - photo
     중앙일보사, 
     1998 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-48 014.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1778,7 +1766,7 @@ A - audio book, Pa - paperback book, Ph - photo
     HarperBusiness, 
     1967 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-59 018.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1788,7 +1776,7 @@ A - audio book, Pa - paperback book, Ph - photo
     Exisle Publishing, 
     2019 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-10-53 016.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1798,7 +1786,7 @@ A - audio book, Pa - paperback book, Ph - photo
     열림원, 
     2001 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-02 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1808,7 +1796,7 @@ A - audio book, Pa - paperback book, Ph - photo
     비전북, 
     2013 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-02 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1818,7 +1806,7 @@ A - audio book, Pa - paperback book, Ph - photo
     책과나무, 
     2016 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-02 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 <li>
@@ -1828,7 +1816,7 @@ A - audio book, Pa - paperback book, Ph - photo
     동서문화사, 
     2005 
 	- <a href="/resource/photos/my book collections/KakaoTalk_Photo_2024-08-16-01-28-02 001.jpeg">
-    Ph
+    <img width=16 height=16 src="https://www.google.com/photos/static/2020/images/logo_photos_192px.png">
     </a>
 </li>
 </ul>
