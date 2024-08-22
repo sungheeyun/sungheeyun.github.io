@@ -20,6 +20,15 @@
   --h3-max-width: 45.83ch;
 }
 
+li {
+  max-width: 52ch;
+}
+
+blockquote {
+  max-width: 53ch;
+}
+
+
 @media (max-width: 768px) {
   :root {
     --body-font-size: 14px;
