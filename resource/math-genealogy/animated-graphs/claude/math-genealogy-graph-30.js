@@ -51,9 +51,20 @@ document.addEventListener('DOMContentLoaded', function() {
             .style("stroke", "none");
 
         // Create a force simulation
+		const link_length_ratio = .001 * .5;
+		const min_dim = Math.min(width, height)
+		const link_length = link_length_ratio * min_dim
+
+		const charge_strength_ratio = .05 * .5;
+		const charge_strength = charge_strength_ratio * min_dim
+
+		console.log(window.innerWidth)
+		console.log(window.innerHeight)
+		console.log(link_length)
+		console.log(charge_strength)
         const simulation = d3.forceSimulation(nodes)
-            .force("link", d3.forceLink(links).id(d => d.id).distance(10))
-            .force("charge", d3.forceManyBody().strength(-30))
+            .force("link", d3.forceLink(links).id(d => d.id).distance(link_length))
+            .force("charge", d3.forceManyBody().strength(-charge_strength))
             .force("center", d3.forceCenter(width / 2, height / 2))
             .force("boundary", boundingBoxForce); // Add this line
 
@@ -89,6 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			if (d.name === "Jean-Baptiste Joseph Fourier") {console.log(d.name); return "red";}
 			if (d.name === "Rudolf Otto Sigismund Lipschitz") {console.log(d.name); return "red";}
 			if (d.name.includes(" Denis Poisson")) {console.log(d.name); return "red";}
+			if (d.name === "Stephen Poythress Boyd") {console.log(d.name); return "red";}
 			if (d.name === "Stephen Poythress Boyd") {console.log(d.name); return "red";}
 			if (d.name === "Gustav Peter Lejeune Dirichlet") {console.log(d.name); return "red";}
 			if (d.name.startsWith("Pierre-Simon")) {console.log(d.name); return "red";}

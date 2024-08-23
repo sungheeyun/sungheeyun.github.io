@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		const min_dim = Math.min(width, height)
 		const link_length = link_length_ratio * min_dim
 
-		const charge_strength_ratio = .1 / 2;
+		const charge_strength_ratio = .05;
 		const charge_strength = charge_strength_ratio * min_dim
 
 		console.log(window.innerWidth)
@@ -100,6 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 			if (d.name === "Jean-Baptiste Joseph Fourier") {console.log(d.name); return "red";}
 			if (d.name === "Rudolf Otto Sigismund Lipschitz") {console.log(d.name); return "red";}
 			if (d.name.includes(" Denis Poisson")) {console.log(d.name); return "red";}
+			if (d.name === "Stephen Poythress Boyd") {console.log(d.name); return "red";}
 			if (d.name === "Stephen Poythress Boyd") {console.log(d.name); return "red";}
 			if (d.name === "Gustav Peter Lejeune Dirichlet") {console.log(d.name); return "red";}
 			if (d.name.startsWith("Pierre-Simon")) {console.log(d.name); return "red";}

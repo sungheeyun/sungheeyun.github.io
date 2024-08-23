@@ -92,6 +92,10 @@ document.addEventListener('DOMContentLoaded', function() {
 			if (d.name === "Stephen Poythress Boyd") {console.log(d.name); return "red";}
 			if (d.name === "Stephen Poythress Boyd") {console.log(d.name); return "red";}
 			if (d.name === "Gustav Peter Lejeune Dirichlet") {console.log(d.name); return "red";}
+			if (d.name.startsWith("Pierre-Simon")) {console.log(d.name); return "red";}
+			if (d.name === "Leonhard Euler") {console.log(d.name); return "red";}
+			if (d.name === "Jacob Bernoulli") {console.log(d.name); return "red";}
+			if (d.name === "C. Felix (Christian) Klein") {console.log(d.name); return "red";}
             //if (d.id === "283283" ) {console.log(d.name); return "red";}
             //if (d.id === "283283" ) {console.log(d.name); return "red";}
             // Add more conditions as needed
