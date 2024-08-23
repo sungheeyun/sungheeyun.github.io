@@ -137,9 +137,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
+category:
   type: liquid
   path: /categories/
-tag_archive:
+tag:
   type: liquid
   path: /tags/
