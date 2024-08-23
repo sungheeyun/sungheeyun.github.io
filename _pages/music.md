@@ -185,7 +185,7 @@ toc_sticky: true
 
 <ul>
 <li>
-	<span class="pretty-korean">사건의 지평선 - 윤하 (YOUNHA)</span>
+	<span class="pretty-korean">사건의 지평선 - 윤하</span> (YOUNHA)
 	<a href="https://kko.to/xFaE6v_9V3">
 	<img src="/resource/favicons/favicon - Melon - 16x16.ico"></a>
 	<a href="https://youtu.be/GiujAOKS4Bg?si=YSrotIuHmK3iN-e4">
