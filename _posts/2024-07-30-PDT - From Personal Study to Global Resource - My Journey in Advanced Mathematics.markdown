@@ -68,7 +68,7 @@ I will visit each topic one by one
 and discuss some details.
 Please stay tuned!***
 
-- [Serendipity finds essential resources in Algebra]({{ site.baseurl }}{% post_url 2024-07-31-PDT - From Personal Study to Global Resource - Algebra %})
+- [Math is Fun &amp; Beautiful! - Algebra]({{ site.baseurl }}{% post_url 2024-07-31-PDT - From Personal Study to Global Resource - Algebra %})
 
 -- Mr. Funnybunny
 
