@@ -9,7 +9,7 @@ permalink: /about/
 </head>
 
 <p>
-I am Co-founder / CTO - AI Technology & Product Strategy @ Erudio Bio, Inc.
+I am Co-founder / CTO - AI Technology & Product Strategy @ <a href="http://erudio.bio">Erudio Bio, Inc</a>.
 </p>
 
 <p>
