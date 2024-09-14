@@ -5,6 +5,8 @@ main:
     url: /posts
   - title: "Articles"
     url: /articles
+  - title: "Papers"
+    url: /papers
   - title: "Books"
     url: /books
 #  - title: "Lectures"
