@@ -3,10 +3,12 @@ main:
     url: /about
   - title: "Blog"
     url: /posts
+  - title: "Articles"
+    url: /articles
   - title: "Books"
     url: /books
-  - title: "Lectures"
-    url: /lectures
+#  - title: "Lectures"
+#    url: /lectures
 #  - title: "Music"
 #    url: /music
 #  - title: "Categories"
