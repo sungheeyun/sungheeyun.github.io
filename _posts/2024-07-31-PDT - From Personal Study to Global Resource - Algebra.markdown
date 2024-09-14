@@ -27,7 +27,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 In my "Math is Fun & Beautiful! - Algebra" slides, I present a comprehensive exploration of fundamental algebraic concepts, with a focus on inequalities and number theory. The presentation begins with an overview of mathematical notations and conventions, setting the stage for more complex topics. A significant portion of the slides is dedicated to inequalities, providing detailed explanations and proofs for key concepts like Jensen's inequality and the Arithmetic Mean-Geometric Mean (AM-GM) inequality. I offer multiple proof methods for each concept, demonstrating the beauty and versatility of mathematical reasoning.
 
+<img src="/assets/images/math/algebra/caucy-ineq.png" style="width: 35ch; display:block; margin:auto;">
+
 The slides delve deeply into the Cauchy-Schwarz inequality, presenting its various forms and extensions. I provide elegant proofs using different approaches, including determinants and matrix algebra, showcasing how seemingly distinct areas of mathematics interconnect. The presentation then transitions into number theory, which I aptly describe as the "Queen of Mathematics." I cover fundamental concepts such as prime numbers, the fundamental theorem of arithmetic, and modular arithmetic, culminating in a discussion of Euler's theorem and its applications in cryptography.
+
+<img src="/assets/images/math/algebra/queen-of-math-01.png" style="width: 35ch; display:block; margin:auto;">
 
 Throughout the slides, I maintain a balance between rigorous mathematical formalism and intuitive explanations, aiming to make complex algebraic concepts accessible to a wide audience. I include historical context and real-world applications, such as the RSA cryptosystem, to add depth to the material. While the content is quite technical, I've tried to convey my enthusiasm for mathematics, living up to the title's promise that math can indeed be both fun and beautiful. These slides represent my attempt to create a comprehensive resource for students and enthusiasts looking to deepen their understanding of algebraic concepts and number theory.
 
