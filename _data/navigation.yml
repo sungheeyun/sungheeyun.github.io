@@ -9,6 +9,8 @@ main:
     url: /papers
   - title: "Books"
     url: /books
+  - title: "Concerts"
+    url: /concerts
 #  - title: "Lectures"
 #    url: /lectures
 #  - title: "Music"
