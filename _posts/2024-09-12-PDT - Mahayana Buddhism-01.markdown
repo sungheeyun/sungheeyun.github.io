@@ -1,7 +1,7 @@
 ---
 title: 대승불교大乘佛敎의 가르침 - Mahayana Buddhism
 date: 2024-09-12 PDT
-last_modified_at: Fri Sep 13 01:42:19 PDT 2024
+last_modified_at: Sun Sep 15 09:51:42 PDT 2024
 categories:
  - blog
 tags:
@@ -98,6 +98,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 한편 연기론이 갖는 의미는 영원불변의 실체는 없으므로(無我) 애착하지 말라는 뜻이다.
 '무아無我' '공空'과 동의어.
 
+<img src="/assets/images/buddhism/chain-of-cause-and-effect-01.jpeg" style="width: 40ch; display:block; margin:auto;">
+
 <h2 id="12">12연기설十二緣起說</h2>
 
 12연기十二緣起란
@@ -133,7 +135,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 그렇기 때문에 십이연기의 어느 한 지분을 소멸하게 된다면, 연이어 다음 지분이 소멸되고, 결국 노병사의 근원적인 괴로움은 소멸되게 될 것이다.
 
 <h3 id="ignorance">
-무명
+무명無明
 </h3>
 
 무명無明(산스크리트어: अविद्या avidyā, 팔리어: avijjā, 영어: ignorance)은
@@ -144,6 +146,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 그 모든 것들은 무상하고 무아이므로 고정된 자성이 없다는 것을 모르는 것을 의미한다.
 인연 따라 연기적으로 만들어졌을 뿐 실재하지 않는 무상한 일시적 존재에 대해 실재한다고 여기고 계속될 것으로 여겨
 거기에 얽매여 집착하는 상태가 바로 무지無知요 무명無明이다.
+
+<img src="/assets/images/buddhism/ignorance-01.png"
+style="width: 40ch; display:block; margin:auto;">
 
 그래서 불교에서는 무명의 타파를 가장 중요하게 여긴다.
 무명을 타파하여 명을 드러내는 것이야말로 불교의 핵심이다.
@@ -190,6 +195,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 이와 같이 어리석음이 있으면 우리는 어리석은 행을 하게 된다.
 즉, 무명無明이 있으면 행行이 있는 것이다.
 
+<img src="/assets/images/buddhism/greed-and-attachment-01.png"
+style="width: 40ch; display:block; margin:auto;">
+
 그래서 불교에서는 행行을 소멸함으로써 모든 괴로움이 소멸됨을 설하고 있다.
 이 말이 모든 행위를 하지 않는다는 뜻은 아니다.
 행위를 하되 함이 없이 한다, 집착 없이 한다는 것을 의미한다.
@@ -227,6 +235,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 깨어있는 지혜로운 이라면 과거의 행위는 이미 지나간 과거이므로 내려놓은 채
 지금 이 순간에는 좋거나 나쁜 사람이 아닌 그저 텅 빈 한 사람으로 인식할 것이다.
 이것이 바로 무분별심無分別心이다.
+
+<img src="/assets/images/buddhism/discernment-01.jpg"
+style="width: 40ch; display:block; margin:auto;">
 
 그래서 중국 선의 3조 승찬대사는 &lt;신심명&gt;에서 아래와 같이 말했던 것이다.
 
@@ -267,7 +278,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 생生
 </h3>
 <h3>
-사老死를
+노사老死
 </h3-->
 
 <h1 id="ref">Reference</h1>
@@ -276,3 +287,4 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 * <a href="https://ko.wikipedia.org/wiki/%EC%8B%AD%EC%9D%B4%EC%97%B0%EA%B8%B0%EC%84%A4">십이연기설 @ 위키백과</a>
 * <a href="https://moktaksori.kr/Writing-2/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Mzt9&bmode=view&idx=7258059&t=board">십이연기 @ 목탁소리</a>
 * <a href="http://www.ibulgyo.com">불교신문</a>
+* <a href="https://www.nichirenlibrary.org/en/dic/Content/T/291">Soak Gakkai - Nichiren Buddhism Library</a>
