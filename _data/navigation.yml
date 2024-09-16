@@ -1,16 +1,16 @@
 main:
-  - title: "About"
+  - title: "about"
     url: /about
-  - title: "Blog"
+  - title: "blog"
     url: /posts
-  - title: "Articles"
+  - title: "articles"
     url: /articles
-  - title: "Papers"
+  - title: "papers"
     url: /papers
-  - title: "Books"
+  - title: "books"
     url: /books
-  - title: "Concerts"
-    url: /concerts
+  - title: "miscellaneous"
+    url: /miscellaneous
 #  - title: "Lectures"
 #    url: /lectures
 #  - title: "Music"

@@ -29,6 +29,10 @@ figure {
 	max-width: var(--p-width);
 }
 
+img {
+	max-width: var(--p-width);
+}
+
 blockquote {
   max-width: 53ch;
 }
@@ -146,3 +150,20 @@ p {
   margin-left: 0;  /* Aligns to the left */
   width: auto;     /* Allows it to take its natural width */
 }
+
+.map-container {
+	text-align: center;
+/*
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #a0a0a0; 
+	position: relative;
+	*/
+}
+
+.map-container iframe {
+	width: calc(var(--p-width) * .8);
+	height: calc(var(--p-width) * .8 * .75);
+}
+
