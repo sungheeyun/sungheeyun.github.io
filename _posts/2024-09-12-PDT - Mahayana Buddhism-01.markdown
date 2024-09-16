@@ -98,8 +98,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 한편 연기론이 갖는 의미는 영원불변의 실체는 없으므로(無我) 애착하지 말라는 뜻이다.
 '무아無我' '공空'과 동의어.
 
-<img src="/assets/images/buddhism/chain-of-cause-and-effect-01.jpeg"
-style="width: 45ch; display:block; margin:auto;">
+<div class="img-container">
+<img src="/assets/images/buddhism/chain-of-cause-and-effect-01.jpeg">
+</div>
 
 <h2 id="12">12연기설十二緣起說</h2>
 
@@ -148,8 +149,9 @@ style="width: 45ch; display:block; margin:auto;">
 인연 따라 연기적으로 만들어졌을 뿐 실재하지 않는 무상한 일시적 존재에 대해 실재한다고 여기고 계속될 것으로 여겨
 거기에 얽매여 집착하는 상태가 바로 무지無知요 무명無明이다.
 
-<img src="/assets/images/buddhism/ignorance-01.png"
-style="width: 45ch; display:block; margin:auto;">
+<div class="img-container">
+<img src="/assets/images/buddhism/ignorance-01.png">
+</div>
 
 그래서 불교에서는 무명의 타파를 가장 중요하게 여긴다.
 무명을 타파하여 명을 드러내는 것이야말로 불교의 핵심이다.
@@ -198,8 +200,9 @@ style="width: 45ch; display:block; margin:auto;">
 이와 같이 어리석음이 있으면 우리는 어리석은 행을 하게 된다.
 즉, 무명無明이 있으면 행行이 있는 것이다.
 
-<img src="/assets/images/buddhism/greed-and-attachment-01.png"
-style="width: 45ch; display:block; margin:auto;">
+<div class="img-container">
+<img src="/assets/images/buddhism/greed-and-attachment-01.png">
+</div>
 
 그래서 불교에서는 행行을 소멸함으로써 모든 괴로움이 소멸됨을 설하고 있다.
 이 말이 모든 행위를 하지 않는다는 뜻은 아니다.
@@ -241,8 +244,9 @@ style="width: 45ch; display:block; margin:auto;">
 지금 이 순간에는 좋거나 나쁜 사람이 아닌 그저 텅 빈 한 사람으로 인식할 것이다.
 이것이 바로 무분별심無分別心이다.
 
-<img src="/assets/images/buddhism/discernment-01.jpg"
-style="width: 45ch; display:block; margin:auto;">
+<div class="img-container">
+<img src="/assets/images/buddhism/discernment-01.jpg">
+</div>
 
 그래서 중국 선의 3조 승찬대사는 &lt;신심명&gt;에서 아래와 같이 말했던 것이다.
 
@@ -308,8 +312,9 @@ style="width: 45ch; display:block; margin:auto;">
 그러나 명색이 비실체적이며 무상하고 무아인줄 안다면 그 어떤 대상에 대해서도 집착하지 않을 것이다.
 실체화시키지 않으면 저절로 집착執着이 줄어들 수밖에 없는 것이다.
 
-<img src="/assets/images/buddhism/seeing-name-and-form.png"
-style="width: 45ch; display:block; margin:auto;">
+<div class="img-container">
+<img src="/assets/images/buddhism/seeing-name-and-form.png">
+</div>
 
 &lt;잡아함경&gt; 298경에 따르면
 구체적으로 명은 수受/상想/행行/식識을 말하며 색은 지地/수水/화火/풍風의 사대四大와 사대로 이루어진 물질을 말한다.
@@ -369,8 +374,9 @@ style="width: 45ch; display:block; margin:auto;">
 육근이 청정해지면,
 눈으로 무엇을 보든 귀로 무엇을 듣든 코로 어떤 냄새를 맡든 혀로 어떤 것을 맛보든 그 대상에 휘둘리지 않고 사로잡히지 않는다.
 
-<img src="/assets/images/buddhism/lots-of-things-to-eat-and-drink.png"
-style="width: 45ch; display:block; margin:auto;">
+<div class="img-container">
+<img src="/assets/images/buddhism/lots-of-things-to-eat-and-drink.png">
+</div>
 
 
 <!--h3>

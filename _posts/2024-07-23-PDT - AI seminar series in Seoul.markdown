@@ -24,17 +24,19 @@ Pohang University of Science and Technology (POSTECH), Sogang University,
 and Yonsei University during Seoul biz & family trip.
 I was utterly honored to have such opportunities
 where I could share my insight and learn a lot from Q&As with talented AI researchers and practitioners in academia and industry.
-<a href="https://www.facebook.com/share/p/ezrvBHN4TALTzUir/">Facebook post</a>
+<!--a href="https://www.facebook.com/share/p/ezrvBHN4TALTzUir/">Facebook post</a-->
 
 <!--figure style="width: 40ch; display:block; margin:auto;"-->
 <!--figure style="width: 40ch; display:table; margin:0 auto;"-->
 <!--figure style="display:table; margin:0 auto;"-->
-<figure style="width:50ch;">
+<div class="fig-container">
+<figure>
 	<img src="/resource/seminars/2024_0627 - Samsung Flash Memroy Team AI Seminar/photos/KakaoTalk_Photo_2024-06-27-21-46-51 003.jpeg">
 	<figcaption>
 		Myself giving a talk in Future Hall at Samsung Semiconductor
 	</figcaption>
 </figure>
+</div>
 
 The seminar, titled "LLM & genAI - Technology, Industry, Market, and Some Important Questions," covered a wide range of topics in the rapidly evolving field of artificial intelligence. As someone with extensive experience in both academia and industry, including roles at Stanford University, Samsung, Amazon, and as a co-founder of AI-focused companies, I aimed to provide a comprehensive overview of the current state and future prospects of AI.
 
@@ -53,12 +55,14 @@ One of the most engaging parts of the seminar was my exploration of "important q
 
 The Q&A sessions were particularly enlightening, with attendees raising thought-provoking questions about the practical applications of AI in various industries, the challenges of implementing AI systems in real-world settings, and the potential societal impacts of widespread AI adoption.
 
+<div class="fig-container">
 <figure style="width:50ch;">
 	<img src="/resource/seminars/2024_0619 - Postech Seminar/photos/postech seminar.jpeg">
 	<figcaption>
 		Myself giving a talk at Pohang University of Science and Technology (POSTECH)
 	</figcaption>
 </figure>
+</div>
 
 Reflecting on the seminars, I'm struck by the incredible pace of innovation in AI and the enthusiasm of researchers and practitioners in South Korea. The questions and discussions highlighted the global nature of AI research and development, with similar challenges and opportunities being tackled around the world.
 
