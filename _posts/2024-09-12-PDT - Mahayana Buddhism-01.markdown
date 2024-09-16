@@ -319,10 +319,61 @@ style="width: 45ch; display:block; margin:auto;">
 
 
 
-<!--h3>
+<h3 id="six-sense-gates">
 육입六入
 </h3>
-<h3>
+
+명색名色을 조건으로 해서 육입六入이 있다.
+
+육입六入 (산스크리트어: ṣaḍāyatana, 팔리어: saḷāyatana, 영어: six sense gates, six sense bases)은
+6처六處,
+6입처六入處,
+내6입內六入,
+내6입처內六入處,
+6내입처六內入處,
+6정六情,
+제입諸入,
+6촉입처六觸入處,
+6촉처六觸處,
+6갱락처六更樂處
+또는 6근六根이라고도 한다.
+육내입처는 인연 따라 생겨난 감각기능과 감각활동을 보고 '나我'라고 여기는 잘못된 착각을 말한다.
+육입에는 안입眼入, 이입耳入, 비입鼻入, 설입舌入, 신입身入, 의입意入이 있다.
+즉 눈, 귀, 코, 혀, 몸, 뜻이라는 여섯 가지 주관적 감각기관, 감각기능, 감각활동을 보고 '나我'라고 여기는 허망한 의식이다.
+
+명색이 생기고 나면 명색이라는 대상을 눈으로 보고 귀로 듣고 코로 냄새 맡고 혀로 맛보고 몸으로 감촉을 느끼고 뜻으로 생각하면서
+그러한 보고 듣고 냄새 맡고 맛보고 촉감을 느끼고 생각하는 것이 곧
+'나我'라는 생각을 하게 된다.
+명색을 감각하는 존재를 나我라고 착각하는 의식이 바로 육입六入이다.
+
+허망하게 인연 따라 존재하는 명색을 실제 있는 것으로 여기고
+그 대상을 보고 듣고 맛보고 냄새 맡고 하다 보니 그 감각하는
+나我라는 존재가 있다고 착각하는 육입이 생기는 것이다.
+
+당연히 이 육입은 멸滅해야 할 것이다.
+육입은 안이비설신의라는 감각기관과 감각활동을 보고 나我라고 착각하는 허망한 의식이기 때문이다.
+육입을 멸滅한다는 것은 곧 나我라는 허망한 착각을 멸滅하는 것으로
+이는 곧 무아無我를 깨닫는 것과 다르지 않다.
+또한 이는 육입이 사실은 인연 따라 생겨난 것임을 자각하는 것이며 그렇기에 비실체적인 것임을 아는 것이다.
+텅空 비어 공하지만 공空한데 치우치지 않고
+육입六入이 실제 있다는데에도 치우치지 않음으로써
+육근六根이라는 감각기능을 활용하여 잘 쓰면서도 그것이 텅 비어 실체가 없음을 알아 집착하지 않는 것이다.
+
+육입六入이라는 허망한 착각 아상我相을 소멸시킨다는 것이 곧 여섯 가지 감각기능이 마비되어 쓰지 못한다는 것은 아니다.
+내가 사라진다는 것도 아니다.
+그러한 여서 가지 감각기능과 활동을 보고 나我라고 착각하지만 않을 뿐,
+우리는 여전히 여섯 가지 감각기능을 잘 사용할 수 있다.
+그것이 바로 육근청정六根淸淨이다.
+육입처六入處는 소멸하였지만 육근은 청정하게 수호되는 것이다.
+그래서 부처님은 십이연기十二緣起를 깨달았기 때문에 육입은 소멸하였지만 그럼에도 불구하고 육근은 청정하게 유지되는 것이다.
+육근이 청정해지면,
+눈으로 무엇을 보든 귀로 무엇을 듣든 코로 어떤 냄새를 맡든 혀로 어떤 것을 맛보든 그 대상에 휘둘리지 않고 사로잡히지 않는다.
+
+<img src="/assets/images/buddhism/lots-of-things-to-eat-and-drink.png"
+style="width: 45ch; display:block; margin:auto;">
+
+
+<!--h3>
 촉觸
 </h3>
 <h3>
@@ -346,8 +397,19 @@ style="width: 45ch; display:block; margin:auto;">
 
 <h1 id="ref">Reference</h1>
 
-* <a href="https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B8%B0_(%EB%B6%88%EA%B5%90)">연기 @ 위키백과</a>
-* <a href="https://ko.wikipedia.org/wiki/%EC%8B%AD%EC%9D%B4%EC%97%B0%EA%B8%B0%EC%84%A4">십이연기설 @ 위키백과</a>
-* <a href="https://moktaksori.kr/Writing-2/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Mzt9&bmode=view&idx=7258059&t=board">십이연기 @ 목탁소리</a>
-* <a href="http://www.ibulgyo.com">불교신문</a>
-* <a href="https://www.nichirenlibrary.org/en/dic/Content/T/291">Soak Gakkai - Nichiren Buddhism Library</a>
+<ul>
+<li> <a href="https://moktaksori.kr/Writing-2/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Mzt9&bmode=view&idx=7258059&t=board">
+십이연기 @ 목탁소리</a></li>
+
+<li><a href="https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B8%B0_(%EB%B6%88%EA%B5%90)">
+연기 @ 위키백과</a></li>
+
+<li><a href="https://ko.wikipedia.org/wiki/%EC%8B%AD%EC%9D%B4%EC%97%B0%EA%B8%B0%EC%84%A4">
+십이연기설 @ 위키백과</a></li>
+
+<li><a href="http://www.ibulgyo.com">
+불교신문</a></li>
+
+<li><a href="https://www.nichirenlibrary.org/en/dic/Content/T/291">
+Soak Gakkai - Nichiren Buddhism Library</a></li>
+</ul>
