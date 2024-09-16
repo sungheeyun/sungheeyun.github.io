@@ -41,6 +41,16 @@ AI may not steal many jobs after all. It may just make workers more efficient
 [nature] This AI chatbot got conspiracy theorists to question their convictions
 </a>
 
+<h2 id="llm">LLM</h2>
+
+<ul>
+<li>
+	OpenAI’s model, GPT-o1
+	<div class="article-iframe-container">
+	<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7240634575092076544" height="712" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+	</div>
+</li>
+</ul>
 
 <h2 id="genai">genAI</h2>
 
