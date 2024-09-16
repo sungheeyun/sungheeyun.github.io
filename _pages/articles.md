@@ -16,7 +16,15 @@ toc_sticky: false
 Toyota Foundation - The 50th Anniversary Grant Program
 </a>
 
-<br>
+<h1 id="companies">Enterprise</h1>
+
+<ul>
+<li>
+<a href="https://n.news.naver.com/article/011/0004390880?sid=101">디노티시아, AI 핵심 기술 '벡터 DB' 기술 확보 나섰다</a>
+</li>
+</ul>
+
+
 <h1 id="ai">AI</h1>
 
 <h2 id="impacts">Impacts</h2>
@@ -30,7 +38,6 @@ AI may not steal many jobs after all. It may just make workers more efficient
 
 <h3 id="cognitive">cognitive impacts</h3>
 
-* <a href="https://www.nature.com/articles/d41586-024-02966-6?utm_source=Live+Audience&utm_campaign=9a2f69d995-nature-briefing-daily-20240913&utm_medium=email&utm_term=0_b27a691814-9a2f69d995-51883540">
 [nature] This AI chatbot got conspiracy theorists to question their convictions
 </a>
 
@@ -42,7 +49,6 @@ AI may not steal many jobs after all. It may just make workers more efficient
 </a>
 
 
-<br>
 <h1 id="bio-medical">Bio &amp; medical</h1>
 
 * <a href="https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/?_hsenc=p2ANqtz--Y_yN4Y5gXuO3G0DcnHXdUJgI8t7XsALl64SXrsyuceMHe2cF52EPtZKFaXM5MggZZSTRecDLPcecgasFlfUEvOM6K4A&_hsmi=323659352">
@@ -50,7 +56,6 @@ AlphaProteo generates novel proteins for biology and health research
 </a> - <a href="/alpha-fold-summary">summary</a>
 
 
-<br>
 <h1 id="prof-cha">Prof. Cha's columns</h1>
 
 <h2>2021</h2>
@@ -58,14 +63,12 @@ AlphaProteo generates novel proteins for biology and health research
 * <a href="https://www.joongang.co.kr/article/24097122"> 빅데이터 시대 예견, 고성능 컴퓨팅에 베팅해 AMD 살렸다. - 중앙일보</a>
 
 
-<br>
 <h1 id="cultivation">Cultivation</h1>
 
 * <a href="https://medium.com/speaking-bipolar/should-you-forgive-your-parents-3bc1a315bca9">
 [Medium] Should You Forgive Your Parents? - Sure, they were good to you, but what about before you were born?
 </a>
 
-<br>
 <h1 id="cog-science">Cognitive science</h1>
 
 * <a href="https://medium.com/behavior-design/how-to-stop-overthinking-22e29f695bad">
