@@ -268,7 +268,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 식識을 조건으로 해서 명색名色이 있다.
 
-명색名色 (산스크리트어: nāmarūpa, 팔리어: nāmarūpa, 영어: name and form)은
+명색名色(산스크리트어: nāmarūpa, 팔리어: nāmarūpa, 영어: name and form)은
 명名과 색色을 말하는 것으로
 명名은 정신적인 작용을 색色은 물질적인 부분을 말하는 것이다.
 명은 '이름'이고 색은 '모양'인데
@@ -330,7 +330,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 명색名色을 조건으로 해서 육입六入이 있다.
 
-육입六入 (산스크리트어: ṣaḍāyatana, 팔리어: saḷāyatana, 영어: six sense gates, six sense bases)은
+육입六入(산스크리트어: ṣaḍāyatana, 팔리어: saḷāyatana, 영어: six sense gates, six sense bases)은
 6처六處,
 6입처六入處,
 내6입內六入,
@@ -385,7 +385,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 육입六入을 조건으로 해서 촉觸이 있다.
 
-촉觸 (산스크리트어: sparśa, 팔리어: phassa, 영어: contact)은
+촉觸(산스크리트어: sparśa, 팔리어: phassa, 영어: contact)은
 6입연촉六入緣觸과 촉연수觸緣受의 연기관계에서 한 지분을 이루고 있는데,
 6입연촉은 연6입촉緣六入觸이라고도 하며
 촉연수는 연촉수緣觸受라고도 한다.
