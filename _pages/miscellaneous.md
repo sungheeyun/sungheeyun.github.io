@@ -13,20 +13,116 @@ toc_sticky: true
 </head>
 
 
-<h1 id="concerts">
+<h1 id="arts-and-culture">
+Arts &amp; Culture
 Concerts
 </h1>
 
-<h2>
+<h2 id="arts-and-culture-2024">
 2024
 </h2>
 
 <ul>
-<li> Chamber Music @ Davies Symphony Hall - 29-Sep-2024
-<a href="https://maps.app.goo.gl/QwTTAmfiJHvhZcF26"><img border="0" src="/resource/favicons/icons8-google-maps-96.png" width=20 height=20></a>
+<li>
+	ME
+	-
+	Chamber Music @ <a href="https://maps.app.goo.gl/QwTTAmfiJHvhZcF26">Davies Symphony Hall</a>
+	- 29-Sep-2024
+<!--a href="https://maps.app.goo.gl/QwTTAmfiJHvhZcF26"><img border="0" src="/resource/favicons/icons8-google-maps-96.png" width=20 height=20></a-->
 <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MHZocmliZzJ0czhnczlhc2puaGhiaXZxcDggc3VuZ2hlZS55dW5AbQ&amp;tmsrc=sunghee.yun%40gmail.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 -
 <a href="/resource/music/concert-tickets/2024_0929 - Chamber Music @ DSH sfsymphony.org_Cart_Confirmation.pdf">ticket</a>
+</li>
+</ul>
+
+<h2 id="arts-and-culture-2023">
+2023
+</h2>
+
+<ul>
+<li>
+	Family
+	-
+	visits <a href="https://maps.app.goo.gl/DXesEpcAuX6gji3k7">The Metropolitan Museum of Art</a>
+	- 2pm on 31-Jul-2023 EDT
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M21yMDZvajlmMXFtcm9udmw0Y2o0bWUzcTAgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+</li>
+<li>
+	Family
+	-
+	Classical to Neo-Classical @ <a href="https://maps.app.goo.gl/LWG891FhdfYc6eLr6">David Geffen Hall</a>
+	- 7:30pm on 29-Jul-2023 EDT
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NG9qZHRwcnB1aW44aWpkdGx0N2N0Y2czNHAgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&amp;tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+</li>
+<li>
+	Family
+	-
+	Hamilton @ <a href="https://maps.app.goo.gl/zzWXVSkoKck3C89x9">Richard Rodgers Theatre</a>
+	- 2pm on 26-Jul-2024 EDT
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoaGo2ZDloZTRwNjRxMzRlOHFqaWNyaGRkazNhc2oyZHBoamlzMzg2dG9qY3QzaTZsbjM0ZDlwY3RsNzZjOWc3MXFuNmMzZGQ0cm5hcGo4Y2dxNmUgc3VuZ2hlZS55dW5AbQ&amp;tmsrc=sunghee.yun%40gmail.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+</li>
+<li>
+	Family
+	-
+	visits <a href="https://maps.app.goo.gl/EzZgLWssRftzSsSj7">San Francisco Museum of Modern Art</a>
+	- 1pm on 13-Jul-2023 PDT
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bXA4bzZ2ZHNtMjhkOGw1NGV0djkzczY3YzQgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+</li>
+<li>
+	Family
+	-
+	SFO opera 100th Anniversary Concert
+	@ <a href="https://maps.app.goo.gl/L7c2VmFcHswadxX68">War Memorial Opera House</a>
+	-
+	6pm on 16-Jun-2023 PDT
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Z3YxYzAyYjFzZmNkdTRwYTllb2V0aWtkamMgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+</li>
+<li>
+	Family
+	-
+	visits <a href="https://maps.app.goo.gl/w5wn75kmcuPMPqvy7">de Young Museum</a>
+	-
+	9:30am on 03-Jun-2023 PDT
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZnQybHM3MWRvaWRkZmZxNTZpa21uajFhcTQgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+</li>
+<li>
+	Family
+	-
+	visits <a href="https://maps.app.goo.gl/ktQMEgr3TPyXsRwJA">Disneyland Park</a>
+	-
+	9am on 17-Apr-2023 PDT
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZW9pZWdiaDV2aWVyNXU0OW8wOGw2MzBvcWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+</li>
+<li>
+	Family
+	-
+	visits <a href="https://maps.app.goo.gl/BP9bfMtCjUgVbmJ88">The Getty</a>
+	-
+	11am on 16-Apr-2023 PDT
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZW9pZWdiaDV2aWVyNXU0OW8wOGw2MzBvcWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+</li>
+</ul>
+
+<h2 id="arts-and-culture-2022">
+2022
+</h2>
+
+<ul>
+<li>
+	Family
+	-
+	visits <a href="https://maps.app.goo.gl/2Dq9JbRQn68fGZ499">Universal Studios Hollywood</a>
+	-
+	9am on 26-Jul-2022 PDT
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=YWpyMHI2Y2Mza2ZzdDAwa3U3MmwwODIxdWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+</li>
+<li>
+	Family
+	-
+	visits <a href="https://maps.app.goo.gl/iqfbNRNhEHAnM4R98">The Getty Villa</a>
+	-
+	11am on 25-Jul-2022 PDT
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Zm8yNGJyM2YxcWR1dDRkcGpucmprdGJmYWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 </li>
 </ul>
 
@@ -171,9 +267,47 @@ Trips
 </li>
 </ul>
 
+<h3>Jul</h3>
+
+<ul>
+<li>
+	Family Trip &amp; biz trip to Seoul - 35 nights
+	<ul>
+	<li>
+		24-Jul-2024 ~ 26-Jul-2024 PDT
+	</li>
+	<li>
+		drive to and stay @ <a href="https://maps.app.goo.gl/X1pWsF8Fy9ncKN1p9">Hilton Vacation Club Lake Tahoe Resort South</a>
+	</li>
+	</ul>
+</li>
+</ul>
+
 <h3>Jun</h3>
 
 <ul>
+<li>
+	Family Vacation Trip to Jeju Island - 4 nights
+	<ul>
+	<li>
+		20-Jun-2024 ~ 24-Jun-2024 KST
+	</li>
+	<li>
+		flight 1
+		-
+		OZ 8953
+		-
+		from GMP @ 2:00pm to CJU @ 3:10pm on 20-Jun-2024 KST
+	</li>
+	<li>
+		flight 2
+		-
+		OZ 8920
+		-
+		from CJU @ 10:20am to GMP @ 11:35am on 24-Jun-2024 KST
+	</li>
+	</ul>
+</li>
 <li>
 	Family Trip &amp; biz trip to Seoul - 35 nights
 	<ul>
@@ -283,7 +417,7 @@ Trips
 		19-Sep-2023 ~ 20-Sep-2023 PDT
 	</li>
 	<li>
-		stay @ ??
+		stay @ <a href="https://maps.app.goo.gl/A1V7T8Wnir93ePRD7">Marriott Grand Residence Club, Lake Tahoe</a>
 	</li>
 	</ul>
 </li>
@@ -330,14 +464,17 @@ Trips
 <ul>
 <li>
 	Family Trip to LA
-	- Disney Land &amp; <a href="https://www.getty.edu/visit/center/">Getty Museum</a>
+	- Disneyland &amp; <a href="https://www.getty.edu/visit/center/">Getty Museum</a>
 	- 3 nights
 	<ul>
 	<li>
 		15-Apr-2023 ~ 18-Apr-2023 PDT
 	</li>
 	<li>
-		stay @ ??
+		drive
+	</li>
+	<li>
+		stay @ <a href="https://maps.app.goo.gl/XcopqgWDoVuwuKEG6">Courtyard Anaheim Resort/Convention Center</a>
 	</li>
 	</ul>
 </li>
@@ -359,6 +496,9 @@ Trips
 	<ul>
 	<li>
 		25-Feb-2023 ~ 26-Feb-2023 PDT
+	</li>
+	<li>
+		stay @ <a href="https://maps.app.goo.gl/DK9pMXUmKxdE14Fw5">Stage Coach Lodge Monterey</a>
 	</li>
 	</ul>
 </li>
@@ -939,6 +1079,857 @@ Trips
 		-
 		from ICN @ 6:50pm on 09-Jul-2017 KST
 		to YVR @ 12:50pm on 09-Jul-2017 PDT
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Apr</h3>
+
+<ul>
+<li>
+	?? - 8 nights
+	<ul>
+	<li>
+		28-Apr-2016 ~ 06-May-2016 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Mar</h3>
+
+<ul>
+<li>
+	?? - 7 nights
+	<ul>
+	<li>
+		12-Mar-2016 ~ 19-Mar-2016 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2016">2016</h2>
+
+<h3>Oct</h3>
+
+<ul>
+<li>
+	?? - 4 nights
+	<ul>
+	<li>
+		01-Oct-2016 ~ 05-Oct-2016 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Aug</h3>
+
+<ul>
+<li>
+	?? - 4 nights
+	<ul>
+	<li>
+		06-Aug-2016 ~ 10-Aug-2016 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Jul</h3>
+
+<ul>
+<li>
+	Family Trip to Guam - 4 nights
+	<ul>
+	<li>
+		21-Jul-2016 ~ 25-Jul-2016 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2015">2015</h2>
+
+<h3>Sep</h3>
+
+<ul>
+<li>
+	biz trip to Sūzhōu苏州 ?? - 6 nights
+	<ul>
+	<li>
+		26-Sep-2015 ~ 02-Oct-2015 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+<li>
+	biz trip to Sūzhōu苏州 - 11 nights
+	<ul>
+	<li>
+		07-Sep-2015 ~ 18-Sep-2015 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Jul</h3>
+
+<ul>
+<li>
+	biz trip to Sūzhōu苏州 - 15 nights
+	<ul>
+	<li>
+		09-Jul-2015 ~ 24-Jul-2015 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Jun</h3>
+
+<ul>
+<li>
+	biz trip to Sūzhōu苏州 - 11 nights
+	<ul>
+	<li>
+		08-Jun-2015 ~ 19-Jun-2015 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>May</h3>
+
+<ul>
+<li>
+	biz trip to Sūzhōu苏州 - 4 nights
+	<ul>
+	<li>
+		18-May-2015 ~ 22-May-2015 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Mar</h3>
+
+<ul>
+<li>
+	biz trip to Sūzhōu苏州, China - 3 nights
+	<ul>
+	<li>
+		04-Mar-2015 ~ 07-Mar-2015 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2014">2014</h2>
+
+<h3>Nov</h3>
+
+<ul>
+<li>
+	?? - 2 nights
+	<ul>
+	<li>
+		23-Nov-2014 ~ 25-Nov-2014 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Apr</h3>
+
+<ul>
+<li>
+	Family Trip to NY to visit Jisun - 12 nights
+	<ul>
+	<li>
+		30-Apr-2014 ~ 12-May-2014 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2013">2013</h2>
+
+<h3>Apr</h3>
+
+<ul>
+<li>
+	biz trip to Minneapolis for SATURN - 7 nights
+	<ul>
+	<li>
+		28-Apr-2013 ~ 05-May-2013 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2010">2010</h2>
+
+<h3>Oct</h3>
+
+<ul>
+<li>
+	Guam ?? - 3 nights
+	<ul>
+	<li>
+		29-Oct-2010 ~ 01-Nov-2010 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Feb</h3>
+
+<ul>
+<li>
+	Family Trip to Hawaii for Jisun's wedding
+	- 7 nights
+	<ul>
+	<li>
+		12-Feb-2010 ~ 19-Feb-2010 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2008">2008</h2>
+
+<h3>Jun</h3>
+
+<ul>
+<li>
+	?? - 4 nights
+	<ul>
+	<li>
+		04-Apr-2008 ~ 08-Apr-2008 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Feb</h3>
+
+<ul>
+<li>
+	Family Vacation Trip to Hongkong ?
+	- 3 nights
+	<ul>
+	<li>
+		22-Feb-2008 ~ 24-Feb-2008 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2006">2006</h2>
+
+<h3>Jun</h3>
+
+<ul>
+<li>
+	?? - 4 nights
+	<ul>
+	<li>
+		14-Jun-2006 ~ 18-Jun-2006 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2005">2005</h2>
+
+<h3>Oct</h3>
+
+<ul>
+<li>
+	Honeymoon to Maldive - 7 nights
+	<ul>
+	<li>
+		31-Oct-2005 ~ 07-Nov-2005 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Oct</h3>
+
+<ul>
+<li>
+	MY BIZ TRIP for DAC @ Anaheim
+	- 7 nights
+	<ul>
+	<li>
+		12-Jun-2005 ~ 19-Jun-2005 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2004">2004</h2>
+
+<h3>Dec</h3>
+
+<ul>
+<li>
+	ME flies back to Seoul to join Samsung Semiconductor!
+	<ul>
+	<li>
+		01-Dec-2004
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Oct</h3>
+
+<ul>
+<li>
+	MY Vacation Trip to Seoul - 4 nights
+	<ul>
+	<li>
+		20-Oct-2004 ~ 24-Oct-2004 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Apr</h3>
+
+<ul>
+<li>
+	MY Vacation Trip to Seoul - 8 nights
+	<ul>
+	<li>
+		24-Apr-2004 ~ 02-May-2004 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2003">2003</h2>
+
+<h3>Aug</h3>
+
+<ul>
+<li>
+	MY Vacation Trip to Seoul - 6 nights
+	<ul>
+	<li>
+		11-Aug-2003 ~ 17-Aug-2003 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Jun</h3>
+
+<ul>
+<li>
+	MY Vacation Trip to Seoul - 36 nights
+	<ul>
+	<li>
+		19-Jun-2003 ~ 25-Jul-2003 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2002">2002</h2>
+
+<h3>Dec</h3>
+
+<ul>
+<li>
+	MY Vacation Trip to Seoul - 5 nights
+	<ul>
+	<li>
+		21-Dec-2002 ~ 26-Dec-2002 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Sep</h3>
+
+<ul>
+<li>
+	MY Vacation Trip to Seoul - 10 nights
+	<ul>
+	<li>
+		12-Sep-2002 ~ 22-Sep-2002 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>May</h3>
+
+<ul>
+<li>
+	MY Vacation Trip to Seoul - 3 nights
+	<ul>
+	<li>
+		30-May-2002 ~ 02-Jun-2002 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+
+<h2 id="trips-2001">2001</h2>
+
+<h3>Jun</h3>
+
+<ul>
+<li>
+	MY Vacation Trip to Seoul - 12 nights
+	<ul>
+	<li>
+		09-Jun-2001 ~ 21-Jun-2001 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Mar</h3>
+
+<ul>
+<li>
+	MY Vacation Trip to Seoul - 14 nights
+	<ul>
+	<li>
+		25-Mar-2001 ~ 08-Apr-2001 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+
+<h2 id="trips-1999">1999</h2>
+
+<h3>Dec</h3>
+
+<ul>
+<li>
+	MY Vacation Trip to Seoul - 23 nights
+	<ul>
+	<li>
+		15-Dec-1999 ~ 03-Jan-2000 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h3>Aug</h3>
+
+<ul>
+<li>
+	MY Vacation Trip to Seoul - 23 nights
+	<ul>
+	<li>
+		28-Aug-1999 ~ 20-Sep-1999 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+
+<h2 id="trips-1998">1998</h2>
+
+<h3>Jun</h3>
+
+<ul>
+<li>
+	ME flies to Stanford University for EE Ph.D.
+	<ul>
+	<li>
+		21-Jun-1998
+	</li>
+	<li>
+		flight
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-1995">1995</h2>
+
+<h3>Jul</h3>
+
+<ul>
+<li>
+	To study English @ Boston University - 46 nights
+	<ul>
+	<li>
+		05-Jul-1995 ~ 20-Aug-1995 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-1990">1990</h2>
+
+<h3>Jan</h3>
+
+<ul>
+<li>
+	MY RCY Camp to Taiwan - 4 nights
+	<ul>
+	<li>
+		09-Jan-1990 ~ 13-Jan-1990 KST
+	</li>
+	<li>
+		flight 1
+		-
+		??
+	</li>
+	<li>
+		flight 2
+		-
+		??
 	</li>
 	</ul>
 </li>
