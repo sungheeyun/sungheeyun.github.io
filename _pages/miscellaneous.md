@@ -317,14 +317,14 @@ Trips
 	<li>
 		flight 1
 		-
-		KE 24
+		KE0024
 		-
 		from SFO @ 12:40pm on 11-Jun-2024 PDT to ICN @ 5:20pm on 12-Jun-2024 KST
 	</li>
 	<li>
 		flight 2
 		-
-		KE 23
+		KE0023
 		-
 		from ICN @ 4:00pm on 16-Jul-2024 KST to SFO @ 11:00am on 16-Jul-2024 PDT
 	</li>
@@ -344,14 +344,14 @@ Trips
 	<li>
 		flight 1
 		-
-		KE 24
+		KE0024
 		-
 		from SFO @ 12:40pm on 11-Jun-2024 PDT to ICN @ 5:20pm on 12-Jun-2024 KST
 	</li>
 	<li>
 		flight 2
 		-
-		KE 23
+		KE0023
 		-
 		from ICN @ 4:00pm on 16-Jul-2024 KST to SFO @ 11:00am on 16-Jul-2024 PDT
 	</li>
@@ -371,16 +371,16 @@ Trips
 	<li>
 		flight 1
 		-
-		KE 24
+		KE0024
 		-
-		from SFO @ 12:40pm on 11-Jun-2024 PDT to ICN @ 5:20pm on 12-Jun-2024 KST
+		from SFO @ 30-Jan-2024 PDT to ICN
 	</li>
 	<li>
 		flight 2
 		-
-		KE 23
+		KE0023
 		-
-		from ICN @ 4:00pm on 16-Jul-2024 KST to SFO @ 11:00am on 16-Jul-2024 PDT
+		from ICN @ 15-Feb-2024 KST to SFO
 	</li>
 	</ul>
 </li>
@@ -518,14 +518,14 @@ Trips
 	<li>
 		flight 1
 		-
-		KE 24
+		KE0024
 		-
 		from SFO @ 12:40pm on 17-Sep-2022 PDT to ICN @ 5:20pm on 18-Sep-2024 KST
 	</li>
 	<li>
 		flight 2
 		-
-		KE 23
+		KE0023
 		-
 		from ICN @ 4:20pm on 24-Sep-2022 KST to SFO @ 10:40am on 24-Sep-2022 PDT
 	</li>
@@ -757,7 +757,7 @@ Trips
 	<li>
 		flight
 		-
-		KE 25
+		KE0025
 		-
 		from ICN @ 8:00pm on 18-Jun-2021 KST
 		to SFO @ 2:40pm on 18-Jun-2021 PDT
@@ -816,8 +816,12 @@ Trips
 	<li>
 		23-Nov-2020 ~ 27-Nov-2020 KST
 	</li>
-	<li> flight 1 - ??</li>
-	<li> flight 2 - ??</li>
+	<li>
+		flight 1 - KE1257 - from GMP to CJU @ 23-Nov-2020 KST
+	</li>
+	<li>
+		flight 2 - KE1257 - from CJU to GMP @ 27-Nov-2020 KST
+	</li>
 	<li>
 		stay @ <a href="https://naver.me/xhHnHxTK">핀크스 비오토피아 타운하우스</a>
 	</li>
@@ -838,7 +842,7 @@ Trips
 	<li>
 		flight
 		-
-		KE 72
+		KE0072
 		-
 		from YVR 2:40pm on 14-Aug-2020 PDT
 		to ICN @ 5:50pm on 15-Aug-2020 KST
@@ -935,11 +939,17 @@ Trips
 	</li>
 	<li>
 		flight 1
-		- ??
+		-
+		KE0072
+		-
+		from YVR on 09-Aug-2018 PDT to ICN
 	</li>
 	<li>
 		flight 2
-		- ??
+		-
+		KE0071
+		-
+		from ICN on 25-Aug-2018 KST to YVR
 	</li>
 	</ul>
 </li>
@@ -1051,7 +1061,7 @@ Trips
 	<li>
 		flight
 		-
-		KE 71
+		KE0071
 		-
 		from ICN @ 6:50pm on 12-Aug-2017 KST
 		to YVR @ 12:50pm on 12-Aug-2017 PDT
@@ -1075,7 +1085,7 @@ Trips
 	<li>
 		flight
 		-
-		KE 71
+		KE0071
 		-
 		from ICN @ 6:50pm on 09-Jul-2017 KST
 		to YVR @ 12:50pm on 09-Jul-2017 PDT
@@ -1088,8 +1098,11 @@ Trips
 
 <ul>
 <li>
-	?? - 8 nights
+	Family Trip to Hawaii - 8 nights
 	<ul>
+	<li>
+		w/ Parents-in-law, Chewon's, Sooyoung's &amp; Dongho's
+	</li>
 	<li>
 		28-Apr-2016 ~ 06-May-2016 KST
 	</li>
@@ -1111,7 +1124,7 @@ Trips
 
 <ul>
 <li>
-	?? - 7 nights
+	biz trip for research on industry &amp; academic trend of AI of Silicon Valley - 7 nights
 	<ul>
 	<li>
 		12-Mar-2016 ~ 19-Mar-2016 KST
@@ -1119,12 +1132,21 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0023
+		-
+		from ICN @ 12-Mar-2017 KST
+		to SFO @ 12-Mar-2017 PDT
 	</li>
 	<li>
 		flight 2
+		- KE0024
 		-
-		??
+		from SFO @ 18-Mar-2017 PDT
+		to ICN @ 29-Mar-2017 KST
+	</li>
+	<li>
+		stay 6 nights from 12-Mar-2017 to 18-Mar-2017 PDT
+		@ <a href="https://maps.app.goo.gl/JNU5LSSGZJpfwHh29">Residence Inn Sunnyvale Silicon Valley II</a>
 	</li>
 	</ul>
 </li>
@@ -1136,7 +1158,7 @@ Trips
 
 <ul>
 <li>
-	?? - 4 nights
+	PERSONAL trip for Apple interviews - 4 nights
 	<ul>
 	<li>
 		01-Oct-2016 ~ 05-Oct-2016 KST
@@ -1144,12 +1166,21 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0023
+		-
+		from ICN @ 01-Oct-2016 KST to SFO
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0024
+		-
+		from SFO @ 04-Oct-2016 PDT to ICN @ 05-Oct-2016 KST
+	</li>
+	<li>
+		interview
+		from 10:45am to 4:15pm on 03-Oct-2016 PDT
+		@ <a href="https://maps.app.goo.gl/N3Gup5JHwCjsyNHRA">Kifer Four Apple</a>
 	</li>
 	</ul>
 </li>
@@ -1159,7 +1190,7 @@ Trips
 
 <ul>
 <li>
-	?? - 4 nights
+	PERSONAL trip for Nvidia interviews - 4 nights
 	<ul>
 	<li>
 		06-Aug-2016 ~ 10-Aug-2016 KST
@@ -1174,6 +1205,11 @@ Trips
 		-
 		??
 	</li>
+	<li>
+		interview
+		from 11:15am to 4pm on 08-Aug-2016 PDT
+		@ <a href="https://maps.app.goo.gl/fVUt6nFKsC87q3vm8">NVIDIA</a>
+	</li>
 	</ul>
 </li>
 </ul>
@@ -1184,6 +1220,9 @@ Trips
 <li>
 	Family Trip to Guam - 4 nights
 	<ul>
+	<li>
+		w/ Parents-in-law, Chewon's \&amp; Sooyoung's
+	</li>
 	<li>
 		21-Jul-2016 ~ 25-Jul-2016 KST
 	</li>
@@ -1207,7 +1246,7 @@ Trips
 
 <ul>
 <li>
-	biz trip to Sūzhōu苏州 ?? - 6 nights
+	Family Trip to Maldive w/ Beth for the 10th anniversary!! - 6 nights
 	<ul>
 	<li>
 		26-Sep-2015 ~ 02-Oct-2015 KST
@@ -1215,17 +1254,23 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0473
+		-
+		from ICN @ 26-Sep-2015 KST
+		to MLE
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0474
+		-
+		from MLE @ 01-Oct-2015 MVT
+		to ICN
 	</li>
 	</ul>
 </li>
 <li>
-	biz trip to Sūzhōu苏州 - 11 nights
+	biz trip to Sūzhōu 苏州 - 11 nights
 	<ul>
 	<li>
 		07-Sep-2015 ~ 18-Sep-2015 KST
@@ -1233,12 +1278,16 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0897
+		-
+		from ICN @ to PVG @ 07-Sep-2015
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0894
+		-
+		from PVG to ICN KST @ 18-Sep-2015
 	</li>
 	</ul>
 </li>
@@ -1248,7 +1297,7 @@ Trips
 
 <ul>
 <li>
-	biz trip to Sūzhōu苏州 - 15 nights
+	biz trip to Sūzhōu 苏州 - 15 nights
 	<ul>
 	<li>
 		09-Jul-2015 ~ 24-Jul-2015 KST
@@ -1256,12 +1305,16 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0897
+		-
+		from ICN to PVG @ 09-Jul-2015
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0898
+		-
+		from PVG to ICN KST @ 24-Jul-2015
 	</li>
 	</ul>
 </li>
@@ -1271,7 +1324,7 @@ Trips
 
 <ul>
 <li>
-	biz trip to Sūzhōu苏州 - 11 nights
+	biz trip to Sūzhōu 苏州 - 11 nights
 	<ul>
 	<li>
 		08-Jun-2015 ~ 19-Jun-2015 KST
@@ -1279,12 +1332,16 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0897
+		-
+		from ICN to PVG @ 08-Jun-2015
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0894
+		-
+		from PVG to ICN KST @ 19-Jun-2015
 	</li>
 	</ul>
 </li>
@@ -1294,7 +1351,7 @@ Trips
 
 <ul>
 <li>
-	biz trip to Sūzhōu苏州 - 4 nights
+	biz trip to Sūzhōu 苏州 - 4 nights
 	<ul>
 	<li>
 		18-May-2015 ~ 22-May-2015 KST
@@ -1302,12 +1359,16 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0897
+		-
+		from ICN to PVG @ 18-May-2015
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0894
+		-
+		from PVG to ICN KST @ 22-May-2015
 	</li>
 	</ul>
 </li>
@@ -1317,7 +1378,7 @@ Trips
 
 <ul>
 <li>
-	biz trip to Sūzhōu苏州, China - 3 nights
+	biz trip to Sūzhōu 苏州, China - 3 nights
 	<ul>
 	<li>
 		04-Mar-2015 ~ 07-Mar-2015 KST
@@ -1325,12 +1386,16 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0893
+		-
+		from ICN to PVG @ 04-Mar-2015
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0894
+		-
+		from PVG to ICN KST @ 07-Mar-2015
 	</li>
 	</ul>
 </li>
@@ -1342,7 +1407,7 @@ Trips
 
 <ul>
 <li>
-	?? - 2 nights
+	Family Trip to Macao - 2 nights
 	<ul>
 	<li>
 		23-Nov-2014 ~ 25-Nov-2014 KST
@@ -1373,7 +1438,10 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0085
+		-
+		from ICN @ 30-Apr-2014 KST
+		to JFK @ 30-Apr-2014 EDT
 	</li>
 	<li>
 		flight 2
@@ -1415,7 +1483,7 @@ Trips
 
 <ul>
 <li>
-	Guam ?? - 3 nights
+	Family Trip to Guam - 3 nights
 	<ul>
 	<li>
 		29-Oct-2010 ~ 01-Nov-2010 KST
@@ -1447,12 +1515,47 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0051
+		-
+		from ICN @ 12-Feb-2010 @ KST
+		to HNL
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0052
+		-
+		from HNL @ 18-Feb-2010 HAST
+		to ICN
+	</li>
+	</ul>
+</li>
+</ul>
+
+<h2 id="trips-2008">2009</h2>
+
+<h3>Jan</h3>
+
+<ul>
+<li>
+	?? Family Trip to Jeju w/ Parents ?? - 2 nights
+	<ul>
+	<li>
+		27-Jan-2009 ~ 29-Jan-2009 KST
+	</li>
+	<li>
+		flight 1
+		-
+		KE1231
+		-
+		from GMP to CJU @ 27-Jan-2009 KST
+	</li>
+	<li>
+		flight 2
+		-
+		KE1256
+		-
+		from CJU to GMP @ 97-Jan-2009 KST
 	</li>
 	</ul>
 </li>
@@ -1513,7 +1616,7 @@ Trips
 
 <ul>
 <li>
-	?? - 4 nights
+	Family Trip to NY to visit Jisun - 4 nights
 	<ul>
 	<li>
 		14-Jun-2006 ~ 18-Jun-2006 KST
@@ -1521,12 +1624,18 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0081
+		-
+		from ICN @ 14-Jun-2006 KST
+		to JFK
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0082
+		-
+		from JFK @ 17-Jun-2006 EDT
+		to ICN @ 18-Jun-2006 KST
 	</li>
 	</ul>
 </li>
@@ -1557,11 +1666,11 @@ Trips
 </li>
 </ul>
 
-<h3>Oct</h3>
+<h3>Jun</h3>
 
 <ul>
 <li>
-	MY BIZ TRIP for DAC @ Anaheim
+	biz trip for DAC @ Anaheim
 	- 7 nights
 	<ul>
 	<li>
@@ -1570,12 +1679,18 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		KE0017
+		-
+		from ICN @ 12-Jun-2005 @ KST
+		to LAX
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0012
+		-
+		from LAX @ 18-Jun-2005 @ PDT
+		to ICN @ 19-Jun-2005 @ KST
 	</li>
 	</ul>
 </li>
@@ -1590,12 +1705,15 @@ Trips
 	ME flies back to Seoul to join Samsung Semiconductor!
 	<ul>
 	<li>
-		01-Dec-2004
+		01-Dec-2004 KST
 	</li>
 	<li>
-		flight 1
+		flight
 		-
-		??
+		KE0024
+		-
+		from SFO @ 30-Nov-2004 PDT
+		to ICN @ 01-Dev-2004 KST
 	</li>
 	</ul>
 </li>
@@ -1605,20 +1723,26 @@ Trips
 
 <ul>
 <li>
-	MY Vacation Trip to Seoul - 4 nights
+	MY Vacation Trip to Seoul - 5 nights
 	<ul>
 	<li>
-		20-Oct-2004 ~ 24-Oct-2004 PDT
+		19-Oct-2004 PDT ~ 24-Oct-2004 PDT
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		KE0024
+		-
+		from SFO @ 19-Oct-2004 PDT
+		to ICN 20-Oct-2004 KST
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0023
+		-
+		from ICN @ 24-Oct-2004 KST
+		to SFO
 	</li>
 	</ul>
 </li>
@@ -1628,20 +1752,26 @@ Trips
 
 <ul>
 <li>
-	MY Vacation Trip to Seoul - 8 nights
+	MY Vacation Trip to Seoul - 9 nights
 	<ul>
 	<li>
-		24-Apr-2004 ~ 02-May-2004 PDT
+		23-Apr-2004 PDT ~ 02-May-2004 PDT
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		KE0024
+		-
+		from SFO @ 23-Apr-2004 PDT
+		to ICN 24-Apr-2004 KST
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0023
+		-
+		from ICN @ 02-May-2004 KST
+		to SFO
 	</li>
 	</ul>
 </li>
@@ -1653,20 +1783,26 @@ Trips
 
 <ul>
 <li>
-	MY Vacation Trip to Seoul - 6 nights
+	MY Vacation Trip to Seoul - 7 nights
 	<ul>
 	<li>
-		11-Aug-2003 ~ 17-Aug-2003 PDT
+		10-Aug-2003 PDT ~ 17-Aug-2003 PDT
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		KE0024
+		-
+		from SFO @ 10-Aug-2003 PDT
+		to ICN 11-Aug-2003 KST
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0023
+		-
+		from ICN @ 17-Aug-2003 KST
+		to SFO
 	</li>
 	</ul>
 </li>
@@ -1676,20 +1812,26 @@ Trips
 
 <ul>
 <li>
-	MY Vacation Trip to Seoul - 36 nights
+	MY Vacation Trip to Seoul - 37 nights
 	<ul>
 	<li>
-		19-Jun-2003 ~ 25-Jul-2003 PDT
+		18-Jun-2003 PDT ~ 25-Jul-2003 PDT
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		KE0024
+		-
+		from SFO @ 18-Jun-2003 PDT
+		to ICN 19-Jun-2003 KST
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0023
+		-
+		from ICN @ 25-Jul-2003 KST
+		to SFO
 	</li>
 	</ul>
 </li>
@@ -1701,10 +1843,10 @@ Trips
 
 <ul>
 <li>
-	MY Vacation Trip to Seoul - 5 nights
+	MY Vacation Trip to Seoul - 6 nights
 	<ul>
 	<li>
-		21-Dec-2002 ~ 26-Dec-2002 PDT
+		20-Dec-2002 PDT ~ 26-Dec-2002 PDT
 	</li>
 	<li>
 		flight 1
@@ -1724,20 +1866,26 @@ Trips
 
 <ul>
 <li>
-	MY Vacation Trip to Seoul - 10 nights
+	MY Vacation Trip to Seoul - 11 nights
 	<ul>
 	<li>
-		12-Sep-2002 ~ 22-Sep-2002 PDT
+		11-Sep-2002 PDT ~ 22-Sep-2002 KST
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		KE0024
+		-
+		from SFO @ 11-Sep-2002 PDT
+		to ICN 12-Sep-2002 KST
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0023
+		-
+		from ICN @ 22-Sep-2002 KST
+		to SFO
 	</li>
 	</ul>
 </li>
@@ -1747,20 +1895,26 @@ Trips
 
 <ul>
 <li>
-	MY Vacation Trip to Seoul - 3 nights
+	MY Vacation Trip to Seoul - 4 nights
 	<ul>
 	<li>
-		30-May-2002 ~ 02-Jun-2002 PDT
+		29-May-2002 PDT ~ 02-Jun-2002 PDT
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		KE0024
+		-
+		from SFO @ 29-May-2002 PDT
+		to ICN 30-May-2002 KST
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0023
+		-
+		from ICN @ 02-Jun-2002 KST
+		to SFO
 	</li>
 	</ul>
 </li>
@@ -1773,10 +1927,10 @@ Trips
 
 <ul>
 <li>
-	MY Vacation Trip to Seoul - 12 nights
+	MY Vacation Trip to Seoul - 13 nights
 	<ul>
 	<li>
-		09-Jun-2001 ~ 21-Jun-2001 PDT
+		08-Jun-2001 ~ 21-Jun-2001 PDT
 	</li>
 	<li>
 		flight 1
@@ -1796,20 +1950,26 @@ Trips
 
 <ul>
 <li>
-	MY Vacation Trip to Seoul - 14 nights
+	MY Vacation Trip to Seoul - 15 nights
 	<ul>
 	<li>
-		25-Mar-2001 ~ 08-Apr-2001 PDT
+		24-Mar-2001 PDT ~ 08-Apr-2001 PDT
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		KE0024
+		-
+		from SFO @ 24-Mar-2001 PDT
+		to SEL 25-Mar-2001 KST
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0023
+		-
+		from ICN @ 08-Apr-2001 KST
+		to SFO
 	</li>
 	</ul>
 </li>
@@ -1822,20 +1982,26 @@ Trips
 
 <ul>
 <li>
-	MY Vacation Trip to Seoul - 23 nights
+	MY Vacation Trip to Seoul - 20 nights
 	<ul>
 	<li>
-		15-Dec-1999 ~ 03-Jan-2000 PDT
+		14-Dec-1999 PDT ~ 03-Jan-2000 PDT
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		KE0024
+		-
+		from SFO @ 14-Dec-1999 PDT
+		to SEL @ 14-Dec-1999 KST
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0023
+		-
+		from SEL @ 03-Jan-2000 KST
+		to SFO
 	</li>
 	</ul>
 </li>
@@ -1845,20 +2011,26 @@ Trips
 
 <ul>
 <li>
-	MY Vacation Trip to Seoul - 23 nights
+	MY Vacation Trip to Seoul - 24 nights
 	<ul>
 	<li>
-		28-Aug-1999 ~ 20-Sep-1999 PDT
+		27-Aug-1999 PDT ~ 20-Sep-1999 PDT
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		KE0024
+		-
+		from SFO @ 27-Aug-1999 PDT
+		to SEL @ 28-Aug-1999 KST
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		KE0023
+		-
+		from SEL @ 20-Sep-1999 KST
+		to SFO
 	</li>
 	</ul>
 </li>
