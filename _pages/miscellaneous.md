@@ -169,10 +169,14 @@ Trips
 	<li>
 		flight 1
 		-
+		??
+		-
 		from SFO to SZG
 	</li>
 	<li>
 		flight 2
+		-
+		??
 		-
 		from SZG to SFO
 	</li>
@@ -195,14 +199,14 @@ Trips
 	<li>
 		flight 1
 		-
-		United 2328
+		UA 2328
 		-
 		from SFO @ 2:30pm PDT to SLC @ 5:24pm MDT on 15-Oct-2024
 	</li>
 	<li>
 		flight 2
 		-
-		United 1491
+		UA 1491
 		-
 		from SLC @ 6:45pm MDT to SFO @ 7:54pm PDT on 16-Oct-2024
 	</li>
@@ -225,7 +229,7 @@ Trips
 	<li>
 		flight 1
 		-
-		United 893
+		UA 893
 		-
 		from SFO @ 10:35am on 23-Aug-2024 PDT to ICN @ 3:00pm on 24-Aug-2024 KST
 	</li>
@@ -252,14 +256,14 @@ Trips
 	<li>
 		flight 1
 		-
-		Alaska 1059
+		AS1059
 		-
 		from SFO @ 2:47pm to SEA @ 4:59pm on 01-Aug-2024 PDT
 	</li>
 	<li>
 		flight 2
 		-
-		Alaska 167
+		AS167
 		-
 		from SEA @ 6:45pm to SFO @ 8:55pm on 05-Aug-2024 PDT
 	</li>
@@ -336,24 +340,26 @@ Trips
 
 <ul>
 <li>
-	biz trip to Seoul - 8 nights
+	biz trip to Seoul - 9 nights
 	<ul>
 	<li>
-		27-May-2024 ~ 04-Jun-2024 PDT
+		26-May-2024 PDT ~ 04-Jun-2024 PDT
 	</li>
 	<li>
 		flight 1
 		-
-		KE0024
+		UA 805
 		-
-		from SFO @ 12:40pm on 11-Jun-2024 PDT to ICN @ 5:20pm on 12-Jun-2024 KST
+		from SFO @ 26-May-2024 PDT
+		to ICN @ 27-May-2024 KST
 	</li>
 	<li>
 		flight 2
 		-
-		KE0023
+		UA 8921
 		-
-		from ICN @ 4:00pm on 16-Jul-2024 KST to SFO @ 11:00am on 16-Jul-2024 PDT
+		from ICN @ 04-Jun-2024 KST
+		to SFO
 	</li>
 	</ul>
 </li>
@@ -450,8 +456,22 @@ Trips
 	<li>
 		24-Jul-2023 ~ 01-Aug-2023 PDT
 	</li>
-	<li> flight 1 - ??</li>
-	<li> flight 2 - ??</li>
+	<li>
+		flight 1
+		-
+		AS42
+		-
+		from SFO @ 24-Jul-2023 @ PDT
+		to JFK
+	</li>
+	<li>
+		flight 2
+		-
+		AS41
+		-
+		from JFK @ 01-Aug-2023 EDT
+		to SFO
+	</li>
 	<li>
 		stay @ <a href="https://maps.app.goo.gl/8e4Wn8GYq7Ht2tRQ7">Jisun's</a>
 	</li>
@@ -573,15 +593,23 @@ Trips
 	Family Trip &amp; biz trip to Seoul - 22 nights
 	<ul>
 	<li>
-		04-Jun-2022 ~ 26-Jun-2022 PDT
+		03-Jun-2022 PDT ~ 26-Jun-2022 PDT
 	</li>
 	<li>
 		flight 1
-		- ??
+		-
+		OZ0211
+		-
+		from SFO @ 03-Jun-2022 PDT
+		to ICN @ 04-Jun-2022 KST
 	</li>
 	<li>
 		flight 2
-		- ??
+		-
+		OZ0212
+		-
+		from ICN @ 26-Jun-2022 KST
+		to SFO
 	</li>
 	<li>
 		stay @ <a href="https://naver.me/xfaPZy2q">Four Points by Sheraton Seoul, Gangnam</a>
@@ -602,14 +630,14 @@ Trips
 	<li>
 		flight 1
 		-
-		United 893
+		UA 893
 		-
 		from SFO @ 10:35am on 07-Jan-2022 PDT to ICN @ 4:15pm on 08-Jan-2022 KST
 	</li>
 	<li>
 		flight 2
 		-
-		United 892
+		UA 892
 		-
 		from ICN 6:00pm on 29-Jan-2022 KST to SFO @ 11:20am on 29-Jan-2022 PDT
 	</li>
@@ -675,28 +703,28 @@ Trips
 	<li>
 		flight 1
 		-
-		Alaska 2314
+		UA 1861
 		-
 		from SJC @ 2:30pm PDT to IAH @ 8:11pm CDT on 22-Nov-2021
 	</li>
 	<li>
 		flight 2
 		-
-		United 5508
+		OO 5508 (UA)
 		-
 		from IAH to OKC on 22-Nov-2021
 	</li>
 	<li>
 		flight 3
 		-
-		United 4709
+		OO 4709 (UA)
 		-
 		from OKC @ 11:54am to DEN @ 12:44pm MDT on 25-Nov-2021
 	</li>
 	<li>
 		flight 4
 		-
-		United 5718
+		UA 5718 (UA)
 		-
 		from DEN @ 2:44pm MDT to SJC @ 4:31pm PDT on 25-Nov-2021
 	</li>
@@ -1031,6 +1059,45 @@ Trips
 </li>
 </ul>
 
+<h3>Feb</h3>
+
+<ul>
+<li>
+	Personal Visit for Boyd's Day - 1 night
+	<ul>
+	<li>
+		except that I did not attend it because it was reschedule for another date after I purchased the plane ticket
+	</li>
+	<li>
+		but I met Haitham's family
+		and had a chat with Prof. Boyd at his home!
+	</li>
+	<li>
+		23-Feb-2018 ~ 24-Feb-2018
+	</li>
+	<li>
+		flight 1
+		-
+		AC8112
+		-
+		from YVR @ 23-Feb-2018 PDT
+		to SJC
+	</li>
+	<li>
+		flight 2
+		-
+		AC8115
+		-
+		from SJC @ 24-Feb-2018 PDT
+		to YVR
+	</li>
+	<li>
+		stay @ <a href="https://maps.app.goo.gl/hg5Pj2iP1T42EgCF6">Radisson Hotel Sunnyvale - Silicon Valley</a>
+	</li>
+	</ul>
+</li>
+</ul>
+
 <h2 id="trips-2017">2017</h2>
 
 <h3>Dec</h3>
@@ -1193,17 +1260,23 @@ Trips
 	PERSONAL trip for Nvidia interviews - 4 nights
 	<ul>
 	<li>
-		06-Aug-2016 ~ 10-Aug-2016 KST
+		06-Aug-2016 KST ~ 10-Aug-2016 KST
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		UA 0892
+		-
+		from ICN @ 06-Aug-2016 KST
+		to SFO
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		UA 0893
+		-
+		from SFO @ 09-Aug-2016 PDT
+		to ICN @ 10-Aug-2016 KST
 	</li>
 	<li>
 		interview
@@ -1538,7 +1611,7 @@ Trips
 
 <ul>
 <li>
-	?? Family Trip to Jeju w/ Parents ?? - 2 nights
+	Family Trip to Jeju - 2 nights
 	<ul>
 	<li>
 		27-Jan-2009 ~ 29-Jan-2009 KST
@@ -1563,24 +1636,30 @@ Trips
 
 <h2 id="trips-2008">2008</h2>
 
-<h3>Jun</h3>
+<h3>Apr</h3>
 
 <ul>
 <li>
-	?? - 4 nights
+	Family Vacation Trip to Phuket - 4 nights
 	<ul>
 	<li>
-		04-Apr-2008 ~ 08-Apr-2008 KST
+		04-Apr-2008 KST ~ 08-Apr-2008 KST
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		OZ0747
+		-
+		from ICN 04-Apr-2008 KST
+		to HKT
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		OZ0748
+		-
+		from HKT
+		to ICN 08-Apr-2008 KST
 	</li>
 	</ul>
 </li>
@@ -1590,7 +1669,7 @@ Trips
 
 <ul>
 <li>
-	Family Vacation Trip to Hongkong ?
+	Family Vacation Trip to Hongkong
 	- 3 nights
 	<ul>
 	<li>
@@ -1851,12 +1930,18 @@ Trips
 	<li>
 		flight 1
 		-
-		??
+		OZ0213
+		-
+		from SFO @ 20-Dec-2002 PDT
+		to ICN @ 21-Dec-2002 KST
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		OZ0214
+		-
+		from ICN @ 26-Dec-2002 KST
+		to SFO @ 26-Dec-2002 PDT
 	</li>
 	</ul>
 </li>
@@ -1930,17 +2015,23 @@ Trips
 	MY Vacation Trip to Seoul - 13 nights
 	<ul>
 	<li>
-		08-Jun-2001 ~ 21-Jun-2001 PDT
+		08-Jun-2001 PDT ~ 21-Jun-2001 PDT
 	</li>
 	<li>
 		flight 1
 		-
-		??
+		OZ0213
+		-
+		from SFO @ 08-Jun-2001 PDT
+		to ICN @ 09-Jun-2001 KST
 	</li>
 	<li>
 		flight 2
 		-
-		??
+		OZ0214
+		-
+		from ICN @ 21-Jun-2001 KST
+		to SFO @ 21-Jun-2001 PDT
 	</li>
 	</ul>
 </li>
