@@ -238,11 +238,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </ul>
 
 
-<!--h1 id="todo">todo</h1>
+<h1 id="todo">todo</h1>
 
-- 수심결 : 보조국사
-- 금강경 : 능단금강마하반야하라밀다경
-- 법성게 : 의상대사
-- 육조단경 : 육조 혜능대사
-- 육조단경 : 육조 혜능대사
--->
+- 수심결 : 보조국사 <a href="https://blog.naver.com/ancit0/221287958481">수심결修心訣 해석 - 작성자 임철호 @ 네이버 블로그</a>
+- 금강경 : 능단금강마하반야하라밀다경 <a href="https://blog.naver.com/baehogwan121/220609936246">금강경 전문 @ 네이버 블로그</a>
+- 법성게 : 의상대사 <a href="http://www.seoknamsa.or.kr/www/bbs/board.php?bo_table=budapainting&wr_id=33&sca=%EB%B6%88%ED%99%94&sfl=mb_id%2C1&stx=suknamsa">의상조사 법성게 @ 불교그림방</a>
+- 육조단경 : 육조 혜능대사 <a href="https://blog.naver.com/venuslv/12263161">육조단경六祖壇經 @ 네이버 블로그</a>
