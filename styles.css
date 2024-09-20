@@ -148,3 +148,9 @@ figcaption {
 	max-width: 80%;
 	max-height: 200px;
 }
+
+.emph {
+	color: blue;
+	font-style: italic;
+}
+
