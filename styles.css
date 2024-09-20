@@ -154,3 +154,8 @@ figcaption {
 	font-style: italic;
 }
 
+.line-by-line-translation {
+	display: block;
+	margin-top: 8px;
+}
+
