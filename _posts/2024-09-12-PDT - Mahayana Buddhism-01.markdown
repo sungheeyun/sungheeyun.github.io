@@ -56,14 +56,34 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <img src="/assets/images/buddhism/no-self.png">
 </div>
 
-<!--h1 id="4">
-사성제四聖諦 - Four Noble Truths
-</h1-->
+<h1 id="4">
+사성제四聖諦
+</h1>
+
+사성제四聖諦(산스크리트어: चतुरार्यसत्यानि catvāri āryasatyāni, 영어: Four Noble Truths) 또는 사제四諦는
+&lt;아함경(阿含經)&gt;에 나오는 원시 불교 가르침으로 불교 기본 교의 가운데 하나이다.
+"제諦(Satya)"는 진리 또는 깨우침을 뜻한다.
+사성제는
+영원永遠히 변變하지 않는 네 가지 성聖스러운 진리,
+네 가지 높은 깨우침(Ārya: 높은, Satya: 깨우침) 또는 4가지 고귀한 진리(Four Noble Truths)라는 뜻인데
+고제苦諦 · 집제集諦 · 멸제滅諦 · 도제道諦의
+4가지 진리 또는 깨우침을 의미한다.
+흔히 이 네 가지를 간단히 고집멸도苦集滅道라고 부른다.
+
+고집멸도苦集滅道는
+집集과 고苦라는 연기緣起하는 항목과 道도와 멸滅이라는 연기緣起하는 항목을 합하여 나란히 늘어놨다.
+여기에서 집集은 고苦의 원인 또는 인연이 되며
+도道는 멸滅의 원인 또는 인연이 된다.
+고집멸도는 고통의 원인이 집착 또는 갈애이며 고통을 소멸시키는 원인 또는 수단이 도라는 연기관계를 밝힌 것이다.
+
+한편, 고타마 붓다는 "우주는 영원한가? 영원하지 않은가?"와 같은 형이상학적 질문들인
+십사무기十事無記는 사성제四聖諦와는 달리
+지혜(智) · 깨달음(覺) · 열반涅槃으로 나아가게 하는 것이 아니기 때문에
+가르치거나 배울 것이 아니라고 하였다.
 
 <!--
 
 사성제四聖諦는
-영원永遠히 변變하지 않는 네 가지 성聖스러운 진리,
 혹은 네 가지 높은 깨우침을 뜻하는데
 고제苦諦, 집제集諦, 멸제滅諦, 도제道諦의 4가지 진리 또는 깨우침을 의미한다.
 흔히 고집멸도苦集滅道라고도 한다.
@@ -758,20 +778,36 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <h1 id="ref">Reference</h1>
 
 <ul>
-<li> <a href="https://moktaksori.kr/Writing-2/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Mzt9&bmode=view&idx=7258059&t=board">
-십이연기 @ 목탁소리</a></li>
+<li>
+	<a href="https://m.yes24.com/Goods/Detail/76891889">
+	스무살 반야심경에 미치다 - 도올 김용옥
+	</a>
+</li>
+<li>
+	<a href="https://namu.wiki/w/%EC%82%AC%EC%84%B1%EC%A0%9C">
+	사성제 @ 나무위키</a>
+</li>
+<li>
+	<a href="https://moktaksori.kr/Writing-2/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Mzt9&bmode=view&idx=7258059&t=board">
+	십이연기 @ 목탁소리</a>
+</li>
+<li>
+	<a href="https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B8%B0_(%EB%B6%88%EA%B5%90)">
+	연기 @ 위키백과</a>
+</li>
 
-<li><a href="https://ko.wikipedia.org/wiki/%EC%97%B0%EA%B8%B0_(%EB%B6%88%EA%B5%90)">
-연기 @ 위키백과</a></li>
-
-<li><a href="https://ko.wikipedia.org/wiki/%EC%8B%AD%EC%9D%B4%EC%97%B0%EA%B8%B0%EC%84%A4">
-십이연기설 @ 위키백과</a></li>
-
-<li><a href="http://www.ibulgyo.com">
-불교신문</a></li>
-
-<li><a href="https://www.nichirenlibrary.org/en/dic/Content/T/291">
-Soak Gakkai - Nichiren Buddhism Library</a></li>
+<li>
+	<a href="https://ko.wikipedia.org/wiki/%EC%8B%AD%EC%9D%B4%EC%97%B0%EA%B8%B0%EC%84%A4">
+	십이연기설 @ 위키백과</a>
+</li>
+<li>
+	<a href="http://www.ibulgyo.com">
+	불교신문</a>
+</li>
+<li>
+	<a href="https://www.nichirenlibrary.org/en/dic/Content/T/291">
+	Soak Gakkai - Nichiren Buddhism Library</a>
+</li>
 </ul>
 
 
