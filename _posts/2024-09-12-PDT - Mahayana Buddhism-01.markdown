@@ -31,7 +31,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 삼법인 또는 사법인
 </h2>
 
-4법인이란
+4법인이란 다음 네가지를 말한다.
 <ol>
 <li>
 제행무상諸行無常
@@ -52,6 +52,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 제법무아諸法無我는 이 세상에 존재하는 모든 사물은 인연으로 생겼으며 변하지 않는 참다운 자아의 실체는 존재하지 않는다는 생각이고,
 열반적정涅槃寂靜은 열반의 경지는 고요하고 청정하며 안정安定한 곳이라는 뜻으로 이르는 말이다.
 
+<div class="img-container">
+<img src="/assets/images/buddhism/no-self.png">
+</div>
 
 <!--h1 id="4">
 사성제四聖諦 - Four Noble Truths
@@ -101,6 +104,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <!--div class="img-container">
 <img src="/assets/images/buddhism/chain-of-cause-and-effect-01.jpeg">
 </div-->
+
+<div class="img-container">
+<img src="/assets/images/buddhism/chain-of-causation.png">
+</div>
 
 <h2 id="12">12연기설十二緣起說</h2>
 
