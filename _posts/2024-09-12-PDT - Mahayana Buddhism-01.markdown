@@ -130,6 +130,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 그 대상 조차 제대로 특정짓지 못하는 상태에 머물게 되므로
 해탈解脫을 향한 여정의 첫 걸음부터 큰 장애에 부딪히게 된다.
 
+<div class="img-container">
+<img src="/assets/images/buddhism/dukkha.png">
+</div>
+
 괴로움은 다음 팔고八苦의 8가지로 분류하여 세부적으로 설명한다.
 <!--팔고(八苦): 중생이 겪는 여덟 가지 괴로움.-->
 
@@ -171,6 +175,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 모두 <a href="#12">십이연기十二緣起</a>로 조건지어져
 찰나생찰나멸刹那生刹那滅함을 알지 못한다. 괴로움이 어디서 오고 어떻게 유지되며 어디로 향하는지, 그 원리와 이유를 알지 못한다는 것이다.
 
+<div class="img-container">
+<img src="/assets/images/buddhism/samudaya.png">
+</div>
+
 괴로움의 원인은 12가지 상호의존적인 단계인 <a href="#12">십이연기十二緣起</a>로 설명하는 경우가 많다.
 12연기의 설명에서 무명無明, 잠재적 형성력(行), 식별작용(識), 정신과 물질(名色),
 눈 · 귀 · 코 · 혀 · 몸 · 마음 등의 6가지 감각기관(六處),
@@ -187,6 +195,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 알면 괴로움을 없앨 수 있다.
 이 멸성제의 원리를 가장 수려하게 설명한 경전이 바로 그 유명한 반야심경般若心經이다.
 
+<div class="img-container">
+<img src="/assets/images/buddhism/nirodha.jpeg">
+</div>
 
 <h2 id="marga">도성제道聖諦 - Marga</h2>
 
@@ -198,6 +209,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 즉, 깨달음(열반涅槃)으로 가는 길은 없으며,
 길이 곧 깨달음(열반涅槃)이라는 말과 일맥상통한다.
 
+<div class="img-container">
+<img src="/assets/images/buddhism/marga.jpeg">
+</div>
 
 <h1 id="8">
 팔정도八正道
@@ -212,6 +226,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 8정도의 반대를 8사八邪 또는 8사행八邪行이라 한다.
 8정도를 청정한 수행修行 또는 실천實踐이라는 뜻에서 범행梵行이라고도 한다.
 8정도를 구하는 것을 범행구梵行求라고 한다.<sup><a href="#footnote1" id="ref1">1</a></sup>
+
+<div class="img-container">
+<img src="/assets/images/buddhism/noble-eightfold-path.png">
+</div>
 
 정도의 여덟 구성요소 또는 여덟 개의 길은 다음과 같다.
 
