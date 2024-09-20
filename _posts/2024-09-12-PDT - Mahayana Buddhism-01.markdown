@@ -199,12 +199,52 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 길이 곧 깨달음(열반涅槃)이라는 말과 일맥상통한다.
 
 
+<h1 id="8">
+팔정도八正道
+</h1>
+
+8정도八正道(산스크리트어: āryāṣṭāṅgamārga, 팔리어: pa ariyo aṭṭhaṅgiko maggo, 영어: Noble Eightfold Path),
+8성도八聖道 또는 8지성도八支聖道는 사성제四聖諦 가운데 마지막의 도성제道聖諦에서 가르치는
+깨달음(멸성제滅聖諦)을 성취하는 원인이 되는 "여덟 개의 부분으로 이루어진 성스러운 길, 수단 또는 실천 덕목"이다.
+
+<!--7과 37도품의 마지막 그룹인 제7과의 수행법이다.-->
+
+8정도의 반대를 8사八邪 또는 8사행八邪行이라 한다.
+8정도를 청정한 수행修行 또는 실천實踐이라는 뜻에서 범행梵行이라고도 한다.
+8정도를 구하는 것을 범행구梵行求라고 한다.<sup><a href="#footnote1" id="ref1">1</a></sup>
+
+정도의 여덟 구성요소 또는 여덟 개의 길은 다음과 같다.
+
+<!--
+- 정견(正見): 바르게 보기
+- 정사유(正思惟) · 정사(正思): 바르게 생각하기
+- 정어(正語): 바르게 말하기
+- 정업(正業): 바르게 행동하기
+- 정명(正命): 바르게 생활하기
+- 정정진(正精進) · 정근(正勤): 바르게 정진하기
+- 정념(正念): 바르게 깨어 있기
+- 정정(正定): 바르게 삼매(집중)하기
+-->
+
+- 빤나(지혜)
+	- 정견正見(Samma-ditthi; right view) - 올바른 시각 · 견해 · 입장
+	- 정사유正思惟 · 정사正思(Samma-sankappa; right thought) - 올바른 의도 · 생각
+- 시라(윤리)
+	- 정어正語(Samma-vaca; right speech) - 올바른 말
+	- 정업正業(Samma-kammanta; right action) - 올바른 행위
+	- 정명正命(Samma-ajiva; right livelihood) - 올바른 생활 · 생계
+- 사마디(집중)
+	- 정정진正精進 · 정근正勤(Samma-vayama; right effort) - 올바른 수고로움 · 노력
+	- 정념正念(Samma-sati; right mindfulness) - 올바른 알아차림
+	- 정정正定(Samma-samadhi; right concentration) - 올바른 집중
+
+
 
 <h1 id="cause-and-effect">연기법緣起法</h1>
 
 연기緣起라는 단어는 산스크리트어 프라티트야 삼무파다(प्रतीत्यसमुत्पाद pratītyasamutpāda)를 뜻에 따라 번역한 것으로
 인연생기因緣生起(인과 연에 의지하여 생겨남, 인연따라 생겨남)의 준말이다.
-한역漢譯 경전에서는 발랄저제야삼모파다鉢剌底帝夜參牟播陀로 음차하여 표기한 경우도 있다.<sup><a href="#footnote1" id="ref1">1</a></sup>
+한역漢譯 경전에서는 발랄저제야삼모파다鉢剌底帝夜參牟播陀로 음차하여 표기한 경우도 있다.<sup><a href="#footnote2" id="ref2">2</a></sup>
 
 
 연기법緣起法이란 인연생기因緣生起의 줄임말이다.
@@ -235,9 +275,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <img src="/assets/images/buddhism/chain-of-causation.png">
 </div>
 
-<h2 id="12">12연기설十二緣起說</h2>
+<h2 id="12">십이연기설十二緣起說</h2>
 
-12연기十二緣起(paîṭcca-samuppāda)란
+십이연기十二緣起(paîṭcca-samuppāda)란
 무명無明, 행行, 식識, 명색名色, 육입六入, 촉觸, 수受, 애愛, 취取, 유有, 생生, 노사老死를 뜻한다.
 
 &lt;잡아함경&gt; 299경에는 다음과 같이 12연기를 설명하고 있다.
@@ -889,6 +929,14 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	사성제 @ 나무위키</a>
 </li>
 <li>
+	<a href="https://ko.wikipedia.org/wiki/%ED%8C%94%EC%A0%95%EB%8F%84">
+	팔정도 @ 위키백과</a>
+</li>
+<li>
+	<a href="https://namu.wiki/w/%ED%8C%94%EC%A0%95%EB%8F%84">
+	팔정도 @ 나무위키</a>
+</li>
+<li>
 	<a href="https://moktaksori.kr/Writing-2/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6Mzt9&bmode=view&idx=7258059&t=board">
 	십이연기 @ 목탁소리</a>
 </li>
@@ -916,8 +964,18 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <hr>
 <ol>
 <li id="footnote1">
+팔리어에서 길(道)은 막고(maggo)라는 단수형으로 표시되어 있는데,
+이것은 여덟 개의 길이 전체로서 하나를 이루고 있으며 또한 각각의 길은 나머지 일곱을 포함한다는 것을 의미한다.
+즉, 여덟 개의 길 가운데 어느 하나가 실천되면 다른 일곱 개의 길이 그 하나에 포함되어 동시에 행하여지는,
+서로 포섭하는 관계에 있다.
+이러한 취지에 따라,
+팔정도의 영어 번역어도 'Noble Eightfold Path'라고 하여
+길(path)을 복수가 아닌 단수로 표현하고 있으며,
+여덟도 단순한 여덟(eight)이 아닌 팔중八重(eightfold)으로 표현하고 있다.
+<a href="#ref1">↩</a></li>
+<li id="footnote2">
 Pratītya의 사전적인 뜻은 '의존하다'이고 samutpāda의 사전적인 뜻은 '생겨나다 · 발생하다'이다.
 연기緣起, 인연생기因緣生起, 즉 '프라티트야 삼무파다'는 영어권에서는
 dependent arising, conditioned genesis, dependent co-arising, 또는 interdependent arising 등으로 번역되고 있다.
-<a href="#ref1">↩</a></li>
+<a href="#ref2">↩</a></li>
 </ol>
