@@ -21,7 +21,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 <h1 id="secrets-for-mind-cultivation">
-목우자수심결牧牛子修心訣
+목우자수심결
 </h1>
 
 목우자수심결牧牛子修心訣(언해諺解)는
@@ -100,7 +100,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 
 <h1 id="text-and-commentary">
-목우자수심결牧牛子修心訣 본문과 해석
+본문과 해석
 </h1>
 
 <h2 id="if-know">자기 마음을 알면</h2>
@@ -465,25 +465,6 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 
-
-
-<h1 id="ref">Reference</h1>
-
-<ul>
-<li>
-	<a href="https://blog.naver.com/ancit0/221287958481">
-	수심결修心訣 해석 @ 네이버 블로그
-	</a>
-</li>
-<li>
-	<a href="https://cafe.daum.net/seojinam/eyey/6">
-	수심결修心訣 원문과 번역본 @ 다음카페
-	</a>
-</li>
-</ul>
-
-
-
 <h1 id="footnotes">Footnotes</h1>
 
 <ol>
@@ -510,4 +491,20 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 덕상은 반야般若를 제외한 보시布施&nbsp;&sdot;&nbsp;지계持戒&nbsp;&sdot;&nbsp;인욕忍辱&nbsp;&sdot;&nbsp;정진精進&nbsp;&sdot;&nbsp;선정禪定의 다섯 바라밀波羅蜜을 뜻한다.
 <a href="#ref4">↩</a></li>
 </ol>
+
+
+<h1 id="ref">Reference</h1>
+
+<ul>
+<li>
+	<a href="https://blog.naver.com/ancit0/221287958481">
+	수심결修心訣 해석 @ 네이버 블로그
+	</a>
+</li>
+<li>
+	<a href="https://cafe.daum.net/seojinam/eyey/6">
+	수심결修心訣 원문과 번역본 @ 다음카페
+	</a>
+</li>
+</ul>
 
