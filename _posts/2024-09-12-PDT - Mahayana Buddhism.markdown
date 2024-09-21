@@ -31,7 +31,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 불교는 수승殊勝한 이해와 미흡未洽한 이해의 차별은 있어도
 삼법인三法印이라는
 확고한 법인이 있었기 때문에
-매우 포용적인 발전상을 축적해 왔다.
+매우 포용적인 발전상을 축적해 왔다.<sup><a href="#footnote3" id="ref3">3</a></sup>
 
 
 <h2 id="three-or-four">
@@ -982,18 +982,24 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <hr>
 <ol>
 <li id="footnote1">
-팔리어에서 길(道)은 막고(maggo)라는 단수형으로 표시되어 있는데,
-이것은 여덟 개의 길이 전체로서 하나를 이루고 있으며 또한 각각의 길은 나머지 일곱을 포함한다는 것을 의미한다.
-즉, 여덟 개의 길 가운데 어느 하나가 실천되면 다른 일곱 개의 길이 그 하나에 포함되어 동시에 행하여지는,
-서로 포섭하는 관계에 있다.
-이러한 취지에 따라,
-팔정도의 영어 번역어도 'Noble Eightfold Path'라고 하여
-길(path)을 복수가 아닌 단수로 표현하고 있으며,
-여덟도 단순한 여덟(eight)이 아닌 팔중八重(eightfold)으로 표현하고 있다.
-<a href="#ref1">↩</a></li>
+	팔리어에서 길(道)은 막고(maggo)라는 단수형으로 표시되어 있는데,
+	이것은 여덟 개의 길이 전체로서 하나를 이루고 있으며 또한 각각의 길은 나머지 일곱을 포함한다는 것을 의미한다.
+	즉, 여덟 개의 길 가운데 어느 하나가 실천되면 다른 일곱 개의 길이 그 하나에 포함되어 동시에 행하여지는,
+	서로 포섭하는 관계에 있다.
+	이러한 취지에 따라,
+	팔정도의 영어 번역어도 'Noble Eightfold Path'라고 하여
+	길(path)을 복수가 아닌 단수로 표현하고 있으며,
+	여덟도 단순한 여덟(eight)이 아닌 팔중八重(eightfold)으로 표현하고 있다.
+&nbsp;<a href="#ref1">↩</a></li>
 <li id="footnote2">
-Pratītya의 사전적인 뜻은 '의존하다'이고 samutpāda의 사전적인 뜻은 '생겨나다 · 발생하다'이다.
-연기緣起, 인연생기因緣生起, 즉 '프라티트야 삼무파다'는 영어권에서는
-dependent arising, conditioned genesis, dependent co-arising, 또는 interdependent arising 등으로 번역되고 있다.
-<a href="#ref2">↩</a></li>
+	Pratītya의 사전적인 뜻은 '의존하다'이고 samutpāda의 사전적인 뜻은 '생겨나다 · 발생하다'이다.
+	연기緣起, 인연생기因緣生起, 즉 '프라티트야 삼무파다'는 영어권에서는
+	dependent arising, conditioned genesis, dependent co-arising, 또는 interdependent arising 등으로 번역되고 있다.
+&nbsp;<a href="#ref2">↩</a></li>
+<li id="footnote3">
+	<a href="https://m.yes24.com/Goods/Detail/76891889">
+	스무살 반야심경에 미치다 - 도올 김용옥
+	</a>
+&nbsp;<a href="#ref3">↩</a></li>
 </ol>
+
