@@ -105,7 +105,6 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <h2 id="if-know">자기 마음을 알면</h2>
 
-<hr>
 <p>
 三界熱惱
 삼계열뇌
@@ -351,7 +350,6 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <h2 id="originally">마음은 본래 스스로 원만한 것</h2>
 
-<hr>
 <p>
 故世尊云
 고세존운
