@@ -11,8 +11,9 @@ permalink: /todo-list/
 <h1 id="todo-list">TODO List</h1>
 
 <ul>
+<font color="#bbb">
 <li>
-	start a post about Nature of Dharma Song - 법성게法性偈
+	<s>write a post about Nature of Dharma Song - 법성게法性偈</s>
 	<ul>
 	<li>
 		owner - 성희
@@ -26,8 +27,12 @@ permalink: /todo-list/
 	<li>
 		NO DUE DATE
 	</li>
+	<li>
+		DONE @ 20-Sep-2024 PDT
+	</li>
 	</ul>
 </li>
+</font>
 
 <li>
 	start a post about Diamond Sutra - 금강경金剛經
