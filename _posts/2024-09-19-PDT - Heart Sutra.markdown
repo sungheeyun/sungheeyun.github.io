@@ -20,10 +20,10 @@ toc_sticky: true
 posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-<h1 id="heart-sutra">반야심경般若心經</h1>
+<h1 id="heart-sutra">반야심경</h1>
 
 반야심경般若心經은
-대승불교의 모태가 되는 총 600권 분량의 반야경을 260자로 추린 경전이다.
+대승불교의 모태가 되는 총 600권 분량의 반야경般若經을 260자로 추린 경전이다.
 반야경般若經의 앞부분 내용은 금강경金剛經이 되고
 뒷부분 내용은 반야심경이 되었다.
 
@@ -59,8 +59,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 경전經典이라는 말이다.
 
 
-<h1 id="main-contents">
-반야심경 전문
+<h1 id="text-and-commentary">
+본문과 해석
 </h1>
 
 <!--
