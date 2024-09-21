@@ -9,6 +9,8 @@ main:
     url: /papers
   - title: "books"
     url: /books
+  - title: "tags"
+    url: /tags
   - title: "todo-list"
     url: /todo-list
 #  - title: "miscellaneous"
@@ -19,5 +21,3 @@ main:
 #    url: /music
 #  - title: "Categories"
 #    url: /categories
-#  - title: "Tags"
-#    url: /tags
