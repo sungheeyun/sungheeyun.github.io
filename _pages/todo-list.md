@@ -11,12 +11,30 @@ permalink: /todo-list/
 <h1 id="todo-list">TODO List</h1>
 
 <ul>
+<li>
+	finish up the post about Diamond Sutra - 금강경金剛經
+	<ul>
+	<li>
+		owner - Sunghee
+	</li>
+	<li>
+		priority - L
+	</li>
+	<li>
+		written @ 20-Sep-2024 PDT
+	</li>
+	<li>
+		NO DUE DATE
+	</li>
+	</ul>
+</li>
+
 <font color="#bbb">
 <li>
 	<s>write a post about Nature of Dharma Song - 법성게法性偈</s>
 	<ul>
 	<li>
-		owner - 성희
+		owner - Sunghee
 	</li>
 	<li>
 		priority - M
@@ -34,11 +52,12 @@ permalink: /todo-list/
 </li>
 </font>
 
+<font color="#bbb">
 <li>
-	start a post about Diamond Sutra - 금강경金剛經
+	<s>start a post about Diamond Sutra - 금강경金剛經</s>
 	<ul>
 	<li>
-		owner - 성희
+		owner - Sunghee
 	</li>
 	<li>
 		priority - M
@@ -51,12 +70,13 @@ permalink: /todo-list/
 	</li>
 	</ul>
 </li>
+</font>
 
 <li>
 	finish up a post about Secrets for Mind Cultivation - 수심결修心訣
 	<ul>
 	<li>
-		owner - 성희
+		owner - Sunghee
 	</li>
 	<li>
 		priority - L
@@ -74,7 +94,7 @@ permalink: /todo-list/
 	start a post about <a href="https://blog.naver.com/venuslv/12263161">육조단경六祖壇經</a>
 	<ul>
 	<li>
-		owner - 성희
+		owner - Sunghee
 	</li>
 	<li>
 		priority - L
@@ -93,7 +113,7 @@ permalink: /todo-list/
 	<s>start a post about Secrets for Mind Cultivation - 수심결修心訣</s>
 	<ul>
 	<li>
-		owner - 성희
+		owner - Sunghee
 	</li>
 	<li>
 		priority - M
