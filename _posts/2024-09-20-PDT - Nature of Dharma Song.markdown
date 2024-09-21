@@ -357,6 +357,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	옛부터 변함 없는 그 이름 부처로다!
 </span>
 </p>
+<hr>
+
+<div class="img-container">
+	<img src="/assets/images/buddhism/thinking-02.png">
+</div>
 
 
 <h1 id="ref">Reference</h1>
