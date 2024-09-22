@@ -84,789 +84,817 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </h1>
 
 <h2 id="1">
-第 一分 法會因由分 - 제 1분 법회유인분
+第一 法會因由分
+-
+제1 법회유인분
 </h2>
+법회가 열리던 날
 
-
+<div class="translation-container">
 <p>
 如是我聞 一時 佛 在舍衛國 祇樹給孤獨園 與大比丘衆千二百五十人俱
-<span class="line-by-line-translation">
+<span class="chinese-korean-transliteration">
 여시아문 일시 불 재사위국 기수급고독원 여대비구중천이백오십인구
 </span>
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 이와 같이 나는 들었다.  어느 때 부처님께서 사위국 기수급고독원에서 큰 비구대중 천이백오십인과 함께 계시었다.
 </span>
 </p>
 
-
-<hr>
 <p>
 爾時 世尊 食時 着衣持鉢 入舍 衛大城 乞食於其城中 次第乞已 還至本處
-<span class="line-by-line-translation">
+<span class="chinese-korean-transliteration">
 이시 세존 식시 착의지발 입사위대성 걸식어기성중 차제걸이 환지본처
 </span>
-<span class="line-by-line-translation-first-line">
+<span class="chinese-korean-translation">
 그때 세존께서 공양드실 시간이 되어 가사를 입으시고 바루를 들고
 시위국 큰 성에 들어가 공양을 얻기 위해 그 성안에서 차례로 공양 받으시고 제자리로 돌아와
 </span>
 </p>
 
-<hr>
 <p>
 飯食訖 收衣鉢 洗足已 敷座而坐
-<span class="line-by-line-translation">
+<span class="chinese-korean-transliteration">
 반사흘 수의발 세족이 부좌이좌
 </span>
-<span class="line-by-line-translation-first-line">
+<span class="chinese-korean-translation">
 식사를 마치고 가사와 바루를 거두고 발을 씻으시고 자리를 펴고 앉으셨다.
 </span>
 </p>
+</div>
 
 <h2 id="2">
-第 二分 善現起請分 - 제 2분 선현기청분
+第二 善現起請分
+-
+제2 선현기청분
 </h2>
-선현이 일어나 법을 청하다.
+선현先賢이 일어나 법을 청하다.
 
-<hr>
+<div class="translation-container">
 <p>
-時 長老 須菩提 在大衆中 卽從座起 偏袒右肩 右膝着地 合掌恭敬 而白佛言 希有世尊
-<span class="line-by-line-translation">
-시 장로 수보리 재대중중 즉종좌기 편단우견 우슬착지 합장공경 이백불언 희유세존
+	時 長老 須菩提 在大衆中 卽從座起 偏袒右肩 右膝着地 合掌恭敬 而白佛言 希有世尊
+<span class="chinese-korean-transliteration">
+	시 장로 수보리 재대중중 즉종좌기 편단우견 우슬착지 합장공경 이백불언 희유세존
 </span>
-<span class="line-by-line-translation-first-line">
-그때 장로 수보리가 대중 가운데 계시다가 곧 자리에서 일어나 웃옷을 바른쪽 어깨에 빗어매고 오른쪽 무릎을 땅에 꿇어 손바닥을 합장 공경하여 부처님께 아뢰었다.
+<span class="chinese-korean-translation">
+	그때 장로 수보리가 대중 가운데 계시다가 곧 자리에서 일어나 웃옷을 바른쪽 어깨에 빗어매고 오른쪽 무릎을 땅에 꿇어 손바닥을 합장 공경하여 부처님께 아뢰었다.
 </span>
 </p>
 
-<hr>
 <p>
-如來 善護念諸菩薩 善付囑諸菩薩
-<span class="line-by-line-translation">
-여래 선호념제보살 선부촉제보살
+	如來 善護念諸菩薩 善付囑諸菩薩
+<span class="chinese-korean-transliteration">
+	여래 선호념제보살 선부촉제보살
 </span>
-<span class="line-by-line-translation-first-line">
-"의문이 있습니다. 세존이시여. 여래께서 모든 보살을 잘 보호하시고 모든 보살에게 잘 당부하시옵니다."
+<span class="chinese-korean-translation">
+	"의문이 있습니다. 세존이시여. 여래께서 모든 보살을 잘 보호하시고 모든 보살에게 잘 당부하시옵니다."
 </span>
 </p>
 
-<hr>
 <p>
-世尊 善男子 善女人 發阿뇩 多羅三藐三菩提心 應云何住 云何降伏其心
-<span class="line-by-line-translation">
-세존 선남자 선여인 발아뇩다라삼먁삼보리심 응운하주 운하항복기심
+	世尊 善男子 善女人 發阿뇩 多羅三藐三菩提心 應云何住 云何降伏其心
+<span class="chinese-korean-transliteration">
+	세존 선남자 선여인 발아뇩다라삼먁삼보리심 응운하주 운하항복기심
 </span>
-<span class="line-by-line-translation-first-line">
-"세존이시여 착한 남자와 착한 여인이<sup><a href="#footnote02" id="ref02">2</a></sup> 위없이 높고 바른 깨달음의 마음을 일으킬 때 마땅히 그 마음을 어떻게 항복 받아야 합니까?"
+<span class="chinese-korean-translation">
+	"세존이시여 착한 남자와 착한 여인이<sup><a href="#footnote02" id="ref02">2</a></sup> 위없이 높고 바른 깨달음의 마음을 일으킬 때 마땅히 그 마음을 어떻게 항복 받아야 합니까?"
 </span>
 </p>
 
-<hr>
 <p>
-佛言 善哉善哉 須菩提 如汝所說 如來 善護念諸菩薩 善付囑諸菩薩 汝今諦請 當爲汝說
-<span class="line-by-line-translation">
-불언 선재선재 수보리 여여소설 여래 선호념제보살 선부촉제보살 여금제청 당위여설
+	佛言 善哉善哉 須菩提 如汝所說 如來 善護念諸菩薩 善付囑諸菩薩 汝今諦請 當爲汝說
+<span class="chinese-korean-transliteration">
+	불언 선재선재 수보리 여여소설 여래 선호념제보살 선부촉제보살 여금제청 당위여설
 </span>
-<span class="line-by-line-translation-first-line">
-부처님께서 말씀하셨다.
-"착하고 착하다(좋다! 좋다!) 수보리야. 너의 말뜻과 같이 여래는 모든 보살을 잘 보호하고 잘 당부하느니라.
-이제 자세히 들으라 마땅히 너희를 위해 말하리라."
+<span class="chinese-korean-translation">
+	부처님께서 말씀하셨다.
+	"착하고 착하다(좋다! 좋다!) 수보리야. 너의 말뜻과 같이 여래는 모든 보살을 잘 보호하고 잘 당부하느니라.
+	이제 자세히 들으라 마땅히 너희를 위해 말하리라."
 </span>
 </p>
 
-<hr>
 <p>
-善男子 善女人 發阿뇩多羅三藐三菩提心 應如是住 如是降伏其心 唯然 世尊 願樂欲聞
-<span class="line-by-line-translation">
-선남자 선여인 발아뇩다라삼먁삼보리심 응여시주 여시항복기심. 유연 세존 원요욕문
+	善男子 善女人 發阿뇩多羅三藐三菩提心 應如是住 如是降伏其心 唯然 世尊 願樂欲聞
+<span class="chinese-korean-transliteration">
+	선남자 선여인 발아뇩다라삼먁삼보리심 응여시주 여시항복기심 유연 세존 원요욕문
 </span>
-<span class="line-by-line-translation-first-line">
-"착한 남자와 착한 여인이 위없이 높고 바른 깨달음의 마음을 일으킬 때 마땅히 이와 같이 그 마음을 항복 받을 지니라."
-</span>
-<span class="line-by-line-translation">
-그러하옵니다. 세존이시여 원하여 듣고자 합니다.
+<span class="chinese-korean-translation">
+	"착한 남자와 착한 여인이 위없이 높고 바른 깨달음의 마음을 일으킬 때 마땅히 이와 같이 그 마음을 항복 받을 지니라."
+<br>
+	"그러하옵니다. 세존이시여 원하여 듣고자 합니다."
 </span>
 </p>
+</div>
 
 <h2 id="3">
-第 三分 大乘正宗分 - 제 3분 대승정종분
+第三 大乘正宗分
+-
+제3 대승정종분
 </h2>
 
 대승의 바른법을 말하다.
 
-<hr>
+<div class="translation-container">
 <p>
-佛告 須菩提 諸菩薩摩訶薩 應如是降伏其心
-<span class="line-by-line-translation">
-불고 수보리 제보살마하살 응여시항복기심
+	佛告 須菩提 諸菩薩摩訶薩 應如是降伏其心
+<span class="chinese-korean-transliteration">
+	불고 수보리 제보살마하살 응여시항복기심
 </span>
-<span class="line-by-line-translation-first-line">
-부처님께서 수보리에게 말씀하셨다.
-</span>
-<span class="line-by-line-translation">
-"모든 보살의 용맹심은 마땅히 이와 같이 그 마음을 항복시킬 것이니라."
+<span class="chinese-korean-translation">
+	부처님께서 수보리에게 말씀하셨다.
+<br>
+	"모든 보살의 용맹심은 마땅히 이와 같이 그 마음을 항복시킬 것이니라."
 </span>
 </p>
 
-<hr>
 <p>
-所有一切衆生之類 若卵生 若胎生 若濕生 若化生 若有色 若無色
-<span class="line-by-line-translation">
-소유일체중생지류 약란생 약태생 약습생 약화생 약유색 약무색
+	所有一切衆生之類 若卵生 若胎生 若濕生 若化生 若有色 若無色
+<span class="chinese-korean-transliteration">
+	소유일체중생지류 약란생 약태생 약습생 약화생 약유색 약무색
 </span>
-<span class="line-by-line-translation-first-line">
-"일체의 모든 삶의 종류에는 알로서 나는 것, 태아로서 나는 것, 습기로 생기는 것, 화학작용으로 생기는 것, &hellip;
+<span class="chinese-korean-translation">
+	"일체의 모든 삶의 종류에는 알로서 나는 것, 태아로서 나는 것, 습기로 생기는 것, 화학작용으로 생기는 것, &hellip;
 </span>
 </p>
 
-<hr>
 <p>
-若有想 若無想 若非有想 非無想
-<span class="line-by-line-translation">
+	若有想 若無想 若非有想 非無想
+<span class="chinese-korean-transliteration">
 </span>
-약유상 약무상 약비유상 비무상
-<span class="line-by-line-translation-first-line">
-&hellip; 형상이 있는 것, 형상이 없는 것, 생각이 있는 것과 생각이 없는 것, 생각이 있는 것도 아니고 없는 것도 아닌 것을 &hellip;
+	약유상 약무상 약비유상 비무상
+<span class="chinese-korean-translation">
+	&hellip; 형상形象이 있는 것, 형상形象이 없는 것, 생각이 있는 것과 생각이 없는 것, 생각이 있는 것도 아니고 없는 것도 아닌 것을 &hellip;
 </span>
 </p>
 
-<hr>
 <p>
-我皆令入無餘涅槃 而滅度之
-<span class="line-by-line-translation">
-아개영입무여열반 이멸도지
+	我皆令入無餘涅槃 而滅度之
+<span class="chinese-korean-transliteration">
+	아개영입무여열반 이멸도지
 </span>
-<span class="line-by-line-translation-first-line">
-&hellip; 내가 완전한 해탈의 경지에 들게하여 제도 하였고 &hellip;
+<span class="chinese-korean-translation">
+	&hellip; 내가 완전한 해탈의 경지에 들게하여 제도濟度하였고 &hellip;
 </span>
 </p>
 
-<hr>
 <p>
-如是滅度無量無數無邊衆 生實無衆生得滅度者
-<span class="line-by-line-translation">
-여시멸도무량무수무변중생 실무중생득멸도자
+	如是滅度無量無數無邊衆 生實無衆生得滅度者
+<span class="chinese-korean-transliteration">
+	여시멸도무량무수무변중생 실무중생득멸도자
 </span>
-<span class="line-by-line-translation-first-line">
+<span class="chinese-korean-translation">
+	&hellip; 이와 같이 한량없이 많은 중생의 생사를 제도濟度할지라도 실로 한 중생도 제도濟度된 바가 없느니라."
 </span>
-&hellip; 이와 같이 한량없이 많은 중생의 생사를 제도할지라도 실로 한 중생도 제도된 바가 없느니라."
 </p>
 
-<hr>
 <p>
-何以故 須菩提 若菩薩 有我相 人相 衆生相 壽者相 卽非菩薩
-<span class="line-by-line-translation">
-하이고 수보리 약보살 유아상 인상 중생상 수자상 즉비보살
+	何以故 須菩提 若菩薩 有我相 人相 衆生相 壽者相 卽非菩薩
+<span class="chinese-korean-transliteration">
+	하이고 수보리 약보살 유아상 인상 중생상 수자상 즉비보살
 </span>
-<span class="line-by-line-translation-first-line">
-"왜냐하면 수보리야 만일 보살이 나라는 생각, 교만한 생각, 몸이 실제라는 생각, 오래 살고 싶은 생각이 있으면 곧 보살이 아니니라."
+<span class="chinese-korean-translation">
+	"왜냐하면 수보리야 만일 보살이 나라는 생각, 교만한 생각, 몸이 실제라는 생각, 오래 살고 싶은 생각이 있으면 곧 보살이 아니니라."
 </span>
 </p>
+</div>
 
 <h2 id="4">
-第 四分 妙行無住分 - 제 4분 묘행무주분
+第四 妙行無住分
+-
+제4 묘행무주분
 </h2>
-머무름이 없는 뛰어난 행위
+걸림 없이 베푸느 삶
 
-<hr>
+<div class="translation-container">
 <p>
-復次 須菩提 菩薩 於法應無所住 行於布施
-<span class="line-by-line-translation">
-부차 수보리 보살 어법응무소주 행어보시
+	復次 須菩提 菩薩 於法應無所住 行於布施
+<span class="chinese-korean-transliteration">
+	부차 수보리 보살 어법응무소주 행어보시
 </span>
-<span class="line-by-line-translation-first-line">
-"또 수보리야 보살은 마땅히 어떠한 곳에도 머무름 없이 보시를 행할 것이니, &hellip;
+<span class="chinese-korean-translation">
+	"또 수보리야 보살은 마땅히 어떠한 곳에도 머무름 없이 보시를 행할 것이니, &hellip;
 </span>
 </p>
 
-<hr>
 <p>
-所謂不住色布施 不主聲香味觸法布施
-<span class="line-by-line-translation">
-소위부주색보시 부주성향미촉법보시
+	所謂不住色布施 不主聲香味觸法布施
+<span class="chinese-korean-transliteration">
+	소위부주색보시 부주성향미촉법보시
 </span>
-<span class="line-by-line-translation-first-line">
-&hellip; 이른바 형상에 머물지 말고 보시하고 소리, 냄새, 맛, 촉감, 법에 머무르지말고 보시해야 하느니라."
+<span class="chinese-korean-translation">
+	&hellip; 이른바 형상形象에 머물지 말고 보시하고 소리, 냄새, 맛, 촉감, 법에 머무르지말고 보시해야 하느니라."
 </span>
 </p>
 
-<hr>
 <p>
-須菩提 菩薩 應如是布施 不住於相
-<span class="line-by-line-translation">
-수보리 보살 응여시보시 부주어상
+	須菩提 菩薩 應如是布施 不住於相
+<span class="chinese-korean-transliteration">
+	수보리 보살 응여시보시 부주어상
 </span>
-<span class="line-by-line-translation-first-line">
-"수보리야 보살이 마땅히 이와 같이 보시를 형상을 갖지 않고 보시하는 까닭은 &hellip;
+<span class="chinese-korean-translation">
+	"수보리야 보살이 마땅히 이와 같이 보시를 형상形象을 갖지 않고 보시하는 까닭은 &hellip;
 </span>
 </p>
 
-<hr>
 <p>
-何以故 若菩薩 不住相布施 其福德 不可思量
-<span class="line-by-line-translation">
-하이고 약보살 부주상보시 기복덕 불가사량
+	何以故 若菩薩 不住相布施 其福德 不可思量
+<span class="chinese-korean-transliteration">
+	하이고 약보살 부주상보시 기복덕 불가사량
 </span>
-<span class="line-by-line-translation-first-line">
-</span>
-&hellip; 만약 보살이 형상에 집착執着하지 않고 보시하면 그 복덕은 생각으로 헤아릴 수 없느니라.
-</p>
-
-
-<hr>
-<p>
-須菩提 於意云何 東方虛空 可思量不 不也世尊
-<span class="line-by-line-translation">
-수보리 어의운하 동방허공 가사량부 불야세존
-</span>
-<span class="line-by-line-translation-first-line">
-"수보리야 어떻게 생각하느냐 동쪽의 허공을 생각으로 헤아를 수 있느냐?"
-</span>
-<span class="line-by-line-translation">
-"아니옵니다. 세존이시여."
+<span class="chinese-korean-translation">
+	&hellip; 만약 보살이 형상形象에 집착執着하지 않고 보시하면 그 복덕福德은 생각으로 헤아릴 수 없느니라.
 </span>
 </p>
 
-
-<hr>
 <p>
-須菩提 南西北方 四維 上下 虛空 可思量 不 不也世尊
-<span class="line-by-line-translation">
-수보리 남서북방 사유 상하 허공 가사량 부 불야세존
+	須菩提 於意云何 東方虛空 可思量不 不也世尊
+<span class="chinese-korean-transliteration">
+	수보리 어의운하 동방허공 가사량부 불야세존
 </span>
-<span class="line-by-line-translation-first-line">
-"수보리야, 남서북방위와 그 간방과 아래위 허공을 생각으로 헤아릴 수 있느냐?"
-</span>
-<span class="line-by-line-translation">
-"아니옵니다. 세존이시여."
+<span class="chinese-korean-translation">
+	"수보리야 어떻게 생각하느냐 동쪽의 허공을 생각으로 헤아를 수 있느냐?"
+<br>
+	"아니옵니다. 세존이시여."
 </span>
 </p>
 
-<hr>
 <p>
-須菩提 菩薩 無住相布施福德 亦復如是 不可思量
-<span class="line-by-line-translation">
-수보리 보살 무주상보시복덕 역부여시 불가사량
+	須菩提 南西北方 四維 上下 虛空 可思量 不 不也世尊
+<span class="chinese-korean-transliteration">
+	수보리 남서북방 사유 상하 허공 가사량 부 불야세존
 </span>
-<span class="line-by-line-translation-first-line">
-"수보리야, 보살이 형상에 머물지 않고 보시하는 복덕도 또한 이와 같이 생각으로 헤아릴 수 없느니라. &hellip;
+<span class="chinese-korean-translation">
+	"수보리야, 남서북방위와 그 간방과 아래위 허공을 생각으로 헤아릴 수 있느냐?"
+<br>
+	"아니옵니다. 세존이시여."
 </span>
 </p>
 
-<hr>
 <p>
-須菩提 菩薩 但應如所敎住
-<span class="line-by-line-translation">
-수보리 보살 단응여소교주
+	須菩提 菩薩 無住相布施福德 亦復如是 不可思量
+<span class="chinese-korean-transliteration">
+	수보리 보살 무주상보시복덕 역부여시 불가사량
 </span>
-<span class="line-by-line-translation-first-line">
-&hellip; 수보리야 보살은 마땅히 가르친바와 같이 보시해야 하느니라."
+<span class="chinese-korean-translation">
+	"수보리야, 보살이 형상形象에 머물지 않고 보시하는 복덕福德도 또한 이와 같이 생각으로 헤아릴 수 없느니라. &hellip;
 </span>
 </p>
 
+<p>
+	須菩提 菩薩 但應如所敎住
+<span class="chinese-korean-transliteration">
+	수보리 보살 단응여소교주
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 수보리야 보살은 마땅히 가르친바와 같이 보시해야 하느니라."
+</span>
+</p>
+</div>
 
 <h2 id="5">
-第 五分
-如理實見分
-- 제 5분
-여리싥실견분
+第五 如理實見分
+-
+제5 여리실견분
 </h2>
 참된 진리를 보라
 
-<hr>
+<div class="translation-container">
 <p>
-須菩提 於意云何 可以身相 見如來不
-<span class="line-by-line-translation">
-수보리 어의운하 가이신상 견여래부
+	須菩提 於意云何 可以身相 見如來不
+<span class="chinese-korean-transliteration">
+	수보리 어의운하 가이신상 견여래부
 </span>
-<span class="line-by-line-translation-first-line">
-"수보리야, 어떻게 생각하느냐. 육신六身의 형상形象으로 여래如來를 볼 수 있겠느냐?"
+<span class="chinese-korean-translation">
+	"수보리야, 어떻게 생각하느냐. 육신六身의 형상形象으로 여래如來를 볼 수 있겠느냐?"
 </span>
 </p>
 
-<hr>
-不也 世尊 不可以身相 得見如來
 <p>
-<span class="line-by-line-translation">
-불야세존 불가이신상 득견여래
+	不也 世尊 不可以身相 得見如來
+<span class="chinese-korean-transliteration">
+	불야세존 불가이신상 득견여래
 </span>
-<span class="line-by-line-translation-first-line">
-"아니옵니다. 세존世尊이시여.
-육신六身의 형상形象으로는 여래를 볼 수 없습니다. &hellip;
+<span class="chinese-korean-translation">
+	"아니옵니다. 세존世尊이시여.
+	육신六身의 형상形象으로는 여래를 볼 수 없습니다. &hellip;
 </span>
 </p>
 
-<hr>
 <p>
-何以故 如來所說身相 卽非身相
-<span class="line-by-line-translation">
-하이고 여래소설신상 즉비신상
+	何以故 如來所說身相 卽非身相
+<span class="chinese-korean-transliteration">
+	하이고 여래소설신상 즉비신상
 </span>
-<span class="line-by-line-translation-first-line">
-&hellip;
-왜냐하면 여래如來께서 육신六身의 형상形象이라고 말하는 것은
-곧 육신六身의 상相이 아니기 때문입니다."
+<span class="chinese-korean-translation">
+	&hellip;
+	왜냐하면 여래如來께서 육신六身의 형상形象이라고 말하는 것은
+	곧 육신六身의 상相이 아니기 때문입니다."
 </span>
 </p>
 
-<hr>
 <p>
-佛告 須菩提 凡所有相 皆是虛妄 若見諸相 非相 卽見如來
-<span class="line-by-line-translation">
-불고 수보리 <font class="emph">범소유상 개시허망 약견제상 비상 즉견여래</font>
+	佛告 須菩提 <font class="emph">凡所有相 皆是虛妄 若見諸相 非相 卽見如來</font>
+<span class="chinese-korean-transliteration">
+	불고 수보리 <font class="emph">범소유상 개시허망 약견제상 비상 즉견여래</font>
 </span>
-<span class="line-by-line-translation-first-line">
-부처님께서 수보리에게 말씀하셨다.
-</span>
-<span class="line-by-line-translation">
-"무릇 형상을 가진 모든 것은 허망하니 만일 형상이 진실한 상이 아닌줄 알면 곧 여래를 보느니라."<sup><a href="#footnote03" id="ref03">3</a></sup>
+<span class="chinese-korean-translation">
+	부처님께서 수보리에게 말씀하셨다.
+<br>
+	"무릇 형상形象을 가진 모든 것은 허망하니 만일 형상形象이 진실한 상이 아닌줄 알면
+	곧 여래를 보느니라."<sup><a href="#footnote03" id="ref03">3</a></sup>
 </span>
 </p>
+</div>
 
 <h2 id="6">
-第 六分
-正信希有分
-- 제 6분
-정신희유분
+第六 正信希有分
+-
+제6 정신희유분
 </h2>
-의심하지 않고 바른 믿음을 가지다
+의심하지 않고 바른 믿음을 가지다.
 
-<hr>
+<div class="translation-container">
 <p>
-須菩提 白佛言 世尊 頗有衆生 得聞如是言說章句 生實信 不
-<span class="line-by-line-translation">
-수보리 백불언 세존 파유중생 득문여시언설장구 생실신 부
+	須菩提 白佛言 世尊 頗有衆生 得聞如是言說章句 生實信 不
+<span class="chinese-korean-transliteration">
+	수보리 백불언 세존 파유중생 득문여시언설장구 생실신 부
 </span>
-<span class="line-by-line-translation-first-line">
-수보리가 부처님께 아뢰었다.
-</span>
-<span class="line-by-line-translation">
-"세존이시여, 어떤 중생이 이와같은 말씀이나 글귀를 듣고 참된 마음을 낼수 있습니까?"
+<span class="chinese-korean-translation">
+	수보리가 부처님께 아뢰었다.
+<br>
+	"세존이시여, 어떤 중생이 이와같은 말씀이나 글귀를 듣고 참된 마음을 낼수 있습니까?"
 </span>
 </p>
 
-<hr>
 <p>
-佛告 須菩提 莫作是說 如來 滅後 後五百歲 有持戒修福者 於此章句 能生信心 以此爲實
-<span class="line-by-line-translation">
-불고 수보리 막작시설 여래 멸후 후오백세 유지계수복자 어차장구 능생신심 이차위실
+	佛告 須菩提 莫作是說 如來 滅後 後五百歲 有持戒修福者 於此章句 能生信心 以此爲實
+<span class="chinese-korean-transliteration">
+	불고 수보리 막작시설 여래 멸후 후오백세 유지계수복자 어차장구 능생신심 이차위실
 </span>
-<span class="line-by-line-translation-first-line">
-부처님께서 수보리에게 말하였다.
-</span>
-<span class="line-by-line-translation">
-"그런 말을 하지 말라.
-석가모니불이 사바세계를 떠난 후 오백년마다 법이 바뀌어도 계율을 받아 복을 닦는 자는 능히 이 문장과 글귀를 믿는 마음을 내어 진실하게 생각하느니라. &hellip;
+<span class="chinese-korean-translation">
+	부처님께서 수보리에게 말하였다.
+<br>
+	"그런 말을 하지 말라.
+	석가모니불이 사바세계를 떠난 후 오백년마다 법이 바뀌어도 계율을 받아 복을 닦는 자는
+	능히 이 문장과 글귀를 믿는 마음을 내어 진실하게 생각하느니라. &hellip;
 </span>
 </p>
 
-<hr>
 <p>
-當知 是人 不於一佛二佛三四五佛 而種善根 已於無量千萬佛所 種諸善根 聞是章句 乃至 一念生 淨信者
-<span class="line-by-line-translation">
-당지 시인 불어일불이불삼사오불 이종선근 이어무량천만불소 종제선근 문시장구 내지 일념생 정신자
+	當知 是人 不於一佛二佛三四五佛 而種善根 已於無量千萬佛所 種諸善根 聞是章句 乃至 一念生 淨信者
+<span class="chinese-korean-transliteration">
+	당지 시인 불어일불이불삼사오불 이종선근 이어무량천만불소 종제선근 문시장구 내지 일념생 정신자
 </span>
-<span class="line-by-line-translation-first-line">
-&hellip; 마땅히 알라. 이 사람은 일불이불 삼사오불께만 착한 바탕을 심을 뿐만아니라 이미 한량없는 천만 부처님 처소에 모든 바탕을 심었으니 이 글귀를 듣고 한 생각에 거룩한 믿음을 내느니라."
+<span class="chinese-korean-translation">
+	&hellip; 마땅히 알라. 이 사람은 일불이불 삼사오불께만 착한 바탕을 심을 뿐만아니라
+	이미 한량없는 천만 부처님 처소에 모든 바탕을 심었으니 이 글귀를 듣고 한 생각에 거룩한 믿음을 내느니라."
 </span>
 </p>
 
-<hr>
 <p>
-須菩提 如來 悉知悉見 是諸衆生 得如是無量福德
-<span class="line-by-line-translation">
-수보리 여래 실지실견 시제중생 득여시무량복덕
+	須菩提 如來 悉知悉見 是諸衆生 得如是無量福德
+<span class="chinese-korean-transliteration">
+	수보리 여래 실지실견 시제중생 득여시무량복덕
 </span>
-<span class="line-by-line-translation-first-line">
-"수보리야, 여래가 참되게 알고 참되게 보는 이 모든 중생은 이와 같이 한량없는 복과 덕을 얻느니라. &hellip;
+<span class="chinese-korean-translation">
+	"수보리야, 여래가 참되게 알고 참되게 보는 이 모든 중생은 이와 같이 한량없는 복과 덕을 얻느니라. &hellip;
 </span>
 </p>
 
-<hr>
 <p>
-何以故 是諸衆生 無復我相 人相 衆生相 壽者相 無法相 亦無非法相
-<span class="line-by-line-translation">
-하이고 시제중생 무부아상 인상 중생상 수자상 무법상 역무비법상
+	何以故 是諸衆生 無復我相 人相 衆生相 壽者相 無法相 亦無非法相
+<span class="chinese-korean-transliteration">
+	하이고 시제중생 무부아상 인상 중생상 수자상 무법상 역무비법상
 </span>
-<span class="line-by-line-translation-first-line">
-&hellip; 왜냐하면 이 모든 중생들은 나라는 생각, 교만한 생각, 몸이 실제라는 생각, 오래 살고 싶다는 생각, 진리라는 생각도 없고 또 진리가 아니라는 생각도 없다."
-</span>
-</p>
-
-<hr>
-<p> 何以故 是諸衆生 若心取相 卽爲 着我人衆生壽者 若取法相 卽着我人衆生壽者
-<span class="line-by-line-translation">
-하이고 시제중생 약심취상 즉위 착아인중생수자 약취법상 즉착아인중생수자
-</span>
-<span class="line-by-line-translation-first-line">
-"왜냐하면 이 모든 중생衆生이 만일 마음에 상相을 취하면 곧 네가지 상相에 집착執着하기 때문이니라.
-만약 진리眞理라는 상相에 취하여도 곧 네가지 상相에 집착執着하게 되느리라. &hellip;
+<span class="chinese-korean-translation">
+	&hellip; 왜냐하면 이 모든 중생들은 나라는 생각, 교만한 생각, 몸이 실제라는 생각, 오래 살고 싶다는 생각, 진리라는 생각도 없고 또 진리가 아니라는 생각도 없다."
 </span>
 </p>
 
-<hr>
 <p>
-何以故 若取非法相 卽着我人衆生壽者
-<span class="line-by-line-translation">
-하이고 약취비법상 즉착아인중생수자
+	何以故 是諸衆生 若心取相 卽爲 着我人衆生壽者 若取法相 卽着我人衆生壽者
+<span class="chinese-korean-transliteration">
+	하이고 시제중생 약심취상 즉위 착아인중생수자 약취법상 즉착아인중생수자
 </span>
-<span class="line-by-line-translation-first-line">
-&hellip; 왜냐하면 만약 진리眞理가 아닌 생각을 취하여도 곧 네가지 상相에 집착執着하게 되느니라. &hellip;
-</span>
-</p>
-
-<hr>
-<p>
-是故 不應取法 不應取非法
-<span class="line-by-line-translation">
-시고 불응취법 불응취비법
-</span>
-<span class="line-by-line-translation-first-line">
-&hellip; 그러므로 마땅히 진리眞理도 취하지 말고 진리眞理가 아닌것도 취하지 말라."
+<span class="chinese-korean-translation">
+	"왜냐하면 이 모든 중생衆生이 만일 마음에 상相을 취하면 곧 네가지 상相에 집착執着하기 때문이니라.
+	만약 진리眞理라는 상相에 취하여도 곧 네가지 상相에 집착執着하게 되느리라. &hellip;
 </span>
 </p>
 
-<hr>
 <p>
-以是義故 如來常說 汝等比丘 知我說法 如筏喩者 法尙應捨 何況非法
-<span class="line-by-line-translation">
-이시의고 여래상설 여등비구 지아설법 여벌유자 법상응사 하황비법
+	何以故 若取非法相 卽着我人衆生壽者
+<span class="chinese-korean-transliteration">
+	하이고 약취비법상 즉착아인중생수자
 </span>
-<span class="line-by-line-translation-first-line">
-"그렇게 때문에 여래께서 항상 말씀하시길 너희들 비구는 내가 말한 법이 뗏목과 같은 줄 알라. 법도 마땅히 놓아버려야 함인데 하물며 법 아님이야!"
+<span class="chinese-korean-translation">
+	&hellip; 왜냐하면 만약 진리眞理가 아닌 생각을 취하여도 곧 네가지 상相에 집착執着하게 되느니라. &hellip;
 </span>
 </p>
+
+<p>
+	是故 不應取法 不應取非法
+<span class="chinese-korean-transliteration">
+	시고 불응취법 불응취비법
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 그러므로 마땅히 진리眞理도 취하지 말고 진리眞理가 아닌것도 취하지 말라."
+</span>
+</p>
+
+<p>
+	以是義故 如來常說 汝等比丘 知我說法 如筏喩者 法尙應捨 何況非法
+<span class="chinese-korean-transliteration">
+	이시의고 여래상설 여등비구 지아설법 여벌유자 법상응사 하황비법
+</span>
+<span class="chinese-korean-translation">
+	"그렇게 때문에 여래께서 항상 말씀하시길 너희들 비구는 내가 말한 법이 뗏목과 같은 줄 알라.
+	법도 마땅히 놓아버려야 함인데 하물며 법 아님이야!"
+</span>
+</p>
+</div>
 
 <h2 id="7">
-第 七分
-無得無說分
-- 제 7분
-무득무설분
+第七 無得無說分
+-
+제7 무득무설분
 </h2>
-얻을 것도 설할것도 없다
+얻을 것도 설할것도 없는 진리
 
-<hr>
+<div class="translation-container">
 <p>
-須菩提 於意云何 如來 得阿뇩多羅三藐三菩提耶 如來 有所說法耶
-<span class="line-by-line-translation">
-수보리 어의운하 여래 득아뇩다라삼먁삼보리야 여래 유소설법야
+	須菩提 於意云何 如來 得阿뇩多羅三藐三菩提耶 如來 有所說法耶
+<span class="chinese-korean-transliteration">
+	수보리 어의운하 여래 득아뇩다라삼먁삼보리야 여래 유소설법야
 </span>
-<span class="line-by-line-translation-first-line">
-"수보리야, 너는 어떻게 생각하느냐? 여래가 위없는 깨달음을 얻었느냐? 또 여래가 법을 설한바가 있느냐?"
+<span class="chinese-korean-translation">
+	"수보리야, 너는 어떻게 생각하느냐? 여래가 위없는 깨달음을 얻었느냐? 또 여래가 법을 설한바가 있느냐?"
+</span>
+</p>
+
+<p>
+	須菩提言 如我解佛所說義 無有定法名阿뇩多羅三藐三菩提 亦無有定法如來可說
+<span class="chinese-korean-transliteration">
+	수보리언 여야해불소설의 무유정법명아뇩다라삼먁삼보리 역무유정법여래가설
+</span>
+<span class="chinese-korean-translation">
+	수보리가 아뢰었다.
+<br>
+	"제가 아뢰옵기는 부처님 말씀은 정해진 법이 없는 것을 이름하여
+	위없는 높은 깨달음이라하고
+	또 정해진 법이 없는 것을 여래께서 말씀하셨습니다. &hellip;
+</span>
+</p>
+
+<p>
+	何以故 如來所說法 皆不可取 不可說 非法 非非法
+<span class="chinese-korean-transliteration">
+	하이고 여래소설법 개불가취 불가설 비법 비비법
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 왜냐하면 여래께서 말씀하신 법은
+	취할수도 없고 말할 수 없고 법도 아니고 법아닌 것도 아닙니다. &hellip;
 </span>
 </p>
 
 <hr>
 <p>
-須菩提言 如我解佛所說義 無有定法名阿뇩多羅三藐三菩提 亦無有定法如來可說
-<span class="line-by-line-translation">
-수보리언 여야해불소설의 무유정법명아뇩다라삼먁삼보리 역무유정법여래가설
+	所以者何 一切賢聖 皆以無爲法 而有差別
+<span class="chinese-korean-transliteration">
+	소이자하 일체현성 개이무위법 이유차별
 </span>
-<span class="line-by-line-translation-first-line">
-수보리가 아뢰었다.
-</span>
-<span class="line-by-line-translation">
-"제가 아뢰옵기는 부처님 말씀은 정해진 법이 없는 것을 이름하여 위없는 높은 깨달음이라하고 또 정해진 법이 없는 것을 여래께서 말씀하셨습니다. &hellip;
+<span class="chinese-korean-translation">
+	&hellip; 이 뜻은 일체의 성인聖人과 현인亞聖은 이 모든 현상계 법을 여위어 차별이 있기 때문이옵니다."
 </span>
 </p>
-
-<hr>
-<p>
-何以故 如來所說法 皆不可取 不可說 非法 非非法
-<span class="line-by-line-translation">
-하이고 여래소설법 개불가취 불가설 비법 비비법
-</span>
-<span class="line-by-line-translation-first-line">
-&hellip; 왜냐하면 여래께서 말씀하신 법은 취할수도 없고 말할 수 없고 법도 아니고 법아닌 것도 아닙니다. &hellip;
-</span>
-</p>
-
-<hr>
-<p>
-所以者何 一切賢聖 皆以無爲法 而有差別
-<span class="line-by-line-translation">
-소이자하 일체현성 개이무위법 이유차별
-</span>
-<span class="line-by-line-translation-first-line">
-&hellip; 이 뜻은 일체의 성인聖人과 현인亞聖은 이 모든 현상계 법을 여위어 차별이 있기 때문이옵니다."
-</span>
-</p>
+</div>
 
 <h2 id="8">
-第 八分 依法出生分
-- 제 8분
-의법출생분
+第八 依法出生分
+-
+제8 의법출생분
 </h2>
+
 진리에 의지해야 바른 삶이 나온다
 
-<hr>
+<div class="translation-container">
 <p>
-須菩提 於意云何 若人滿三千大千世界七寶 以用布施 是人所得福德 寧爲多 不
-<span class="line-by-line-translation">
-수보리 어의운하 약인만삼천대천세계칠보 이용보시 즉시소득복덕 영위다 부
+	須菩提 於意云何 若人滿三千大千世界七寶 以用布施 是人所得福德 寧爲多 不
+<span class="chinese-korean-transliteration">
+	수보리 어의운하 약인만삼천대천세계칠보 이용보시 즉시소득복덕 영위다 부
 </span>
-<span class="line-by-line-translation-first-line">
-"수보리야, 어떻게 생각하느냐. 어떤 사람이 삼천 큰 세계에 칠보로 가득히 보시하였다면 이 사람은 얻는 복덕이 얼마나 많겠느냐?"
+<span class="chinese-korean-translation">
+	"수보리야, 어떻게 생각하느냐. 어떤 사람이 삼천 큰 세계에 칠보로 가득히 보시하였다면 이 사람은 얻는 복덕福德이 얼마나 많겠느냐?"
 </span>
 </p>
 
-<hr>
 <p>
-須菩提言 甚多 世尊 何以故 是福德 卽非福德性 是故 如來說 福德多
-<span class="line-by-line-translation">
-수보리언 심다 세존 하이고 시복덕 즉비복덕성 시고 여래설 복덕다
+	須菩提言 甚多 世尊 何以故 是福德 卽非福德性 是故 如來說 福德多
+<span class="chinese-korean-transliteration">
+	수보리언 심다 세존 하이고 시복덕 즉비복덕성 시고 여래설 복덕다
 </span>
-<span class="line-by-line-translation-first-line">
-수보리가 아뢰었다.
-</span>
-<span class="line-by-line-translation">
-"아주 많습니다. 세존이시여, 왜냐하면 이 복덕福德은 즉 본바탕 복덕福德이 아니므로 여래께서 복덕福德이 많다고 말씀하신 것입니다."
+<span class="chinese-korean-translation">
+	수보리가 아뢰었다.
+<br>
+	"아주 많습니다. 세존이시여,
+	왜냐하면 이 복덕福德은 즉 본바탕 복덕福德이 아니므로
+	여래께서 복덕福德이 많다고 말씀하신 것입니다."
 </span>
 </p>
 
-<hr>
 <p>
-若復有人 於此經中受持 乃至 四句偈等 爲他人說 其福勝彼
-<span class="line-by-line-translation">
-약부유인 어차경중수지 내지 사구게등 위타인설 기복승피
+	若復有人 於此經中受持 乃至 四句偈等 爲他人說 其福勝彼
+<span class="chinese-korean-transliteration">
+	약부유인 어차경중수지 내지 사구게등 위타인설 기복승피
 </span>
-<span class="line-by-line-translation-first-line">
-"만일 어떤 사람이 이 경가운데 네 글귀만이라도 받아지니고 남을 위해 말한다면 그 복이 다른 복보다 뛰어나니라. &hellip;
+<span class="chinese-korean-translation">
+	"만일 어떤 사람이 이 경가운데 네 글귀만이라도 받아지니고
+	남을 위해 말한다면 그 복이 다른 복보다 뛰어나니라. &hellip;
 </span>
 </p>
 
-
-<hr>
 <p>
-何以故 須菩提 一切諸佛 及 諸佛阿耨多羅三藐三菩提法 皆從此經出
-<span class="line-by-line-translation">
-하이고 수보리 일체제불 급 제불아뇩다라삼먁삼보리법 개종차경출
+	何以故 須菩提 一切諸佛 及 諸佛阿耨多羅三藐三菩提法 皆從此經出
+<span class="chinese-korean-transliteration">
+	하이고 수보리 일체제불 급 제불아뇩다라삼먁삼보리법 개종차경출
 </span>
-<span class="line-by-line-translation-first-line">
-&hellip; 왜냐하면 수보리야, 일체의 모든 부처님의 위없이 밝고 바른 깨달음의 법法이 이 경으로부터 나온 때문이니라. &hellip;
+<span class="chinese-korean-translation">
+	&hellip; 왜냐하면 수보리야,
+	일체의 모든 부처님의 위없이 밝고 바른 깨달음의 법法이
+	이 경經으로부터 나온 때문이니라. &hellip;
 </span>
 </p>
 
-<hr>
 <p>
-須菩提 所謂佛法者 卽非佛法
-<span class="line-by-line-translation">
-수보리 소위불법자 즉비불법
+	須菩提 所謂佛法者 卽非佛法
+<span class="chinese-korean-transliteration">
+	수보리 소위불법자 즉비불법
 </span>
-<span class="line-by-line-translation-first-line">
-&hellip; 수보리야, 이른바 불법佛法을 가진이는 곧 불법佛法이 아니니라."
+<span class="chinese-korean-translation">
+	&hellip; 수보리야, 이른바 불법佛法을 가진이는 곧 불법佛法이 아니니라."
 </span>
 </p>
+</div>
 
 <h2 id="9">
-第 九分
-一相無相分
-- 제 9분
-일상무상분
+第九 一相無相分
+-
+제9 일상무상분
 </h2>
 
-절대의 한 형상은 형상이 없다
+일상一相도 본래 상相이 없으니
 
-<hr>
+<div class="translation-container">
 <p>
 	須菩提 於意云何 須陀洹 能作是念 我得須陀洹果 不
-<br>
+<span class="chinese-korean-transliteration">
 	수보리 어의운하 수다원 능작시념 아득수다원과 부
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	"수보리야, 어떻게 생각하느냐.
 	수다원須陀洹<sup><a href="#footnote04" id="ref04">4</a></sup>이 생각하기를 내가 수다원과須陀洹果를 얻었다하느냐?"
 </span>
 </p>
 
-
-<hr>
 <p>
 	須菩提言 不也 世尊 何以故 須陀洹 名爲入流 而無所入 不入色聲香味觸法 是名須陀洹
-<br>
+<span class="chinese-korean-transliteration">
 	수보리언 불야 세존 하이고 수다원 명위입류 이무소입 불입색성향미촉법 시명수다원
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	수보리가 아뢰었다.
 	"아니옵니다, 세존이시여.
 	왜냐하면 수다원은 이름이 성인에 들었다지만 실은 들어간 일이 없고
-	형상, 소리, 냄새, 맛, 촉감, 법에도 들어간 일없이 이름하여 수다원이라 하옵니다."
+	형상形象, 소리, 냄새, 맛, 촉감, 법에도 들어간 일없이 이름하여 수다원이라 하옵니다."
 </span>
 </p>
 
 <hr>
 <p>
 	須菩提 於意云何 斯陀含 能作是念 我得斯陀含果 不
-<br>
+<span class="chinese-korean-transliteration">
 	수보리 어의운하 사다함 능작시념 아득사다함과 부
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	"수보리야, 어떻게 생각하느냐. 사다함<sup><a href="#footnote05" id="ref05">5</a></sup>이 생각하기를 내가 사다함과를 얻었다 하겠느냐?"
 </span>
 </p>
 
-<hr>
 <p>
 	須菩提言 不也 世尊 何以故 斯陀含 名一往來 而實無往來 是名斯陀含
-<br>
+<span class="chinese-korean-transliteration">
 	수보리언 불야 세존 하이고 사다함 명일왕래 이실무왕래 시명사다함
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	수보리가 이뢰기를
 	"아니옵니다, 세존이시여.
 	왜냐하면 사다함은 이름이 한번 갔다 온다 하지만 실은 가고 온일 없이 이름하여 사다함이라 합니다."
 </span>
 </p>
 
-<hr>
 <p>
 	須菩提 於意云何 阿那含 能作是念 我得阿那含果 不
 <br>
+<span class="chinese-korean-transliteration">
 	수보리 어의운하 아나함 능작시념 아득아나함과 부
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	"수보리야, 어떠하냐. 아나함<sup><a href="#footnote06" id="ref06">6</a></sup>이 생각하기를 내가 아나함과를 얻었다 하겠느냐?"
 </span>
 </p>
 
-<hr>
 <p>
 	須菩提言 不也 世尊 何以故 阿那含 名爲不來 而實無不來 是故 名阿那含
 <br>
+<span class="chinese-korean-transliteration">
 	수보리언 불야 세존 하이고 아나함 명위불래 이실무불래 시고 명아나함
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	수보리가 아뢰었다.
 	"아니옵니다. 세존이시여, 왜냐하면 아나함은 이름하여 오지않는다 하지만 실제 오지 않는 일이 없고 이름하여 곧 아나함이라 합니다."
 </span>
 </p>
 
-<hr>
 <p>
 	須菩提 於意云何 阿羅漢 能作是念 我得阿羅漢道 不
-<br>
+<span class="chinese-korean-transliteration">
 	수보리 어의운하 아라한 능작시념 아득아라한도 부
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	"수보리야 어떠하냐, 아라한<sup><a href="#footnote07" id="ref07">7</a></sup>이 생각하기를 내가 아라한을 얻었다 하겠느냐?"
 </span>
 </p>
 
-
-<hr>
 <p>
 	須菩提言 不也 世尊 何以故 實無有法 名阿羅漢
-<br>
+<span class="chinese-korean-transliteration">
 	수보리언 불야 세존 하이고 실무유법 명아라한
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	수보리가 아뢰었다.
 	"아니옵니다. 세존이시여, 실제 진리라할 법이 없는 것을 이름하여 아라한이라 합니다."
 </span>
 </p>
 
-<hr>
 <p>
 	世尊 若阿羅漢作是念 我得阿羅漢道 卽爲着我人衆生壽者
-<br>
+<span class="chinese-korean-transliteration">
 	세존 약아라한작시념 아득아라한도 즉위착아인중생수자
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	"세존이시여, 만약 아라한이 생각하기를 내가 아라한을 얻었다면 곧
 	아상我相&nbsp;&sdot;&nbsp;인상人相&nbsp;&sdot;&nbsp;중생상衆生相&nbsp;&sdot;&nbsp;수자상壽者相
 	네가지 상에 집착함이 됩니다. &hellip;
 </span>
 </p>
 
-<hr>
 <p>
 	世尊 佛說我得無諍三昧人中 最爲 第一 是 第一離欲阿羅漢
-<br>
+<span class="chinese-korean-transliteration">
 	세존 불설아득무쟁삼매인중 최위 제일 시 제일이욕아라한
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	&hellip; 세존이시여,
 	부처님께서 저를 다툼없는 삼매를 얻은 사람 중 제일 으뜸이라 말씀하셨습니다.
 	이는 욕심없는 첫째 아라한이란 뜻이오나 &hellip;
 </span>
 </p>
 
-<hr>
 <p>
 	世尊 我不作是念 我是離欲阿羅漢
-<br>
+<span class="chinese-korean-transliteration">
 	세존 아부작시념 아시이욕아라한
-<span class="line-by-line-translation">
-&hellip; 세존이시여, 저는 욕심을 여윈 아라한이라 생각하지 않습니다. &hellip;
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 세존이시여, 저는 욕심을 여윈 아라한이라 생각하지 않습니다. &hellip;
 </span>
 </p>
 
-<hr>
 <p>
 	世尊 我若作是念 我得阿羅漢道 世尊 卽不說 須菩提 是樂阿蘭那行者
-<br>
+<span class="chinese-korean-transliteration">
 	세존 아약작시념 아득아라한도 세존 즉불설 수보리 시요아란나행자
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	&hellip; 세존이시여, 제가 아라한과를 얻었다 생각한다면 세존께서 곧 수보리에게 아라한 수행자라 말씀하시지 아니했을 것인데 &hellip;
 </span>
 </p>
 
-<hr>
 <p>
 	以須菩提實無所行 而名須菩提 是樂阿蘭那行
-<br>
+<span class="chinese-korean-transliteration">
 	이명수보리 시요아란나행 이수보리실무소행
-<span class="line-by-line-translation">
+</span>
+<span class="chinese-korean-translation">
 	&hellip; 수보리가 아란나행이 없으므로 이름하여 수보리가 아라한 수행을 한다 하셨습니다."
 </span>
 </p>
+</div>
+
+<h2 id="10">
+第十 莊嚴淨土分
+-
+제10 장엄정토분
+</h2>
+
+정토淨土를 장엄莊嚴하다
+
+<div class="translation-container">
+<p>
+	佛告 須菩提 於意云何 如來昔在燃燈佛所 於法有所得 不
+<span class="chinese-korean-transliteration">
+	불고 수보리 어의운하 여래석재연등불소 어법유소득 부
+</span>
+<span class="chinese-korean-translation">
+	부처님께서 수보리에게 말하였다.
+<br>
+	"어떠하냐. 여래께서 연등불 처소에서 어떤법을 얻은 적이 있느냐?"
+</span>
+</p>
+
+<p>
+	不也 世尊 如來在燃燈佛所 於法 實無所得
+<span class="chinese-korean-transliteration">
+	불야 세존 여래재연등불소 어법 실무소득
+</span>
+<span class="chinese-korean-translation">
+	"아니옵니다. 세존이시여, 여래께서 연등불 처소에서 어떤 법을 얻은 적이 없습니다."
+<br>
+</span>
+</p>
+
+<p>
+	須菩提 於意云何 菩薩莊嚴佛土 不
+<span class="chinese-korean-transliteration">
+	수보리 어의운하 보살장엄불토 부
+</span>
+<span class="chinese-korean-translation">
+	"수보리야, 어떠하냐. 보살이 불국토를 장엄하다고 했느냐?"
+</span>
+</p>
+
+<p>
+	不也 世尊 何以故 莊嚴佛土者 卽非莊嚴 是名莊嚴
+<span class="chinese-korean-transliteration">
+	불야 세존 하이고 장엄불토자 즉비장엄 시명장엄
+</span>
+<span class="chinese-korean-translation">
+	"아니옵니다. 세존世尊이시여. 왜냐하면 불국토佛國土를 장엄莊嚴한 것은 곧 장엄莊嚴이 아니옵고 이름하여 장엄莊嚴이라 하옵니다."
+</span>
+</p>
+
+<p>
+	是故 須菩提 諸菩薩摩訶薩 應如 是生淸淨心 不應住色生心 不應住聲香味觸法生心
+<span class="chinese-korean-transliteration">
+	시고 수보리 제보살마아살 응여 시생청정심 불응주색생심 불응주성향미촉법생심
+</span>
+<span class="chinese-korean-translation">
+	"그러므로 수보리야, 모든 보살의 용맹심은 마땅히 이와 같이 청정하게 낼지니라.
+	응당 형상形象에 마음을 내지 말고 소리와 냄새, 맛, 촉감, 법에 의지해 마음을 내지말고 &hellip;
+<br>
+</span>
+</p>
+
+<p>
+	<font class="emph">
+	應無所住 而生其心
+	</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">
+	응무소주 이생기심
+	</font>
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 응당 머무는바 없이 그 마음을 낼 것이니라."
+</span>
+</p>
+
+<p>
+	須菩提 譬如有人 身如須彌山王 於意云何 是身爲大 不
+<span class="chinese-korean-transliteration">
+	수보리 비여유인 신여수미산왕 어의운하 시신위대 부
+</span>
+<span class="chinese-korean-translation">
+	"수보리야, 사람몸에 비유하되 그 몸이 수미산 만하다면 어떠하냐, 그 몸이 크다하겠느냐?"
+</span>
+</p>
+
+<p>
+	須菩提言 甚大 世尊 何以故 佛說非身 是名大身
+<span class="chinese-korean-transliteration">
+	수보리언 심대 세존 하이고 불설비신 시명대신
+</span>
+<span class="chinese-korean-translation">
+	수보리가 아뢰었다.
+	"아주 큽니다. 세존이시여, 왜냐하면 몸아닌 것을 부처님께서 이름하여 큰 몸이라 말씀하셨습니다."
+</span>
+</p>
+
+</div>
+
+
 
 <!--
-10. 莊嚴淨土分 장엄정토분- 깨끗한 국토는 예의바르고 엄정하다
-
-佛告 須菩提 於意云何. 如來昔在燃燈佛所 於法有所得 不. 不也 世尊. 如來在燃燈佛所 於法
-
-불고 수보리 어의운하 여래석재연등불소 어법유소득 부 불야 세존 여래재연등불소 어법
-
-實無所得.
-
-실무소득
-
-須菩提 於意云何. 菩薩莊嚴佛土 不.
-
-수보리 어의운하 보살장엄불토 부
-
-不也 世尊. 何以故 莊嚴佛土者 卽非莊嚴 是名莊嚴.
-
-불야 세존 하이고 장엄불토자 즉비장엄 시명장엄
-
-是故 須菩提 諸菩薩摩訶薩 應如 是生淸淨心. 不應住色生心 不應住聲香味觸法生心.
-
-시고 수보리 제보살마아살 응여 시생청정심 불응주색생심 불응주성향미촉법생심
-
-應無所住 而生其心.
-
-응무소주 이생기심
-
-須菩提 譬如有人 身如須彌山王 於意云何. 是身爲大 不. 須菩提言. 甚大 世尊.
-
-수보리 비여유인 신여수미산왕 어의운하 시신위대 부 수보리언 심대 세존
-
-何以故 佛說非身 是名大身
-
-하이고 불설비신 시명대신
-
-
-
-우리말.
-
-부처님께서 수보리에게 말하였다.
-
-"어떠하냐. 여래께서 연등불 처소에서 어떤법을 얻은 적이 있느냐?"
-
-"아니옵니다. 세존이시여, 여래께서 연등불 처소에서 어떤 법을 얻은 적이 없습니다."
-
-"수보리야, 어떠하냐. 보살이 불국토를 장엄하다고 했느냐?"
-
-"아니옵니다. 세존이시여. 왜냐하면 불국토를 장엄한 것은 곧 장엄이 아니옵고 이름하여 장엄이라 하옵니다."
-
-"그러므로 수보리야, 모든 보살의 용맹심은 마땅히 이와 같이 청정하게 낼지니라. 응당 형상에 마음을 내지 말고 소리와 냄새, 맛, 촉감, 법에 의지해 마음을 내지말고 응당 머무는바 없이 그 마음을 낼 것이니라. 수보리야, 사람몸에 비유하되 그 몸이 수미산 만하다면 어떠하냐, 그 몸이 크다하겠느냐?"
-
-수보리가 아뢰었다.
-
-"아주 큽니다. 세존이시여, 왜냐하면 몸아닌 것을 부처님께서 이름하여 큰 몸이라 말씀하셨습니다."
-
-
-
 11. 無爲福勝分 무위복승분- 위없는 가장 큰 복덕
 
 須菩提 如恒河中所有沙數 如是沙等恒河 於意云何. 是諸恒河沙 寧爲多 不. 須菩提言 甚多
@@ -903,7 +931,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 수보리가 아뢰었다.
 
-"아주 많습니다. 세존이시여. 부처님이 수보리에게 말씀하셨다. 만약 착한 남자 여인이 이 경의 네 글귀만 받아지니고 남을 위해 말해준다면 이 복과 덕이 앞의 복덕보다 뛰어나니라."
+"아주 많습니다. 세존이시여. 부처님이 수보리에게 말씀하셨다. 만약 착한 남자 여인이 이 경의 네 글귀만 받아지니고 남을 위해 말해준다면 이 복과 덕이 앞의 복덕福德보다 뛰어나니라."
 
 *항하 : 갠지스강
 
@@ -997,13 +1025,13 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 "수보리야. 모든 먼지를 여래께서 먼지라 말하지 않고 이름하여 먼지라하고 여래께서 말하는 세계는 세계가 아니라 이름하여 세계라 하니라. 수보리야. 어떠하냐. 가이 서른두가지 몸매로써 여래를 볼수 있느냐."
 
-"아니옵니다. 세존이시여 가이 서른 두가지 형상으로써 여래를 보지못합니다. 왜냐하면 여래께서 말씀하시길 삼십이 형상은 곧 형상이 아니라 그 이름이 삼십이 상이옵니다."
+"아니옵니다. 세존이시여 가이 서른 두가지 형상形象으로써 여래를 보지못합니다. 왜냐하면 여래께서 말씀하시길 삼십이 형상形象은 곧 형상形象이 아니라 그 이름이 삼십이 상이옵니다."
 
 "수보리야, 만약 착한 남자 착한 여인이 항하의 모래 수만큼 목숨을 바쳐 보시하고 또 어떤 사람이 이 경전중에서 네 글귀를 지니거나 독송하여 남을 위해 설명하면 그 복이 오히려 앞의 복보다 깊고 많으니라."
 
 
 
-14.離相寂滅分 이상적멸분- 형상을 여위면 고요하고 적멸하다
+14.離相寂滅分 이상적멸분- 형상形象을 여위면 고요하고 적멸하다
 
 爾時 須菩提 聞說是經 深解義趣 涕淚悲泣 而白佛言. 希有 世尊. 佛說 如是甚深經典.
 
@@ -1125,19 +1153,19 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 그때 수보리가 이 경 말씀을 뜯고 그 깊은 뜻을 깨달아 알고 눈물을 흘리며 슬퍼하며 부처님께 아뢰었다.
 
-"위대하옵니다. 세존이시여. 부처님께서 이와 같이 깊고 심오한 경전을 제가 옛적부터 지금까지 닦은 지혜의 눈으로는 얻어듣지 못했습니다. 이와 같은 경전을 세존이시여 만일 어떤 사람이 이 경전을 얻어듣고 마음이 맑고 깨끗하면 즉시 진실한 상이 생겨 마땅히 이 사람은 제일 성인과의 공덕을 이루었습니다. 세존이시여. 이 진리의 상은 곧 형상이 아니옵니다. 그 뜻은 여래께서 이름하여 실상이라 말하였습니다. "
+"위대하옵니다. 세존이시여. 부처님께서 이와 같이 깊고 심오한 경전을 제가 옛적부터 지금까지 닦은 지혜의 눈으로는 얻어듣지 못했습니다. 이와 같은 경전을 세존이시여 만일 어떤 사람이 이 경전을 얻어듣고 마음이 맑고 깨끗하면 즉시 진실한 상이 생겨 마땅히 이 사람은 제일 성인과의 공덕을 이루었습니다. 세존이시여. 이 진리의 상은 곧 형상形象이 아니옵니다. 그 뜻은 여래께서 이름하여 실상이라 말하였습니다. "
 
 "세존이시여. 제가 지금 이와같은 경전을 얻어듣고 믿어지니는 것은 어렵지 않사오나 만약 미래의 세상인 다음 오백세 뒤에 그 중생들은 이 경을 얻어듣고 믿어지녀 이해한다면 이 사람은 곧 제일 성인과를 이루었습니다. 왜냐하면 그 사람은 나라는 생각이 없고 교만함이 없고 몸이 실체라함이 없고 오래 산다는 생각이 없습니다. 왜냐하면 나라는 생각은 곧 상이 아니므로 교만심, 육체의 집착, 생명의 집착을 곧 상이 아닌걸 압니다. 왜냐하면 일체의 현상을 떠난 걸 즉 부처라 이름하기 때문입니다."
 
 부처님이 수보리에게 말하였다.
 
-"그러니라. 만약 어떤 사람이 이 경을 얻어듣고 놀라거나 겁내고 두려워하지 않으니 마땅히 이 사람을 깊이 깨닭은이라 하나니 왜냐하면 수보리야 여래께서 제일 완전한 깨달음이란 곧 제일 완전한 경지가 아니라 이름하여 제일 완전한 경지라 하니라. 수보리야, 인욕의 완전한 경지도 여래께서 말씀하시기를 인욕의 완전한 경지가 아니라 이름하여 인욕의 완전함이라 하니라. 왜냐하면 수보리야, 내가 옛적에 가리왕에게 몸을 베이고 찢기울 때 내가 그 때 나라는 생각이 없고 교만함이 없고 몸매에 집착하지 않고 오래 살고 싶다는 생각이 없었기 때문에 내가 옛적에 사지를 끊고 찢길 때 만일 네가지 형상에 집착하였다면 응당 성내고 원망하는 마음이 생겼느니라."
+"그러니라. 만약 어떤 사람이 이 경을 얻어듣고 놀라거나 겁내고 두려워하지 않으니 마땅히 이 사람을 깊이 깨닭은이라 하나니 왜냐하면 수보리야 여래께서 제일 완전한 깨달음이란 곧 제일 완전한 경지가 아니라 이름하여 제일 완전한 경지라 하니라. 수보리야, 인욕의 완전한 경지도 여래께서 말씀하시기를 인욕의 완전한 경지가 아니라 이름하여 인욕의 완전함이라 하니라. 왜냐하면 수보리야, 내가 옛적에 가리왕에게 몸을 베이고 찢기울 때 내가 그 때 나라는 생각이 없고 교만함이 없고 몸매에 집착하지 않고 오래 살고 싶다는 생각이 없었기 때문에 내가 옛적에 사지를 끊고 찢길 때 만일 네가지 형상形象에 집착하였다면 응당 성내고 원망하는 마음이 생겼느니라."
 
-"수보리야, 또 과거에 생각하기를 오백년 동안 인욕을 닦는 선인으로 있을 때 그 때 세상에도 나라는 생각, 교만한 생각, 몸이 실체라는 생각, 오래 산다는 생각이 없었느니라. 그러므로 수보리야, 보살은 마땅히 일체의 형상을 떠나 위없이 높고 바른 깨달음의 마음을 일으킬지니 형상에 집착하지 말고 마음을 내어 소리, 냄새, 맛, 촉감, 법에 집착하지 않고 마음을 내면 머문바 없이 마음을 내면 만약 마음이 머물더라도 곧 머문바 없으니 그러므로 부처님께서 보살의 마음을 말하기를 응당 형상에 집착해 보시하지 않는다 하느니라."
+"수보리야, 또 과거에 생각하기를 오백년 동안 인욕을 닦는 선인으로 있을 때 그 때 세상에도 나라는 생각, 교만한 생각, 몸이 실체라는 생각, 오래 산다는 생각이 없었느니라. 그러므로 수보리야, 보살은 마땅히 일체의 형상形象을 떠나 위없이 높고 바른 깨달음의 마음을 일으킬지니 형상形象에 집착하지 말고 마음을 내어 소리, 냄새, 맛, 촉감, 법에 집착하지 않고 마음을 내면 머문바 없이 마음을 내면 만약 마음이 머물더라도 곧 머문바 없으니 그러므로 부처님께서 보살의 마음을 말하기를 응당 형상形象에 집착해 보시하지 않는다 하느니라."
 
-"수보리야, 보살은 일체 중생을 이롭게 하기위해 마땅히 이와같이 보시하나니 여래께서 말씀하신 일체의 형상은 곧 형상이 아니며 또 일체 중생이란 말씀도 곧 중생이 아니니라. 수보리야, 여래는 진리의 말씀이며 진실의 말씀이며 진여의 말하는 이니라. 속이는 말을 하지않고 다른 말을 하지 않느니라."
+"수보리야, 보살은 일체 중생을 이롭게 하기위해 마땅히 이와같이 보시하나니 여래께서 말씀하신 일체의 형상形象은 곧 형상形象이 아니며 또 일체 중생이란 말씀도 곧 중생이 아니니라. 수보리야, 여래는 진리의 말씀이며 진실의 말씀이며 진여의 말하는 이니라. 속이는 말을 하지않고 다른 말을 하지 않느니라."
 
-"수보리야 여래께서 얻은 이 법은 실다움도 없고 헛됨도 없느니라. 수보리야 만약 보살의 마음이 법에 머물러 보시를 한다면 마치 사람이 어둠속에서 곧 아무것도 볼 수 없고 만약 보살의 마음이 법이 머물지 않고 보시를 한다면 이 사람의 눈이 햇빛이 밝게 비쳐 온갓 형상을 구분해 볼 수 있는 것 같으니라. "
+"수보리야 여래께서 얻은 이 법은 실다움도 없고 헛됨도 없느니라. 수보리야 만약 보살의 마음이 법에 머물러 보시를 한다면 마치 사람이 어둠속에서 곧 아무것도 볼 수 없고 만약 보살의 마음이 법이 머물지 않고 보시를 한다면 이 사람의 눈이 햇빛이 밝게 비쳐 온갓 형상形象을 구분해 볼 수 있는 것 같으니라. "
 
 "수보리야, 응당 오는 세상에 만약 어떤 착한 남자, 착한 여인이 능히 이 경을 지니고 독송한다면 곧 여래께서 부처님의 지혜로 이 사람을 알고 이 사람을 보나니 한량없고 가없는 공덕을 성취하게 되느니라."
 
@@ -1347,7 +1375,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 부처님께서 수보리에게 말하였다.
 
-"만약 착한 남자 착한 여인이 위없이 높고 바른 깨달음의 마음을 일으킨 이는 마땅히 이와 같이 마음을 낼지니, 내가 마땅히 모든 중생을 제도하리라하여 그 모든 중생을 제도하지만 실은 한 중생도 제도한 자가 없다하라."
+"만약 착한 남자 착한 여인이 위없이 높고 바른 깨달음의 마음을 일으킨 이는 마땅히 이와 같이 마음을 낼지니, 내가 마땅히 모든 중생을 제도濟度하리라하여 그 모든 중생을 제도濟度하지만 실은 한 중생도 제도濟度한 자가 없다하라."
 
 "왜냐하면 수보리야, 만약 보실이 나라는 생각, 교만한 생각, 몸에 집착한 생각 오래 산다는 생각이 있다면 곧 보살이 아니기 때문이다. 수보리야, 진리의 경계가 없는데서  위없이 높고 바른 깨달음의 마음을 일으킨자야 하느니라."
 
@@ -1363,7 +1391,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 수보리가 아뢰었다.
 
-"세존이시여, 여래께서 사람의 몸이 크다 말함은 실은 큰 몸이 아니라 그 이름이 큰 몸이라 할뿐이 옵니다. 수보리야 보살 또한 이와 같이 말하되 만약 내가 한량 없는 중생을 제도하였다면 곧 보살이라 이름할 수 없느니라. 왜냐하면 수보리야, 실로 어떤 진리가 없으므로 이름하여 보살이라 하니라. 그러므로 부처님께서 일체법을 말하기를 나도 없고 남도 없고 중생도 없고 오랜 삶도 없다 하느니라."
+"세존이시여, 여래께서 사람의 몸이 크다 말함은 실은 큰 몸이 아니라 그 이름이 큰 몸이라 할뿐이 옵니다. 수보리야 보살 또한 이와 같이 말하되 만약 내가 한량 없는 중생을 제도濟度하였다면 곧 보살이라 이름할 수 없느니라. 왜냐하면 수보리야, 실로 어떤 진리가 없으므로 이름하여 보살이라 하니라. 그러므로 부처님께서 일체법을 말하기를 나도 없고 남도 없고 중생도 없고 오랜 삶도 없다 하느니라."
 
 "수보리야, 만약 보살이 말하기를 내가 마땅히 불국토를 장엄하리라 한다면 이는 보살이라 이름 할 수 없나니 왜냐하면 여래께서 말씀하신 불국토의 장엄은 곧 장엄이 아니라 이름이 장엄이니라. 수보리야 만약 보살이 '나'가 없다는 걸 통달했다면 여래께서 참으로 보살이라 이름하여 말하리라."
 
@@ -1481,11 +1509,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 "그러하옵니다. 세존이시여. 이 사람은 이와 같은 인연으로 얻는 복이 아주 많습니다."
 
-"수보리야. 만약 복덕이 진실로 있다면 여래께서 복덕을 많이 얻는다고 말하지 않는다. 복덕이 없는 고로 여래께서 복덕을 많이 얻는다고 말하느니라."
+"수보리야. 만약 복덕福德이 진실로 있다면 여래께서 복福德덕을 많이 얻는다고 말하지 않는다. 복덕福德이 없는 고로 여래께서 복덕福德을 많이 얻는다고 말하느니라."
 
 
 
-20. 離色離相分 이색이상분- 형상을 떠나고 경계를 떠나고
+20. 離色離相分 이색이상분- 형상形象을 떠나고 경계를 떠나고
 
 須菩提 於意云何. 佛 可以具足色身見 不. 不也 世尊. 如來 不應以具足色身見 何以故 如來說
 
@@ -1507,11 +1535,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 우리말.
 
-"수보리야, 어떠하냐 부처님을 갖춘 몸매의 형상으로 볼수 있느냐."
+"수보리야, 어떠하냐 부처님을 갖춘 몸매의 형상形象으로 볼수 있느냐."
 
-"아니옵니다. 세존이시여. 여래는 갖춘 몸매의 형상으로 볼 수 없습니다. 왜냐하면 여래께서 말씀하신 갖춘 몸매의 형상이란 곧 갖춘 몸매가 아니라 이름하여 갖춘 몸매라 합니다."
+"아니옵니다. 세존이시여. 여래는 갖춘 몸매의 형상形象으로 볼 수 없습니다. 왜냐하면 여래께서 말씀하신 갖춘 몸매의 형상形象이란 곧 갖춘 몸매가 아니라 이름하여 갖춘 몸매라 합니다."
 
-"수보리야, 어떠하냐. 여래를 모든 갖춘 형상으로 볼 수 있느냐."
+"수보리야, 어떠하냐. 여래를 모든 갖춘 형상形象으로 볼 수 있느냐."
 
 "아니옵니다. 세존이시여. 여래를 모든 갖춘 형상으로 볼 수 없습니다. 왜냐하면 여래께서 말씀하신 모두 갖춘 형상이란 곧 갖춘 형상이 아니라 이름하여 모든 형상을 갖추었다 합니다."
 
@@ -1619,7 +1647,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 우리말.
 
-"수보리야, 만약 삼천 큰 세계 가운데 제일 큰 산인 수미산왕만한 칠보덩어리를 가지고 어떤 사람이 보시를 한다해도 다른 한 사람이 이 반야바라밀경에서 네 글귀의 게송 내지 경을 지니고 독송하고 남을 위해 말해 준다면 앞의 복덕으로는 백분의 일에도 미치지 못하고 백천만억분 내지 숫자의 셈으로 비교하더라도 미치지 못하니라."
+"수보리야, 만약 삼천 큰 세계 가운데 제일 큰 산인 수미산왕만한 칠보덩어리를 가지고 어떤 사람이 보시를 한다해도 다른 한 사람이 이 반야바라밀경에서 네 글귀의 게송 내지 경을 지니고 독송하고 남을 위해 말해 준다면 앞의 복덕福德으로는 백분의 일에도 미치지 못하고 백천만억분 내지 숫자의 셈으로 비교하더라도 미치지 못하니라."
 
 
 
@@ -1649,7 +1677,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 우리말.
 
-"수보리야, 어떠하냐. 너희들은 여래께서 생각하기를 내가 마땅히 중생을 제도한다고 하지마라. 수보리야, 이런 생각을 하지마라. 왜냐하면 실로 여래께서 제도할 중생이 없기 때문이니라. 만약 여래께서 제도할 중생이 있다면 여래는 곧 나라는 교만심, 형상, 생명에 의지함이 된다. 수보리야, 여래께서 나라고 말함은 곧 내가 아니라 범부들이 내가 있다고 할 뿐이니라. 수보리야, 범부라는 것도 여래께서 말씀하시길 즉 범부가 아니라 이름하여 범부라 하느니라."
+"수보리야, 어떠하냐. 너희들은 여래께서 생각하기를 내가 마땅히 중생을 제도濟度한다고 하지마라. 수보리야, 이런 생각을 하지마라. 왜냐하면 실로 여래께서 제도濟度할 중생이 없기 때문이니라. 만약 여래께서 제도濟度할 중생이 있다면 여래는 곧 나라는 교만심, 형상, 생명에 의지함이 된다. 수보리야, 여래께서 나라고 말함은 곧 내가 아니라 범부들이 내가 있다고 할 뿐이니라. 수보리야, 범부라는 것도 여래께서 말씀하시길 즉 범부가 아니라 이름하여 범부라 하느니라."
 
 
 
@@ -1763,13 +1791,13 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 우리말.
 
-"수보리야, 만약 보살이 항하의 모래수처럼 많은 세계에 칠보로 널리 보시하였고 다시 어떤 사람이 일체법에 나 없는 진리를 알아 깨달음을 얻었다면 이 보살은 앞의 보살보다 얻은 공덕이 뛰어나니라. 왜냐하면 수보리야. 모든 보살은 복덕을 받지 않기 때문이니라."
+"수보리야, 만약 보살이 항하의 모래수처럼 많은 세계에 칠보로 널리 보시하였고 다시 어떤 사람이 일체법에 나 없는 진리를 알아 깨달음을 얻었다면 이 보살은 앞의 보살보다 얻은 공덕이 뛰어나니라. 왜냐하면 수보리야. 모든 보살은 복덕福德을 받지 않기 때문이니라."
 
 수보리가 부처님께 아뢰었다.
 
-"세존이시여, 어찌하여 보살이 복덕을 받지 않습니까?"
+"세존이시여, 어찌하여 보살이 복덕福德을 받지 않습니까?"
 
-"수보리야, 보살은 자기가 지은 복덕을 탐착하지 않기 때문에 이르되 복덕을 받지 않는다 말하니라."
+"수보리야, 보살은 자기가 지은 복덕福德을 탐착하지 않기 때문에 이르되 복덕福德을 받지 않는다 말하니라."
 
 
 
