@@ -71,202 +71,178 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 - 관자재보살이 깊은 반야바라밀다를 행할 때 오온이 공한 것을 비추어 보고 온갖 고통을 건너느니라
 -->
 
+<div class="translation-container">
 <p>
-摩訶般若波羅蜜多心經 마하반야바라밀다심경
-<br>
-<span class="line-by-line-translation">
-일체를 초월하는 지혜로 피안에 도달하는 가장 핵심되는 부처님의 말씀
+	摩訶般若波羅蜜多心經
+<span class="chinese-korean-transliteration">
+	마하반야바라밀다심경
+</span>
+<span class="chinese-korean-translation">
+	일체를 초월하는 지혜로 피안에 도달하는 가장 핵심되는 부처님의 말씀
 </span>
 </p>
-
+</div>
 
 <hr>
+<div class="translation-container">
 <p>
-觀自在菩薩 관자재보살 行深般若波羅蜜多時 행심반야바라밀다시 照見 조견 五蘊皆空 오온개공 度一切苦厄 도일체고액
-<br>
-<span class="line-by-line-translation">
-관자재보살이 깊은 반야바라밀다를 행할 때 오온이 공한 것을 비추어 보고 온갖 고통을 건너느니라
+	觀自在菩薩 行深般若波羅蜜多時 照見 五蘊皆空 度一切苦厄
+<span class="chinese-korean-transliteration">
+	관자재보살 행심반야바라밀다시 조견 오온개공 도일체고액
+</span>
+<span class="chinese-korean-translation">
+	관자재보살이 깊은 반야바라밀다를 행할 때 오온五蘊이 공空한 것을 비추어 보고 온갖 고통苦痛을 건너느니라
 </span>
 </p>
 
-
-<hr>
 <p>
-舍利子 사리자
-色不異空 색불이공
-空不異色 공불이색
-色卽是空 색즉시공
-空卽是色 공즉시색
-受想行識 수상행식
-亦復如是 역부여시
-<br>
-<span class="line-by-line-translation">
-사리자여! 색이 공과 다르지 않고 공이 색과 다르지 않으며 색이 곧 공이고 공이 곧 색이니 감각ㆍ생각ㆍ행동ㆍ의식도 그러하니라
+	舍利子 色不異空 空不異色 色卽是空 空卽是色 受想行識 亦復如是
+<span class="chinese-korean-transliteration">
+	사리자 색불이공 공불이색 색즉시공 공즉시색 수상행식 역부여시
+</span>
+<span class="chinese-korean-translation">
+	사리자여! 색이 공과 다르지 않고 공이 색과 다르지 않으며 색이 곧 공이고 공이 곧 색이니
+	감각&nbsp;&sdot;&nbsp;생각&nbsp;&sdot;&nbsp;행동&nbsp;&sdot;&nbsp;의식도 그러하니라
 </span>
 </p>
 
-<hr>
 <p>
-舍利子 사리자
-是諸法空相 시제법공상
-不生不滅 불생불멸
-不垢不淨 불구부정
-不增不減 부증불감
+	舍利子 是諸法空相 不生不滅 不垢不淨 不增不減
+<span class="chinese-korean-transliteration">
+	사리자 시제법공상 불생불멸 불구부정 부증불감
+</span>
+<span class="chinese-korean-translation">
+	사리자여!
 <br>
-<span class="line-by-line-translation">
-사리자여! 모든 법의 공한 형태는 나지도 멸하지도 않으며 더럽지도 깨끗하지도 않으며 늘지도 줄지도 않느니라
+	모든 법의 공한 형태는 나지도 멸滅하지도 않으며 더럽지도 깨끗하지도 않으며 늘지도 줄지도 않느니라
 </span>
 </p>
 
-<hr>
 <p>
-是故 시고
-空中無色 공중무색
-無受想行識 무수상행식
-<br>
-<span class="line-by-line-translation">
-그러므로 공 가운데에는 실체가 없고 감각ㆍ생각ㆍ행동ㆍ의식도 없으며
+	是故 空中無色 無受想行識
+<span class="chinese-korean-transliteration">
+	시고 공중무색 무수상행식
+</span>
+<span class="chinese-korean-translation">
+	그러므로 공 가운데에는 실체가 없고 감각&nbsp;&sdot;&nbsp;생각&nbsp;&sdot;&nbsp;행동&nbsp;&sdot;&nbsp;의식도 없으며
 </span>
 </p>
 
-<hr>
 <p>
-無眼耳鼻舌身意 무안이비설신의
-無色聲香味觸法 무색성향미촉법
-無眼界 무안계
-乃至無意識界 내지무의식계
-<br>
-<span class="line-by-line-translation">
-눈도, 귀도, 코도, 혀도, 몸도, 의식도 없고
-색깔도, 소리도, 향기도, 맛도, 감촉도, 법도 없으며
-눈의 경계도 의식의 경계까지도 없고
+	無眼耳鼻舌身意 無色聲香味觸法 無眼界 乃至無意識界
+<span class="chinese-korean-transliteration">
+</span>
+	무안이비설신의 무색성향미촉법 무안계 내지무의식계
+<span class="chinese-korean-translation">
+	눈도, 귀도, 코도, 혀도, 몸도, 의식도 없고
+	색깔도, 소리도, 향기도, 맛도, 감촉도, 법도 없으며
+	눈의 경계도 의식의 경계까지도 없고
 </span>
 </p>
 
-<hr>
 <p>
-無無明 무무명
-亦無無明盡 역무무명진
-乃至 내지
-無老死 무노사
-亦無老死盡 역무노사진
-<br>
-<span class="line-by-line-translation">
-무명도 무명이 다함까지도 없으며, 늙고 죽음도 없고, 늙고 죽음이 다함까지도 없고,
+	無無明 亦無無明盡 乃至 無老死 亦無老死盡
+<span class="chinese-korean-transliteration">
+	무무명 역무무명진 내지 무노사 역무노사진
+</span>
+<span class="chinese-korean-translation">
+	무명無明도 무명無明이 다함까지도 없으며, 늙고 죽음도 없고, 늙고 죽음이 다함까지도 없고
 </span>
 </p>
 
-<hr>
 <p>
-無苦集滅道 무고집멸도
-無智亦無得 무지역무득
-<br>
-<span class="line-by-line-translation">
-고집멸도도 없으며 지혜도 얻음도 없느니라
+	無苦集滅道 無智亦無得
+<span class="chinese-korean-transliteration">
+	무고집멸도 무지역무득
+</span>
+<span class="chinese-korean-translation">
+	고집멸도도 없으며 지혜도 얻음도 없느니라
 </span>
 </p>
 
-<hr>
 <p>
-以無所得故 이무소득고
-菩提薩埵 보리살타
-依般若波羅蜜多故 의반야바라밀다고
-<br>
-<span class="line-by-line-translation">
-얻을 것이 없는 까닭에 보리살타는 반야바라밀다를 의지하므로
+	以無所得故 菩提薩埵 依般若波羅蜜多故
+<span class="chinese-korean-transliteration">
+	이무소득고 보리살타 의반야바라밀다고
+</span>
+<span class="chinese-korean-translation">
+	얻을 것이 없는 까닭에 보리살타菩提薩埵는 반야바라밀다般若波羅蜜多를 의지하므로
 </span>
 </p>
 
-<hr>
 <p>
-心無罣礙 심무괘애
-無罣礙故 무괘애고
-無有恐怖 무유공포
-遠離顚倒夢想 원리전도몽상
-究竟涅槃 구경열반
-<br>
-<span class="line-by-line-translation">
-마음에 걸림이 없고 걸림이 없으므로 두려움이 없어서 뒤바뀐 헛된 생각을 멀리 떠나 완전한 열반에 들어가며
+	心無罣礙 無罣礙故 無有恐怖 遠離顚倒夢想 究竟涅槃
+<span class="chinese-korean-transliteration">
+	심무괘애 무괘애고 무유공포 원리전도몽상 구경열반
+</span>
+<span class="chinese-korean-translation">
+	마음에 걸림이 없고 걸림이 없으므로 두려움이 없어서 뒤바뀐 헛된 생각을 멀리 떠나 완전한 열반涅槃에 들어가며
 </span>
 </p>
 
-<hr>
 <p>
-三世諸佛 삼세제불
-依般若波羅蜜多 의반야바라밀다
-故得阿耨多羅三藐三菩提 고득아뇩다라삼먁삼보리
+	三世諸佛 依般若波羅蜜多 故得阿耨多羅三藐三菩提
+<span class="chinese-korean-transliteration">
+	삼세제불 의반야바라밀다 고득아뇩다라삼먁삼보리
+</span>
+<span class="chinese-korean-translation">
+	과거過去, 현재現在, 미래未來의 모든 부처님들도 반야바라밀다般若波羅蜜多에 의지하므로
 <br>
-<span class="line-by-line-translation">
-과거, 현재, 미래의 모든 부처님들도 반야바라밀다에 의지하므로 최상의 깨달음을 얻느니라
+	최상最上의 깨달음을 얻느니라
 </span>
 </p>
 
-<hr>
 <p>
-故知 고지
-般若波羅蜜多 반야바라밀다
-是大神呪 시대신주
-是大明呪 시대명주
-是無上呪 시무상주
-是無等等呪 시무등등주
-能除능一切苦 제일체고
-眞實不虛 진실불허
-<br>
-<span class="line-by-line-translation">
-그러므로 반야바라밀다는 가장 신비하고 밝은 주문이며 위없는 주문이며 무엇과도 견줄 수 없는 주문이니
-온갖 괴로움을 없애고 진실하여 허망하지 않음을 알지니라
+	故知 般若波羅蜜多 是大神呪 是大明呪 是無上呪 是無等等呪 能除一切苦 眞實不虛
+<span class="chinese-korean-transliteration">
+	고지 반야바라밀다 시대신주 시대명주 시무상주 시무등등주 능제일체고 진실불허
+</span>
+<span class="chinese-korean-translation">
+	그러므로 반야바라밀다는 가장 신비하고 밝은 주문이며 위없는 주문이며 무엇과도 견줄 수 없는 주문이니
+	온갖 괴로움을 없애고 진실하여 허망하지 않음을 알지니라
 </span>
 </p>
 
-<hr>
 <p>
-故說 고설
-般若波羅蜜多呪 반야바라밀다주
-卽說呪曰 즉설주왈
-<br>
-<span class="line-by-line-translation">
-그러므로 반야바라밀다 주문을 말하니 이러하니라.
+	故說 般若波羅蜜多呪 卽說呪曰
+<span class="chinese-korean-transliteration">
+	고설 반야바라밀다주 즉설주왈
+</span>
+<span class="chinese-korean-translation">
+	그러므로 반야바라밀다般若波羅蜜多 주문注文을 말하니 이러하니라.
 </span>
 </p>
 
-<hr>
 <p>
-揭諦揭諦 아제아제
-波羅揭諦 바라아제
-波羅僧揭諦 바라승아제
-菩提 모지
-娑婆訶 사바하
-<br>
-<span class="line-by-line-translation">
-가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자
+	揭諦揭諦 波羅揭諦 波羅僧揭諦 菩提 娑婆訶
+<span class="chinese-korean-transliteration">
+	아제아제 바라아제 바라승아제 모지 사바하
+</span>
+<span class="chinese-korean-translation">
+	가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자
 </span>
 </p>
 
-<hr>
 <p>
-揭諦揭諦 아제아제
-波羅揭諦 바라아제
-波羅僧揭諦 바라승아제
-菩提 모지
-娑婆訶 사바하
-<br>
-<span class="line-by-line-translation">
-가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자
+	揭諦揭諦 波羅揭諦 波羅僧揭諦 菩提 娑婆訶
+<span class="chinese-korean-transliteration">
+	아제아제 바라아제 바라승아제 모지 사바하
+</span>
+<span class="chinese-korean-translation">
+	가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자
 </span>
 </p>
 
-<hr>
 <p>
-揭諦揭諦 아제아제
-波羅揭諦 바라아제
-波羅僧揭諦 바라승아제
-菩提 모지
-娑婆訶 사바하
-<br>
-<span class="line-by-line-translation">
-가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자
+	揭諦揭諦 波羅揭諦 波羅僧揭諦 菩提 娑婆訶
+<span class="chinese-korean-transliteration">
+	아제아제 바라아제 바라승아제 모지 사바하
+</span>
+<span class="chinese-korean-translation">
+	가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자
 </span>
 </p>
+</div>
 
 
 <h1 id="ref">Reference</h1>

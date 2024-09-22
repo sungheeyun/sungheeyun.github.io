@@ -154,13 +154,22 @@ figcaption {
 	font-style: italic;
 }
 
-.line-by-line-translation-first-line {
+.chinese-korean-transliteration {
 	display: block;
-	margin-top: 12px;
+	margin-top: 7px;
 }
 
-.line-by-line-translation {
+.chinese-korean-translation {
 	display: block;
-	margin-top: 8px;
+	margin-top: 10px;
+	line-height: 1.5;
+}
+
+.translation-container {
+	line-height: 1;
+}
+
+.translation-container p {
+	margin-bottom: 30px;
 }
 
