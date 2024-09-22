@@ -129,10 +129,6 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 해주 스님 동국대 명예교수 jeon@dongguk.edu
 -->
 
-<h1 id="text-and-commentary">
-본문과 해석
-</h1>
-
 <div class="fig-container">
 	<figure>
 		<img src="/assets/images/buddhism/nature-of-dharma-song-02-larger.png">
@@ -142,222 +138,330 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	</figure>
 </div>
 
-<!--義相祖師 法性偈 의상조사 법성게-->
+<h1 id="text-and-commentary">
+본문과 해석
+</h1>
+
+義相祖師 法性偈
+<br>
+의상조사 법성게
+
+<hr>
+<div class="translation-container">
 
 <p>
-	法性圓融 無二相 - 법성원융 무이상
-<span class="line-by-line-translation">
+	法性圓融 無二相
+<span class="chinese-korean-transliteration">
+	법성원융 무이상
+</span>
+<span class="chinese-korean-translation">
 	법의성품 원융하여 두 모습이 본래 없고
 </span>
-<span class="line-by-line-translation-first-line">
-	諸法不動 本來寂 - 제법부동 본래적
+</p>
+
+<p>
+	諸法不動 本來寂
+<span class="chinese-korean-transliteration">
+	제법부동 본래적
 </span>
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 	모든 법은 고요하여 움직이지 아니하니 진여眞如의 세계로다
 </span>
 </p>
 
-<hr>
 <p>
-	無名無相 絶一切 - 무명무상 절일체
-<span class="line-by-line-translation">
+	無名無相 絶一切 
+<span class="chinese-korean-transliteration">
+	무명무상 절일체
+</span>
+<span class="chinese-korean-translation">
 	이름도 없고 형상도 없어 온갖 것 끊겼으니
+<br>
 </span>
-<span class="line-by-line-translation-first-line">
-	證智所知 非餘境 - 증지소지 비여경
+</p>
+
+<p>
+	證智所知 非餘境 
+<span class="chinese-korean-transliteration">
+	증지소지 비여경
 </span>
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 	깨달음의 지혜로만 알뿐 다른 경계 아니로다
 </span>
 </p>
 
-
-<hr>
 <p>
-	眞性深心 極微妙 - 진성심심 극미묘
-<span class="line-by-line-translation">
+	眞性深心 極微妙 
+<span class="chinese-korean-transliteration">
+	진성심심 극미묘
+</span>
+<span class="chinese-korean-translation">
 	참된 성품은 참으로 깊고도 오묘하니
 </span>
-<span class="line-by-line-translation-first-line">
-	不守自性 隨緣成 - 불수자성 수연성
+</p>
+
+<p>
+	不守自性 隨緣成
+<span class="chinese-korean-transliteration">
+	불수자성 수연성
 </span>
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 	자기 성품을 지키거나 집착하지 않고 인연따라 이루어지네
 </span>
 </p>
 
-
-<hr>
 <p>
-	一中一切 多中一 - 일중일체 다중일
-<span class="line-by-line-translation">
+	一中一切 多中一
+<span class="chinese-korean-transliteration">
+	일중일체 다중일
+</span>
+<span class="chinese-korean-translation">
 	하나 속에 일체 있고 여럿 속에 하나 있어
-</span>
-<span class="line-by-line-translation-first-line">
-	一卽一切 多卽一 - 일즉일체 다즉일
-</span>
-<span class="line-by-line-translation">
-	하나가 곧 일체요 여럿이 곧 하나로다
 </span>
 </p>
 
-<hr>
 <p>
-	一微塵中 含十方 - 일미진중 함시방
-<span class="line-by-line-translation-first-line">
+	一卽一切 多卽一
+<span class="chinese-korean-transliteration">
+	일즉일체 다즉일
+</span>
+<span class="chinese-korean-translation">
+	하나가 곧 일체요 여럿이 곧 하나로다
+<br>
+</span>
+</p>
+
+<p>
+	一微塵中 含十方
+<span class="chinese-korean-transliteration">
+	일미진중 함시방
+</span>
+<span class="chinese-korean-translation">
 	한 작은 티끌 속에 시방세계十方世界 머금었고
+<br>
 </span>
-<span class="line-by-line-translation-first-line">
-	一切塵中 亦如是 - 일체진중 역여시
+</p>
+
+<p>
+	一切塵中 亦如是
+<span class="chinese-korean-transliteration">
+	일체진중 역여시
 </span>
-<span class="line-by-line-translation-first-line">
+<span class="chinese-korean-translation">
 	온갖 티끌 가운데도 또한 이와 다름없네
 </span>
 </p>
 
-<hr>
 <p>
-	無量遠劫 卽一念 - 무량원겁 즉일념
-<span class="line-by-line-translation">
-	한량 없는 오랜 세월이 한 생각 찰나요
+	無量遠劫 卽一念
+<span class="chinese-korean-transliteration">
+	무량원겁 즉일념
 </span>
-<span class="line-by-line-translation-first-line">
-	一念卽是 無量劫 - 일념즉시 무량겁
-</span>
-<span class="line-by-line-translation">
-	찰나의 한 생각이 무량한 시간이네
+<span class="chinese-korean-translation">
+	한량限量 없는 오랜 세월歲月이 한 생각 찰나刹那요
 </span>
 </p>
 
-<hr>
 <p>
-	九世十世 互相卽 - 구세십세 호상즉
-<span class="line-by-line-translation">
+	一念卽是 無量劫
+<span class="chinese-korean-transliteration">
+	일념즉시 무량겁
+</span>
+<span class="chinese-korean-translation">
+	찰나刹那의 한 생각이 무량無量한 시간이네
+</span>
+</p>
+
+<p>
+	九世十世 互相卽
+<span class="chinese-korean-transliteration">
+	구세십세 호상즉
+</span>
+<span class="chinese-korean-translation">
 	과거와 현재와 미래가 다른듯 하면서도
 	모두가 현재의 이 마음에 함께 있어서
 </span>
-<span class="line-by-line-translation-first-line">
-	仍不雜亂 隔別成 잉불잡란 격별성
+</p>
+
+<p>
+	仍不雜亂 隔別成
+<span class="chinese-korean-transliteration">
+	잉불잡란 격별성
 </span>
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 	얽힌 듯 얽히지 않고 각각 뚜렷하게 이루어졌도다
+<br>
 </span>
 </p>
 
-<hr>
 <p>
-	初發心時 便正覺 - 초발심시 변정각
-<span class="line-by-line-translation">
+	初發心時 便正覺
+<span class="chinese-korean-transliteration">
+	초발심시 변정각
+</span>
+<span class="chinese-korean-translation">
 	불도를 이루고자 처음 마음 낼 때의 그 마음이
 	곧 바로 깨달은 부처의 근본 마음이요
-</span>
-<span class="line-by-line-translation-first-line">
-	生死涅槃 常共和 - 생사열반 상공화
-</span>
-<span class="line-by-line-translation">
-	생사와 열반이 언제나 함께하네
+<br>
 </span>
 </p>
 
-<hr>
 <p>
-理事冥然 無分別 - 이사명연 무분별
-<span class="line-by-line-translation">
+	生死涅槃 常共和
+<span class="chinese-korean-transliteration">
+	생사열반 상공화
+</span>
+<span class="chinese-korean-translation">
+	생사와 열반이 언제나 함께하네
+<br>
+</span>
+</p>
+
+<p>
+	理事冥然 無分別
+<span class="chinese-korean-transliteration">
+	이사명연 무분별
+</span>
+<span class="chinese-korean-translation">
 	진리의 본체계와 나타난 현상계가
 	한결같이 평등하여 분별할 길 없으니
 </span>
-<span class="line-by-line-translation-first-line">
-	十佛普賢 大人境 - 십불보현 대인경
+</p>
+
+<p>
+	十佛普賢 大人境
+<span class="chinese-korean-transliteration">
+	십불보현 대인경
 </span>
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 	시방제불十方諸佛 나투신 부사의 경계로세
+<br>
 </span>
 </p>
 
-<hr>
 <p>
-	能仁海印 三昧中 - 능인해인 삼매중
-<span class="line-by-line-translation">
+	能仁海印 三昧中
+<span class="chinese-korean-transliteration">
+	능인해인 삼매중
+</span>
+<span class="chinese-korean-translation">
 	부처님은 고요한 해인海印 삼매三昧中 가운데서
 </span>
-<span class="line-by-line-translation-first-line">
-	繁出如意 不思議 - 번출여의 부사의
+</p>
+
+<p>
+	繁出如意 不思議
+<span class="chinese-korean-transliteration">
+	번출여의 부사의
 </span>
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 	온갖 불가사의한 법을 나투시네
+<br>
 </span>
 </p>
 
-<hr>
 <p>
-	雨寶益生 滿虛空 - 우보익생 만허공
-<span class="line-by-line-translation">
+	雨寶益生 滿虛空
+<span class="chinese-korean-transliteration">
+	우보익생 만허공
+</span>
+<span class="chinese-korean-translation">
 	중생衆生을 이롭게 하는 진리의 보내가 허공 가득 비처럼 내리는데
 </span>
-<span class="line-by-line-translation-first-line">
-	衆生隨器 得利益 - 중생수기 득이익
+</p>
+
+<p>
+	衆生隨器 得利益
+<span class="chinese-korean-transliteration">
+	중생수기 득이익
 </span>
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 	중생衆生들은 저마다의 그룻에 따라 얻는다네
 </span>
 </p>
 
-<hr>
 <p>
-	是故行者 還本際 - 시고행자 환본제
-<span class="line-by-line-translation">
+	是故行者 還本際
+<span class="chinese-korean-transliteration">
+	시고행자 환본제
+</span>
+<span class="chinese-korean-translation">
 	그러므로 수행자가 이 도리를 얻어 본바탕에 이르려면
+<br>
 </span>
-<span class="line-by-line-translation-first-line">
-	叵息妄想 必不得 - 파식망상 필부득
+</p>
+
+<p>
+	叵息妄想 必不得
+<span class="chinese-korean-transliteration">
+	파식망상 필부득
 </span>
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 	헛된 집착을 끊지 않고서는 얻을 수 없다네
 </span>
 </p>
 
-<hr>
 <p>
-	無緣善巧 捉如意 - 무연선교 착여의
-<span class="line-by-line-translation">
+	無緣善巧 捉如意
+<span class="chinese-korean-transliteration">
+	무연선교 착여의
+</span>
+<span class="chinese-korean-translation">
 	걸림이 없는 방법으로 여의주如意珠를 마음대로 잡아쥐어
 </span>
-<span class="line-by-line-translation-first-line">
-	歸家隨分 得資糧 - 귀가수분 득자량
+</p>
+
+<p>
+	歸家隨分 得資糧
+<span class="chinese-korean-transliteration">
+	귀가수분 득자량
 </span>
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 	진리眞理의 고향故鄕에 돌아갈 자질資質과 능력能力대로 얻는도다
 </span>
 </p>
 
-<hr>
 <p>
-	以陀羅尼 無盡寶 - 이다라니 무진보
-<span class="line-by-line-translation">
+	以陀羅尼 無盡寶
+<span class="chinese-korean-transliteration">
+	이다라니 무진보
+</span>
+<span class="chinese-korean-translation">
 	신묘神妙한 다라니陀羅尼의 다함 없는 보배로서
 </span>
-<span class="line-by-line-translation-first-line">
+</p>
+
+<p>
+	莊嚴法界 實寶殿
+<span class="chinese-korean-transliteration">
+	장엄법계 실보전
 </span>
-	莊嚴法界 實寶殿 - 장엄법계 실보전
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 	온 세상世上을 장엄莊嚴하여 보배궁전 만드네
 </span>
 </p>
 
-<hr>
 <p>
-	窮坐實際 中道床 - 궁좌실제 중도상
-<span class="line-by-line-translation">
+	窮坐實際 中道床
+<span class="chinese-korean-transliteration">
+	궁좌실제 중도상
+</span>
+<span class="chinese-korean-translation">
 	마침내 실다운 진리眞理의 세계世界
 </span>
-<span class="line-by-line-translation-first-line">
-	舊來不動 名爲佛 - 구래부동 명위불
+</p>
+
+<p>
+	舊來不動 名爲佛
+<span class="chinese-korean-transliteration">
+	구래부동 명위불
 </span>
-<span class="line-by-line-translation">
+<span class="chinese-korean-translation">
 	옛부터 변함 없는 그 이름 부처로다!
 </span>
 </p>
-<hr>
+</div>
+
 
 <div class="img-container">
 	<img src="/assets/images/buddhism/thinking-02.png">
