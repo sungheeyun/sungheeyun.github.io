@@ -21,7 +21,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 <h1 id="nature-of-dharma">
-법성게法性偈
+법성게
 </h1>
 
 &#9650; 법성게法性偈는 210자에 방대한 화엄사상 압축 / 한국불교 수행전통 오롯이 담겨
