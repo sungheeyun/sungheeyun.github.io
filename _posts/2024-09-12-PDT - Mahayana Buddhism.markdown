@@ -20,7 +20,7 @@ toc_sticky: true
 posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-<h1 id="three-dharma-seals">삼법인 三法印</h1>
+<h1 id="three-dharma-seals">삼법인</h1>
 
 삼법인三法印(tilakkhaṇa, Three Dharma Seals)은 불교의 교의를 요약하여 제시한 기치 또는 슬로건으로
 불교佛敎의 기본적 입장을 특징적으로 보여 주는 근본불교 시대에 발생한 교의이다.
@@ -65,7 +65,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </div>
 
 <h1 id="4">
-사성제四聖諦
+사성제
 </h1>
 
 사성제四聖諦(산스크리트어: चतुरार्यसत्यानि catvāri āryasatyāni, 영어: Four Noble Truths) 또는 사제四諦는
@@ -214,7 +214,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </div>
 
 <h1 id="8">
-팔정도八正道
+팔정도
 </h1>
 
 8정도八正道(산스크리트어: āryāṣṭāṅgamārga, 팔리어: pa ariyo aṭṭhaṅgiko maggo, 영어: Noble Eightfold Path),
@@ -258,7 +258,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 
 
-<h1 id="cause-and-effect">연기법緣起法</h1>
+<h1 id="cause-and-effect">연기법</h1>
 
 연기緣起라는 단어는 산스크리트어 프라티트야 삼무파다(प्रतीत्यसमुत्पाद pratītyasamutpāda)를 뜻에 따라 번역한 것으로
 인연생기因緣生起(인과 연에 의지하여 생겨남, 인연따라 생겨남)의 준말이다.
@@ -293,7 +293,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <img src="/assets/images/buddhism/chain-of-causation.png">
 </div>
 
-<h2 id="12">십이연기설十二緣起說</h2>
+<h2 id="12">십이연기설</h2>
 
 십이연기十二緣起(paîṭcca-samuppāda)란
 무명無明, 행行, 식識, 명색名色, 육입六入, 촉觸, 수受, 애愛, 취取, 유有, 생生, 노사老死를 뜻한다.
