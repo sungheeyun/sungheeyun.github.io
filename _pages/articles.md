@@ -33,9 +33,29 @@ toc_sticky: false
     </style>
 </head>
 
-* <a href="https://www.toyotafound.or.jp/english/service/50th/grant/">
-Toyota Foundation - The 50th Anniversary Grant Program
+
+<h1 id="cultivation">Cultivation</h1>
+
+* <a href="https://medium.com/speaking-bipolar/should-you-forgive-your-parents-3bc1a315bca9">
+[Medium] Should You Forgive Your Parents? - Sure, they were good to you, but what about before you were born?
 </a>
+
+
+<h1 id="cog-science">Cognitive science</h1>
+
+<ul>
+<li>
+	<a href="https://medium.com/behavior-design/how-to-stop-overthinking-22e29f695bad">[Medium] How to Stop Overthinking</a>
+</li>
+<li>
+	<a href="https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18">Cognitive bias cheat sheet</a>
+	<div class="foldable-toggle">cognitive bias codex, 2016</div>
+	<div class="foldable-content">
+		<img src="/assets/images/1_71TzKnr7bzXU_l_pU6DCNA.webp">
+    </div>
+
+</li>
+</ul>
 
 <h1 id="companies">Enterprise</h1>
 
@@ -134,18 +154,12 @@ AI may not steal many jobs after all. It may just make workers more efficient
 
 * <a href="https://www.joongang.co.kr/article/24097122"> 빅데이터 시대 예견, 고성능 컴퓨팅에 베팅해 AMD 살렸다. - 중앙일보</a>
 
+<h1 id="others">Others</h1>
 
-<h1 id="cultivation">Cultivation</h1>
-
-* <a href="https://medium.com/speaking-bipolar/should-you-forgive-your-parents-3bc1a315bca9">
-[Medium] Should You Forgive Your Parents? - Sure, they were good to you, but what about before you were born?
+* <a href="https://www.toyotafound.or.jp/english/service/50th/grant/">
+Toyota Foundation - The 50th Anniversary Grant Program
 </a>
 
-<h1 id="cog-science">Cognitive science</h1>
-
-* <a href="https://medium.com/behavior-design/how-to-stop-overthinking-22e29f695bad">
-[Medium] How to Stop Overthinking
-</a>
 
 <script>
 	document.addEventListener('DOMContentLoaded', function() {
