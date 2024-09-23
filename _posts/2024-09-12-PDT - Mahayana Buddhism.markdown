@@ -691,6 +691,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 미움과 증오 역시 애의 일종이다.
 그렇기 때문에 고수와 낙수 등의 감수작용이 심해질수록 그것을 조건으로 해서 일어나는 애착심과 증오심 등의 갈애 또한 커지는 것이다.
 
+<div class="img-container">
+<img src="/assets/images/buddhism/love.png">
+</div>
+
 이처럼 좋거나 싫은 대상에 대한 갈애가 커지게 됨으로써 좋은 대상은 더욱 더 갈망하고
 싫은 대상은 더욱 더 증오하는 등의
 중도에서 벗어난 극단적인 치우침의 어리석은 마음이 생겨난다.
@@ -745,9 +749,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 죽기 직전에 이러한 애욕을 끊어내지 못함으로써 끊임없는 윤회의 수레바퀴를 돌고 돌 수밖에 없는 것이다.
 
 <div class="img-container">
-<img width="45%" src="/assets/images/buddhism/love.png">
-&nbsp; &nbsp;
-<img width="45%" src="/assets/images/buddhism/despair.png">
+<img src="/assets/images/buddhism/despair.png">
 </div>
 
 <h3 id="attachment">
