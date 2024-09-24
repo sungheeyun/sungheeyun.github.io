@@ -11,8 +11,9 @@ permalink: /todo-list/
 <h1 id="todo-list">TODO List</h1>
 
 <ul>
+<font color="#bbb">
 <li>
-	finish up the post about Diamond Sutra - 금강경金剛經
+	<s>finish up the post about Diamond Sutra - 금강경金剛經</s>
 	<ul>
 	<li>
 		owner - Sunghee
@@ -26,8 +27,12 @@ permalink: /todo-list/
 	<li>
 		NO DUE DATE
 	</li>
+	<li>
+		DONE @ 23-Sep-2024 PDT
+	</li>
 	</ul>
 </li>
+</font>
 
 <font color="#bbb">
 <li>
