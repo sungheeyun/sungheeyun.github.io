@@ -31,7 +31,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 고려의 승려僧侶 보조국사普照國師 지눌知訥이 지은 &lt;수심결(修心訣)&gt;은
 조선朝鮮 세조世祖 때의 승려僧侶 혜각존자慧覺尊者 신미信眉가 언해한 책이다.
 
-목우자牧牛子는 지눌의 법호法號<sup><a href="#footnote1" id="ref1">1</a></sup>이며
+목우자牧牛子는 지눌의 법호法號<sup><a href="#footnote01" id="ref01">1</a></sup>이며
 &lt;수심결&gt;은 지눌이 선종禪宗과 교종敎宗의 대립을 막고
 인간人間의 참다운 모습을 밝히고자 하여 저술한 글이다.
 본서에는 &lt;수심결&gt; 외에도 &lt;환산정응선사시몽산법어皖山正凝禪師示蒙山法語&gt;등 4편의 법어法語가 함께 묶여 있다.
@@ -119,7 +119,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	<font class="emph">삼계열뇌 유여화택 기인엄류 감수장고 </font>
 </span>
 <span class="chinese-korean-translation">
-	<font class="emph">삼계三界<sup><a href="#footnote2" id="ref2">2</a></sup>의 고통은 불타는 집과 같은데
+	<font class="emph">삼계三界<sup><a href="#footnote02" id="ref02">2</a></sup>의 고통은 불타는 집과 같은데
 	어찌 그대로 머물면서 그 기나긴 고통을 달게 받고 있는가?</font>
 </span>
 </p>
@@ -140,7 +140,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	약욕구불 불즉시심 심하원멱
 </span>
 <span class="chinese-korean-translation">
-	만약 부처를 찾으려면 부처란 이 마음<sup><a href="#footnote3" id="ref3-01">3</a></sup> 뿐이니
+	만약 부처를 찾으려면 부처란 이 마음<sup><a href="#footnote03" id="ref03-01">3</a></sup> 뿐이니
 	마음을 어찌 멀리서 찾을 것인가?
 </span>
 </p>
@@ -165,7 +165,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	그래서 이르기를
 	"사람이 죽어 온갖 뼈마디가 모두 무너지고 흩어지면 불로 돌아가고 바람으로 돌아지만
-	한 물건<sup><a href="#footnote3" id="ref3-02">3</a></sup>은 영원히 신령스러워 하늘을 덮고 땅을 덮는다"고 한 것이다.
+	한 물건<sup><a href="#footnote03" id="ref03-02">3</a></sup>은 영원히 신령스러워 하늘을 덮고 땅을 덮는다"고 한 것이다.
 </span>
 </p>
 
@@ -270,7 +270,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	그러므로 세존께서
 	"모든 중생衆生들을 두루 관찰해 보니 모두 다 (참나 안에)
-	부처의 지혜智慧와 덕상德相<sup><a href="#footnote4" id="ref4">4</a></sup>을 갖추고 있다"고 하시고
+	부처의 지혜智慧와 덕상德相<sup><a href="#footnote04" id="ref04">4</a></sup>을 갖추고 있다"고 하시고
 </span>
 </p>
 
@@ -282,7 +282,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	또 이르시되
 	"모든 중생衆生의 (오온五蘊과 육근六根에 의한) 가지가지 헛된 변화가
-	모두 부처의 원만한 깨달음의 신묘한 마음<sup><a href="#footnote3" id="ref3-03">3</a></sup>에서 나투어 난다"고 하신 것이다.
+	모두 부처의 원만한 깨달음의 신묘한 마음<sup><a href="#footnote03" id="ref03-03">3</a></sup>에서 나투어 난다"고 하신 것이다.
 </span>
 </p>
 
@@ -293,8 +293,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </span>
 <span class="chinese-korean-translation">
 	그러므로 이 마음을 벗어나서는 부처를 이룰 길이 없음을 알아야 한다.
-	과거의 모든 부처들도 오직 이 마음<sup><a href="#footnote3" id="ref3-04">3</a></sup>을 밝히신 분들일 뿐이며
-	현재의 모든 성현들도 역시 이 마음<sup><a href="#footnote3" id="ref3-05">3</a></sup>을 닦은 사람들뿐이다.
+	과거의 모든 부처들도 오직 이 마음<sup><a href="#footnote03" id="ref03-04">3</a></sup>을 밝히신 분들일 뿐이며
+	현재의 모든 성현들도 역시 이 마음<sup><a href="#footnote03" id="ref03-05">3</a></sup>을 닦은 사람들뿐이다.
 	그러니 미래에 수행할 사람도 응당 이 진리에 의지해야 할 것이다.
 </span>
 </p>
@@ -634,9 +634,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	왕은 이 말을 듣고 마음이 바로 열리었다.
 </span>
 </p>
-</div>
 
-<div class="translation-container">
 <p>
 	又僧 問歸宗和尙 如何是佛
 <span class="chinese-korean-transliteration">
@@ -687,92 +685,185 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 </div>
 
-<h2 id="how-to-preserve-awareness">어떻게 보림(保任)해야 합니까?</h2>
+<h2 id="how-to-preserve-awareness">어떻게 보림保任해야 합니까?</h2>
 
-입으로만 진리 말하고 사견에 빠지면 자신도 그르치고 남도 잘못되게 한다.
+<blockquote>
+<p>
+	입으로만 진리 말하고 사견에 빠지면 자신도 그르치고 남도 잘못되게 한다.
+</p>
+</blockquote>
 
+<div class="translation-container">
+<p>
+	僧云 如何保任
+<span class="chinese-korean-transliteration">
+	승운 여하보림
+</span>
+<span class="chinese-korean-translation">
+	스님이 말했다.
+	<br>
+	"어떻게 보림保任<sup><a href="#footnote05" id="ref05">5</a></sup>해야 합니까?"
+</span>
+</p>
 
+<p>
+	師云 一穢在眼 空花亂墜
+<span class="chinese-korean-transliteration">
+	사운 일예재안 공화난추
+</span>
+<span class="chinese-korean-translation">
+	화상이 말했다.
+	<br>
+	"하나의 티끌이 눈에 들어가면 허공의 꽃(空花)<sup><a href="#footnote06" id="ref06">6</a></sup>이 어지러이 떨어지느니라."
+</span>
+</p>
 
-僧云 如何保任 師云 一　在眼 승운 여하보림 사운 일예재안
+<p>
+	其僧 言下有省
+<span class="chinese-korean-transliteration">
+	기승 언하유성
+</span>
+<span class="chinese-korean-translation">
+	그 스님은 이 말에 곧 깨달음이 있었다.
+</span>
+</p>
 
-空花亂墜 其僧 言下有省 공화난추 기승 언하유성
+<p>
+	上來所擧古聖 入道因緣 明白簡易 不妨省力
+<span class="chinese-korean-transliteration">
+	상래소거고성 입도인연 명백간이 불방성력
+</span>
+<span class="chinese-korean-translation">
+	위에서 말한 옛 성현이 도에 들어간 이야기가 명백하고 간단하여 수고로움을 덜기에 도움이 될 것이다.
+</span>
+</p>
 
-上來所擧古聖 入道因緣 明白簡易 상래소거고성 입도인연 명백간이
+<p>
+	因此公案 若有信解處 卽與古聖 把手共行
+<span class="chinese-korean-transliteration">
+	인차공안 약유신해처 즉여고성 파수공행
+</span>
+<span class="chinese-korean-translation">
+	이러한 공안公案<sup><a href="#footnote07" id="ref07">7</a></sup>을 의지해서 믿음과 이해가 있게 되면 바로 옛 성현들과 손을 잡고 함께 갈 것이다.
+</span>
+</p>
 
-不妨省力 因此公案 若有信解處 불방성력 인차공안 약유신해처
+<p>
+	問汝言見性 若眞見性 卽是聖人 應現神通變化 與人有殊
+<span class="chinese-korean-transliteration">
+	문여언견성 약진견성 즉시성인 응현신통변화 여인유수
+</span>
+<span class="chinese-korean-translation">
+	물었다.
+	<br>
+	"스님은 성품을 보았다고 하시는데 만일 참으로 성품을 보았다면 바로 성인이시라 신통변화를 나타내어 보통 사람과는 다를 것입니다
+	&hellip;
+</span>
+</p>
 
-卽與古聖 把手共行 즉여고성 파수공행
+<p>
+	何故今時修心之輩 無有一人 發現神通 變化耶
+<span class="chinese-korean-transliteration">
+	하고금시수심지배 무유일인 발현신통 변화야
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	그런데 어째서 요즈음 마음 닦는 사람들은 한 사람도 신통변화를 나타내는 사람이 없습니까?"
+</span>
+</p>
 
+<p>
+	答汝不得輕發狂言 不分邪正 是爲迷倒之人
+<span class="chinese-korean-transliteration">
+	답여부득경발광언 불분사정 시위미도지인
+</span>
+<span class="chinese-korean-translation">
+	대답하다.
+	<br>
+	"그대는 함부로 미친 소리를 하지 말라. 사邪와 정正을 분별하지 못하면 이는 미혹에 빠진 사람이다 &hellip;
+</span>
+</p>
 
+<p>
+	今是學道之人 口談眞理 心生退屈 返墮無分之失者 皆汝所疑
+<span class="chinese-korean-transliteration">
+	금시학도지인 구담진리 심생퇴굴 반타무분지실자 개여소의
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	요즘은 도를 배우는 사람들이 입으로는 진리를 말하지만 마음은 포기상태여서
+	도리어 분수에 없다는 잘못(無分之失)<sup><a href="#footnote08" id="ref08">8</a></sup>에 떨어진 자들은 다 그대가 의심하는 것과 같다
+	&hellip;
+</span>
+</p>
 
-스님이 말했다.
+<p>
+	學道而不知先後 說理而不分本末者 是名邪見 不名修學
+<span class="chinese-korean-transliteration">
+	학도이부지선후 설리이불분본말자 시명사견 불명수학
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	도를 배우되 선후를 알지 못하고 진리를 말하되 본말本末을 분간하지 못하면 이를 일컬어 사견邪見이라 하지 수행이라고 하지 않는다.
+</span>
+</p>
 
-‘어떻게 보림(保任:깨달은 경지를 잘 보호하며 닦아가는 것)해야 합니까.
+<p>
+	非唯自誤 兼亦誤他 其可不愼歟
+<span class="chinese-korean-transliteration">
+	비유자오 겸역오타 기가불신여
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 이런 이는 자신만 그르칠 뿐만 아니라 겸하여 남도 잘못되게 만드는 것이니 삼가지 않아서 되겠는가?
+	&hellip;
+</span>
+</p>
 
-’화상이 말했다.
+<p>
+	夫入道多門 以要言之 不出頓悟漸修兩門耳
+<span class="chinese-korean-transliteration">
+	부입도다문 이요언지 불출돈오점수양문이
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 대개 도에 들어가는 문은 많지만 요약해서 말하면 돈오頓悟와 점수漸修의 두 가지 문에 지나지 않는다.
+	&hellip;
+</span>
+</p>
 
-‘하나의 티끌이 눈에 들어가면 허공의 꽃(空花:눈병이 생기면 때로는 아무 것도 없는 허공에 꽃무늬 같은 헛것이 보인다)이 어지러이 떨어지느니라.’
+<p>
+	雖曰頓悟頓修 是最上根機得入也 若推過去 已是 多生 依悟而修 漸熏而來
+<span class="chinese-korean-transliteration">
+	수왈돈오돈수 시최상근기득입야 약추과거 이시 다생 의오이수 점훈이래
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 비록 돈오와 점수는 최상의 근기根機를 가진 사람만이 들어갈 수 있다고 하지만
+	과거를 미루어보면 이미 여러 생애에 걸쳐 깨달음에 의지해 닦고 차츰 익혀왔으므로
+	&hellip;
+</span>
+</p>
 
-그 스님은 이 말에 곧 깨달음이 있었다.
+<p>
+	至於今生 聞卽發悟 一時頓畢
+<span class="chinese-korean-transliteration">
+	지어금생 문즉발오 일시돈필
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 금생에 이르러 진리를 들으면 즉시 깨닫게 되어 일시에 모든 것을 끝낸다.
+	&hellip;
+</span>
+</p>
 
-위에서 말한 옛 성현이 도에 들어간 이야기가 명백하고 간단하여, 수고로움을 덜기에 도움이 될 것이다. 이러한 공안(公案:즉 공부의 규범이 되는 것)을 의지해서 믿음과 이해가 있게 되면 바로 옛 성현들과 손을 잡고 함께 갈 것이다.
+<p>
+	以實而論 是亦先悟後修之機也 則而此
+<span class="chinese-korean-transliteration">
+	이실이논 시역선오후수지기야 즉이차
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 하지만 사실 이것 역시 먼저 깨달고 뒤에 닦은 근기이다."
+</span>
+</p>
 
-
-
-問汝言見性 若眞見性 卽是聖人 문여언견성 약진견성 즉시성인
-
-應現神通變化 與人有殊 응현신통변화 여인유수
-
-何故今時修心之輩 無有一人 하고금시수심지배 무유일인
-
-發現神通 變化耶 발현신통 변화야
-
-
-
-물었다.
-
-‘스님은 성품을 보았다고 하시는데 만일 참으로 성품을 보았다면 바로 성인이시라 신통변화를 나타내어 보통 사람과는 다를 것입니다. 그런데 어째서 요즈음 마음 닦는 사람들은 한 사람도
-
-신통변화를 나타내는 사람이 없습니까.
-
-
-
-答汝不得輕發狂言 不分邪正 답여부득경발광언 불분사정
-
-是爲迷倒之人 今是學道之人 시위미도지인 금시학도지인
-
-口談眞理 心生退屈 返墮無分之失者 구담진리 심생퇴굴 반타무분지실자
-
-皆汝所疑 學道而不知先後 개여소의 학도이부지선후
-
-說理而不分本末者 是名邪見 설리이불분본말자 시명사견
-
-不名修學 非唯自誤 兼亦誤他 불명수학 비유자오 겸역오타
-
-其可不愼歟 기가불신여
-
-夫入道多門 以要言之 부입도다문 이요언지
-
-不出頓悟漸修兩門耳 雖曰頓悟頓修 불출돈오점수양문이 수왈돈오돈수
-
-是最上根機得入也 若推過去 已是 시최상근기득입야 약추과거 이시
-
-多生 依悟而修 漸熏而來 至於今生 다생 의오이수 점훈이래 지어금생
-
-聞卽發悟 一時頓畢 以實而論 문즉발오 일시돈필 이실이논
-
-是亦先悟後修之機也 則而此 시역선오후수지기야 즉이차
-
-
-
-대답하다.
-
-‘그대는 함부로 미친 소리를 하지 말라. 사(邪)와 정(正)을 분별하지 못하면, 이는 미혹에 빠진 사람이다. 요즘은 도를 배우는 사람들이 입으로는 진리를 말하지만 마음은 포기상태여서 도리어 분수에 없다는 잘못(無分之失: 중생으로서는 성인의 경지에 들 수 없다는 착각)에 떨어진 자들은 다 그대가 의심하는 것과 같다.
-
-도를 배우되 선후를 알지 못하고, 진리를 말하되 본말(本末)을 분간하지 못하면 이를 일컬어 사견(邪見)이라 하지 수행이라고 하지 않는다. 이런 이는 자신만 그르칠 뿐만 아니라 겸하여 남도 잘못되게 만드는 것이니 삼가지 않아서 되겠는가. 대개 도에 들어가는 문은 많지만 요약해서 말하면 돈오(頓悟)와 점수(漸修)의 두 가지 문에 지나지 않는다.
-
-비록 돈오와 점수는 최상의 근기(根機)를 가진 사람만이 들어갈 수 있다고 하지만, 과거를 미루어보면 이미 여러 생애에 걸쳐 깨달음에 의지해 닦고 차츰 익혀왔으므로 금생에 이르러 진리를 들으면 즉시 깨닫게 되어 일시에 모든 것을 끝낸다. 하지만 사실 이것 역시 먼저 깨달고 뒤에 닦은 근기이다.
-
+</div>
 
 <h2 id="gradual-cultivation-relying-on-enlightment">깨달음에 의지해 닦고 차츰 익혀야</h2>
 
@@ -2146,27 +2237,38 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <h1 id="footnotes">Footnotes</h1>
 
 <ol>
-<li id="footnote1">
-1984년 5월 30일 대한민국의 보물 제770호로 지정되었다.
-<a href="#ref1">↩</a></li>
-<li id="footnote2">
-삼계三界는 욕계慾界, 색계色界, 무색계無色界 세 계界를 일컫는다.
-여기서
-욕계慾界는 욕망의 세계ㆍ오감을 말하며
-색계色界는 욕망이 정화된 세계ㆍ감정을 말하며
-무색계無色界는 몸을 떠나 정신만 존재하는 세계ㆍ생각을 말한다.
-<a href="#ref2">↩</a></li>
-<li id="footnote3">
-진심眞心ㆍ참마음ㆍ참나
-<a href="#ref3-01">↩</a>
-<a href="#ref3-02">↩</a>
-<a href="#ref3-03">↩</a>
-<a href="#ref3-04">↩</a>
-<a href="#ref3-05">↩</a>
+<li id="footnote01">
+	1984년 5월 30일 대한민국의 보물 제770호로 지정되었다.
+<a href="#ref01">↩</a></li>
+<li id="footnote02">
+	삼계三界는 욕계慾界, 색계色界, 무색계無色界 세 계界를 일컫는다.
+	여기서
+	욕계慾界는 욕망의 세계ㆍ오감을 말하며
+	색계色界는 욕망이 정화된 세계ㆍ감정을 말하며
+	무색계無色界는 몸을 떠나 정신만 존재하는 세계ㆍ생각을 말한다.
+<a href="#ref02">↩</a></li>
+<li id="footnote03">
+	진심眞心&nbsp;&sdot;&nbsp;참마음&nbsp;&sdot;&nbsp;참나
+<a href="#ref03-01">↩</a>
+<a href="#ref03-02">↩</a>
+<a href="#ref03-03">↩</a>
+<a href="#ref03-04">↩</a>
+<a href="#ref03-05">↩</a>
 </li>
-<li id="footnote4">
-지혜智慧와 덕상德相 - 지혜는 반야바라밀般若波羅蜜
-덕상은 반야般若를 제외한 보시布施&nbsp;&sdot;&nbsp;지계持戒&nbsp;&sdot;&nbsp;인욕忍辱&nbsp;&sdot;&nbsp;정진精進&nbsp;&sdot;&nbsp;선정禪定의 다섯 바라밀波羅蜜을 뜻한다.
-<a href="#ref4">↩</a></li>
+<li id="footnote04">
+	지혜智慧와 덕상德相 - 지혜는 반야바라밀般若波羅蜜
+	덕상은 반야般若를 제외한 보시布施&nbsp;&sdot;&nbsp;지계持戒&nbsp;&sdot;&nbsp;인욕忍辱&nbsp;&sdot;&nbsp;정진精進&nbsp;&sdot;&nbsp;선정禪定의 다섯 바라밀波羅蜜을 뜻한다.
+<a href="#ref04">↩</a></li>
+<li id="footnote05">
+	보림保任 - 깨달은 경지를 잘 보호하며 닦아가는 것
+<a href="#ref05">↩</a></li>
+<li id="footnote06">
+	공화空花 - 허공의 꽃 - 눈병이 생기면 때로는 아무 것도 없는 허공에 꽃무늬 같은 헛것이 보인다.
+<a href="#ref06">↩</a></li>
+<li id="footnote07">
+	공안公案 - 공부의 규범이 되는 것
+<a href="#ref07">↩</a></li>
+<li id="footnote08">
+	무분지실無分之失 - 중생으로서는 성인의 경지에 들 수 없다는 착각
+<a href="#ref08">↩</a></li>
 </ol>
-
