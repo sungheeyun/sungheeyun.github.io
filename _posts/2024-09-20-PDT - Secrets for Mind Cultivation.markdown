@@ -1045,105 +1045,216 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <h2 id="inherent-buddha-nature">성품이 본래 스스로 갖추어져 있어</h2>
 
-깨달음에 의지해 닦고 점점 익혀서 성인의 자질을 길러가는 것이 점수
+<blockquote>
+<p>
+	깨달음에 의지依支해 닦고 점점 익혀서 성인聖人의 자질資質을 길러가는 것이 점수漸修
+<br>
+</p>
+</blockquote>
 
+<div class="translation-container">
+<p>
+	問汝言頓悟漸修兩門 千聖軌轍也
+<span class="chinese-korean-transliteration">
+	문여언돈오점수양문 천성궤철야
+</span>
+<span class="chinese-korean-translation">
+	물었다.
+	<br>
+	"스님께서는 돈오와 점수의 두 문이 모든 성인이 밟아온 길이라 하였습니다
+	&hellip;
+</span>
+</p>
 
+<p>
+	悟旣頓悟 何假漸修 修若漸修 何言頓悟
+<span class="chinese-korean-transliteration">
+	오기돈오 하가점수 수약점수 하언돈오
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	깨달았다면 이미 돈오한 것인데 어째서 점점 닦아야 하며
+	그 닦음이 만약 점점 닦아야 할 것이라면 어째서 돈오라고 말할 수 있습니까?
+	&hellip;
+</span>
+</p>
 
-問汝言頓悟漸修兩門 千聖軌轍也 문여언돈오점수양문 천성궤철야
+<p>
+	頓漸二義 更爲宣說 令絶餘疑 
+<span class="chinese-korean-transliteration">
+	점수이의 갱위선설 영절여의
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 돈오와 점수의 두 가지 뜻을 다시 설명하여 남은 의심을 끊게 해주십시오.”
+</span>
+</p>
+</div>
 
-悟旣頓悟 何假漸修 修若漸修 오기돈오 하가점수 수약점수
+<div class="translation-container">
+<p>
+	答頓悟者 凡夫迷時 四大爲身 妄想爲心 不知自性 是眞法身
+<span class="chinese-korean-transliteration">
+	답돈오자 범부미시 사대위신 망상위심 부지자성 시진법신
+</span>
+<span class="chinese-korean-translation">
+	답하다.<br>
+	"돈오라는 것은 범부가 미혹했을 때 사대四大를 몸으로 삼고 망상을 마음이라 하여 자기의 성품이 참 법신法身임을 알지 못하고
+	&hellip;
+</span>
+</p>
 
-何言頓悟 頓漸二義 更爲宣說 하언돈오 점수이의 갱위선설
+<p>
+	不知自己靈知 是眞佛也 心外覓佛 波波浪走 
+<span class="chinese-korean-transliteration">
+	부지자기영지 시진불야 심외멱불 파파낭주
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 자기의 신령한 지혜가 참 부처인줄을 알지 못해서 마음 밖에서 부처를 찾아 물결치듯이 흘러다니다가
+	&hellip;
+</span>
+</p>
 
-令絶餘疑 영절여의
+<p>
+	忽被善知識 指示入路 一念廻光 見自本性
+<span class="chinese-korean-transliteration">
+	홀피선지식 지시입로 일념회광 견자본성
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 갑자기 선지식의 가르침으로 바른 길로 들어가 한 생각에 심광心光을 돌이켜서 자기의 본성을 보면
+	&hellip;
+</span>
+</p>
 
+<p>
+	而此性地 原無煩惱 無漏智性 本自具足 卽與諸佛 分毫不殊 故云頓悟也
+<span class="chinese-korean-transliteration">
+	이차성지 원무번뇌 무루지성 본자구족 즉여제불 분호불수 고운돈오야
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	이 성품에는 본래 번뇌가 없고 번뇌가 없는 지혜의 성품이 본래 스스로 갖추어져 있어서
+	모든 부처님과 더불어 털끝만큼도 다르지 않기 때문에 돈오라 하는 것이다."
+</span>
+</p>
 
+<p>
+	漸修者 雖悟本性 與佛無殊 無始習氣 卒難頓除故
+<span class="chinese-korean-transliteration">
+	점수자 수오본성 여불무수 무시습기 졸난돈제고
+</span>
+<span class="chinese-korean-translation">
+	"점수라는 것은 비록 본래의 성품이 부처와 다르지 않음을 깨달았으나 오랜 세월의 습기習氣는 갑자기 제거하기 어려우므로
+	&hellip;
+</span>
+</p>
 
-물었다.
+<p>
+	依悟而修 漸熏功成 長養聖胎 久久成聖 故云漸修也 
+<span class="chinese-korean-transliteration">
+	의오이수 점훈공성 장양성시 구구성성 고운점수야
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 그 깨달음에 의지해 닦고 점점 익혀서 공을 이루고
+	또 오랜 동안 성인의 자질을 잘 길러나가야 성인이 되는 것이므로 점수라 하는 것이다."
+</span>
+</p>
 
-“스님께서는 돈오와 점수의 두 문이 모든 성인이 밟아온 길이라 하였습니다.
+<p>
+	比如孩子 初生之日 諸根具足 與他無異
+<span class="chinese-korean-transliteration">
+	비여해자 초생지일 제근구족 여타무이
+</span>
+<span class="chinese-korean-translation">
+	"비유하자면 어린아이가 처음 태어났을 때 모든 기관이 갖추어져 어른과 다르지 않지만
+	&hellip;
+</span>
+</p>
 
-깨달았다면 이미 돈오한 것인데 어째서 점점 닦아야 하며, 그 닦음이 만약 점점 닦아야 할 것이라면 어째서 돈오라고 말할 수 있습니까. 돈오와 점수의 두 가지 뜻을 다시 설명하여 남은 의심을 끊게 해주십시오.”
+<p>
+	然其力未充 頗經歲月 方始成人
+<span class="chinese-korean-transliteration">
+	연기력미충 파경세월 방시성인
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	그 힘은 충실하지 못하므로 어느 정도 세월이 지나야 비로소 성인成人이 되는 것과 같다.”
+</span>
+</p>
+</div>
 
+<div class="translation-container">
+<p>
+	問作何方便 一念廻機 便悟自性
+<span class="chinese-korean-transliteration">
+	문작하방편 일념회기 변오자성
+</span>
+<span class="chinese-korean-translation">
+	물었다.
+	<br>
+	"어떤 방편을 써야 한 생각의 기틀을 돌려 자성自性을 깨달을 수 있겠습니까?"
+</span>
+</p>
 
+<p>
+	答只汝自心 更作什 方便 若作方便
+<span class="chinese-korean-transliteration">
+	답지여자심 갱작십마방편 약작방편
+</span>
+<span class="chinese-korean-translation">
+	대답했다.
+	<br>
+	"오직 그대 자신의 마음인데
+	다시 무슨 방편을 쓴다는 말인가?
+	&hellip;
+</span>
+</p>
 
-答頓悟者 凡夫迷時 四大爲身 답돈오자 범부미시 사대위신
+<p>
+	更求解會 比如有人 不見自眼 以謂無眼 更欲求見 
+<span class="chinese-korean-transliteration">
+	갱구허회 비여유인 불견자안 이위무안 갱욕구견 
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	만약 방편을 써서 다시 알려고 한다면 그것은 마치 어떤 사람이 자신의 눈을 보지 못하고 눈이 없다고 하면서 다시 보려고 하는 것과 같다.
+	&hellip;
+</span>
+</p>
 
-妄想爲心 不知自性 是眞法身 망상위심 부지자성 시진법신
+<p>
+	旣是自眼 如何更見 若知不失 卽爲見眼
+<span class="chinese-korean-transliteration">
+	기시자안 여하갱견 약지불실 즉위견안
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	이미 자신의 눈인데 어째서 다시 보려고 하는가?
+	만약 잃지 않았음을 알면 그것이 곧 눈을 보는 것이다.
+	&hellip;
+</span>
+</p>
 
-不知自己靈知 是眞佛也 心外覓佛 부지자기영지 시진불야 심외멱불
+<p>
+	更無求見之心 豈有不見之想
+<span class="chinese-korean-transliteration">
+	갱무구견지심 기유불견지상
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 다시 보려는 마음이 없다면 어찌 보지 못한다는 마음이 있겠는가?
+	&hellip;
+</span>
+</p>
 
-波波浪走 忽被善知識 指示入路 파파낭주 홀피선지식 지시입로
-
-一念廻光 見自本性 而此性地 일념회광 견자본성 이차성지
-
-原無煩惱 無漏智性 本自具足 원무번뇌 무루지성 본자구족
-
-卽與諸佛 分毫不殊 故云頓悟也 즉여제불 분호불수 고운돈오야
-
-漸修者 雖悟本性 與佛無殊 점수자 수오본성 여불무수
-
-無始習氣 卒難頓除故 依悟而修 무시습기 졸난돈제고 의오이수
-
-漸熏功成 長養聖胎 久久成聖 점훈공성 장양성시 구구성성
-
-故云漸修也 比如孩子 初生之日 고운점수야 비여해자 초생지일
-
-諸根具足 與他無異 然其力未充 제근구족 여타무이 연기력미충
-
-頗經歲月 方始成人 파경세월 방시성인
-
-
-
-답하다.
-
-“돈오라는 것은 범부가 미혹했을 때, 사대(四大)를 몸으로 삼고 망상을 마음이라 하여 자기의 성품이 참 법신(法身)임을 알지 못하고, 자기의 신령한 지혜가 참 부처인줄을 알지 못해서 마음 밖에서 부처를 찾아 물결치듯이 흘러다니다가 갑자기 선지식의 가르침으로 바른 길로 들어가 한 생각에 심광(心光)을 돌이켜서 자기의 본성을 보면, 이 성품에는 본래 번뇌가 없고, 번뇌가 없는 지혜의 성품이 본래 스스로 갖추어져 있어서 모든 부처님과 더불어 털끝만큼도 다르지 않기 때문에 돈오라 하는 것이다.
-
-점수라는 것은 비록 본래의 성품이 부처와 다르지 않음을 깨달았으나 오랜 세월의 습기(習氣)는 갑자기 제거하기 어려우므로 그 깨달음에 의지해 닦고 점점 익혀서 공을 이루고, 또 오랜 동안 성인의 자질을 잘 길러나가야 성인이 되는 것이므로 점수라 하는 것이다.
-
-비유하자면 어린아이가 처음 태어났을 때 모든 기관이 갖추어져 어른과 다르지 않지만 그 힘은 충실하지 못하므로 어느 정도 세월이 지나야 비로소 성인(成人)이 되는 것과 같다.”
-
-
-
-問作何方便 一念廻機 便悟自性 문작하방편 일념회기 변오자성
-
-
-
-물었다.
-
-“어떤 방편을 써야 한 생각의 기틀을 돌려 자성(自性)을 깨달을 수 있겠습니까?”
-
-
-
-答只汝自心 更作什 方便 若作方便 답지여자심 갱작십마방편 약작방편
-
-更求解會 比如有人 不見自眼 갱구허회 비여유인 불견자안
-
-以謂無眼 更欲求見 旣是自眼 이위무안 갱욕구견 기시자안
-
-如何更見 若知不失 卽爲見眼 여하갱견 약지불실 즉위견안
-
-更無求見之心 豈有不見之想 갱무구견지심 기유불견지상
-
-自己靈知 亦復如是 旣是自心 자기영지 역부여시 기시자심
-
-
-
-대답했다.
-
-“오직 그대 자신의 마음인데, 다시 무슨 방편을 쓴다는 말인가.
-
-만약 방편을 써서 다시 알려고 한다면 그것은 마치 어떤 사람이 자신의 눈을 보지 못하고 눈이 없다고 하면서 다시 보려고 하는 것과 같다.
-
-이미 자신의 눈인데 어째서 다시 보려고 하는가.
-
-만약 잃지 않았음을 알면 그것이 곧 눈을 보는 것이다.
-
-다시 보려는 마음이 없다면 어찌 보지 못한다는 마음이 있겠는가.
-
-자신의 신령스런 앎도 역시 그와 같아 이미 자신의 마음인데 어째서 알려고 하는가.”
-
-
+<p>
+	自己靈知 亦復如是 旣是自心
+<span class="chinese-korean-transliteration">
+	자기영지 역부여시 기시자심
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 자신의 신령스런 앎도 역시 그와 같아 이미 자신의 마음인데 어째서 알려고 하는가?"
+</span>
+</p>
+</div>
 
 <h2 id="void-and-spiritual-mind-of-wisdom"> 공하고 고요한 신령스런 지혜의 마음</h2>
 
@@ -1519,7 +1630,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 만약 생각 생각에 닦고 익히면 저절로 차츰 차츰 백천삼매를 얻을 것이니,달마 문하에서 서로 전하여 내려온 것이 바로 이런 선(禪)이다.’하였다.
 
-그러므로 돈오(頓悟)와 점수(漸修)의 이치는 마치 수레의 두 바퀴와 같아서 하나라도 없으면 안 된다.
+그러므로 돈오頓悟와 점수漸修의 이치는 마치 수레의 두 바퀴와 같아서 하나라도 없으면 안 된다.
 
 
 
