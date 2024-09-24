@@ -562,7 +562,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	尊者曰 若出現時 當有其八 
+	尊者曰 若出現時 當有其八
 <span class="chinese-korean-transliteration">
 	존자왈 약출현시 당유기팔
 </span>
@@ -1047,7 +1047,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <blockquote>
 <p>
-	깨달음에 의지依支해 닦고 점점 익혀서 성인聖人의 자질資質을 길러가는 것이 점수漸修
+	깨달음에 의지依支해 닦고 점점 익혀서
+	<br>
+	성인聖人의 자질資質을 길러가는 것이 점수漸修
 <br>
 </p>
 </blockquote>
@@ -1080,7 +1082,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	頓漸二義 更爲宣說 令絶餘疑 
+	頓漸二義 更爲宣說 令絶餘疑
 <span class="chinese-korean-transliteration">
 	점수이의 갱위선설 영절여의
 </span>
@@ -1104,7 +1106,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	不知自己靈知 是眞佛也 心外覓佛 波波浪走 
+	不知自己靈知 是眞佛也 心外覓佛 波波浪走
 <span class="chinese-korean-transliteration">
 	부지자기영지 시진불야 심외멱불 파파낭주
 </span>
@@ -1149,7 +1151,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	依悟而修 漸熏功成 長養聖胎 久久成聖 故云漸修也 
+	依悟而修 漸熏功成 長養聖胎 久久成聖 故云漸修也
 <span class="chinese-korean-transliteration">
 	의오이수 점훈공성 장양성시 구구성성 고운점수야
 </span>
@@ -1210,9 +1212,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	更求解會 比如有人 不見自眼 以謂無眼 更欲求見 
+	更求解會 比如有人 不見自眼 以謂無眼 更欲求見
 <span class="chinese-korean-transliteration">
-	갱구허회 비여유인 불견자안 이위무안 갱욕구견 
+	갱구허회 비여유인 불견자안 이위무안 갱욕구견
 </span>
 <span class="chinese-korean-translation">
 	&hellip;
@@ -1256,115 +1258,214 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 </div>
 
-<h2 id="void-and-spiritual-mind-of-wisdom"> 공하고 고요한 신령스런 지혜의 마음</h2>
-
--지혜의 마음이 그대의 본래면목, -이 마음 깨친다면 삼계를 초월-
-
-
-
-何更求會 若欲求會 便會不得 하갱구회 약욕구회 변회부득
-
-但知不會 是卽見性 단지불회 시즉견성
-
-
-
-만약 알려고 한다면 곧 알지 못할 것이며 다만 알 수 없다는 것임을 알면 바로 견성(見性:성품을 봄)이니라.’
-
-
-
-問上上之人 聞卽易會 中下之人 문상상지인 문즉이회 중하지인
-
-不無疑惑 更說方便 令迷者趣入 불무의심 갱설방편 영미자취입
-
-
-
-물었다.
-
-‘지혜가 뛰어난 사람은 들은 즉시 쉽게 알겠지만 중하의 사람은 의혹이 없지 않을 것이니
-
-다시 방편을 설하여 모르는 사람들을 깨닫도록 해주십시오.’
-
-
-
-答道不屬知不知 汝除却將迷待悟之心 답도불속지부지 여제각장미대오지심
-
-廳我言說 諸法如夢 亦如幻化 청아언설 제법여몽 역여환화
-
-故妄念本寂 塵境本空 諸法 고망념본적 진경본공 제법
-
-皆空之處 靈知不昧 개공지처 영지불매
-
-卽此空寂靈知之心 是汝本來面目 즉차공적영지지심 시여본래면목
-
-亦是三世諸佛 歷代祖師 역시삼세제불 역대조사
-
-天下善知識 密密 천하선지식 밀밀
-
-相傳底法印也 若悟此心 상전저법인야 약오차심
-
-眞所謂不踐階梯 徑登佛地 진소위불천계제 경등불지
-
-步步超三界 歸家頓絶疑 보보초삼계 귀가돈절의
-
-便與人天爲師 悲智相資 변여인천위사 비지상자
-
-具足二利 堪受人天供養 구족이리 감수인천공양
-
-日消萬兩黃金 汝若如是 眞大丈夫 일소만량황금 여약여시 진대장부
-
-一生能事 己畢矣 일생능사 기필의
-
-
-
-답하다.
-
-‘도는 알고 모르는데 속하는 것이 아니다.
-
-그대는 어리석게도 깨닫기를 기다리는 마음을 버리고 나의 말을 잘 들어라.
-
-모든 법은 꿈과 같고 허수아비와 같다.
-
-그러므로 망녕된 생각은 본래 고요하고, 진경(塵境:감각의 대상인 객관세계. 즉 眼, 耳, 鼻, 舌, 身, 意에 비춰지는 대상인 色, 聲, 香, 味, 觸, 法을 말 함)은
-
-본래 공한 것이다.
-
-모든 법이 다 공한 곳에는 신령스런 지혜가 어둡지 않으니, 이 공하고 고요한 신령스런 지혜의 마음이 바로 그대의 본래 면목(本來面目: 모든 사람이 갖추고 있는 자연 그대로의 성품을 말함)이며, 삼세의 모든 부처님과 역대의 조사들과 천하의 선지식이 은밀하게 서로 전한 진리(法印)이다.
-
-만약 이 이런 마음을 깨친다면 참으로 단계를 거치지 않고 바로 부처의 경지에 올라 걸음걸음이 삼계를 초월하고 집에 돌아가(歸家: 본래 부처인 마음자리를 뜻함) 단박에 의심을 끊을 것이다.
-
-
-
-그래서 인간과 천상의 스승이 되고, 대비(大悲)와 지혜가 서로 도와 자기도 이롭고 남도 이롭게 하므로 하루에 만량의 황금을 소비하듯이 한량없이 귀한 공양을 인간과 천상으로부터 받게 될 것이다. 그대가 만약 이와 같으면 참다운 대장부로서 일생의 할 일을 다 마쳤다 하겠다.’
-
-問據吾分上 何者是空寂靈知之心耶문거오분상 하자시공적영지지심야
-
-
-
- 물었다.
-
-‘저의 입장에서 본다면 어떤 것이 공적(空寂)하고 신령스럽게 아는 영지(靈知)의 마음입니까.’
-
-
-
-答汝今問我者 是汝空寂靈知之心 답여금문아자 시여공적영지지심
-
-何不返照 猶爲外覓 我今據汝分上 하불반조 유위외멱 아금거여분상
-
-直指本心 令汝便悟 汝須淨心 직지본심 영여변오 여수정심
-
-
-
-대답했다.
-
-‘그대가 지금 나에게 묻는 그것이 바로 그대의 공적하고 신령스럽게 아는 마음이다.
-
-어째서 돌이켜 비추지 않고 밖에서 찾는가.
-
-내가 지금 그대의 입장에 의거해서 바로 본래의 마음을 가리켜 그대를 깨닫게 할 것이니
-
-그대는 마음을 깨끗이 하고 내 말을 잘 들어라.
-
-
+<h2 id="void-and-spiritual-mind-of-wisdom">
+공하고 고요한 신령스런 지혜의 마음
+</h2>
+
+<blockquote>
+<p>
+	지혜의 마음이 그대의 본래면목
+<br>
+	이 마음 깨친다면 삼계를 초월
+</p>
+</blockquote>
+
+<div class="translation-container">
+<p>
+	何更求會 若欲求會 便會不得
+<span class="chinese-korean-transliteration">
+	하갱구회 약욕구회 변회부득
+</span>
+<span class="chinese-korean-translation">
+	만약 알려고 한다면 곧 알지 못할 것이며
+</span>
+</p>
+
+<p>
+	<font class="emph">
+	但知不會 是卽見性
+	</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">
+	단지불회 시즉견성
+	</font>
+</span>
+<span class="chinese-korean-translation">
+	<font class="emph">
+	다만 알 수 없다는 것임을 알면 바로 견성見性<sup><a href="#footnote09" id="ref09">9</a></sup>이니라!
+	</font>
+</span>
+</p>
+<p>
+	問上上之人 聞卽易會 中下之人 不無疑惑 更說方便 令迷者趣入
+<span class="chinese-korean-transliteration">
+	문상상지인 문즉이회 중하지인 불무의심 갱설방편 영미자취입
+</span>
+<span class="chinese-korean-translation">
+	물었다.
+	<br>
+	"지혜가 뛰어난 사람은 들은 즉시 쉽게 알겠지만 중하의 사람은 의혹이 없지 않을 것이니 다시 방편을 설하여 모르는 사람들을 깨닫도록 해주십시오."
+</span>
+</p>
+
+<p>
+	答道不屬知不知 汝除却將迷待悟之心
+<span class="chinese-korean-transliteration">
+	답도불속지부지 여제각장미대오지심
+</span>
+<span class="chinese-korean-translation">
+	답하다.
+	<br>
+	"도는 알고 모르는데 속하는 것이 아니다.
+	그대는 어리석게도 깨닫기를 기다리는 마음을 버리고 나의 말을 잘 들어라.
+	&hellip;
+</span>
+</p>
+
+<p>
+	廳我言說 諸法如夢 亦如幻化
+<span class="chinese-korean-transliteration">
+	청아언설 제법여몽 역여환화
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 모든 법은 꿈과 같고 허수아비와 같다.
+	&hellip;
+</span>
+</p>
+
+<p>
+	故妄念本寂 塵境本空
+<span class="chinese-korean-transliteration">
+	고망념본적 진경본공
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	그러므로 망녕된 생각은 본래 고요하고 진경塵境<sup><a href="#footnote10" id="ref10">10</a></sup>은 본래 공한 것이다.
+	&hellip;
+</span>
+</p>
+
+<p>
+	諸法 皆空之處 靈知不昧
+<span class="chinese-korean-transliteration">
+	제법 개공지처 영지불매
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	모든 법이 다 공한 곳에는 신령스런 지혜가 어둡지 않으니
+	&hellip;
+</span>
+</p>
+
+<p>
+	<font>卽此空寂靈知之心 是汝本來面目</font>
+<span class="chinese-korean-transliteration">
+	<font>즉차공적영지지심 시여본래면목</font>
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	이 공하고 고요한 신령스런 지혜의 마음이 바로 그대의 본래면목本來面目<sup><a href="#footnote11" id="ref11">11</a></sup>이며
+	&hellip;
+</span>
+</p>
+
+<p>
+	亦是三世諸佛 歷代祖師 相傳底法印也 天下善知識 密密
+<span class="chinese-korean-transliteration">
+	역시삼세제불 역대조사 천하선지식 밀밀 상전저법인야
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	삼세의 모든 부처님과 역대의 조사들과 천하의 선지식이 은밀하게 서로 전한 진리法印이다.
+	&hellip;
+</span>
+</p>
+
+<p>
+	若悟此心 眞所謂不踐階梯 徑登佛地 步步超三界 歸家頓絶疑
+<span class="chinese-korean-transliteration">
+	약오차심 진소위불천계제 경등불지 보보초삼계 귀가돈절의
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	만약 이 이런 마음을 깨친다면 참으로 단계를 거치지 않고 바로 부처의 경지에 올라
+	걸음걸음이 삼계를 초월하고 집에 돌아가(歸家<sup><a href="#footnote12" id="ref12">12</a></sup>) 단박에 의심을 끊을 것이다.
+	&hellip;
+</span>
+</p>
+
+<p>
+	便與人天爲師 悲智相資 具足二利 堪受人天供養 日消萬兩黃金
+<span class="chinese-korean-transliteration">
+	변여인천위사 비지상자 구족이리 감수인천공양 일소만량황금
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	그래서 인간과 천상의 스승이 되고
+	대비大悲와 지혜가 서로 도와 자기도 이롭고 남도 이롭게 하므로
+	하루에 만량의 황금을 소비하듯이 한량없이 귀한 공양을 인간과 천상으로부터 받게 될 것이다.
+	&hellip;
+</span>
+</p>
+
+<p>
+	汝若如是 眞大丈夫 一生能事 己畢矣
+<span class="chinese-korean-transliteration">
+	여약여시 진대장부 일생능사 기필의
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	그대가 만약 이와 같으면 참다운 대장부로서 일생의 할 일을 다 마쳤다 하겠다."
+</span>
+</p>
+
+<p>
+	問據吾分上 何者是空寂靈知之心耶
+<span class="chinese-korean-transliteration">
+	문거오분상 하자시공적영지지심야
+</span>
+<span class="chinese-korean-translation">
+	물었다.
+	<br>
+	"저의 입장에서 본다면 어떤 것이 공적空寂하고 신령스럽게 아는 영지靈知의 마음입니까?"
+</span>
+</p>
+
+<p>
+	答汝今問我者 <font class="emph">是汝空寂靈知之心</font>
+<span class="chinese-korean-transliteration">
+	답여금문아자 <font class="emph">시여공적영지지심</font>
+</span>
+<span class="chinese-korean-translation">
+	대답했다.
+	<br>
+	<font class="emph">"그대가 지금 나에게 묻는 그것이 바로 그대의 공적하고 신령스럽게 아는 마음이다!"</font>
+</span>
+</p>
+
+<p>
+	何不返照 猶爲外覓
+<span class="chinese-korean-transliteration">
+	하불반조 유위외멱
+</span>
+<span class="chinese-korean-translation">
+	"어째서 돌이켜 비추지 않고 밖에서 찾는가?
+	&hellip;
+</span>
+</p>
+
+<p>
+	我今據汝分上 直指本心 令汝便悟 汝須淨心
+<span class="chinese-korean-transliteration">
+	아금거여분상 직지본심 영여변오 여수정심
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	내가 지금 그대의 입장에 의거해서 바로 본래의 마음을 가리켜 그대를 깨닫게 할 것이니
+	그대는 마음을 깨끗이 하고 내 말을 잘 들어라."
+</span>
+</p>
+</div>
 
 <h2 id="no-discrimination">성품은 밝고 밝아 일체의 분별도 없다</h2>
 
@@ -2476,4 +2577,20 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <li id="footnote08">
 	무분지실無分之失 - 중생으로서는 성인의 경지에 들 수 없다는 착각
 <a href="#ref08">↩</a></li>
+<li id="footnote09">
+	견성見性 - 성품을 봄
+<a href="#ref09">↩</a></li>
+<li id="footnote10">
+	진경塵境 - 감각의 대상인 객관세계 즉
+	안眼&nbsp;&sdot;&nbsp;이耳&nbsp;&sdot;&nbsp;비鼻&nbsp;&sdot;&nbsp;설舌&nbsp;&sdot;&nbsp;신身&nbsp;&sdot;&nbsp;의意에
+	비춰지는 대상인
+	색色&nbsp;&sdot;&nbsp;성聲&nbsp;&sdot;&nbsp;향香&nbsp;&sdot;&nbsp;미味&nbsp;&sdot;&nbsp;촉觸&nbsp;&sdot;&nbsp;법法을
+	지칭
+<a href="#ref10">↩</a></li>
+<li id="footnote11">
+	본래면목本來面目 - 모든 사람이 갖추고 있는 자연 그대로의 성품을 말함
+<a href="#ref11">↩</a></li>
+<li id="footnote12">
+	귀가歸家 - 본래 부처인 마음자리를 뜻함
+<a href="#ref12">↩</a></li>
 </ol>
