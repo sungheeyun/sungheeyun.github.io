@@ -1,7 +1,7 @@
 ---
 title: 수심결修心訣 - Secrets for Mind Cultivation
 date: 2024-09-20 PDT
-last_modified_at: 2024-09-20 PDT
+last_modified_at: Tue Sep 24 00:58:01 PDT 2024
 categories:
 - blog
 tags:
@@ -106,8 +106,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <h2 id="if-know-my-own-mind">자기 마음을 알면</h2>
 
+<blockquote>
+<p>
 윤회輪廻의 고통苦痛이 마치 불타는 집과 같은데 어찌 그대로 참고 머물러 있는가?
-<hr>
+</p>
+</blockquote>
 
 <div class="translation-container">
 <p>
@@ -250,8 +253,13 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <h2 id="originally">마음은 본래 스스로 원만한 것</h2>
 
-망령된 생각만 여의면 그대로 부처이다. 부처가 그대 몸에 있는데도 보지 못할 뿐이다.
-<hr>
+<blockquote>
+<p>
+	망령된 생각만 여의면 그대로 부처이다.
+	<br>
+	부처가 그대 몸에 있는데도 보지 못할 뿐이다.
+</p>
+</blockquote>
 
 <div class="translation-container">
 <p>
@@ -410,130 +418,274 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 </div>
 
-<h2 id="buddha-exists-in-functioning">불성은 작용하는 가운데 있습니다.</h2>
-
-무엇을 부처라고 합니까?
-견성하는 것이 부처입니다.
-
-
-
-昔異見王 問婆羅提尊者曰 何者是佛 석이견왕 문바라제존자왈 하자시불
-
-尊者曰 見性是佛 王曰 師見性否 존자왈 견성시불 왕왈 사견성부
-
-尊者曰 我見佛性 王曰性 존자왈 아견불성 왕왈성
-
-在何處 尊者曰 性在作用 재하처 존자왈 성재작용
-
-王曰是何作用 我今不見 尊者曰 왕왈시하작용 아금불견 존자왈
-
-今現作用 王自不見 王曰於我有否 금현작용 왕자불견 왕왈어아유부
-
-尊者曰 王若作用 無有不是 王若不用 존자왈 왕약작용 무유불시 왕약불용
-
-體亦難見 王曰若當用時 幾處出現 체역난견 왕왈약당용시 기처출현
-
-尊者曰 若出現時 當有其八 존자왈 약출현시 당유기팔
-
-王曰其八出現 當爲我說 尊者曰 왕왈기팔출현 당위아설 존자왈
-
-在胎曰身 處世曰人 在眼曰見 재태왈신 처세왈인 재안왈견
-
-在耳曰聞 在鼻辨香 在舌談論 재이왈문 재비변향 재설담론
-
-在手執捉 在足運奔 現俱該沙界 재수집착 재족운분 현구해사계
-
-收攝在一微塵 識者知是佛性 수섭재일미진 식자지시불성
-
-不識者喚作精魂 王聞心卽開悟 불식자환작정혼 왕문심즉개오
-
-
-
-옛날에 이견왕이 바라제 존자에게 물었다.
-
-“무엇을 부처라고 합니까?”
-
-존자가 대답했다.
-
-“견성(見性)하는 것이 부처입니다.”
-
-왕이 물었다.
-
-“스님은 견성했습니까?”
-
-존자가 말했다.
-
-“나는 불성(佛性)을 보았습니다.”
-
-왕이 물었다.
-
-“그 불성은 어디에 있습니까.”
-
-존자가 말했다.
-
-“불성은 작용하는 가운데 있습니다.”
-
-왕이 물었다.
-
-“그것은 어떤 작용이기에 나는 지금 보지 못합니까.”
-
-존자가 말했다.
-
-“지금도 나타나서 작용하고 있습니다만 왕께서 스스로 보지 못할 뿐입니다.”
-
-왕이 물었다.
-
-“나에게도 그것이 있다는 것입니까.”
-
-존자가 말했다.
-
-“만약 왕께서 작용하고 있다면 불성 아닌 것이 없지만 왕께서 만약 그것이 작용하지 않는다면 몸도 또한 보기 어렵습니다.”
-
-왕이 물었다.
-
-“만약 작용할 때는 몇 곳에서 나타납니까.”
-
-존자가 말했다.
-
-“나타날 때는 여덟 군데로 나타납니다.”
-
-왕이 말했다.
-
-“그 나타나는 여덟 군데를 나를 위해 설명해주십시오.”
-
-존자가 말했다.
-
-“태(胎) 안에 있으면 몸이라 하고, 세상에 나오면 사람이라 하며, 눈에 있으면 보는 놈이라 하고, 귀에 있으면 듣는 놈이라 하고, 코에 있으면 냄새를 맡고, 혀에 있을 땐 말을 하고, 손에 있으면 붙잡으며, 발에 있으면 부지런히 걷습니다. 두루 나타나면 온 세계를 다 감싸지만 거두어들이면 하나의 티끌 속에 있습니다. 아는 자는 이것이 곧 불성인줄을 알지만 모르는 자들은 정혼(情魂)이라 부릅니다.”
-
-왕은 이 말을 듣고 마음이 바로 열리었다.
-
-
-
-又僧 問歸宗和尙 如何是佛 宗云 우승 문귀종화상 여하시불 종운
-
-我今向汝道 恐汝不信 僧云 和尙誡言 아금향여도 공여불신 승운 화상계언
-
-焉敢不信 師云 卽汝是 언감불신 사운 즉여시
-
-
-
-또 어떤 스님이 귀종화상에게 물었다.
-
-“무엇이 부처입니까.”
-
-귀종화상이 말했다.
-
-“내가 지금 그대에게 말하려 하나 그대가 믿지 않을까 두렵다.”
-
-스님이 말했다.
-
-“화상의 지극한 말씀을 어찌 감히 믿지 않겠습니까.”
-
-화상이 말했다.
-
-“그대가 바로 부처이니라.”
-
-
+<h2 id="buddha-exists-in-functioning">불성은 작용하는 가운데 있습니다</h2>
+
+<blockquote>
+<p>
+	무엇을 부처라고 합니까?
+	<br>
+	견성하는 것이 부처입니다.
+</p>
+</blockquote>
+
+<div class="translation-container">
+<p>
+	昔異見王 問婆羅提尊者曰 何者是佛
+<span class="chinese-korean-transliteration">
+	석이견왕 문바라제존자왈 하자시불
+</span>
+<span class="chinese-korean-translation">
+	옛날에 이견왕이 바라제 존자에게 물었다.
+	<br>
+	"무엇을 부처라고 합니까?"
+</span>
+</p>
+
+<p>
+	尊者曰 見性是佛
+<span class="chinese-korean-transliteration">
+	존자왈 견성시불
+</span>
+<span class="chinese-korean-translation">
+	존자가 대답했다.
+	<br>
+	"견성見性하는 것이 부처입니다."
+</span>
+</p>
+
+<p>
+	王曰 師見性否
+<span class="chinese-korean-transliteration">
+	왕왈 사견성부
+</span>
+<span class="chinese-korean-translation">
+	왕이 물었다.
+	<br>
+	"스님은 견성했습니까?"
+</span>
+</p>
+
+<p>
+	尊者曰 我見佛性
+<span class="chinese-korean-transliteration">
+	존자왈 아견불성
+</span>
+<span class="chinese-korean-translation">
+	존자가 말했다.
+	<br>
+	"나는 불성(佛性)을 보았습니다."
+</span>
+</p>
+
+<p>
+	王曰性 在何處
+<span class="chinese-korean-transliteration">
+	왕왈성 재하처
+</span>
+<span class="chinese-korean-translation">
+	왕이 물었다.
+	"그 불성은 어디에 있습니까."
+</span>
+</p>
+
+<p>
+	尊者曰 性在作用
+<span class="chinese-korean-transliteration">
+	존자왈 성재작용
+</span>
+<span class="chinese-korean-translation">
+	존자가 말했다.
+	<br>
+	"불성은 작용하는 가운데 있습니다."
+</span>
+</p>
+
+<p>
+	王曰是何作用 我今不見
+<span class="chinese-korean-transliteration">
+	왕왈시하작용 아금불견
+</span>
+<span class="chinese-korean-translation">
+	왕이 물었다.
+	<br>
+	"그것은 어떤 작용이기에 나는 지금 보지 못합니까."
+</span>
+</p>
+
+<p>
+	尊者曰 今現作用 王自不見
+<span class="chinese-korean-transliteration">
+	존자왈 금현작용 왕자불견
+</span>
+<span class="chinese-korean-translation">
+	존자가 말했다.
+	<br>
+	"지금도 나타나서 작용하고 있습니다만 왕께서 스스로 보지 못할 뿐입니다."
+</span>
+</p>
+
+<p>
+	王曰於我有否
+<span class="chinese-korean-transliteration">
+	왕왈어아유부
+</span>
+<span class="chinese-korean-translation">
+	왕이 물었다.
+	<br>
+	"나에게도 그것이 있다는 것입니까."
+</span>
+</p>
+
+<p>
+	尊者曰 王若作用 無有不是 王若不用 體亦難見
+<span class="chinese-korean-transliteration">
+	존자왈 왕약작용 무유불시 왕약불용 체역난견
+</span>
+<span class="chinese-korean-translation">
+	존자가 말했다.
+	<br>
+	"만약 왕께서 작용하고 있다면 불성 아닌 것이 없지만
+	왕께서 만약 그것이 작용하지 않는다면 몸도 또한 보기 어렵습니다."
+</span>
+</p>
+
+<p>
+	王曰若當用時 幾處出現
+<span class="chinese-korean-transliteration">
+	왕왈약당용시 기처출현
+</span>
+<span class="chinese-korean-translation">
+	왕이 물었다.
+	<br>
+	"만약 작용할 때는 몇 곳에서 나타납니까."
+</span>
+</p>
+
+<p>
+	尊者曰 若出現時 當有其八 
+<span class="chinese-korean-transliteration">
+	존자왈 약출현시 당유기팔
+</span>
+<span class="chinese-korean-translation">
+	존자가 말했다.
+	<br>
+	"나타날 때는 여덟 군데로 나타납니다."
+</span>
+</p>
+
+<p>
+	王曰其八出現 當爲我說
+<span class="chinese-korean-transliteration">
+	왕왈기팔출현 당위아설
+</span>
+<span class="chinese-korean-translation">
+	왕이 말했다.
+	<br>
+	"그 나타나는 여덟 군데를 나를 위해 설명해주십시오."
+</span>
+</p>
+
+<p>
+	尊者曰 在胎曰身 處世曰人 在眼曰見 在耳曰聞 在鼻辨香 在舌談論 在手執捉 在足運奔
+<span class="chinese-korean-transliteration">
+	존자왈 재태왈신 처세왈인 재안왈견 재이왈문 재비변향 재설담론 재수집착 재족운분
+</span>
+<span class="chinese-korean-translation">
+	존자가 말했다.
+	<br>
+	"태胎 안에 있으면 몸이라 하고
+	세상에 나오면 사람이라 하며
+	눈에 있으면 보는 놈이라 하고
+	귀에 있으면 듣는 놈이라 하고
+	코에 있으면 냄새를 맡고
+	혀에 있을 땐 말을 하고
+	손에 있으면 붙잡으며
+	발에 있으면 부지런히 걷습니다&hellip;
+</span>
+</p>
+
+<p>
+	現俱該沙界 收攝在一微塵
+<span class="chinese-korean-transliteration">
+	현구해사계 수섭재일미진
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 두루 나타나면 온 세계를 다 감싸지만 거두어들이면 하나의 티끌 속에 있습니다
+	&hellip;
+</span>
+</p>
+
+<p>
+	識者知是佛性 不識者喚作精魂
+<span class="chinese-korean-transliteration">
+	식자지시불성 불식자환작정혼
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 아는 자는 이것이 곧 불성인줄을 알지만 모르는 자들은 정혼情魂이라 부릅니다."
+</span>
+</p>
+
+<p>
+	王聞心卽開悟
+<span class="chinese-korean-transliteration">
+	왕문심즉개오
+</span>
+<span class="chinese-korean-translation">
+	왕은 이 말을 듣고 마음이 바로 열리었다.
+</span>
+</p>
+</div>
+
+<div class="translation-container">
+<p>
+	又僧 問歸宗和尙 如何是佛
+<span class="chinese-korean-transliteration">
+	우승 문귀종화상 여하시불
+</span>
+<span class="chinese-korean-translation">
+	또 어떤 스님이 귀종화상에게 물었다.
+	<br>
+	"무엇이 부처입니까?"
+</span>
+</p>
+
+<p>
+	宗云 我今向汝道 恐汝不信
+<span class="chinese-korean-transliteration">
+	종운 아금향여도 공여불신
+</span>
+<span class="chinese-korean-translation">
+	귀종화상이 말했다.
+	<br>
+	"내가 지금 그대에게 말하려 하나 그대가 믿지 않을까 두렵다."
+</span>
+</p>
+
+<p>
+	僧云 和尙誡言 焉敢不信
+<span class="chinese-korean-transliteration">
+	승운 화상계언 언감불신
+</span>
+<span class="chinese-korean-translation">
+	스님이 말했다.
+	<br>
+	"화상의 지극한 말씀을 어찌 감히 믿지 않겠습니까?"
+</span>
+</p>
+
+<p>
+	師云 卽汝是
+<span class="chinese-korean-transliteration">
+	사운 즉여시
+</span>
+<span class="chinese-korean-translation">
+	화상이 말했다.
+	<br>
+	"그대가 바로 부처이니라."
+</span>
+</p>
+
+</div>
 
 <h2 id="how-to-preserve-awareness">어떻게 보림(保任)해야 합니까?</h2>
 
