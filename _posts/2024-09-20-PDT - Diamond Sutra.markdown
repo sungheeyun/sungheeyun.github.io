@@ -546,9 +546,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	佛告 須菩提 莫作是說 如來 滅後 後五百歲 有持戒修福者 於此章句 能生信心 以此爲實
+	佛告 須菩提 莫作是說 如來 滅後 後五百歲 有持戒修福者 <font class="emph">於此章句 能生信心</font> 以此爲實
 <span class="chinese-korean-transliteration">
-	불고 수보리 막작시설 여래 멸후 후오백세 유지계수복자 어차장구 능생신심 이차위실
+	불고 수보리 막작시설 여래 멸후 후오백세 유지계수복자 <font class="emph">어차장구 능생신심</font> 이차위실
 </span>
 <span class="chinese-korean-translation">
 	부처님께서 수보리에게 말하였다.
@@ -560,9 +560,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	當知 是人 不於一佛二佛三四五佛 而種善根 已於無量千萬佛所 種諸善根 聞是章句 乃至 一念生 淨信者
+	當知 是人 不於一佛二佛三四五佛 而種善根 <font class="emph">已於無量千萬佛所 種諸善根</font> 聞是章句 乃至 一念生 淨信者
 <span class="chinese-korean-transliteration">
-	당지 시인 불어일불이불삼사오불 이종선근 이어무량천만불소 종제선근 문시장구 내지 일념생 정신자
+	당지 시인 불어일불이불삼사오불 이종선근 <font class="emph">이어무량천만불소 종제선근</font> 문시장구 내지 일념생 정신자
 </span>
 <span class="chinese-korean-translation">
 	&hellip; 마땅히 알라. 이 사람은 일불이불 삼사오불께만 착한 바탕을 심을 뿐만아니라
@@ -1759,12 +1759,12 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	如來 爲發大乘者說 爲發最上乘者說
+	如來 <font class="emph">爲發大乘者說 爲發最上乘者說</font>
 <span class="chinese-korean-transliteration">
-	여래 위발대승자설 위발최상승자설
+	여래 <font class="emph">위발대승자설 위발최상승자설</font>
 </span>
 <span class="chinese-korean-translation">
-	"여래께서 대승의 발심자를 위한 말씀이며 최상승의 발심자를 위한 말씀이며
+	"여래께서 <font class="emph">대승의 발심자를 위한 말씀이며 최상승의 발심자를 위한 말씀이며</font>
 	&hellip;
 </span>
 </p>
