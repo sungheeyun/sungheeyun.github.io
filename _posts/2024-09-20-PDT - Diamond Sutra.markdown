@@ -1,7 +1,7 @@
 ---
 title: 금강경金剛經 - Diamond Sūtra
 date: 2024-09-21 00:30 PDT
-last_modified_at: Sun Sep 22 17:28:24 PDT 2024
+last_modified_at: Mon Sep 23 23:27:57 PDT 2024
 categories:
  - blog
 tags:
@@ -3434,7 +3434,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </div>
 
 
-<h1 id="appendix">Appendix</h1>
+<h1 id="appendix">Appendices</h1>
 
 <h2 id="caodong-sect">조계종</h2>
 
