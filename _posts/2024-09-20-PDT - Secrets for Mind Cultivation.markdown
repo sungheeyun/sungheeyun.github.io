@@ -2316,13 +2316,13 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <ul>
 <li>
-	<a href="https://blog.naver.com/ancit0/221287958481">
-	수심결修心訣 해석 @ 네이버 블로그
+	<a href="https://cafe.daum.net/seojinam/eyey/6">
+	수심결修心訣 원문과 번역본 @ 다음카페
 	</a>
 </li>
 <li>
-	<a href="https://cafe.daum.net/seojinam/eyey/6">
-	수심결修心訣 원문과 번역본 @ 다음카페
+	<a href="https://blog.naver.com/ancit0/221287958481">
+	수심결修心訣 해석 @ 네이버 블로그
 	</a>
 </li>
 </ul>
