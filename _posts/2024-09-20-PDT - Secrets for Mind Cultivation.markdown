@@ -1469,97 +1469,210 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <h2 id="no-discrimination">성품은 밝고 밝아 일체의 분별도 없다</h2>
 
-보고 듣고 말하고 동작하는 것은 그대의 본심이지 육신이 아니다.
+<blockquote>
+<p>
+	보고 듣고 말하고 동작하는 것은 그대의 본심本心이지 육신六身이 아니다.
+<br>
+</p>
+</blockquote>
 
+<div class="translation-container">
+<p>
+	聽我言說 從朝至暮 十二時中 或見或聞 或笑或語 或瞋或喜
+<span class="chinese-korean-transliteration">
+	청아언설 종조지모 십이시중 혹견혹문 혹소혹어 혹진혹희
+</span>
+<span class="chinese-korean-translation">
+	아침부터 저녁까지 하루 종일 보고, 듣고, 웃고, 말하며
+	혹은 성내거나 기뻐하거나
+</span>
+</p>
 
+<p>
+	或是或非 種種施爲運轉 且道畢 竟是誰 能伊麽運轉施爲耶
+<span class="chinese-korean-transliteration">
+	혹시혹비 종종시위운전 차도필 경시수 능이마운전시위야
+</span>
+<span class="chinese-korean-translation">
+	또는 옳다, 그르다 하는 갖가지의 행위와 동작은 필경 누가 그렇게 하게 하는가를 말해보라.
+</span>
+</p>
 
-聽我言說 從朝至暮 十二時中 청아언설 종조지모 십이시중
+<p>
+	若言色身運轉 何故有人 一念命終 都未壞爛
+<span class="chinese-korean-transliteration">
+	약언색신운전 하고유인 일념명종 도미괴란
+</span>
+<span class="chinese-korean-translation">
+	만약 육신이 동작하게 한다면
+	어째서 금방 명이 끊어진 사람의 몸은 아직 썩지 않았는데도
+</span>
+</p>
 
-或見或聞 或笑或語 或瞋或喜 혹견혹문 혹소혹어 혹진혹희
+<p>
+	卽眼不自見 耳不能聞 鼻不辨香 舌不談論 身不動搖 手不執捉 足不運奔耶
+<span class="chinese-korean-transliteration">
+	즉안부자견 이불능문 비불변향 설부담론 신부동요 수불집착 족불운분야
+</span>
+<span class="chinese-korean-translation">
+	눈은 보지 못하고, 귀는 듣지 못하고, 코는 냄새를 맡지 못하고, 혀는 말을 하지 못하고, 몸은 움직이지 못하고, 손은 잡지 못하고, 발은 걷지 못하는가?
+</span>
+</p>
 
-或是或非 種種施爲運轉 且道畢 혹시혹비 종종시위운전 차도필
+<p>
+	是知能見聞搏作 必是汝本心 不是汝色身也
+<span class="chinese-korean-transliteration">
+	시지능견문박작 필시여본심 불시여색신야
+</span>
+<span class="chinese-korean-translation">
+	이러므로 보고, 듣고, 동작하는 것은 반드시 그대의 본심이지 그대의 육신이 아님을 알 수 있다.
+</span>
+</p>
 
-竟是誰 能伊 運轉施爲耶 경시수 능이마운전시위야
+<p>
+	況此色身 四大性空 如鏡中像 亦如水月
+<span class="chinese-korean-transliteration">
+	황차색신 사대성공 여경중상 역여수월
+</span>
+<span class="chinese-korean-translation">
+	더구나 이 육신을 이루고 있는
+	사대四大<sup><a href="#footnote13" id="ref13">13</a></sup>의 성품은 비어서
+	거울 속의 형상과 같고 물속의 달과 같은데
+</span>
+</p>
 
-若言色身運轉 何故有人 一念命終 약언색신운전 하고유인 일념명종
+<p>
+	豈能了了常知 明明不昧 感而遂通恒沙妙用也
+<span class="chinese-korean-transliteration">
+	기능요요상지 명명불매 감이수통항사묘용야
+</span>
+<span class="chinese-korean-translation">
+	어떻게 항상 뚜렷이 알고 분명하고 어둡지 않아 갠지스강의 모래 수같이 한량없는 묘한 작용을 일으킬 수 있겠느냐?
+</span>
+</p>
 
-都未壞爛 卽眼不自見 耳不能聞 도미괴란 즉안부자견 이불능문
+<p>
+	故云神通 幷妙用 運水及搬柴
+<span class="chinese-korean-transliteration">
+	고운신통 병묘용 운수급반시
+</span>
+<span class="chinese-korean-translation">
+	그러므로
+	"신통과 묘한 작용은 물을 긷고 나무를 운반하는데 있다"고
+	하였다.<sup><a href="#footnote14" id="ref14">14</a></sup>
+</span>
+</p>
+</div>
 
-鼻不辨香 舌不談論 身不動搖 비불변향 설부담론 신부동요
+<div class="translation-container">
+<p>
+	且入理多端 指汝一門 令汝還源
+<span class="chinese-korean-transliteration">
+	차입리다단 지여일문 영여환원
+</span>
+<span class="chinese-korean-translation">
+	그리고 진리에 들어가는 길은 많지만 그대에게 한 길을 가리켜서 그대의 근원으로 돌아가게 하리라.
+</span>
+</p>
 
-手不執捉 足不運奔耶 수불집착 족불운분야
+<p>
+	汝還聞鴉鳴鵲噪之聲麽 曰聞
+<span class="chinese-korean-transliteration">
+	여환문아명작조지성마 왈문
+</span>
+<span class="chinese-korean-translation">
+	그대는 저 까마귀 우는 소리와 까치가 지저귀는 소리를 듣는가?
+	<br>
+	예 듣습니다.
+</span>
+</p>
 
-是知能見搏作 必是汝本心 시지능견문동작 필시여본심
+<p>
+	曰汝返聞汝聞性 還有許多聲麽
+<span class="chinese-korean-transliteration">
+	왈여반문여문성 환유허다성마
+</span>
+<span class="chinese-korean-translation">
+	그대는 돌이켜서 그대가 듣고 있다는 성품을 들어 보아라. 거기에도 많은 소리가 있는가?
+</span>
+</p>
 
-不是汝色身也 불시여색신야
+<p>
+	曰到這裏 一切聲一切分別 俱不可得
+<span class="chinese-korean-transliteration">
+	왈도저리 일체성일체분별 구불가득
+</span>
+<span class="chinese-korean-translation">
+	거기에는 일체의 소리와 일체의 분별도 없습니다.
+</span>
+</p>
 
-況此色身 四大性空 如鏡中像 황차색신 사대성공 여경중상
+<p>
+	曰奇哉奇哉 此是觀音入理之門
+<span class="chinese-korean-transliteration">
+	왈기재기재 차시관음입리지문
+</span>
+<span class="chinese-korean-translation">
+	기특하고 기특하구나.
+	이것이 바로 관음보살이 진리에 들어간 문이다.
+</span>
+</p>
 
-亦如水月 豈能了了常知 明明不昧 역여본심 기능요요상지 명명불매
+<p>
+	我更問爾 爾道到這裏 一切聲 一切分別 總不可得
+	旣不可得 當伊麽時 莫是虛空麽
+<span class="chinese-korean-transliteration">
+	아갱문이 이도도저리 일체성 일체분별 총불가득
+	기불가득 당이마시 막시허공마
+</span>
+<span class="chinese-korean-translation">
+	내가 다시 그대에게 묻는다.
+	그대는 거기에 일체의 소리와 일체의 분별도 얻을 수 없다고 하였다.
+	<br>
+	이미 아무 것도 얻을 수 없다면 그러한 때는 허공과 같은 것이 아니겠는가?
+</span>
+</p>
 
-感而遂通恒沙妙用也 故云神通 감이수통항사묘용야 고운신통
+<p>
+	曰元來不空 明明不昧
+<span class="chinese-korean-transliteration">
+	왈원래불공 명명불매
+</span>
+<span class="chinese-korean-translation">
+	원래 공하지 않아서 밝고 밝아 어둡지가 않습니다.
+</span>
+</p>
 
-幷妙用 運水及搬柴 병묘용 운수급반시
+<p>
+	曰作麽生 是不空之體
+<span class="chinese-korean-transliteration">
+	왈작마생 시불공지체
+</span>
+<span class="chinese-korean-translation">
+	그러면 어떤 것이 공하지 않은 것의 본체인가?
+</span>
+</p>
 
+<p>
+	曰亦無相貌 言之不可及
+<span class="chinese-korean-transliteration">
+	왈역무상모 언지불가급
+</span>
+<span class="chinese-korean-translation">
+	형상이 없으므로 말로 표현할 수 없습니다.
+</span>
+</p>
 
-
-아침부터 저녁까지 하루 종일 보고, 듣고, 웃고, 말하며, 혹은 성내거나 기뻐하거나 또는 옳다, 그르다 하는 갖가지의 행위와 동작은 필경 누가 그렇게 하게 하는가를 말해보라.
-
-만약 육신이 동작하게 한다면, 어째서 금방 명이 끊어진 사람의 몸은 아직 썩지 않았는데도 눈은 보지 못하고, 귀는 듣지 못하고, 코는 냄새를 맡지 못하고, 혀는 말을 하지 못하고, 몸은 움직이지 못하고, 손은 잡지 못하고, 발은 걷지 못하는가?
-
-이러므로 보고, 듣고, 동작하는 것은 반드시 그대의 본심이지 그대의 육신이 아님을 알 수 있다. 더구나 이 육신을 이루고 있는 사대(四大: 地,水,火,風)의 성품은 비어서 거울 속의 형상과 같고 물속의 달과 같은데, 어떻게 항상 뚜렷이 알고, 분명하고 어둡지 않아 갠지스강의 모래 수같이 한량없는 묘한 작용을 일으킬 수 있겠느냐. 그러므로 ‘신통과 묘한 작용은 물을 긷고, 나무를 운반하는데 있다.’하였다. 즉 물을 긷고 나무를 나르는 일상의 생활을 뜻한다.
-
-
-
-且入理多端 指汝一門 令汝還源 차입리다단 지여일문 영여환원
-
-汝還聞鴉鳴鵲 之聲 曰聞 여환문아명작조지성마 왈문
-
-曰汝返聞汝聞性 還有許多聲 曰 왈여반문여문성 환유허다성마 왈
-
-到這裏 一切聲一切分別 俱不可得 도저리 일체성일체분별 구불가득
-
-曰奇哉奇哉 此是觀音入理之門 왈기재기재 차시관음입리지문
-
-我更問爾 爾道到這裏 一切聲 아갱문이 이도도저리 일체성
-
-一切分別 總不可得 旣不可得 일체분별 총불가득 기불가득
-
-當伊 時 莫是虛空 曰元來不空 당이마시 막시허공마 왈원래불공
-
-明明不昧 曰作 生 是不空之體 명명불매 왈작마생 시불공지체
-
-曰亦無相貌 言之不可及 왈역무상모 언지불가급
-
-曰此是諸佛諸祖壽命 更莫疑也 왈차시제불제조수명 갱막의야
-
-
-
-그리고 진리에 들어가는 길은 많지만 그대에게 한 길을 가리켜서 그대의 근원으로 돌아가게 하리라.
-
-“그대는 저 까마귀 우는 소리와 까치가 지저귀는 소리를 듣는가?”
-
-“예 듣습니다.”
-
-“그대는 돌이켜서 그대가 듣고 있다는 성품을 들어 보아라. 거기에도 많은 소리가 있는가?”
-
-“거기에는 일체의 소리와 일체의 분별도 없습니다.”
-
-“기특하고 기특하구나. 이것이 바로 관음보살이 진리에 들어간 문이다.
-
-내가 다시 그대에게 묻는다. 그대는 거기에 일체의 소리와 일체의 분별도 얻을 수 없다고 하였다.
-
-이미 아무 것도 얻을 수 없다면 그러한 때는 허공과 같은 것이 아니겠는가.”
-
-“원래 공하지 않아서 밝고 밝아 어둡지가 않습니다.”
-
-“그러면 어떤 것이 공하지 않은 것의 본체인가?”
-
-“형상이 없으므로 말로 표현할 수 없습니다.”
-
-“그것이 모든 부처님과 조사들의 생명이니 다시는 의심하지 말라.”
-
-
+<p>
+	曰此是諸佛諸祖壽命 更莫疑也
+<span class="chinese-korean-transliteration">
+	왈차시제불제조수명 갱막의야
+</span>
+<span class="chinese-korean-translation">
+	그것이 모든 부처님과 조사들의 생명이니 다시는 의심하지 말라.
+</span>
+</p>
+</div>
 
 <h2 id="effort-with-wisdom"> 지혜로써 공들이고 노력하지 않는다면</h2>
 
@@ -2593,4 +2706,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <li id="footnote12">
 	귀가歸家 - 본래 부처인 마음자리를 뜻함
 <a href="#ref12">↩</a></li>
+<li id="footnote13">
+	사대四大 - 지地, 수水, 화火, 풍風
+<a href="#ref13">↩</a></li>
+<li id="footnote14">
+	즉 물을 긷고 나무를 나르는 일상의 생활을 뜻한다.
+<a href="#ref14">↩</a></li>
 </ol>
