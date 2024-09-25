@@ -93,12 +93,16 @@ permalink: /todo-list/
 	<li>
 		NO DUE DATE
 	</li>
+	<li>
+		DONE @ 24-Sep-2024 PDT
+	</li>
 	</ul>
 </li>
 </font>
 
+<font color="#bbb">
 <li>
-	start a post about <a href="https://blog.naver.com/venuslv/12263161">육조단경六祖壇經</a>
+	<s>start a post about 육조단경六祖壇經</s>
 	<ul>
 	<li>
 		owner - Sunghee
@@ -112,8 +116,12 @@ permalink: /todo-list/
 	<li>
 		NO DUE DATE
 	</li>
+	<li>
+		CANCELLED @ 24-Sep-2024 PDT
+	</li>
 	</ul>
 </li>
+</font>
 
 <font color="#bbb">
 <li>
