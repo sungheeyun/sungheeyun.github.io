@@ -54,6 +54,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 마치 모래로 밥을 지으려는 것과 같다고 했다.
 본론은 마음을 닦아 부처를 이루는 방법론을 9문9답을 통해 제시했다.
 
+<div class="img-container">
+	<img src="/assets/images/buddhism/secrets-of-mind-cultivation-01.png">
+</div>
+
 <h2 id="summary">
 	요약 및 요점
 </h2>
