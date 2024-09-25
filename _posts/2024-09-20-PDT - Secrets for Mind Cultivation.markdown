@@ -21,7 +21,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 <h1 id="secrets-for-mind-cultivation">
-목우자수심결
+	목우자수심결
 </h1>
 
 목우자수심결牧牛子修心訣(언해諺解)는
@@ -54,7 +54,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 마치 모래로 밥을 지으려는 것과 같다고 했다.
 본론은 마음을 닦아 부처를 이루는 방법론을 9문9답을 통해 제시했다.
 
-<h2 id="summary">요약 및 요점</h2>
+<h2 id="summary">
+	요약 및 요점
+</h2>
+
 제1문답에서는
 불성佛性은 모든 중생衆生이 본래 갖추고 있지만 스스로 보지 못할 뿐이며
 우리가 보고 듣고 지각하는 것 자체가 곧 불성의 작용임을 설명했다.
@@ -101,10 +104,12 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 
 <h1 id="text-and-commentary">
-본문과 해석
+	본문과 해석
 </h1>
 
-<h2 id="if-know-my-own-mind">자기 마음을 알면</h2>
+<h2 id="if-know-my-own-mind">
+	자기 마음을 알면
+</h2>
 
 <blockquote>
 <p>
@@ -251,7 +256,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 </div>
 
-<h2 id="originally">마음은 본래 스스로 원만한 것</h2>
+<h2 id="originally">
+	마음은 본래 스스로 원만한 것
+</h2>
 
 <blockquote>
 <p>
@@ -418,7 +425,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 </div>
 
-<h2 id="buddha-exists-in-functioning">불성은 작용하는 가운데 있습니다</h2>
+<h2 id="buddha-exists-in-functioning">
+	불성은 작용하는 가운데 있습니다
+</h2>
 
 <blockquote>
 <p>
@@ -685,7 +694,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 </div>
 
-<h2 id="how-to-preserve-awareness">어떻게 보림保任해야 합니까?</h2>
+<h2 id="how-to-preserve-awareness">
+	어떻게 보림保任해야 합니까?
+</h2>
 
 <blockquote>
 <p>
@@ -865,7 +876,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 </div>
 
-<h2 id="gradual-cultivation-relying-on-enlightment">깨달음에 의지해 닦고 차츰 익혀야</h2>
+<h2 id="gradual-cultivation-relying-on-enlightment">
+	깨달음에 의지해 닦고 차츰 익혀야
+</h2>
 
 <blockquote>
 <p>
@@ -1043,7 +1056,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 </div>
 
-<h2 id="inherent-buddha-nature">성품이 본래 스스로 갖추어져 있어</h2>
+<h2 id="inherent-buddha-nature">
+	성품이 본래 스스로 갖추어져 있어
+</h2>
 
 <blockquote>
 <p>
@@ -1259,7 +1274,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </div>
 
 <h2 id="void-and-spiritual-mind-of-wisdom">
-공하고 고요한 신령스런 지혜의 마음
+	공하고 고요한 신령스런 지혜의 마음
 </h2>
 
 <blockquote>
@@ -1467,7 +1482,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 </div>
 
-<h2 id="no-discrimination">성품은 밝고 밝아 일체의 분별도 없다</h2>
+<h2 id="no-discrimination">
+	성품은 밝고 밝아 일체의 분별도 없다
+</h2>
 
 <blockquote>
 <p>
@@ -1674,7 +1691,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 </div>
 
-<h2 id="effort-with-wisdom"> 지혜로써 공들이고 노력하지 않는다면</h2>
+<h2 id="effort-with-wisdom">
+	지혜로써 공들이고 노력하지 않는다면
+</h2>
 
 <blockquote>
 <p>
@@ -1855,7 +1874,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 </div>
 
-<h2 id="feed-cows-after-enlightment">깨달은 뒤에 소먹이는 행</h2>
+<h2 id="feed-cows-after-enlightment">
+	깨달은 뒤에 소먹이는 행
+</h2>
 
 <blockquote>
 <p>
@@ -2084,103 +2105,214 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 </div>
 
-<h2 id="immediate-awareness">생각이 일어나거든 곧 깨달아라.</h2>
+<h2 id="immediate-awareness">
+	생각이 일어나거든 곧 깨달아라
+</h2>
 
--생각이 일어남을 두려워 말고 깨달음이 늦을까를 두려워하라.
+<blockquote>
+<p>
+	생각이 일어남을 두려워 말고
+<br>
+	깨달음이 늦을까를 두려워하라
+</p>
+</blockquote>
 
+<div class="translation-container">
+<p>
+	但諦觀殺盜狀妄 從性而起 起卽無起
+<span class="chinese-korean-transliteration">
+	단체관살도음망 종성이기 기즉무기
+</span>
+<span class="chinese-korean-translation">
+	다만 살생하고 도적질하고 음행하고 거짓말하는 것이
+	성품으로부터 일어난 것임을
+	자세히 관조한다면 일어남이 곧 일어남이 없는 것이다.
+</span>
+</p>
 
+<p>
+	當處便寂 何須更斷
+<span class="chinese-korean-transliteration">
+	당처변적 하수갱단
+</span>
+<span class="chinese-korean-translation">
+	본 바탕이 고요한데 무엇을 다시 끊을 것인가?
+</span>
+</p>
 
-但諦觀殺盜狀妄 從性而起 起卽無起 단체관살도음망 종성이기 기즉무기
+<p>
+	所以云 不怕念起 唯恐覺遲
+<span class="chinese-korean-transliteration">
+	소이운 불파염기 유공각지
+</span>
+<span class="chinese-korean-translation">
+	그러므로 "생각이 일어남을 두려워말고 다만 깨달음이 늦을까를 두려워하라"고 하였고
+</span>
+</p>
 
+<p>
+	又云念起卽覺 覺之卽無
+<span class="chinese-korean-transliteration">
+	우운염기즉각 각지즉무
+</span>
+<span class="chinese-korean-translation">
+	또 "생각이 일어나거 던 곧 깨달아라. 깨달으면 곧 없어진다"고 하였다.
+</span>
+</p>
 
+<p>
+	故悟人分上 雖有客塵煩惱 俱成醍醐
+<span class="chinese-korean-transliteration">
+	고오인분상 수유객진번뇌 구성제호
+</span>
+<span class="chinese-korean-translation">
+	그러므로 깨친 사람의 입장에서는 비록 일시적인 번뇌가 있다 해도그것은 다 제호醍醐<sup><a href="#footnote18" id="ref18">18</a></sup>를 이룬다.
+</span>
+</p>
 
-다만 살생하고 도적질하고 음행하고 거짓말하는 것이
+<p>
+	但照惑無本 空華三界 如風卷煙 幻化六塵 如湯消氷
+<span class="chinese-korean-transliteration">
+	단조혹무본 공화삼계 여풍권연 환화육진 여탕소빙
+</span>
+<span class="chinese-korean-translation">
+	다만 미혹이란 근본이 없는 것임을 관조하여 알면
+	허공의 꽃<sup><a href="#footnote06" id="ref06-02">6</a></sup>처럼 실체가 없는 삼계三界는
+	바람에 사라지는 연기와 같고
+	허수아비와 같은 객관 세계는 마치 끓는 물에 녹는 얼음과 같을 것이다.
+</span>
+</p>
 
-성품으로부터 일어난 것임을 자세히 관조한다면 일어남이 곧 일어남이 없는 것이다.
+<p>
+	若能如是念念修習 不忘照顧 定慧等持
+<span class="chinese-korean-transliteration">
+	약능여시염념수습 불망조고 정혜등지
+</span>
+<span class="chinese-korean-translation">
+	만일 이처럼 생각 생각에 닦고 익히며
+	마음을 관조하기를 잊지 않고
+	선정과 지혜를 평등하게 가지면
+</span>
+</p>
 
+<p>
+	則愛惡自然淡薄 悲智自然增明
+<span class="chinese-korean-transliteration">
+	즉애오자연담박 비지자연증명
+</span>
+<span class="chinese-korean-translation">
+	곧 사랑하고 미워하는 마음이 자연히 없어지고
+	자비와 지혜가 자연히 밝게 드러날 것이다.
+</span>
+</p>
 
+<p>
+	辜業 自然斷除 功行自然增進 煩惱盡時 生死卽絶
+<span class="chinese-korean-transliteration">
+	고업 자연단죄 공행자연증진 번뇌진시 생사즉절
+</span>
+<span class="chinese-korean-translation">
+	죄업이 자연히 없어지고
+	공덕이 절로 늘어나서
+	번뇌가 다할 때에는 생사도 끊어질 것이다.
+</span>
+</p>
 
-當處便寂 何須更斷 所以云 당처변적 하수갱단 소이운
+<p>
+	若微細流注永斷 圓覺大智朗然獨存 卽現千百億化身 於十方國中 赴感應機
+<span class="chinese-korean-transliteration">
+	약미세유주영단 원각대지낭연독존 즉현천백억화신 어십방국중 부감응기
+</span>
+<span class="chinese-korean-translation">
+	만약 미세한 번뇌의 흐름도 영원히 끊어져서 원만히 깨달은 지혜가 홀로 밝게 드러나면
+	곧 천 백억 화신을 나타내되 시방세계 중생들의 근기에 감응하게 되니
+</span>
+</p>
 
-不 念起 唯恐覺遲 불파염기 유공각지
+<p>
+	似月現九霄 影分萬水
+<span class="chinese-korean-transliteration">
+	사월현구소 영분만수
+</span>
+<span class="chinese-korean-translation">
+	그것은 마치 하늘에 높이 뜬 달이 모든 물에 두루 나타나는 것과 같다.
+</span>
+</p>
 
-又云念起卽覺 覺之卽無 故悟人分上 우운염기즉각 각지즉무 고오인분상
+<p>
+	應用無窮 度有緣衆生 快樂無憂 名之爲大覺世尊
+<span class="chinese-korean-transliteration">
+	응용무궁 도유연중생 쾌요무우 명지위대각세존
+</span>
+<span class="chinese-korean-translation">
+	이처럼 응용應用이 무궁하여 인연 있는 중생을 제도하고
+	즐거움만 있고 근심이 없으리니
+	이를 일러 크게 깨친 세존世尊이라 한다.
+</span>
+</p>
 
-雖有客塵煩惱 俱成醍 但照惑無本 수유객진번뇌 구성제호 단조혹무본
+<p>
+	問後修門中 定慧等持之義 實未明了
+<span class="chinese-korean-transliteration">
+	문후수문중 정혜등지지의 실미명료
+</span>
+<span class="chinese-korean-translation">
+	물었다.
+	-
+	깨친 뒤에 닦아나가는 문중에서는 선정과 지혜를 동등히 가진다는 뜻은 아직 잘 모르겠습니다.
+</span>
+</p>
 
-空華三界 如風卷煙 공화삼계 여풍권연
+<p>
+	更爲宣說 委示開迷 引入解脫之門
+<span class="chinese-korean-transliteration">
+	갱위선설 위시개미 인입해탈지문
+</span>
+<span class="chinese-korean-translation">
+	다시 자세히 말씀하시어 미혹을 없애고 해탈의 문에 들게 해 주십시오.
+</span>
+</p>
 
-幻化六塵 如湯消氷 환화육진 여탕소빙
+<p>
+	答若說法義 入理千門 莫非定慧
+<span class="chinese-korean-transliteration">
+	답약설법의 입리천문 막비정혜
+</span>
+<span class="chinese-korean-translation">
+	답하다.
+	-
+	만약 법과 그 뜻을 말한다면
+	진리에 들어가는 천 가지 문은 선정과 지혜 아님이 없다.
+</span>
+</p>
 
-若能如是念念修習 不忘照顧 약능여시염념수습 불망조고
+<p>
+	取其綱要則但自性上 體用二義 前所謂空寂靈知是也
+<span class="chinese-korean-transliteration">
+	취기강요즉단자성상 체용이의 전소위공적영지시야
+</span>
+<span class="chinese-korean-translation">
+	그 요강을 든다면
+	단지 자기 성품의 본체와 작용의 두 가지 뜻이니
+	앞에서 말한 비고 고요함과 신령스럽게 아는 것이 그것이다.
+</span>
+</p>
 
-定慧等持 則愛惡自然淡薄 정혜등지 즉애오자연담박
+<p>
+	<font class="emph">定是體慧是用也</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">정시체혜시용야</font>
+</span>
+<span class="chinese-korean-translation">
+	<font class="emph">선정은 곧 본체요 지혜는 작용이다.</font>
+</span>
+</p>
 
-悲智自然增明 辜業 비지자연증명 고업
+</div>
 
-自然斷除 功行自然增進 煩惱盡時 자연단죄 공행자연증진 번뇌진시
-
-生死卽絶 若微細流注永斷 생사즉절 약미세유주영단
-
-圓覺大智朗然獨存 卽現千百億化身 원각대지낭연독존 즉현천백억화신
-
-於十方國中 赴感應機 似月現九 어시방국중 부감응기 사월현구소
-
-影分萬水 應用無窮 度有緣衆生 영분만수 응용무궁 도유연중생
-
-快樂無憂 名之爲大覺世尊 쾌락무우 명지위대각세존
-
-
-
-본 바탕이 고요한데 무엇을 다시 끊을 것인가.
-
-그러므로 ‘생각이 일어남을 두려워말고 다만 깨달음이 늦을까를 두려워하라.’하였고 또‘생각이 일어나거 던 곧 깨달아라. 깨달으면 곧 없어진다.’하였다.
-
-그러므로 깨친 사람의 입장에서는 비록 객관 세계에 대한 번뇌가 있다 해도그것은 다 제호(醍 :우유를 정제하여 만든 맛있는 음식. 여기서는 부처의 성품에 비유했음)를 이룬다.
-
-다만 미혹이란 근본이 없는 것임을 관조하여 알면 허공의 꽃처럼 실체가 없는 삼계(三界)는 바람에 사라지는 연기와 같고, 허수아비와 같은 객관 세계는 마치 끓는 물에 녹는 얼음과 같을 것이다.
-
-만일 이처럼 생각 생각에 닦고 익히며, 마음을 관조하기를 잊지 않고, 선정과 지혜를 평등하게 가지면 곧 사랑하고 미워하는 마음이 자연히 없어지고 자비와 지혜가 자연히 밝게 드러날 것이다.
-
-죄업이 자연히 없어지고, 공덕이 절로 늘어나서 번뇌가 다할 때에는 생사도 끊어질 것이다.
-
-만약 미세한 번뇌의 흐름도 영원히 끊어져서 원만히 깨달은 지혜가 홀로 밝게 드러나면 곧 천 백억 화신을 나타내되 시방세계 중생들의 근기에 감응하게 되니, 그것은 마치 하늘에 높이 뜬 달이 모든 물에 두루 나타나는 것과 같다.
-
-이처럼 응용이 무궁하여 인연 있는 중생을 제도하고, 즐거움만 있고 근심이 없으리니, 이를 일러 크게 깨친 세존이라 한다.”
-
-
-
-問後修門中 定慧等持之義 實未明了 문후수문중 정혜등지지의 실미명료
-
-更爲宣說 委示開迷 引入解脫之門 갱위선설 위시개미 인입해탈지문
-
-
-
-물었다.
-
-“깨친 뒤에 닦아나가는 문중에서는 선정과 지혜를 동등히 가진다는 뜻은 아직 잘 모르겠습니다. 다시 자세히 말씀하시어 미혹을 없애고 해탈의 문에 들게 해 주십시오.”
-
-
-
-答若說法義 入理千門 莫非定慧 답약설법의 입리천문 막비정혜
-
-取其綱要則但自性上 體用二義 취기강요즉단자성상 체용이의
-
-前所謂空寂靈知是也 전소위공적영지시야
-
-定是體慧是用也 정시체혜시용야
-
-
-
-답하다.
-
-“만약 법과 그 뜻을 말한다면, 진리에 들어가는 천 가지 문은 선정과 지혜 아님이 없다.
-
-그 요강을 든다면, 단지 자기 성품의 본체와 작용의 두 가지 뜻이니, 앞에서 말한 비고 고요함과 신령스럽게 아는 것이 그것이다. 선정은 곧 본체요 지혜는 작용이다.
-
-
-
-<h2 id="neither-evil-nor-good">악을 끊거나 선을 닦는다는 것도 없다</h2>
+<h2 id="neither-evil-nor-good">
+	악을 끊거나 선을 닦는다는 것도 없다
+</h2>
 
 - 마음에 산란함 없는 것이 선정, 마음이 어리석지 않음이 지혜
 
@@ -2273,7 +2405,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 
 
-<h2 id="liberation">걸림 없는 자유인</h2>
+<h2 id="liberation">
+	걸림 없는 자유인
+</h2>
 
 선악의 경계에서 동요하는 이는 반연을 잊고 없애는 공부하라.
 
@@ -2360,7 +2494,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 
 
-<h2 id="not-even-single-deuluded-emotion">한 생각의 망령된 정情도 일어남</h2>
+<h2 id="not-even-single-deuluded-emotion">
+	한 생각의 망령된 정情도 일어남
+</h2>
 
 돈문과 점문의 선정과 지혜 다른데 어떻게 한꺼번에 수행할 수 있나요?
 
@@ -2434,7 +2570,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 
 
-<h2 id="samadhi-and-prajna"> 선정과 지혜에 의지해서 자유롭게 겸</h2>
+<h2 id="samadhi-and-prajna">
+	선정과 지혜에 의지해서 자유롭게 겸
+</h2>
 
 -말을 따라 알려하면 의혹 생기고 뜻 얻고 말 잊으면 힐문 필요 없다.
 
@@ -2518,7 +2656,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 
 
-<h2 id="affliction">생각 생각에 의심이 없어 번뇌에 물</h2>
+<h2 id="affliction">
+	생각 생각에 의심이 없어 번뇌에 물
+</h2>
 
 의심의 뿌리가 끊어지지 않으면 생사의 세계에 자재로 울 수 없다.
 
@@ -2598,7 +2738,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 
 
-<h2 id="return-to-oneself">자기에게로 돌아가 근본에 계합한다.</h2>
+<h2 id="return-to-oneself">
+	자기에게로 돌아가 근본에 계합한다
+</h2>
 
 글에 집착 말고 참뜻을 바로 깨닫고 자기에게 돌아가 근본에 계합해야
 
@@ -2678,7 +2820,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 
 
-<h2 id="liberation-in-this-life">다시 어느 생을 기다려 이 몸을 제도</h2>
+<h2 id="liberation-in-this-life">
+	다시 어느 생을 기다려 이 몸을 제도
+</h2>
 
 - 수도하는 사람들은 방일하지 말고 머리에 타는 불을 끄듯이 살펴라
 
@@ -2758,7 +2902,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 
 
-<h2 id="treasure">보배를 얻으려거든</h2>
+<h2 id="treasure">
+	보배를 얻으려거든
+</h2>
 
 -보배 있는 곳 알고도 구하지 않겠는가?
 
@@ -2859,7 +3005,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 
 
-<h1 id="ref">Reference</h1>
+<h1 id="ref">
+	Reference
+</h1>
 
 <ul>
 <li>
@@ -2875,7 +3023,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </ul>
 
 
-<h1 id="footnotes">Footnotes</h1>
+<h1 id="footnotes">
+	Footnotes
+</h1>
 
 <ol>
 <li id="footnote01">
@@ -2905,7 +3055,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <a href="#ref05">↩</a></li>
 <li id="footnote06">
 	공화空花 - 허공의 꽃 - 눈병이 생기면 때로는 아무 것도 없는 허공에 꽃무늬 같은 헛것이 보인다.
-<a href="#ref06">↩</a></li>
+<a href="#ref06">↩</a><a href="#ref06-02">↩</a></li>
 <li id="footnote07">
 	공안公案 - 공부의 규범이 되는 것
 <a href="#ref07">↩</a></li>
@@ -2943,4 +3093,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <li id="footnote17">
 	무명종습無明種習 - 근본 번뇌煩惱
 <a href="#ref17">↩</a></li>
+<li id="footnote18">
+	제호醍醐 - 우유를 정제하여 만든 맛있는 음식. 여기서는 부처의 성품을 말한다.
+<a href="#ref18">↩</a></li>
 </ol>
