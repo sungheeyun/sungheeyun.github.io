@@ -3210,83 +3210,194 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	자기에게로 돌아가 근본에 계합한다
 </h2>
 
-글에 집착 말고 참뜻을 바로 깨닫고 자기에게 돌아가 근본에 계합해야
+<blockquote>
+<p>
+	글에 집착 말고 참뜻을 바로 깨닫고
+	<br>
+	자기에게 돌아가 근본에 계합해야
+</p>
+</blockquote>
 
+<div class="translation-container">
+<p>
+	願諸修道之人 硏味此語 更莫狐疑 自生退屈
+<span class="chinese-korean-transliteration">
+	원제수도지인 연미차어 갱막호의 자생퇴굴
+</span>
+<span class="chinese-korean-translation">
+	바라건대
+	모든 도 닦는 사람은 이 말을 깊이 음미해서
+	다시는 의심으로 인해 스스로 물러나는 일이 없도록 하라.
+</span>
+</p>
 
+<p>
+	若求丈夫之志 求無上菩提者 捨此奚以哉
+<span class="chinese-korean-transliteration">
+	약구장부지지 구무상보리자 사차해이재
+</span>
+<span class="chinese-korean-translation">
+	만약 장부의 뜻을 가지고 최상의 보리를 구하는 사람이라면
+	이것을 버리고 어떻게 할 것인가?
+</span>
+</p>
 
-願諸修道之人 硏味此語 更莫狐疑 원제수도지인 연미차오 갱막호의
+<p>
+	切莫執文 直須了義 一一歸就自己 契合本宗
+<span class="chinese-korean-transliteration">
+	절막집문 직수요의 일일기취자기 계합본종
+</span>
+<span class="chinese-korean-translation">
+	결단코 글에 집착하지 말고
+	바로 참뜻을 깨달아서
+	일일이 자기에게 돌아가
+	근본에 계합한다면
+</span>
+</p>
 
-自生退屈 若求丈夫之志 자생퇴굴 약구장부지지
+<p>
+	則無師之智 自然現前 天眞之理 了然不昧 成就慧身 不由他悟
+<span class="chinese-korean-transliteration">
+	즉무사지지 자연현전 천진지리 요연불매 성취혜신 불유타오
+</span>
+<span class="chinese-korean-translation">
+	스승 없는 지혜가 저절로 앞에 나타나고
+	천진한 이치가 분명하여
+	지혜의 몸을 성취하되 타인으로 말미암아 깨닫지 않으리라.
+</span>
+</p>
 
-求無上菩提者 捨此奚以哉 切莫執文 구무상보리자 사차해이재 절막집문
+<p>
+	而此妙旨 雖是諸人分上
+<span class="chinese-korean-transliteration">
+	이차묘지 수시제인분상
+</span>
+<span class="chinese-korean-translation">
+	이러한 묘한 뜻은 비록 모든 사람에 해당되긴 하나
+</span>
+</p>
 
-直須了義 一一歸就自己 契合本宗 직수요의 일일기취자기 계합본종
+<p>
+	<font class="emph">若非夙植般若種智 大承根器者 不能一念而生正信</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">약비숙식반야종지 대승근기자 불능일념이생정신</font>
+</span>
+<span class="chinese-korean-translation">
+	<font class="emph">일찍이 지혜의 종자를 심은 대승의 근기가 아니면
+	능히 한 생각에 바른 믿음을 내지 못할 것이다.</font>
+</span>
+</p>
 
-則無師之智 自然現前 天眞之理 즉무사지지 자연현전 천진지리
+<p>
+	豈徒不信 亦乃謗讟 返招無間者 比比有之
+<span class="chinese-korean-transliteration">
+	기도불신 역내방독 반초무간자 비비유지
+</span>
+<span class="chinese-korean-translation">
+	한갓 믿지 않을 뿐만 아니라 오히려 비방하여 무간지옥에 떨어지는 자가 허다히 많다.
+</span>
+</p>
 
-了然不昧 成就慧身 不由他悟 요연불매 성취혜신 불유타오
+<p>
+	雖不信受 一經於耳 暫時結緣 其功闕德 不可稱量
+<span class="chinese-korean-transliteration">
+	수불신수 일경어이 잠시결연 기공궐덕 불가칭량
+</span>
+<span class="chinese-korean-translation">
+	그러나 믿고 받아들이지 않더라도
+	한 번 귀를 스쳐 잠시라도 인연을 맺은 그 공덕은 헤아릴 수 없는 것이다.
+</span>
+</p>
 
+<p>
+	如唯心訣云 聞而不信 尙結佛種之因 學而不成 猶蓋人天之福
+<span class="chinese-korean-transliteration">
+	여유심결운 문이불신 상결불종지인 학이불성 유개인천지복
+</span>
+<span class="chinese-korean-translation">
+	그러므로 &lt;유심결唯心訣&gt;에
+	"듣고서 믿지 않더라도 부처가 될 인연을 맺고
+	배우고 이루지 못했다 하더라도 오히려 인간과 천상의 복보다 뛰어나다"고 하였다.
+</span>
+</p>
 
+<p>
+	不失成佛之正因
+<span class="chinese-korean-transliteration">
+	불실성불지정인
+</span>
+<span class="chinese-korean-translation">
+	이렇게만 해도 성불할 바른 인연을 잃지 않는데
+</span>
+</p>
 
-바라건대, 모든 도 닦는 사람은 이 말을 깊이 음미해서 다시는 의심으로 인해 스스로 물러나는 일이 없도록 하라. 만약 장부의 뜻을 가지고 최상의 보리를 구하는 사람이라면 이것을 버리고 어떻게 할 것인가. 결단코 글에 집착하지 말고 바로 참뜻을 깨달아서 일일이 자기에게 돌아가 근본에 계합한다면 스승 없는 지혜가 저절로 앞에 나타나고 천진한 이치가 분명하여 지혜의 몸을 성취하되 타인으로 말미암아 깨닫지 않으리라.
+<p>
+	況聞而信 學而成 守護不忘者 其功德 豈能度量
+<span class="chinese-korean-transliteration">
+	황문이신 학이성 수호불망자 기공덕 기능탁량
+</span>
+<span class="chinese-korean-translation">
+	하물며
+	들어서 믿고 배워서 이루고 이를 잊지 않고 수호하는 사람의 그 공덕이야
+	어찌 헤아릴 수 있겠는가?
+</span>
+</p>
 
+<p>
+	追念過去輪廻之業 不知其幾千劫 墮黑暗入無間 受種種苦 又不知其幾何
+<span class="chinese-korean-transliteration">
+	추념과거윤회지업 부지기기천겁 타흑암입무간 수종종고 우부지기기하
+</span>
+<span class="chinese-korean-translation">
+	과거에 윤회하던 업을 돌이켜 보면
+	몇 천 겁을 흑암지옥에 떨어지고
+	무간지옥에 들어가 온갖 고통을 받았을 것인가?
+</span>
+</p>
 
+<p>
+	而欲求佛道 不逢善友 長劫沈淪 冥冥無覺 造諸惡業
+<span class="chinese-korean-transliteration">
+	이욕구불도 불봉선우 장겁침륜 명명무각 조제악업
+</span>
+<span class="chinese-korean-translation">
+	또 불도를 구하고자 해도 착한 벗을 만나지 못하여
+	그 얼마나 오랜 겁을 나고 죽는 바다에 빠져든 채 깨닫지 못하여 많은 악업을 지었던가?
+</span>
+</p>
 
-而此妙旨 雖是諸人分上 이차묘지 수시제인분상
+<p>
+	時或一思 不覺長吁 其可放緩 再受前殃
+<span class="chinese-korean-transliteration">
+	시혹일사 불각장우 기가방왼 재수전앙
+</span>
+<span class="chinese-korean-translation">
+	때때로 한 번씩 생각하면 모르는 사이에 긴 한숨이 나오는데
+	어찌 또 게으름을 피워 지난 날의 재앙을 다시 받겠는가?
+</span>
+</p>
 
-若非夙植般若種智 大承根器者 약비숙식반야종지 대승근기자
+<p>
+	又不知誰復使我 今値人生 爲萬物之靈 不昧修眞之路
+<span class="chinese-korean-transliteration">
+	우부지수부사아 금치인생 위만물지령 불매수진지로
+</span>
+<span class="chinese-korean-translation">
+	그리고 누가 나로 하여금
+	지금 인생으로 태어나 만물의 영장이 되어 진리의 길을 닦도록 하였는가?
+</span>
+</p>
 
-不能一念而生正信 豈徒不信 불능일념이생정신 기도불신
-
-亦乃謗▲ 返招無間者 역내방독 반초무간자
-
-比比有之 雖不信受 一經於耳 비비유지 수불신수 일경어이
-
-暫時結緣 其功闕德 不可稱量 잠시결연 기공궐덕 불가칭량
-
-如唯心訣云 聞而不信 여유심결운 문이불신
-
-尙結佛種之因 學而不成 상결불종지인 학이불성
-
-猶蓋人天之福 不失成佛之正因 유개인천지복 불실성불지정인
-
-況聞而信 學而成 守護不忘者 황문이신 학이성 수호불망자
-
-其功德 豈能度量 기공덕 기능탁량
-
-
-
-이러한 묘한 뜻은 비록 모든 사람에 해당되긴 하나 일찍이 지혜의 종자를 심은 대승의 근기가 아니면, 능히 한 생각에 바른 믿음을 내지 못할 것이다.
-
-한갓 믿지 않을 뿐만 아니라 오히려 비방하여 무간지옥에 떨어지는 자가 허다히 많다.
-
-그러나 믿고 받아들이지 않더라도 한 번 귀를 스쳐 잠시라도 인연을 맺은 그 공덕은 헤아릴 수 없는 것이다. 그러므로 <유심결>에 “듣고서 믿지 않더라도 부처가 될 인연을 맺고, 배우고 이루지 못했다 하더라도 오히려 인간과 천상의 복보다 뛰어나다”고 하였다. 이렇게만 해도 성불할 바른 인연을 잃지 않는데 하물며 들어서 믿고, 배워서 이루고, 이를 잊지 않고 수호하는 사람의 그 공덕이야 어찌 헤아릴 수 있겠는가.
-
-
-
-追念過去輪廻之業 不知其幾千劫 추념과거윤회지업 부지기기천겁
-
-墮黑暗入無間 受種種苦 타흑암입무간 수종종고
-
-又不知其幾何 而欲求佛道 不逢善友 우부지기기하 이욕구불도 불봉선우
-
-長劫沈淪 冥冥無覺 造諸惡業 장겁침륜 명명무각 조제악업
-
-時或一思 不覺長▲ 其可放緩 시혹일사 불각장우 기가방왼　
-
-再受前殃 又不知誰復使我 今値人生 재수전앙 우부지수부사아 금치인생
-
-爲萬物之靈 不昧修眞之路 위만물지령 불매수진지로
-
-實謂盲龜遇木 纖芥投鍼 실위맹구우목 섬개투침
-
-其爲慶幸 曷勝道哉 기위경행 갈승도재
-
-
-
-과거에 윤회하던 업을 돌이켜 보면 몇 천 겁을 흑암지옥에 떨어지고, 무간지옥에 들어가 온갖 고통을 받았을 것인가. 또 불도를 구하고자 해도 착한 벗을 만나지 못하여 그 얼마나 오랜 겁을 나고 죽는 바다에 빠져든 채 깨닫지 못하여 많은 악업을 지었던가. 때때로 한 번씩 생각하면 모르는 사이에 긴 한숨이 나오는데, 어찌 또 게으름을 피워 지난 날의 재앙을 다시 받겠는가. 그리고 누가 나로 하여금 지금 인생으로 태어나 만물의 영장이 되어 진리의 길을 닦도록 하였는가. 실로 눈먼 거북이 나무를 만나고, 작은 겨자씨가 바늘에 꽂힘과 같으니 그 다행함을 어찌 말로 다 하겠는가.
-
-
+<p>
+	<font class="emph">實謂盲龜遇木 纖芥投鍼 其爲慶幸 曷勝道哉</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">실위맹구우목 섬개투침 기위경행 갈승도재</font>
+</span>
+<span class="chinese-korean-translation">
+	<font class="emph">실로 눈먼 거북이 나무를 만나고, 작은 겨자씨가 바늘에 꽂힘과 같으니 그 다행함을 어찌 말로 다 하겠는가?</font>
+</span>
+</p>
+</div>
 
 <h2 id="liberation-in-this-life">
 	다시 어느 생을 기다려 이 몸을 제도
