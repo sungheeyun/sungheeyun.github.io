@@ -1676,96 +1676,184 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <h2 id="effort-with-wisdom"> 지혜로써 공들이고 노력하지 않는다면</h2>
 
-어째서 깨친 뒤에도 점차로 닦습니까?
+<blockquote>
+<p>
+	어째서 깨친 뒤에도 점차로 닦습니까?
+<br>
+	무명의 습 갑자기 없앨 수 없기 때문이니라.
+</p>
+</blockquote>
 
-무명의 습 갑자기 없앨 수 없기 때문이니라.
+<div class="translation-container">
+<p>
+	故云在聖智而不輝 隱凡心而不昧
+<span class="chinese-korean-transliteration">
+	고운재성지이불휘 은범심이불매
+</span>
+<span class="chinese-korean-translation">
+	그러므로 "성인의 지혜라고 해서 빛나는 것도 아니고 범부의 마음에 숨어 있다고 해서 어둡지 않다"고 하였다.
+</span>
+</p>
 
+<p>
+	旣不增於聖 不少於凡 佛祖奚以異於人
+<span class="chinese-korean-transliteration">
+	기부증어성 불소어범 불조해이이어인
+</span>
+<span class="chinese-korean-translation">
+	이미 성인이라 해서 불어나는 것도 아니오
+	범부라 해서 줄어드는 것이 아니라면
+	부처나 조사들이 어찌 보통 사람과 다르겠는가?
+</span>
+</p>
 
+<p>
+	而所以異於人者 能自護心念耳
+<span class="chinese-korean-transliteration">
+	이소이이어인자 능자호심념이
+</span>
+<span class="chinese-korean-translation">
+	그러나 보통 사람과 다른 것은 자기 마음을 잘 보호하는 것뿐이다.
+</span>
+</p>
 
-故云在聖智而不輝 隱凡心而不昧 고운재성지이불휘 은범심이불매
+<p>
+	汝若信得及 疑情頓息 出丈夫之志 發眞正見解 親嘗其味 自到自肯之地
+<span class="chinese-korean-transliteration">
+	여약신득급 의정돈식 출장부지지 발진정견해 친상기미 자도자긍지지
+</span>
+<span class="chinese-korean-translation">
+	그대가 만약 이 말을 믿어서 의심이 담박 없어지고 대장부의 뜻을 내어 참되고 바른 견해를 일으켜서 직접 그 맛을 보고 스스로 긍정하는 경지에 이른다면
+</span>
+</p>
 
-旣不增於聖 不少於凡 기부증어성 불소어범
+<p>
+	則是爲修心人 解悟處也
+<span class="chinese-korean-transliteration">
+	즉시위수심인 해오처야
+</span>
+<span class="chinese-korean-translation">
+	이것이 바로 마음을 닦는 사람의 깨달은 자리가 되는 것이다.
+</span>
+</p>
 
-佛祖奚以異於人 而所以異於人者 불조해이이어인 이소이이어인자
+<p>
+	更無階級次第 故云頓也
+<span class="chinese-korean-transliteration">
+	갱무계급차제 고운돈야
+</span>
+<span class="chinese-korean-translation">
+	여기에는 계급이나 차례가 없으므로 돈이라 한다.
+</span>
+</p>
 
-能自護心念耳 汝若信得及 능자호심념이 여약신득급
+<p>
+	如云於信因中 契諸佛果德 分毫不殊 方成信也
+<span class="chinese-korean-transliteration">
+	여운어신인중 계제불과덕 분호불수 방성신야
+</span>
+<span class="chinese-korean-translation">
+	이것은 "믿음의 요인이 모든 부처의 과덕果德<sup><a href="#footnote15" id="ref15">15</a></sup>과
+	일치하여 조금의 차이도 없어야 비로소 믿음을 성취할 수 있다"고 한 말과 같다.
+</span>
+</p>
 
-疑情頓息 出丈夫之志 發眞正見解 의정돈식 출장부지지 발진정견해
+<p>
+	問旣悟此理 更無階級 何假後修 漸熏漸成耶
+<span class="chinese-korean-transliteration">
+	문기오차리 갱무계급 하가후수 점훈점성야
+</span>
+<span class="chinese-korean-translation">
+	묻는다. - 이미 이런 이치를 깨달아서 다시는 계급이 없다면 어째서 깨친 뒤에도 닦아서 점차로 익히고 점차로 이루려고 합니까?
+</span>
+</p>
 
-親嘗其味 自到自肯之地 친상기미 자도자긍지지
+<p>
+	答悟後漸修之義 前已具說
+<span class="chinese-korean-transliteration">
+	답오후점수지의 전이구설
+</span>
+<span class="chinese-korean-translation">
+	답한다.
+	-
+	깨달은 뒤에 점차로 닦아야 하는 뜻은 앞에서 이미 말했다.
+</span>
+</p>
 
-則是爲修心人 解悟處也 즉시위수심인 해오처야
+<p>
+	而復疑情未釋 不妨重說 汝須淨心 諦聽諦聽
+<span class="chinese-korean-transliteration">
+	이부의정미석 불방중설 여수정심 체청체청
+</span>
+<span class="chinese-korean-translation">
+	그러나 의심을 풀지 못했으니 거듭 설명하겠다.
+	그대는 마음을 깨끗이 하고 자세히 들으라.
+</span>
+</p>
 
-更無階級次第 故云頓也 갱무계급차제 고운돈야
+<p>
+	凡夫 無始曠大劫來 至於今日 流轉五道 生來死去
+<span class="chinese-korean-transliteration">
+	범부 무시광대겁래 지어금일 유전오도 생래사거
+</span>
+<span class="chinese-korean-translation">
+	범부는 시작이 없는 아득한 옛날부터 지금까지 다섯 갈래의 세계(五道)에 흘러다니며 태어나고 죽고 하되
+</span>
+</p>
 
-如云於信因中 契諸佛果德 여운어신인중 계제불과덕
+<p>
+	堅執我相 妄想顚倒 無明種習 久與成性
+<span class="chinese-korean-transliteration">
+	견집아상 망상전도 무명종습 구여성성
+</span>
+<span class="chinese-korean-translation">
+	"나"라는 생각에 굳게 집착하여 뒤바뀐 망상<sup><a href="#footnote16" id="ref16">16</a></sup>과
+	무명의 습기<sup><a href="#footnote17" id="ref17">17</a></sup>가 오랫동안 지금의 성품을 이루었다.
+</span>
+</p>
 
-分毫不殊 方成信也 분호불수 방성신야
+<p>
+	雖到今生 頓悟自性 本來空寂 與佛無殊
+<span class="chinese-korean-transliteration">
+	수도금생 돈오자성 본래공적 여불무수
+</span>
+<span class="chinese-korean-translation">
+	비록 금생에 이르러 자신의 성품이 본래 공적空寂하여 부처와 다름이 없음을 금방 깨달았다 하더라도
+</span>
+</p>
 
+<p>
+	而此舊習 卒難除斷 故 逢逆順境 瞋喜是非 熾然起減
+<span class="chinese-korean-transliteration">
+	이차구습 졸난제단 고 봉역순경 진희시비 치연기감
+</span>
+<span class="chinese-korean-translation">
+	오랫동안 익혀온 습성은 갑자기 없애기가 어렵기 때문에 역경이나 순경을 만나면
+	성내거나 기뻐하며, 옳다, 그르다 하는 생각이 불처럼 일어났다 없어졌다 하여
+</span>
+</p>
 
+<p>
+	客塵煩惱 與前無異
+<span class="chinese-korean-transliteration">
+	객진번뇌 여전무이
+</span>
+<span class="chinese-korean-translation">
+	객관 세계에 대한 번뇌가 그전과 다름이 없다.
+</span>
+</p>
 
-그러므로 ‘성인의 지혜라고 해서 빛나는 것도 아니고 범부의 마음에 숨어 있다고 해서 어둡지 않다’하였다. 이미 성인이라 해서 불어나는 것도 아니오, 범부라 해서 줄어드는 것이 아니라면
-
-부처나 조사들이 어찌 보통 사람과 다르겠는가. 그러나 보통 사람과 다른 것은 자기 마음을 잘 보호하는 것뿐이다. 그대가 만약 이 말을 믿어서 의심이 담박 없어지고 대장부의 뜻을 내어 참되고 바른 견해를 일으켜서 직접 그 맛을 보고 스스로 긍정하는 경지에 이른다면,
-
-이것이 바로 마음을 닦는 사람의 깨달은 자리가 되는 것이다. 여기에는 계급이나 차례가 없으므로 돈(頓:문득, 또는 담박이라는 뜻)이라 한다. 이것은 ‘믿음의 요인이 모든 부처의 과덕(果德:최상의 결실로 얻어지는 덕)과 일치하여 조금의 차이도 없어야 비로소 믿음을 성취할 수 있다.’고 한 말과 같다.
-
-
-
-問旣悟此理 更無階級 문기오차리 갱무계급
-
-何假後修 漸熏漸成耶 하가후수 점훈점성야
-
-
-
-물었다.
-
-“이미 이런 이치를 깨달아서 다시는 계급이 없다면 어째서 깨친 뒤에도 닦아서 점차로 익히고 점차로 이루려고 합니까.”
-
-
-
-答悟後漸修之義 前已具說 답오후점수지의 전이구설
-
-而復疑情未釋 不妨重說 이부의정미석 불방중설
-
-汝須淨心 諦聽諦聽 凡夫 여수정심 체청체청 범부
-
-無始曠大劫來 至於今日 무시광대겁래 지어금일
-
-流轉五道 生來死去 堅執我相 유전오도 생래사거 견집아상
-
-妄想顚倒 無明種習 久與成性 망상전도 무명종습 구여성성
-
-雖到今生 頓悟自性 本來空寂 수도금생 돈오자성 본래공적
-
-與佛無殊 而此舊習 여불무수 이차구습
-
-卒難除斷 故 逢逆順境 瞋喜是非 졸난제단 고 봉역순경 진희시비
-
-熾然起減 客塵煩惱 與前無異 치연기감 객진번뇌 여전무이
-
-若不以般若 加功着力 약불이반야 가공착력
-
-焉能對治無明 언능대치무명
-
-
-
-답했다.
-
-“깨달은 뒤에 점차로 닦아야 하는 뜻은 앞에서 이미 말했다.
-
-그러나 의심을 풀지 못했으니 거듭 설명하겠다.
-
-그대는 마음을 깨끗이 하고 자세히 들으라.
-
-범부는 시작이 없는 아득한 옛날부터 지금까지 다섯 갈래의 세계(五道)에 흘러다니며 태어나고 죽고 하되, ‘나’라는 생각에 굳게 집착하여 뒤바뀐 망상(妄想顚到：현재의 번뇌)과 무명의 습기(無明種習：근본 번뇌)가 오랫동안 지금의 성품을 이루었다.
-
-비록 금생에 이르러 자신의 성품이 본래 공적(空寂)하여 부처와 다름이 없음을 금방 깨달았다 하더라도 오랫동안 익혀온 습성은 갑자기 없애기가 어렵기 때문에 역경이나 순경을 만나면 성내거나 기뻐하며, 옳다, 그르다 하는 생각이 불처럼 일어났다 없어졌다 하여, 객관 세계에 대한 번뇌가 그전과 다름이 없다.
-
-그러므로 만약 지혜로써 공들이고 노력하지 않는다면 어떻게 이 무명을 다스려 크게 쉬는 경지에 이를 수 있겠는가.”
-
-
-
+<p>
+	若不以般若 加功着力 焉能對治無明
+<span class="chinese-korean-transliteration">
+	약불이반야 가공착력 언능대치무명
+</span>
+<span class="chinese-korean-translation">
+	그러므로 만약 지혜로써 공들이고 노력하지 않는다면
+	어떻게 이 무명을 다스려 크게 쉬는 경지에 이를 수 있겠는가?
+</span>
+</p>
+</div>
 
 <h2 id="feed-cows-after-enlightment">깨달은 뒤에 소먹이는 행</h2>
 
@@ -2712,4 +2800,13 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <li id="footnote14">
 	즉 물을 긷고 나무를 나르는 일상의 생활을 뜻한다.
 <a href="#ref14">↩</a></li>
+<li id="footnote15">
+	과덕果德 - 최상의 결실結實로 얻어지는 덕德
+<a href="#ref15">↩</a></li>
+<li id="footnote16">
+	망상전도妄想顚到 - 현재現在의 번뇌煩惱
+<a href="#ref16">↩</a></li>
+<li id="footnote17">
+	무명종습無明種習 - 근본 번뇌煩惱
+<a href="#ref17">↩</a></li>
 </ol>
