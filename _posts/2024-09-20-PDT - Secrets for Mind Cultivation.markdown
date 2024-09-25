@@ -3630,103 +3630,276 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	보배를 얻으려거든
 </h2>
 
--보배 있는 곳 알고도 구하지 않겠는가?
+<blockquote>
+<p>
+	보배 있는 곳 알고도 구하지 않겠는가?
+</p>
+</blockquote>
 
+<div class="translation-container">
+<p>
+	今若不修 萬劫差違
+<span class="chinese-korean-transliteration">
+	금약불수 만겁차위
+</span>
+<span class="chinese-korean-translation">
+	지금 만약 닦지 않으면 만겁에 어긋나고
+</span>
+</p>
 
+<p>
+	今若强修 難修之行 漸得不難 功行自進
+<span class="chinese-korean-transliteration">
+	금약강수 난수지행 점득불난 공행자진
+</span>
+<span class="chinese-korean-translation">
+	지금 만약 억지로라도 닦으면 닦기 어려운 수행도 점점 어렵지 않게 되어 공행功行이 저절로 나아갈 것이다.
+</span>
+</p>
 
-今若不修 萬劫差違 今若强修 금약불수 만겁차위 금약강수
+<p>
+	嗟夫 今時人 飢逢王饍 不知下口 病遇醫王 不知服藥
+<span class="chinese-korean-transliteration">
+	차부 금시인 기봉왕선 부지하구 병우의왕 부지복약
+</span>
+<span class="chinese-korean-translation">
+	슬프다!
+	지금 사람은 배가 고프면서도 맛난 음식을 보고 먹을 줄을 알지 못하고
+	병이 들어 의사를 만났어도 약을 먹을 줄 모르는구나.
+</span>
+</p>
 
-難修之行 漸得不難 功行自進 난수지행 점득불난 공행자진
+<p>
+	不曰如之何如之何者 吾末 如之何也已矣
+<span class="chinese-korean-transliteration">
+	불왈여지하여지하자 오미 여지하야이의
+</span>
+<span class="chinese-korean-translation">
+	참으로 어찌할까 어찌할까하며
+	걱정하지 않는 사람은 나도 어찌할 수 없다.
+</span>
+</p>
 
-嗟夫 今時人 飢逢王饍 不知下口 차부 금시인 기봉왕선 부지하구
+<p>
+	且世間有爲之事 其狀可見 其功可驗 人得一事 歎其希有
+<span class="chinese-korean-transliteration">
+	차세간유위지사 기상가견 기공가험 인득일사 탄기희유
+</span>
+<span class="chinese-korean-translation">
+	또 세상 유위有爲의 일은
+	그 형상을 볼 수도 있고 그 공덕도 경험할 수 있으므로
+	사람들이 한 가지 일만 얻어도 희귀하다고 감탄한다.
+</span>
+</p>
 
-病遇醫王 不知服藥 병우의왕 부지복약
+<p>
+	我此心宗 無形可觀 無狀可見 言語道斷 心行處滅
+<span class="chinese-korean-transliteration">
+	아차심종 무형가관 무상가견 언어도단 심행처멸
+</span>
+<span class="chinese-korean-translation">
+	그러나 나의 이 마음은
+	그 형상을 볼 수도 없고
+	말로 표현할 수도 없으며 마음으로도 생각할 수가 없다.
+</span>
+</p>
 
-不曰如之何如之何者 불왈여지하여지하자
+<p>
+	故天魔外道 毁謗無門
+<span class="chinese-korean-transliteration">
+	고천운외도 훼방무문
+</span>
+<span class="chinese-korean-translation">
+	그러므로 천마와 외도들이 훼방하려 해도 길이 없고
+</span>
+</p>
 
-吾末 如之何也已矣 오미 여지하야이의
+<p>
+	釋梵諸天 稱讚不及
+<span class="chinese-korean-transliteration">
+	석범제천 칭찬불급
+</span>
+<span class="chinese-korean-translation">
+	제석천과 범천의 모든 하늘이 칭찬하려 해도 미치지 못하는데
+</span>
+</p>
 
+<p>
+	況凡夫淺識之流 其能髣髴　　
+<span class="chinese-korean-transliteration">
+	황범부천식지류 기능방불
+</span>
+<span class="chinese-korean-translation">
+	하물며 얄팍한 범부의 무리가 어찌 짐작이나 할 수 있겠는가?
+</span>
+</p>
 
+<p>
+	悲夫井蛙 焉知滄海之闊 野干何能師子之吼
+<span class="chinese-korean-transliteration">
+	비부정와 언지창해지활 야간하능사자지후
+</span>
+<span class="chinese-korean-translation">
+	슬프다!
+	우물 안 개구리가 어찌 바다의 넓음을 알며
+	여우가 어찌 사자의 소리를 할 수 있겠는가?
+</span>
+</p>
 
-지금 만약 닦지 않으면 만겁에 어긋나고, 지금 만약 억지로라도 닦으면 닦기 어려운 수행도 점점 어렵지 않게 되어 공행(功行)이 저절로 나아갈 것이다. 슬프다, 지금 사람은 배가 고프면서도 맛난 음식을 보고 먹을 줄을 알지 못하고, 병이 들어 의사를 만났어도 약을 먹을 줄 모르는구나. 참으로 ‘어떻게 할까, 어떻게 할까’하며 걱정하지 않는 사람은 나도 어찌할 수 없다.
+<p>
+	故知末法世中 聞此法門 生希有想 信解受持者
+<span class="chinese-korean-transliteration">
+	고지말법세중 문차법문 생희유상 신해수지자
+</span>
+<span class="chinese-korean-translation">
+	그러므로
+	말법 세상에 이 법문을 듣고 희유한 생각을 내어 믿고
+	이해하여 받아 지니는 사람은
+</span>
+</p>
 
+<p>
+	已於 無量劫中 承事諸聖 植諸善根 深結般若正因 最上根性也
+<span class="chinese-korean-transliteration">
+	이어 무량겁중 승사제성 식제선근 심결반야정인 최상근성야
+</span>
+<span class="chinese-korean-translation">
+	이미
+	한량없는 겁 동안 모든 성인을 받들어 섬겨서
+	모든 선근을 심고
+	지혜의 바른 인연을 깊이 맺은 최상의 근기임을 알 수 있다.
+</span>
+</p>
 
+<p>
+	故金鋼經云
+<span class="chinese-korean-transliteration">
+	고금강경운
+</span>
+<span class="chinese-korean-translation">
+	그러므로 &lt;금강경&gt;에
+</span>
+</p>
 
-且世間有爲之事 其狀可見 其功可驗 차세간유위지사 기상가견 기공가험
+<p>
+	<font class="emph">
+	於此章句 能生信心者 當知是人 已於無量佛所 種諸善根
+	</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">
+	어차장구 능생신심자 당지시인 이어무량불소 종제선근
+	</font>
+</span>
+<span class="chinese-korean-translation">
+	<font class="emph">
+	"이 글귀에 능히 신심을 내는 사람은 이미 한량없는 부처님의 처소에서 모든 선근을 심은 것이다"</font>고
+	하였고
+</span>
+</p>
 
-人得一事 歎其希有 我此心宗 인득일사 탄기희유 아차심종
+<p>
+	<font class="emph">又云爲發大乘者說 爲發最上乘者說</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">우운위발대승자설 위발최상승자설</font>
+</span>
+<span class="chinese-korean-translation">
+	또
+	<font class="emph">"이 법은 대승의 마음을 낸 사람과 최상승의 마음을 낸 사람을 위하여 설한다"</font>고
+	하였다.
+</span>
+</p>
 
-無形可觀 無狀可見 言語道斷 무형가관 무상가견 언어도단
+<p>
+	<font class="emph">願諸求道之人 莫生怯弱 須發勇猛之心</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">원제구도지인 막생겁약 수발용맹지심</font>
+</span>
+<span class="chinese-korean-translation">
+	원컨대
+	<font class="emph">도를 구하는 사람은 겁내거나 약한 마음을 내지 말고
+	부디 용맹스런 마음을 내어야 한다.
+	</font>
+</span>
+</p>
 
-心行處滅 故天魔外道 毁謗無門 심행처멸 고천운외도 훼방무문
+<p>
+	宿劫善因 未可知也
+<span class="chinese-korean-transliteration">
+	숙겁선인 미가지야
+</span>
+<span class="chinese-korean-translation">
+	숙세에 맺은 거룩한 인연 가히 알 수 없기 때문이다.
+</span>
+</p>
 
-釋梵諸天 稱讚不及 석범제천 칭찬불급
+<p>
+	若不信殊勝 甘爲下劣 生艱阻之想 今不修之
+<span class="chinese-korean-transliteration">
+	약불신수승 감위하열 생간조지상 금불수지
+</span>
+<span class="chinese-korean-translation">
+	만약 이처럼 수승한 근기를 믿지 않고
+	스스로 못났다고 하여 어렵다는 생각을 내어
+	금생에 닦지 않으면
+</span>
+</p>
 
-況凡夫淺識之流 其能△△　　 황범부천식지류 기능방불
+<p>
+	則縱有宿世善根 今斷之故 彌在其難 展轉遠矣
+<span class="chinese-korean-transliteration">
+	즉종유숙세선근 금단지고 미재기난 전전원의
+</span>
+<span class="chinese-korean-translation">
+	비록 숙세에 선근이 있다 해도
+	지금 그것을 끊어버리는 것이 되므로
+	더욱 어려워지고 점점 멀어질 것이다.
+</span>
+</p>
 
+<p>
+	今旣到寶所 不可空手而還
+<span class="chinese-korean-transliteration">
+	금기도보소 불가공수이환
+</span>
+<span class="chinese-korean-translation">
+	이미 보배 있는 곳에 왔으니 빈손으로 돌아가지 않도록 해야 한다.
+</span>
+</p>
 
+<p>
+	一失人身 萬劫難復 請須愼之
+<span class="chinese-korean-transliteration">
+	일실일신 만겁난복 청수신지
+</span>
+<span class="chinese-korean-translation">
+	한 번 사람의 몸을 잃으면 만겁에 회복하기 어려우니 청컨대 부디 삼가야 한다.
+</span>
+</p>
 
-또 세상 유위(有爲)의 일은 그 형상을 볼 수도 있고 그 공덕도 경험할 수 있으므로 사람들이 한 가지 일만 얻어도 희귀하다고 감탄한다. 그러나 나의 이 마음은 그 형상을 볼 수도 없고 말로 표현할 수도 없으며 마음으로도 생각할 수가 없다. 그러므로 천마와 외도들이 훼방하려 해도 길이 없고 제석천과 범천의 모든 하늘이 칭찬하려 해도 미치지 못하는데 하물며 얄팍한 범부의 무리가 어찌 짐작이나 할 수 있겠는가.
+<p>
+	豈有智者 <font class="emph">知其寶所 反不求之 長怨孤貧</font>
+<span class="chinese-korean-transliteration">
+	기유지자 <font class="emph">지기보소 반불구지 장원고빈</font>
+</span>
+<span class="chinese-korean-translation">
+	지혜로운 사람이라면
+	<font class="emph">
+		어찌 보배가 있는 곳을 알고도 그것을 구하지 않다가 오래 외롭고 가난함을 원망하겠는가?
+	</font>
+</span>
+</p>
 
+<p>
+	若欲獲寶 放下皮囊
+<span class="chinese-korean-transliteration">
+	약욕획보 방하피낭
+</span>
+<span class="chinese-korean-translation">
+	만약 보배를 얻으려거든 그 가죽주머니를 놓아버려라!
+</span>
+</p>
 
-
-悲夫井蛙 焉知滄海之闊 비부정와 언지창해지활
-
-野干何能師子之吼 故知末法世中 야간하능사자지후 고지말법세중
-
-聞此法門 生希有想 信解受持者 已於 문차법문 생희유상 신해수지자 이어
-
-無量劫中 承事諸聖 植諸善根 무량겁중 승사제성 식제선근
-
-深結般若正因 最上根性也 심결반야정인 최상근성야
-
-故金鋼經云 於此章句 能生信心者 고금강경운 어차장구 능생신심자
-
-當知是人 已於無量佛所 種諸善根 당지시인 이어무량불소 종제선근
-
-又云爲發大乘者說 爲發最上乘者說 우운위발대승자설 위발최상승자설
-
-
-
-
-
-슬프다, 우물 안 개구리가 어찌 바다의 넓음을 알며, 여우가 어찌 사자의 소리를 할 수 있겠는가.
-
-그러므로 말법 세상에 이 법문을 듣고 희유한 생각을 내어 믿고, 이해하여 받아 지니는 사람은 이미 한량없는 겁 동안 모든 성인을 받들어 섬겨서 모든 선근을 심고 지혜의 바른 인연을 깊이 맺은 최상의 근기임을 알 수 있다.
-
-
-
-그러므로 <금강경>에 ‘이 글귀에 능히 신심을 내는 사람은 이미 한량없는 부처님의 처소에서 모든 선근을 심은 것이다.’하였고, 또 ‘이 법은 대승의 마음을 낸 사람과 최상승의 마음을 낸 사람을 위하여 설한다.’하였다.
-
-
-
-願諸求道之人 莫生怯弱 원제구도지인 막생겁약
-
-須發勇猛之心 宿劫善因 未可知也 수발용맹지심 숙겁선인 미가지야
-
-若不信殊勝 甘爲下劣 生艱阻之想 약불신수승 감위하열 생간조지상
-
-今不修之 則縱有宿世善根 今斷之故 　금불수지 즉종유숙세선근 금단지고
-
-彌在其難 展轉遠矣 今旣到寶所 미재기난 전전원의 금기도보소
-
-不可空手而還 一失人身 萬劫難復 불가공수이환 일실일신 만겁난복
-
-請須愼之 豈有智者 知其寶所 청수신지 기유지자 지기보소
-
-反不求之 長怨孤貧 반불구지 장원고빈
-
-若欲獲寶 放下皮囊 약욕획보 방하피낭
-
-
-
-원컨대 도를 구하는 사람은 겁내거나 약한 마음을 내지 말고 부디 용맹스런 마음을 내어야 한다.
-
-숙세에 맺은 거룩한 인연 가히 알 수 없기 때문이다. 만약 이처럼 수승한 근기를 믿지 않고 스스로 못났다고 하여 어렵다는 생각을 내어 금생에 닦지 않으면 비록 숙세에 선근이 있다 해도 지금 그것을 끊어버리는 것이 되므로 더욱 어려워지고 점점 멀어질 것이다.
-
-이미 보배 있는 곳에 왔으니 빈손으로 돌아가지 않도록 해야 한다. 한 번 사람의 몸을 잃으면 만겁에 회복하기 어려우니 청컨대 부디 삼가야 한다. 지혜로운 사람이라면 어찌 보배가 있는 곳을 알고도 그것을 구하지 않다가 오래 외롭고 가난함을 원망하겠는가. 만약 보배를 얻으려거든 그 가죽주머니를 놓아버려라.”
-
-
+</div>
 
 
 <h1 id="ref">
