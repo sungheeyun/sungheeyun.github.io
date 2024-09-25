@@ -1,7 +1,7 @@
 ---
 title: 수심결修心訣 - Secrets for Mind Cultivation
 date: 2024-09-20 PDT
-last_modified_at: Tue Sep 24 00:58:01 PDT 2024
+last_modified_at: Wed Sep 25 02:55:21 PDT 2024
 categories:
 - blog
 tags:
@@ -3556,7 +3556,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	&hellip;
 	또 그 세계의 모든 중생을 교화하여
 	사과四果를 얻게 한다면
-	그 공덕은 한량없고 끝없을 것이다.
+	그 공덕은 한량없고 끝없을 것이다
 	&hellip;
 </span>
 </p>
@@ -3589,7 +3589,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	그러므로 경에 말하기를
 	"한 생각 깨끗한 마음이 바로 도량道場이니
-	갠지스강의 모래 수와 같은 칠보탑을 만드는 것보다 훌륭하다.
+	갠지스강의 모래 수와 같은 칠보탑을 만드는 것보다 훌륭하다
 	&hellip;
 </span>
 </p>
