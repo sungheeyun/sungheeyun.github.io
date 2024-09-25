@@ -1217,9 +1217,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	答只汝自心 更作什 方便 若作方便
+	答只汝自心 更作什麽方便
 <span class="chinese-korean-transliteration">
-	답지여자심 갱작십마방편 약작방편
+	답지여자심 갱작십마방편
 </span>
 <span class="chinese-korean-translation">
 	대답했다.
@@ -1231,26 +1231,40 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	更求解會 比如有人 不見自眼 以謂無眼 更欲求見
+	若作方便 更求解會
 <span class="chinese-korean-transliteration">
-	갱구허회 비여유인 불견자안 이위무안 갱욕구견
+	약작방편 갱구허회
 </span>
 <span class="chinese-korean-translation">
 	&hellip;
-	만약 방편을 써서 다시 알려고 한다면 그것은 마치 어떤 사람이 자신의 눈을 보지 못하고 눈이 없다고 하면서 다시 보려고 하는 것과 같다.
+	만약 방편을 써서 다시 알려고 한다면
 	&hellip;
 </span>
 </p>
 
 <p>
-	旣是自眼 如何更見 若知不失 卽爲見眼
+	<font class="emph">比如有人 不見自眼 以謂無眼 更欲求見</font>
 <span class="chinese-korean-transliteration">
-	기시자안 여하갱견 약지불실 즉위견안
+	<font class="emph">비여유인 불견자안 이위무안 갱욕구견</font>
 </span>
 <span class="chinese-korean-translation">
 	&hellip;
-	이미 자신의 눈인데 어째서 다시 보려고 하는가?
-	만약 잃지 않았음을 알면 그것이 곧 눈을 보는 것이다.
+	<font class="emph">
+	그것은 마치 어떤 사람이 자신의 눈을 보지 못하고 눈이 없다고 하면서 다시 보려고 하는 것과 같다.
+	</font>
+	&hellip;
+</span>
+</p>
+
+<p>
+	<font class="emph">旣是自眼 如何更見 若知不失 卽爲見眼</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">기시자안 여하갱견 약지불실 즉위견안</font>
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	<font class="emph">이미 자신의 눈인데 어째서 다시 보려고 하는가?
+	만약 잃지 않았음을 알면 그것이 곧 눈을 보는 것이다.</font>
 	&hellip;
 </span>
 </p>
