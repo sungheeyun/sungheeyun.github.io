@@ -3400,86 +3400,231 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </div>
 
 <h2 id="liberation-in-this-life">
-	다시 어느 생을 기다려 이 몸을 제도
+	다시 어느 생을 기다려 이 몸을 제도하겠는가?
 </h2>
 
-- 수도하는 사람들은 방일하지 말고 머리에 타는 불을 끄듯이 살펴라
+<blockquote>
+<p>
+	수도하는 사람들은 방일하지 말고
+	<br>
+	머리에 타는 불을 끄듯이 살펴라
+</p>
+</blockquote>
 
+<div class="translation-container">
+<p>
+	我今若自生退屈 或生懈怠 而恒常望後
+<span class="chinese-korean-transliteration">
+	아금약자생퇴굴 혹생해태 이항상망후
+</span>
+<span class="chinese-korean-translation">
+	내가 지금 만일 스스로 물러날 마음을 내거나
+	게으름을 부려
+	항상 뒤로 미루다가
+</span>
+</p>
 
+<p>
+	須臾失命 退墮惡趣 受諸苦痛之時
+<span class="chinese-korean-transliteration">
+	수유실명 퇴타악취 수제고통지시
+</span>
+<span class="chinese-korean-translation">
+	잠깐 사이에 목숨을 잃고
+	악도에 떨어져
+	온갖 고통을 받을 때에는
+</span>
+</p>
 
-我今若自生退屈 或生懈怠 아금약자생퇴굴 혹생해태
+<p>
+	雖欲願聞一句佛法 信解受持 欲免辛酸 豈可復得乎
+<span class="chinese-korean-transliteration">
+	수욕원문일구불법 신해수지 욕면신산 기가부득호
+</span>
+<span class="chinese-korean-translation">
+	아무리 한 구절 불법을 들어서
+	믿고 알고 받들어서 고통을 면하고자 해도
+	다시 얻을 수 있겠는가?
+</span>
+</p>
 
-而恒常望後 須臾失命 退墮惡趣 이항상망후 수유실명 퇴타악취
+<p>
+	及到臨危 悔無所益
+<span class="chinese-korean-transliteration">
+	급도임위 회무소익
+</span>
+<span class="chinese-korean-translation">
+	위태로운데 이르러서는 후회한들 소용이 없다.
+</span>
+</p>
 
-受諸苦痛之時 雖欲願聞一句佛法 수제고통지시 수욕원문일구불법
+<p>
+	願諸修道之人 莫生放逸 莫着貪淫
+<span class="chinese-korean-transliteration">
+	원제수도지인 막생방일 막착탐음
+</span>
+<span class="chinese-korean-translation">
+	원컨대 모든 수도하는 사람들은 방일하지 말고
+	탐욕과 음욕에 집착하지 말고
+</span>
+</p>
 
-信解受持 欲免辛酸 豈可復得乎 신해수지 욕면신산 기가부득호
+<p>
+	<font class="emph">如救頭然 不忘照顧</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">여구두연 불망조고</font>
+</span>
+<span class="chinese-korean-translation">
+	<font class="emph">머리에 타는 불을 끄듯이 살피고 돌아보는 것을 잊지 말라.</font>
+</span>
+</p>
 
-及到臨危 悔無所益 願諸修道之人 급도임위 회무소익 원제수도지인
+<p>
+	無常迅速 身如朝露 命若西光
+<span class="chinese-korean-transliteration">
+	무상신속 신여조로 명약서광
+</span>
+<span class="chinese-korean-translation">
+	덧없는 세월은 신속하여 몸은 아침 이슬과 같고
+	목숨은 석양과 같으니
+</span>
+</p>
 
-莫生放逸 莫着貪淫 如救頭然 막생방일 막착탐음 여구두연
+<p>
+	今日雖存 明亦難保 切須在意 切須在意
+<span class="chinese-korean-transliteration">
+	금일수존 명역난보 절수재의 절수재의
+</span>
+<span class="chinese-korean-translation">
+	비록 오늘 살았다 해도
+	내일을 보장하기 어려우니
+	간절히 마음에 새기고 간절히 마음에 새겨라.
+</span>
+</p>
 
-不忘照顧 無常迅速 身如朝露 불망조고 무상신속 신여조로
+<p>
+	且憑世間有爲之善 亦可免三途苦輪 於天上人間 得殊勝果報 受諸快樂
+<span class="chinese-korean-transliteration">
+	차빙세간유위지선 역가면삼도고륜 어천상인간 득수승과보 수제쾌락
+</span>
+<span class="chinese-korean-translation">
+	또 세상의 유위有爲의 선을 따라도
+	삼악도의 고통을 면하고
+	천상과 인간에서 뛰어난 과보를 얻어 온갖 즐거움을 누리는데
+</span>
+</p>
 
-命若西光 今日雖存 明亦難保 명약서광 금일수존 명역난보
+<p>
+	況此最上乘甚深法門
+<span class="chinese-korean-transliteration">
+	황차최상승심심법문
+</span>
+<span class="chinese-korean-translation">
+	하물며 이 최상승의 깊은 법문이겠는가?
+</span>
+</p>
 
-切須在意 切須在意 절수재의 절수재의
+<p>
+	暫時生信 所成功德 不可以比喩 說其少分
+<span class="chinese-korean-transliteration">
+	잠시생신 소성공덕 불가이비유 설기소분
+</span>
+<span class="chinese-korean-translation">
+	잠시만 믿더라도
+	그 공덕은 어떤 비유로도 말할 수 없다.
+</span>
+</p>
 
+<p>
+	如經云 若人以三千大千世界七寶 布施供養爾所世界衆生 皆得充滿
+<span class="chinese-korean-transliteration">
+	여경운 약인이삼천대천세계칠보 보시공양이소세계중생 개득충만
+</span>
+<span class="chinese-korean-translation">
+	경에 이르기를
+	"만약 어떤 사람이 삼천대천 세계에 가득찬 칠보로써 세상 중생들에게 보시하고 공양하여 다 만족하게 하고
+	&hellip;
+</span>
+</p>
 
+<p>
+	又敎化爾所世界一切衆生 令得四果 其功德 無量無邊
+<span class="chinese-korean-transliteration">
+	우교화이소세계일체중생 영득사과 기공덕 무량무변
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	또 그 세계의 모든 중생을 교화하여
+	사과四果를 얻게 한다면
+	그 공덕은 한량없고 끝없을 것이다.
+	&hellip;
+</span>
+</p>
 
-내가 지금 만일 스스로 물러날 마음을 내거나 게으름을 부려 항상 뒤로 미루다가 잠깐 사이에 목숨을 잃고 악도에 떨어져 온갖 고통을 받을 때에는 아무리 한 구절 불법을 들어서 믿고, 알고, 받들어서 고통을 면하고자 해도 다시 얻을 수 있겠는가. 위태로운데 이르러서는 후회한들 소용이 없다.
+<p>
+	不如一食頃 正思此法 所獲功德
+<span class="chinese-korean-transliteration">
+	불여일식경 정사차법 소획공덕
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 그러나 밥 한 그릇 먹는 잠깐 동안만이라도 이 법을 바로 생각하여 얻는 공덕만은 못하다"고 하였다.
+</span>
+</p>
 
-원컨대 모든 수도하는 사람들은 방일하지 말고, 탐욕과 음욕에 집착하지 말고, 머리에 타는 불을 끄듯이 살피고 돌아보는 것을 잊지 말라. 덧없는 세월은 신속하여 몸은 아침 이슬과 같고, 목숨은 석양과 같으니, 비록 오늘 살았다 해도 내일을 보장하기 어려우니, 간절히 마음에 새기고 간절히 마음에 새겨라.
+<p>
+	是知我此法門 最尊最貴 於諸功德 比況不及
+<span class="chinese-korean-transliteration">
+	시지아차법문 최존최귀 어제공덕 비황불급
+</span>
+<span class="chinese-korean-translation">
+	그러므로 우리의 이 법문이 가장 높고 귀하여 모든 공덕에 견줄 수 없음을 알아야 한다.
+</span>
+</p>
 
+<p>
+	故云經 一念淨心是道場 勝造恒沙七寶塔
+<span class="chinese-korean-transliteration">
+	고운경 일념정심시도량 승조항사칠보탑
+</span>
+<span class="chinese-korean-translation">
+	그러므로 경에 말하기를
+	"한 생각 깨끗한 마음이 바로 도량道場이니
+	갠지스강의 모래 수와 같은 칠보탑을 만드는 것보다 훌륭하다.
+	&hellip;
+</span>
+</p>
 
+<p>
+	寶塔畢竟碎爲塵 一念淨心成正覺
+<span class="chinese-korean-transliteration">
+	보탑필경쇄위진 일념정심성정각
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 칠보탑은 마침내 부서져 티끌이 되지만 한 생각 깨끗한 마음은 정각을 이룬다"고 하였다.
+</span>
+</p>
 
-且憑世間有爲之善 亦可免三途苦輪 차빙세간유위지선 역가면삼도고륜
+<p>
+	願諸修道之人 硏味此語 切須在意
+<span class="chinese-korean-transliteration">
+	원제수도지인 연미차어 절수재의
+</span>
+<span class="chinese-korean-translation">
+	원컨대 수도하는 모든 사람은 이 말을 깊이 음미하여 간절히 마음에 새겨야 할 것이다.
+</span>
+</p>
 
-於天上人間 得殊勝果報 受諸快樂 어천상인간 득수승과보 수제쾌락
+<p>
+	<font class="emph">此身不向今生度 更待何生度此身</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">차신불향금생도 갱대하생도차신</font>
+</span>
+<span class="chinese-korean-translation">
+	<font class="emph">이 몸을 금생에 제도하지 못하면 다시 어느 생을 기다려 이 몸을 제도할 것인가?</font>
+</span>
+</p>
 
-況此最上乘甚深法門 황차최상승심심법문
-
-暫時生信 所成功德 不可以比喩 잠시생신 소성공덕 불가이비유
-
-說其少分 如經云 설기소분 여경운
-
-若人以三千大千世界七寶 약인이삼천대천세계칠보
-
-布施供養爾所世界衆生 보시공양이소세계중생
-
-皆得充滿 又敎化爾所世界一切衆生 개득충만 우교화이소세계일체중생
-
-令得四果 其功德 無量無邊 영득사과 기공덕 무량무변
-
-不如一食頃 正思此法 所獲 불여일식경 정사차법 소획
-
-功德 是知我此法門 最尊最貴 공덕 시지아차법문 최존최귀
-
-於諸功德 比況不及 어제공덕 비황불급
-
-
-
-또 세상의 유위(有爲)의 선을 따라도 삼악도의 고통을 면하고, 천상과 인간에서 뛰어난 과보를 얻어 온갖 즐거움을 누리는데, 하물며 이 최상승의 깊은 법문이겠는가. 잠시만 믿더라도 그 공덕은 어떤 비유로도 말할 수 없다. 경에 이르기를 ‘만약 어떤 사람이 삼천대천 세계에 가득찬 칠보로써 세상 중생들에게 보시하고 공양하여 다 만족하게 하고, 또 그 세계의 모든 중생을 교화하여 사과(四果)를 얻게 한다면 그 공덕은 한량없고 끝없을 것이다.
-
-그러나 밥 한 그릇 먹는 잠깐 동안만이라도 이 법을 바로 생각하여 얻는 공덕만은 못하다.’하였다. 그러므로 우리의 이 법문이 가장 높고 귀하여 모든 공덕에 견줄 수 없음을 알아야 한다.
-
-
-
-故云經 一念淨心是道場 고운경 일념정심시도량
-
-勝造恒沙七寶塔 寶塔畢竟碎爲塵 승조항사칠보탑 보탑필경쇄위진
-
-一念淨心成正覺 願諸修道之人 일념정심성정각 원제수도지인
-
-硏味此語 切須在意 연미차어 절수재의
-
-此身不向今生度 更待何生度此身 차신불향금생도 갱대하생도차신
-
-
-
-그러므로 경에 말하기를 ‘한 생각 깨끗한 마음이 바로 도량(道場)이니, 갠지스강의 모래 수와 같은 칠보탑을 만드는 것보다 훌륭하다. 칠보탑은 마침내 부서져 티끌이 되지만 한 생각 깨끗한 마음은 정각을 이룬다.’하였다. 원컨대 수도하는 모든 사람은 이 말을 깊이 음미하여 간절히 마음에 새겨야 할 것이다. 이 몸을 금생에 제도하지 못하면 다시 어느 생을 기다려 이 몸을 제도할 것인가.
-
-
+</div>
 
 <h2 id="treasure">
 	보배를 얻으려거든
