@@ -1857,98 +1857,232 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <h2 id="feed-cows-after-enlightment">깨달은 뒤에 소먹이는 행</h2>
 
-- 마음마다 미혹을 끊으려 하지만 끊으려는 마음이 바로 도적이다.
+<blockquote>
+<p>
+	마음마다 미혹을 끊으려 하지만
+	<br>
+	끊으려는 마음이 바로 도적이다.
+<br>
+</p>
+</blockquote>
 
+<div class="translation-container">
+<p>
+	得到大休大歇之地 如云頓悟雖同佛 多生習氣深
+<span class="chinese-korean-transliteration">
+	득도대휴대헐지지 여운돈오수동불 다생습기심
+</span>
+<span class="chinese-korean-translation">
+	이것은 "단박 깨치면 부처와 같지만 여러 생의 습기가 깊구나
+	&hellip;
+</span>
+</p>
 
+<p>
+	風停波尙湧 理現念猶侵
+<span class="chinese-korean-transliteration">
+	풍정파상용 이현념유침
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 바람은 그쳤으나 물결은 아직 출렁이고
+	이치는 나타났으나 망념은 엄습한다"고 하는 말과 같다.
+</span>
+</p>
 
-得到大休大歇之地 如云頓悟雖同佛 득도대휴대헐지지 여운돈오수동불
+<p>
+	又杲禪師云 往往利根之輩 不費多力 投發此事 便生容易之心 更不修治
+<span class="chinese-korean-transliteration">
+	우고선사운 왕왕이근지배 불비다력 투발차사 변생용이지심 갱불수치
+</span>
+<span class="chinese-korean-translation">
+	또 대혜종고 선사도
+	"가끔 영리한 무리들은 별로 힘들이지 않고 이런 이치를 알고는 아주 쉽다는 생각을 내어 다시는 닦지 않는다
+	&hellip;
+</span>
+</p>
 
-多生習氣深 風停波尙湧 理現念猶侵 다생습기심 풍정파상용 이현념유침
+<p>
+	日久月深 依前流浪 未免輪廻
+<span class="chinese-korean-transliteration">
+	일구월심 의전유랑 미면윤회
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 그대로 세월이 가면 그전처럼 유랑하게 되어 윤회를 면치 못하게 된다"고 하였다.
+</span>
+</p>
 
+<p>
+	則豈可以一期所悟 便撥置後修耶
+<span class="chinese-korean-transliteration">
+	즉기가이일기소오 변발치후수야
+</span>
+<span class="chinese-korean-translation">
+	그러니 어찌 한번 깨쳤다하여 뒤에 닦는 일을 버릴 수 있겠는가.
+</span>
+</p>
 
+<p>
+	故悟後 長須照察 妄念忽起 都不隨之
+<span class="chinese-korean-transliteration">
+	고오후 장수조찰 망념홀기 도불수지
+</span>
+<span class="chinese-korean-translation">
+	그러므로 깨친 뒤에도 늘 비추고 살펴서 망념이 홀연히 일어나거든 따르지 말고
+</span>
+</p>
 
-이것은 ‘단박 깨치면 부처와 같지만 여러 생의 습기가 깊구나.
+<p>
+	損之又損 以至無爲 方始究境
+<span class="chinese-korean-transliteration">
+	손지우손 이지무위 방시구경
+</span>
+<span class="chinese-korean-translation">
+	덜고 또 덜어서 무위에 이르러야 비로소 구경究境이니
+</span>
+</p>
 
-바람은 그쳤으나 물결은 아직 출렁이고, 이치는 나타났으나 망념은 엄습한다.’하는 말과 같다.
+<p>
+	<font class="emph">天下善知識 悟後牧牛行是也</font>
+<span class="chinese-korean-transliteration">
+	<font class="emph">천하선지식 오후목우행시야</font>
+</span>
+<span class="chinese-korean-translation">
+	<font class="emph">천하의 선지식이 깨달은 뒤에 소먹이는 행이 바로 이 때문이다.</font>
+</span>
+</p>
 
+<p>
+	雖有後修 己先頓悟妄念本空 心性本淨
+<span class="chinese-korean-transliteration">
+	수유후수 기선돈오망념본공 심성본정
+<span class="chinese-korean-transliteration">
+</span>
+</span>
+<span class="chinese-korean-translation">
+	비록 뒤에 닦는다고는 하지만 이미 망념이 본래 공하고 심성은 본래 청정한 것임을 먼저 깨쳤기 때문에
+</span>
+</p>
 
+<p>
+	於惡斷 斷而無斷 於善修 修而無修 此乃眞修眞斷矣
+<span class="chinese-korean-transliteration">
+	어악단 단이무단 어선수 수이무수 차내진수진단의
+</span>
+<span class="chinese-korean-translation">
+	악을 끊되 끊어도 끊음이 없고 선을 닦되 닦아도 닦음이 없어야
+	이것이 참다운 닦음이고 참다운 끊음이 되는 것이다.
+</span>
+</p>
 
-又고禪師云 往往利根之輩 不費多力 우고선사운 왕왕이근지배 불비다력
+<p>
+	故云雖備修萬行 唯以無念爲宗
+<span class="chinese-korean-transliteration">
+	고운수비수만행 유이무념위종
+</span>
+<span class="chinese-korean-translation">
+	그러므로 "온갖 행을 다 닦으나 오직 무념으로 근본을 삼는다"고 하였다.
+</span>
+</p>
 
-投發此事 便生容易之心 更不修治 투발차사 변생용이지심 갱불수치
+<p>
+	圭峰總判先悟後修之義云 頓悟此性
+<span class="chinese-korean-transliteration">
+	규봉총판선오후수지의운 돈오차성
+</span>
+<span class="chinese-korean-translation">
+	규봉 스님도 먼저 깨닫고 뒤에 닦는 뜻을 총괄하여 말하기를
+</span>
+</p>
 
-日久月深 依前流浪 未免輪廻 일구월심 의전유랑 미면윤회
+<p>
+	元無煩惱 無漏智性 本自具足 與佛無殊 依此而修者
+<span class="chinese-korean-transliteration">
+	원무번뇌 무루지성 본자구족 여불무수 의차이수자
+</span>
+<span class="chinese-korean-translation">
+	"이 성품은 원래 번뇌가 없고
+	완전한 지혜와 성품이 본래 갖추어져 부처와 다름이 없음을 담박 깨닫고
+	이 깨침에 의해 수행하면
+	&hellip;
+</span>
+</p>
 
-則豈可以一期所悟 便撥置後修耶 즉기가이일기소오 변발치후수야
+<p>
+	是名最上乘禪 亦名如來淸淨禪也
+<span class="chinese-korean-transliteration">
+	시명최상승선 역명여래청정선야
+</span>
+<span class="chinese-korean-translation">
+	&hellip; 이것을 일러 최상승선最上乘禪 또는 여래청정선如來淸淨禪이라 한다.
+	&hellip;
+</span>
+</p>
 
-故悟後 長須照察 妄念忽起 都不隨之 고오후 장수조찰 망념홀기 도불수지
+<p>
+	若能念念修習 自然漸得百千三昧
+<span class="chinese-korean-transliteration">
+	약능염염수습 자연점득백천삼매
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	만약 생각 생각에 닦고 익히면 저절로 차츰 차츰 백천삼매를 얻을 것이니
+	&hellip;
+</span>
+</p>
 
-損之又損 以至無爲 方始究境 손지우손 이지무위 방시구경
+<p>
+	達磨門下 展轉相傳者 是此禪也
+<span class="chinese-korean-transliteration">
+	달마문하 전전상전자 시차선야
+</span>
+<span class="chinese-korean-translation">
+	&hellip;
+	달마 문하에서 서로 전하여 내려온 것이 바로 이런 선禪이다"고 하였다.
+</span>
+</p>
 
-天下善知識 悟後牧牛行是也 천하선지식 오후목우행시야
+<p>
+	則頓悟漸修之義 如車二輪 闕一不可
+<span class="chinese-korean-transliteration">
+	즉돈오점수지의 여거이륜 궐일불가
+</span>
+<span class="chinese-korean-translation">
+	그러므로 돈오頓悟와 점수漸修의 이치는 마치 수레의 두 바퀴와 같아서 하나라도 없으면 안 된다.
+</span>
+</p>
 
-雖有後修 己先頓悟妄念本空 수유후수 기선돈오망념본공
+<p>
+	或者 不知善惡性空 堅坐不動
+<span class="chinese-korean-transliteration">
+	혹자 부지선악성공 견좌부동
+</span>
+<span class="chinese-korean-translation">
+	혹 어떤 사람은 선과 악의 성품이 빈 것임을 알지 못하고 굳게 앉아 움직이지 않으면서
+</span>
+</p>
 
-心性本淨 於惡斷 斷而無斷 於善修 심성본정 어악단 단이무단 어선수
+<p>
+	捺伏身心 如石壓草 以爲修心 是大惑矣
+<span class="chinese-korean-transliteration">
+	날복신심 여걱압초 이위수심 시대혹의
+</span>
+<span class="chinese-korean-translation">
+	몸과 마음을 조복받기를 마치 돌로 풀을 누르듯 하면서 마음을 닦는다고 하는데
+	이는 크게 잘못된 것이다.
+</span>
+</p>
 
-修而無修 此乃眞修眞斷矣 수이무수 차내진수진단의
+<p>
+	故云聲聞 心心斷惑 能斷 之心是賊
+<span class="chinese-korean-transliteration">
+	고운성문 심심단혹 능단 지심시적
+</span>
+<span class="chinese-korean-translation">
+	그러므로 "성문은 마음마다 미혹을 끊으려 하지만 그 끊으려는 마음이 바로 도적이다"고 하였다.
+</span>
+</p>
 
-
-
-또 대혜 종고(宗고)선사도 ‘가끔 영리한 무리들은 별로 힘들이지 않고 이런 이치를 알고는 아주 쉽다는 생각을 내어 다시는 닦지 않는다.
-
-그대로 세월이 가면 그전처럼 유랑하게 되어 윤회를 면치 못하게 된다.’하였다.
-
-그러니 어찌 한번 깨쳤다 하여 뒤에 닦는 일을 버릴 수 있겠는가.
-
-그러므로 깨친 뒤에도 늘 비추고 살펴서 망념이 홀연히 일어나거든 따르지 말고, 덜고 또 덜어서 무위에 이르러야 비로소 구경(究境)이니, 천하의 선지식이 깨달은 뒤에 소먹이는 행이 바로 이 때문이다.
-
-비록 뒤에 닦는다고는 하지만 이미 망념이 본래 공하고 심성은 본래 청정한 것임을 먼저 깨쳤기 때문에 악을 끊되, 끊어도 끊음이 없고, 선을 닦되, 닦아도 닦음이 없어야 이것이 참다운 닦음이고 참다운 끊음이 되는 것이다.
-
-
-故云雖備修萬行 唯以無念爲宗 고운수비수만행 유이무념위종
-
-圭峰總判先悟後修之義云 頓悟此性 규봉총판선오후수지의운 돈오차성
-
-元無煩惱 無漏智性 本自具足 원무번뇌 무루지성 본자구족
-
-與佛無殊 依此而修者 是名最上乘禪 여불무수 의차이수자 시명최상승선
-
-亦名如來淸淨禪也 若能念念修習 역명여래청정선야 약능염염수습
-
-自然漸得百千三昧 達磨門下 자연점득백천삼매 달마문하
-
-展轉相傳者 是此禪也 전전상전자 시차선야
-
-則頓悟漸修之義 如車二輪 闕一不可 즉돈오점수지의 여거이륜 궐일불가
-
-
-
-그러므로
-
-‘온갖 행을 다 닦으나 오직 무념으로 근본을 삼는다.’하였다.
-
-규봉 스님도 먼저 깨닫고 뒤에 닦는 뜻을 총괄하여 말하기를 ‘이 성품은 원래 번뇌가 없고 완전한 지혜와 성품이 본래 갖추어져 부처와 다름이 없음을 담박 깨닫고, 이 깨침에 의해 수행하면 이것을 일러 최상승선(最上乘禪), 또는 여래청정선이라 한다.
-
-만약 생각 생각에 닦고 익히면 저절로 차츰 차츰 백천삼매를 얻을 것이니,달마 문하에서 서로 전하여 내려온 것이 바로 이런 선(禪)이다.’하였다.
-
-그러므로 돈오頓悟와 점수漸修의 이치는 마치 수레의 두 바퀴와 같아서 하나라도 없으면 안 된다.
-
-
-
-或者 不知善惡性空 堅坐不動 혹자 부지선악성공 견좌부동
-
-捺伏身心 如石壓草 以爲修心 날복신심 여걱압초 이위수심
-
-是大惑矣 故云聲聞 心心斷惑 能斷 시대혹의 고운성문 심심단혹 능단
-
-之心是賊 지심시적
-
-
-
-혹 어떤 사람은 선과 악의 성품이 빈 것임을 알지 못하고 굳게 앉아 움직이지 않으면서 몸과 마음을 조복받기를 마치 돌로 풀을 누르듯 하면서 마음을 닦는다고 하는데, 이는 크게 잘못된 것이다. 그러므로 ‘성문은 마음마다 미혹을 끊으려 하지만 그 끊으려는 마음이 바로 도적이다.’하였다.
-
-
+</div>
 
 <h2 id="immediate-awareness">생각이 일어나거든 곧 깨달아라.</h2>
 
