@@ -11,8 +11,8 @@ main:
 #    url: /categories
 #  - title: "lectures"
 #    url: /lectures
-  - title: "miscellaneous"
-    url: /miscellaneous
+#  - title: "miscellaneous"
+#    url: /miscellaneous
 #  - title: "music"
 #    url: /music
   - title: "papers"
