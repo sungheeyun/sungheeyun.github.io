@@ -77,8 +77,9 @@ permalink: /todo-list/
 </li>
 </font>
 
+<font color="#bbb">
 <li>
-	finish up a post about Secrets for Mind Cultivation - 수심결修心訣
+	<s>finish up a post about Secrets for Mind Cultivation - 수심결修心訣</s>
 	<ul>
 	<li>
 		owner - Sunghee
@@ -94,6 +95,7 @@ permalink: /todo-list/
 	</li>
 	</ul>
 </li>
+</font>
 
 <li>
 	start a post about <a href="https://blog.naver.com/venuslv/12263161">육조단경六祖壇經</a>
