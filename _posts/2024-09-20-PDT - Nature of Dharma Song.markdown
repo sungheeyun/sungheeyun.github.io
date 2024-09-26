@@ -1,5 +1,5 @@
 ---
-title: 법성게法性偈 - Nature of Dharma Song
+title: Nature of Dharma Song - 법성게法性偈
 date: 2024-09-20 18:07 PDT
 last_modified_at: Thu Sep 26 00:01:41 PDT 2024
 categories:
@@ -170,7 +170,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	無名無相 絶一切 
+	無名無相 絶一切
 <span class="chinese-korean-transliteration">
 	무명무상 절일체
 </span>
@@ -181,7 +181,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	證智所知 非餘境 
+	證智所知 非餘境
 <span class="chinese-korean-transliteration">
 	증지소지 비여경
 </span>
@@ -191,7 +191,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	眞性深心 極微妙 
+	眞性深心 極微妙
 <span class="chinese-korean-transliteration">
 	진성심심 극미묘
 </span>

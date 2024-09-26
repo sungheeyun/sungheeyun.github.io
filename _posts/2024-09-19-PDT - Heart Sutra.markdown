@@ -1,5 +1,5 @@
 ---
-title: 반야심경般若心經 - Heart Sūtra
+title: Heart Sūtra - 반야심경般若心經
 date: 2024-09-19 PDT
 last_modified_at: Thu Sep 26 00:01:41 PDT 2024
 categories:

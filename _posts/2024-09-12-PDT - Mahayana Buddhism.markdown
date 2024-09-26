@@ -1,5 +1,5 @@
 ---
-title: 대승불교大乘佛敎의 가르침 - Mahayana Buddhism
+title: Mahayana Buddhism - 대승불교大乘佛敎의 가르침
 date: 2024-09-12 PDT
 last_modified_at: Thu Sep 19 21:54:30 PDT 2024
 categories:

@@ -1,5 +1,5 @@
 ---
-title: 수심결修心訣 - Secrets for Mind Cultivation
+title: Secrets for Mind Cultivation - 수심결修心訣
 date: 2024-09-20 PDT
 last_modified_at: Thu Sep 26 00:01:41 PDT 2024
 categories:

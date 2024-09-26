@@ -1,5 +1,5 @@
 ---
-title: 금강경金剛經 - Diamond Sūtra
+title: Diamond Sūtra - 금강경金剛經
 date: 2024-09-21 00:30 PDT
 last_modified_at: Thu Sep 26 00:01:41 PDT 2024
 categories:
