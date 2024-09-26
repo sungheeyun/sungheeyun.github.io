@@ -58,17 +58,50 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	Key phrases highlighted by the author
 </h1>
 
-<ul>
-<li>
-	<a href="#if-see">照見 五蘊皆空 度一切苦厄</a>
-</li>
-<li>
-	<a href="#reality-essence-no-different">色不異空 空不異色 色卽是空 空卽是色 受想行識 亦復如是</a>
-</li>
-<li>
-	<a href="#nirvana-with-truth">揭諦揭諦 波羅揭諦 波羅僧揭諦</a>
-</li>
-</ul>
+<div class="text-highlight">
+<p>
+	<a href="#if-see">
+		照見 五蘊皆空 度一切苦厄
+	</a>
+	<br>
+	조견 오온개공 도일체고액
+</p>
+	오온五蘊이 공空한 것을 비추어 보고 온갖 고통苦痛을 건너느니라.
+</div>
+
+<div class="text-highlight">
+<p>
+	<a href="#reality-essence-no-different">
+		色不異空 空不異色 色卽是空 空卽是色 受想行識 亦復如是
+	</a>
+	<br>
+	색불이공 공불이색 색즉시공 공즉시색 수상행식 역부여시
+</p>
+	색이 공과 다르지 않고 공이 색과 다르지 않으며 색이 곧 공이고 공이 곧 색이니
+	감각&nbsp;&sdot;&nbsp;생각&nbsp;&sdot;&nbsp;행동&nbsp;&sdot;&nbsp;의식도 그러하니라.
+</div>
+
+<div class="text-highlight">
+<p>
+	<a href="voidness-neither-nor">
+		是諸法空相 不生不滅 不垢不淨 不增不減
+	</a>
+	<br>
+	시제법공상 불생불멸 불구부정 부증불감
+</p>
+	모든 법의 공한 형태는 나지도 멸滅하지도 않으며 더럽지도 깨끗하지도 않으며 늘지도 줄지도 않느니라.
+</div>
+
+<div class="text-highlight">
+<p>
+	<a href="#nirvana-with-truth">
+		揭諦揭諦 波羅揭諦 波羅僧揭諦
+	</a>
+	<br>
+	아제아제 바라아제 바라승아제
+</p>
+	가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자!
+</div>
 
 
 <h1 id="main-text">
@@ -95,30 +128,36 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	관자재보살 행심반야바라밀다시 <font>조견 오온개공 도일체고액</font>
 </span>
 <span class="chinese-korean-translation">
-	관자재보살이 깊은 반야바라밀다를 행할 때 <font>오온五蘊이 공空한 것을 비추어 보고 온갖 고통苦痛을 건너느니라</font>
+	관자재보살이 깊은 반야바라밀다를 행할 때
+	<font>오온五蘊이 공空한 것을 비추어 보고 온갖 고통苦痛을 건너느니라.</font>
 </span>
 </p>
 
 <p>
-	舍利子 <font class="emph" id="reality-essence-no-different">色不異空 空不異色 色卽是空 空卽是色 受想行識 亦復如是</font>
+	舍利子
+	<font class="emph" id="reality-essence-no-different">色不異空 空不異色 色卽是空 空卽是色 受想行識 亦復如是</font>
 <span class="chinese-korean-transliteration">
-	사리자 <font>색불이공 공불이색 색즉시공 공즉시색 수상행식 역부여시</font>
+	사리자
+	<font>색불이공 공불이색 색즉시공 공즉시색 수상행식 역부여시</font>
 </span>
 <span class="chinese-korean-translation">
 	사리자여! <font>색이 공과 다르지 않고 공이 색과 다르지 않으며 색이 곧 공이고 공이 곧 색이니
-	감각&nbsp;&sdot;&nbsp;생각&nbsp;&sdot;&nbsp;행동&nbsp;&sdot;&nbsp;의식도 그러하니라</font>
+	감각&nbsp;&sdot;&nbsp;생각&nbsp;&sdot;&nbsp;행동&nbsp;&sdot;&nbsp;의식도 그러하니라.</font>
 </span>
 </p>
 
 <p>
-	舍利子 是諸法空相 不生不滅 不垢不淨 不增不減
+	舍利子
+	<font class="emph" id="voidness-neither-nor">
+	是諸法空相 不生不滅 不垢不淨 不增不減
+	</font>
 <span class="chinese-korean-transliteration">
 	사리자 시제법공상 불생불멸 불구부정 부증불감
 </span>
 <span class="chinese-korean-translation">
 	사리자여!
 <br>
-	모든 법의 공한 형태는 나지도 멸滅하지도 않으며 더럽지도 깨끗하지도 않으며 늘지도 줄지도 않느니라
+	모든 법의 공한 형태는 나지도 멸滅하지도 않으며 더럽지도 깨끗하지도 않으며 늘지도 줄지도 않느니라.
 </span>
 </p>
 
@@ -160,7 +199,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	무고집멸도 무지역무득
 </span>
 <span class="chinese-korean-translation">
-	고집멸도도 없으며 지혜도 얻음도 없느니라
+	고집멸도도 없으며 지혜도 얻음도 없느니라.
 </span>
 </p>
 
@@ -192,7 +231,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	과거過去, 현재現在, 미래未來의 모든 부처님들도 반야바라밀다般若波羅蜜多에 의지하므로
 <br>
-	최상最上의 깨달음을 얻느니라
+	최상最上의 깨달음을 얻느니라.
 </span>
 </p>
 
@@ -203,7 +242,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </span>
 <span class="chinese-korean-translation">
 	그러므로 반야바라밀다는 가장 신비하고 밝은 주문이며 위없는 주문이며 무엇과도 견줄 수 없는 주문이니
-	온갖 괴로움을 없애고 진실하여 허망하지 않음을 알지니라
+	온갖 괴로움을 없애고 진실하여 허망하지 않음을 알지니라.
 </span>
 </p>
 
@@ -223,7 +262,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	아제아제 바라아제 바라승아제 모지 사바하
 </span>
 <span class="chinese-korean-translation">
-	가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자
+	가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자!
 </span>
 </p>
 
@@ -233,7 +272,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	아제아제 바라아제 바라승아제 모지 사바하
 </span>
 <span class="chinese-korean-translation">
-	가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자
+	가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자!
 </span>
 </p>
 
@@ -243,7 +282,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	아제아제 바라아제 바라승아제 모지 사바하
 </span>
 <span class="chinese-korean-translation">
-	가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자
+	가자 가자 넘어 가자 모두 넘어가서 무한한 깨달음을 이루자!
 </span>
 </p>
 </div>
