@@ -1,7 +1,7 @@
 ---
 title: 수심결修心訣 - Secrets for Mind Cultivation
 date: 2024-09-20 PDT
-last_modified_at: Wed Sep 25 02:55:21 PDT 2024
+last_modified_at: Wed Sep 25 18:39:45 PDT 2024
 categories:
 - blog
 tags:
@@ -107,6 +107,70 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 이는 곧 한국불교의 선수행禪修行의 지침指針이 되었다.
 
 
+<h1 id="highlight">
+	Key phrases highlighted by the author
+</h1>
+
+<ul>
+<li>
+	<a href="#burning-pain">
+		三界熱惱 猶如火宅 其忍淹留 甘受長苦
+		-
+		삼계열뇌 유여화택 기인엄류 감수장고
+	</a>
+</li>
+<li>
+	<a href="#free-man">
+		無事人
+		-
+		무사인
+	</a>
+</li>
+<li>
+	<a href="#plant-good">
+		於此章句 能生信心者 當知是人 已於無量佛所 種諸善根
+		-
+		어차장구 능생신심자 당지시인 이어무량불소 종제선근
+	</a>
+</li>
+<li>
+	<a href="#this-is-for-highest-spirit">
+		又云爲發大乘者說 爲發最上乘者說
+		-
+		우운위발대승자설 위발최상승자설
+	</a>
+</li>
+<li>
+	<a href="#courage-and-vigor">
+		願諸求道之人 莫生怯弱 須發勇猛之心
+		-
+		원제구도지인 막생겁약 수발용맹지심
+	</a>
+</li>
+<li>
+	<a href="#search-inside">
+		願諸修道之人 切莫外求
+		-
+		원제수도지인 절막외구
+	</a>
+</li>
+<li>
+	<a href="#only-if-know-cannot-know">
+		但知不會 是卽見性
+		-
+		단지불회 시즉견성
+	</a>
+</li>
+<li>
+	<a href="#no-mind-for-good-or-evil">
+		於善於惡 不斷不受
+		-
+		어선어악 부단불수
+	</a>
+</li>
+</ul>
+
+
 <h1 id="text-and-commentary">
 	본문과 해석
 </h1>
@@ -123,9 +187,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <div class="translation-container">
 <p>
-	<font class="emph">三界熱惱 猶如火宅 其忍淹留 甘受長苦 </font>
+	<font class="emph" id="burning-pain">三界熱惱 猶如火宅 其忍淹留 甘受長苦</font>
 <span class="chinese-korean-transliteration">
-	<font class="emph">삼계열뇌 유여화택 기인엄류 감수장고 </font>
+	<font class="emph">삼계열뇌 유여화택 기인엄류 감수장고</font>
 </span>
 <span class="chinese-korean-translation">
 	<font class="emph">삼계三界<sup><a href="#footnote02" id="ref02">2</a></sup>의 고통은 불타는 집과 같은데
@@ -311,7 +375,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	<font class="emph">願諸修道之人 切莫外求</font> 心性無染 本自圓成 但離妄緣 卽如如佛
+	<font class="emph" id="search-inside">願諸修道之人 切莫外求</font> 心性無染 本自圓成 但離妄緣 卽如如佛
 <span class="chinese-korean-transliteration">
 	<font class="emph">원제수도지인 절막외구</font> 심성무염 본자원성 단리망연 즉여여불
 </span>
@@ -1315,7 +1379,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	<font class="emph">
+	<font class="emph" id="only-if-know-cannot-know">
 	但知不會 是卽見性
 	</font>
 <span class="chinese-korean-transliteration">
@@ -2493,7 +2557,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	隨順衆緣 無障無碍 <font class="emph">於善於惡 不斷不受</font>
+	隨順衆緣 無障無碍 <font class="emph" id="no-mind-for-good-or-evil">於善於惡 不斷不受</font>
 <span class="chinese-korean-transliteration">
 	수순중연 무장무애 <font class="emph">어선어악 부단불수</font>
 </span>
@@ -2624,7 +2688,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	則對境而念念歸宗 遇緣而心心契道 任運雙修 方爲<font class="emph">無事人</font>
+	則對境而念念歸宗 遇緣而心心契道 任運雙修 方爲<font class="emph" id="free-man">無事人</font>
 <span class="chinese-korean-transliteration">
 	즉대경이염염귀종 우연이심심계도 임운쌍수 방위<font class="emph">무사인</font>
 </span>
@@ -3800,7 +3864,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	<font class="emph">
+	<font class="emph" id="plant-good">
 	於此章句 能生信心者 當知是人 已於無量佛所 種諸善根
 	</font>
 <span class="chinese-korean-transliteration">
@@ -3816,7 +3880,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	<font class="emph">又云爲發大乘者說 爲發最上乘者說</font>
+	<font class="emph" id="this-is-for-highest-spirit">又云爲發大乘者說 爲發最上乘者說</font>
 <span class="chinese-korean-transliteration">
 	<font class="emph">우운위발대승자설 위발최상승자설</font>
 </span>
@@ -3828,7 +3892,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	<font class="emph">願諸求道之人 莫生怯弱 須發勇猛之心</font>
+	<font class="emph" id="courage-and-vigor">願諸求道之人 莫生怯弱 須發勇猛之心</font>
 <span class="chinese-korean-transliteration">
 	<font class="emph">원제구도지인 막생겁약 수발용맹지심</font>
 </span>
