@@ -52,17 +52,26 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 수트라(sūtra)는 경전經典을 뜻한다.
 
 
-<h1 id="text-and-commentary">
-본문과 해석
+<h1 id="highlight">
+	Key phrases highlighted by the author
 </h1>
 
-<!--
-- 摩訶般若波羅蜜多心經 마하반야바라밀다심경
-- 일체를 초월하는 지혜로 피안에 도달하는 가장 핵심되는 부처님의 말씀
+<ul>
+<li>
+	<a href="#if-see">照見 五蘊皆空 度一切苦厄</a>
+</li>
+<li>
+	<a href="#reality-essence-no-different">色不異空 空不異色 色卽是空 空卽是色 受想行識 亦復如是</a>
+</li>
+<li>
+	<a href="#nirvana-with-truth">揭諦揭諦 波羅揭諦 波羅僧揭諦</a>
+</li>
+</ul>
 
-- 觀自在菩薩 관자재보살 / 行深般若波羅蜜多時 행심반야바라밀다시 / 照見 조견 / 五蘊皆空 오온개공 / 度一切苦厄 도일체고액
-- 관자재보살이 깊은 반야바라밀다를 행할 때 오온이 공한 것을 비추어 보고 온갖 고통을 건너느니라
--->
+
+<h1 id="text-and-commentary">
+	본문과 해석
+</h1>
 
 <div class="translation-container">
 <p>
@@ -79,23 +88,23 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <hr>
 <div class="translation-container">
 <p>
-	觀自在菩薩 行深般若波羅蜜多時 照見 五蘊皆空 度一切苦厄
+	觀自在菩薩 行深般若波羅蜜多時 <font class="emph" id="if-see">照見 五蘊皆空 度一切苦厄</font>
 <span class="chinese-korean-transliteration">
-	관자재보살 행심반야바라밀다시 조견 오온개공 도일체고액
+	관자재보살 행심반야바라밀다시 <font>조견 오온개공 도일체고액</font>
 </span>
 <span class="chinese-korean-translation">
-	관자재보살이 깊은 반야바라밀다를 행할 때 오온五蘊이 공空한 것을 비추어 보고 온갖 고통苦痛을 건너느니라
+	관자재보살이 깊은 반야바라밀다를 행할 때 <font>오온五蘊이 공空한 것을 비추어 보고 온갖 고통苦痛을 건너느니라</font>
 </span>
 </p>
 
 <p>
-	舍利子 色不異空 空不異色 色卽是空 空卽是色 受想行識 亦復如是
+	舍利子 <font class="emph" id="reality-essence-no-different">色不異空 空不異色 色卽是空 空卽是色 受想行識 亦復如是</font>
 <span class="chinese-korean-transliteration">
-	사리자 색불이공 공불이색 색즉시공 공즉시색 수상행식 역부여시
+	사리자 <font>색불이공 공불이색 색즉시공 공즉시색 수상행식 역부여시</font>
 </span>
 <span class="chinese-korean-translation">
-	사리자여! 색이 공과 다르지 않고 공이 색과 다르지 않으며 색이 곧 공이고 공이 곧 색이니
-	감각&nbsp;&sdot;&nbsp;생각&nbsp;&sdot;&nbsp;행동&nbsp;&sdot;&nbsp;의식도 그러하니라
+	사리자여! <font>색이 공과 다르지 않고 공이 색과 다르지 않으며 색이 곧 공이고 공이 곧 색이니
+	감각&nbsp;&sdot;&nbsp;생각&nbsp;&sdot;&nbsp;행동&nbsp;&sdot;&nbsp;의식도 그러하니라</font>
 </span>
 </p>
 
@@ -207,7 +216,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	揭諦揭諦 波羅揭諦 波羅僧揭諦 菩提 娑婆訶
+	<font class="emph" id="nirvana-with-truth">揭諦揭諦 波羅揭諦 波羅僧揭諦</font> 菩提 娑婆訶
 <span class="chinese-korean-transliteration">
 	아제아제 바라아제 바라승아제 모지 사바하
 </span>
