@@ -936,6 +936,126 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 그에 따라 생生과 노사老死가 일어나는 것이다.
 
 
+<h1 id="appendix">Appendices</h1>
+
+<h2 id="song-of-enlightment">육조六祖 혜능慧能스님의 오도송悟道頌</h2>
+
+다음은
+육조혜능六祖慧能스님이 오조五祖 홍인弘忍스님으로부터
+금강경金剛經 설법說法을 듣고 읊었다는 오도송悟道頌이다.
+
+<blockquote>
+<p>
+	何期自性 本自淸淨
+	<br>
+	하기자성 본자청정
+</p>
+	자성이 본래 스스로 청정하다는 사실을 제가 어떻게 상상이나 했겠습니까?
+</blockquote>
+
+<blockquote>
+<p>
+	何期自性 本不生滅
+	<br>
+	하기자성 본불생멸
+</p>
+	자성이 본래 불생불멸이라는 사실을 제가 어떻게 상상이나 했겠습니까?
+</blockquote>
+
+<blockquote>
+<p>
+	何期自性 本自具足
+	<br>
+	하기자성 본자구족
+</p>
+	자성이 본래 저절로 모든 것이 갖추어져 있다는 사실을 제가 어떻게 상상이나 했겠습니까?
+</blockquote>
+
+<blockquote>
+<p>
+	何期自性 本無動搖
+	<br>
+	하기자성 본무동요
+</p>
+	자성이 본래 아무런 동요가 없다는 사실을 제가 어떻게 상상이나 했겠습니까?
+</blockquote>
+
+<blockquote>
+<p>
+	何期自性 能生萬法
+	<br>
+	하기자성 능생만법
+</p>
+	자성이 능히 일체 만법을 만들어 낸다는 사실을 제가 어떻게 상상이나 했겠습니까?
+</blockquote>
+
+<h2 id="middle-way-foreword">용수보살 중론<sup><a href="#footnote4" id="ref4">4</a></sup>의 서문 中</h2>
+
+<blockquote>
+	너무나도 고귀한 세상의 진리인 연기緣起를 가르쳐 주신 부처님께 귀의합니다.
+</blockquote>
+
+<h2 id="true-me">
+	참마음
+</h2>
+
+이것, 자성自性, 마음, 참마음, 참나, 본래면목本來面目, 열반涅槃, 해탈解脫, 견성見性, 진리眞理, 법法, 성품, 불안佛眼
+
+<h2 id="contrast-pairs">
+정혜쌍수定慧雙修
+</h2>
+
+<ul>
+<li>
+	혜안慧眼 - 법안法眼
+</li>
+<li>
+	마하摩訶 - 반야般若
+</li>
+<li>
+	창공蒼空 - 백일白日
+</li>
+<li>
+	공적空寂 - 영지靈知
+</li>
+<li>
+	진공眞空 - 묘유妙有
+</li>
+<li>
+	적적寂寂
+	-
+	성성惺惺
+</li>
+<li>
+	선정禪定 - 지혜智慧
+</li>
+<li>
+	정定 - 혜慧
+</li>
+<li>
+	공성空性 - 각성覺性
+</li>
+<li>
+	살殺 - 활活
+</li>
+<li>
+	무심無心 - 평상심平常心
+</li>
+<li>
+	차 - 조
+</li>
+<li>
+	지 - 관
+</li>
+<li>
+	은隱 - 현顯
+</li>
+<li>
+	사마타(samatha) - 위빠사나(vipassanā)
+</li>
+</ul>
+
+
 <h1 id="ref">Reference</h1>
 
 <ul>
@@ -976,6 +1096,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	<a href="http://www.ibulgyo.com">
 	불교신문</a>
 </li>
+<li>
+	<a href="https://ko.wikipedia.org/wiki/%EB%82%98%EA%B0%80%EB%A5%B4%EC%A3%BC%EB%82%98">
+	나가르주나 - 용수
+	</a>
+</li>
 </ul>
 
 
@@ -1003,5 +1128,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	스무살 반야심경에 미치다 - 도올 김용옥
 	</a>
 &nbsp;<a href="#ref3">↩</a></li>
+<li id="footnote4">
+	중론中論은
+	산스크리트어 물라 마드야마카 카리카(Mūlamadhyamakakārikā)를 뜻에 따라 번역한 것으로
+	문자 그대로의 의미는 "중도에 대한 근본적인 글(Fundamental Verses on the Middle Way)"이다.
+&nbsp;<a href="#ref4">↩</a></li>
 </ol>
 
