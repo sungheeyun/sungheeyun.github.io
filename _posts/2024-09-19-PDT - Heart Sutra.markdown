@@ -1,7 +1,7 @@
 ---
 title: 반야심경般若心經 - Heart Sūtra
 date: 2024-09-19 PDT
-last_modified_at: Wed Sep 25 18:27:00 PDT 2024
+last_modified_at: Thu Sep 26 00:01:41 PDT 2024
 categories:
  - blog
 tags:
@@ -20,7 +20,9 @@ toc_sticky: true
 posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-<h1 id="heart-sutra">반야심경</h1>
+<h1 id="intro">
+	Intro
+</h1>
 
 반야심경般若心經은
 대승불교의 모태가 되는 총 600권 분량의 반야경般若經을 260자로 추린 경전이다.
@@ -37,11 +39,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 현재 반야심경은 당나라 삼장법사三藏法師인 현장玄奘(602~664)이 번역한 것이다.
 
 
-<h1 id="meaing">반야심경의 뜻</h1>
+<h1 id="terminology-breakdown">Terminology breakdown</h1>
 
-&lt;반야경般若經&gt;은 반야바라밀다般若波羅蜜多에 대한 내용을 가진
+<!--&lt;반야경般若經&gt;은 반야바라밀다般若波羅蜜多에 대한 내용을 가진
 총 600권 분량의 방대한 경전이다.
-이걸 260자로 추린 경전을 &lt;반야심경般若心經&gt;이라고 한다.
+이걸 260자로 추린 경전을 &lt;반야심경般若心經&gt;이라고 한다.-->
 
 산스크리트어로는 प्रज्ञापारमिताहृदयसूत्र, Prajñā-pāramitā-hṛdaya-sūtra(프라즈냐파라미타 흐르다야 수트라)라고
 하는데
@@ -69,8 +71,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </ul>
 
 
-<h1 id="text-and-commentary">
-	본문과 해석
+<h1 id="main-text">
+	Main text
 </h1>
 
 <div class="translation-container">

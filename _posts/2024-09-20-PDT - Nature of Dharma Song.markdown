@@ -1,7 +1,7 @@
 ---
 title: 법성게法性偈 - Nature of Dharma Song
 date: 2024-09-20 18:07 PDT
-last_modified_at: 2024-09-20 PDT
+last_modified_at: Thu Sep 26 00:01:41 PDT 2024
 categories:
 - blog
 tags:
@@ -20,8 +20,8 @@ toc_sticky: true
 posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-<h1 id="nature-of-dharma">
-법성게
+<h1 id="intro">
+	Intro
 </h1>
 
 &#9650; 법성게法性偈는 210자에 방대한 화엄사상 압축 / 한국불교 수행전통 오롯이 담겨
@@ -138,8 +138,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	</figure>
 </div>
 
-<h1 id="text-and-commentary">
-본문과 해석
+<h1 id="main-text">
+	Main text
 </h1>
 
 義相祖師 法性偈
