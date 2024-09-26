@@ -1,7 +1,7 @@
 ---
 title: 수심결修心訣 - Secrets for Mind Cultivation
 date: 2024-09-20 PDT
-last_modified_at: Wed Sep 25 18:39:45 PDT 2024
+last_modified_at: Thu Sep 26 00:01:41 PDT 2024
 categories:
 - blog
 tags:
@@ -20,8 +20,8 @@ toc_sticky: true
 posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-<h1 id="secrets-for-mind-cultivation">
-	목우자수심결
+<h1 id="intro">
+	Intro
 </h1>
 
 목우자수심결牧牛子修心訣(언해諺解)는
@@ -58,9 +58,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	<img src="/assets/images/buddhism/secrets-of-mind-cultivation-01.png">
 </div>
 
-<h2 id="summary">
-	요약 및 요점
-</h2>
+
+<h1 id="summary">
+	Summary and key points
+</h1>
 
 제1문답에서는
 불성佛性은 모든 중생衆生이 본래 갖추고 있지만 스스로 보지 못할 뿐이며
@@ -111,79 +112,161 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	Key phrases highlighted by the author
 </h1>
 
-<ul>
-<li>
+<div class="text-highlight">
+<p>
 	<a href="#burning-pain">
 		三界熱惱 猶如火宅 其忍淹留 甘受長苦
-		-
-		삼계열뇌 유여화택 기인엄류 감수장고
 	</a>
-</li>
-<li>
-	<a href="#free-man">
-		無事人
-		-
-		무사인
+	<br>
+	삼계열뇌 유여화택 기인엄류 감수장고
+</p>
+	삼계三界의 고통은 불타는 집과 같은데 어찌 그대로 머물면서 그 기나긴 고통을 달게 받고 있는가?
+</div>
+
+<div class="text-highlight">
+<p>
+	<a href="#plant-wisdom">
+		若非夙植般若種智 大承根器者 不能一念而生正信
 	</a>
-</li>
-<li>
+	<br>
+	약비숙식반야종지 대승근기자 불능일념이생정신
+</p>
+	일찍이 지혜의 종자를 심은 대승의 근기가 아니면
+	능히 한 생각에 바른 믿음을 내지 못할 것이다.
+</div>
+
+<div class="text-highlight">
+<p>
 	<a href="#plant-good">
 		於此章句 能生信心者 當知是人 已於無量佛所 種諸善根
-		-
-		어차장구 능생신심자 당지시인 이어무량불소 종제선근
 	</a>
-</li>
-<li>
+	<br>
+	어차장구 능생신심자 당지시인 이어무량불소 종제선근
+</p>
+	이 글귀에 능히 신심을 내는 사람은 이미 한량없는 부처님의 처소에서 모든 선근을 심은 것이다.
+</div>
+
+<div class="text-highlight">
+<p>
 	<a href="#this-is-for-highest-spirit">
 		又云爲發大乘者說 爲發最上乘者說
-		-
-		우운위발대승자설 위발최상승자설
 	</a>
-</li>
-<li>
+	<br>
+	우운위발대승자설 위발최상승자설
+</p>
+	이 법은 대승의 마음을 낸 사람과 최상승의 마음을 낸 사람을 위하여 설한다.
+</div>
+
+<div class="text-highlight">
+<p>
 	<a href="#courage-and-vigor">
 		願諸求道之人 莫生怯弱 須發勇猛之心
-		-
-		원제구도지인 막생겁약 수발용맹지심
 	</a>
-</li>
-<li>
+	<br>
+	원제구도지인 막생겁약 수발용맹지심
+</p>
+	도를 구하는 사람은 겁내거나 약한 마음을 내지 말고
+	부디 용맹스런 마음을 내어야 한다.
+</div>
+
+<div class="text-highlight">
+<p>
 	<a href="#search-inside">
 		願諸修道之人 切莫外求
-		-
-		원제수도지인 절막외구
 	</a>
-</li>
-<li>
+	<br>
+	원제수도지인 절막외구
+</p>
+	바라건대 모든 진리를 수행하는 사람들은 절대로 밖에서 구하지 말아야 한다.
+</div>
+
+<div class="text-highlight">
+<p>
 	<a href="#only-if-know-cannot-know">
 		但知不會 是卽見性
-		-
-		단지불회 시즉견성
 	</a>
-</li>
-<li>
+	<br>
+	단지불회 시즉견성
+</p>
+	다만 알 수 없다는 것임을 알면 바로 견성見性이니라.
+</div>
+
+<div class="text-highlight">
+<p>
 	<a href="#no-mind-for-good-or-evil">
 		於善於惡 不斷不受
-		-
-		어선어악 부단불수
 	</a>
-</li>
-</ul>
+	<br>
+	어선어악 부단불수
+</p>
+	악을 끊거나 선을 닦는다는 생각도 없다.
+</div>
+
+<div class="text-highlight">
+<p>
+	<a href="#free-man">
+		無事人
+	</a>
+	<br>
+	무사인
+</p>
+	걸림 없는 자유인
+</div>
+
+<div class="text-highlight">
+<p>
+	<a href="#see-eyes-with-eyes">
+		比如有人 不見自眼 以謂無眼 更欲求見
+	</a>
+	<br>
+	비여유인 불견자안 이위무안 갱욕구견
+</p>
+	그것은 마치 어떤 사람이 자신의 눈을 보지 못하고 눈이 없다고 하면서 다시 보려고 하는 것과 같다.
+</div>
+
+<div class="text-highlight">
+<p>
+	<a href="#who-asks">汝今問我者 是汝空寂靈知之心</a>
+	<br>
+	여금문아자 시여공적영지지심
+</p>
+	그대가 지금 나에게 묻는 그것이 바로 그대의 공적하고 신령스럽게 아는 마음이다.
+</div>
+
+<div class="text-highlight">
+<p>
+	<a href="#already-know-where-treasure-is">
+		知其寶所 反不求之 長怨孤貧
+	</a>
+	<br>
+	지기보소 반불구지 장원고빈
+</p>
+	어찌 보배가 있는 곳을 알고도 그것을 구하지 않다가 오래 외롭고 가난함을 원망하겠는가?
+</div>
+
+<div class="text-highlight">
+<p>
+	<a href="#feed-ox">
+		天下善知識 悟後牧牛行是也
+	</a>
+	<br>
+	천하선지식 오후목우행시야
+</p>
+	천하의 선지식이 깨달은 뒤에 소먹이는 행이 바로 이 때문이다.
+</div>
 
 
-<h1 id="text-and-commentary">
-	본문과 해석
+<h1 id="main-text">
+	Main text
 </h1>
 
 <h2 id="if-know-my-own-mind">
 	자기 마음을 알면
 </h2>
 
-<blockquote>
-<p>
-윤회輪廻의 고통苦痛이 마치 불타는 집과 같은데 어찌 그대로 참고 머물러 있는가?
-</p>
-</blockquote>
+<div class="text-highlight">
+	윤회輪廻의 고통苦痛이 마치 불타는 집과 같은데 어찌 그대로 참고 머물러 있는가?
+</div>
 
 <div class="translation-container">
 <p>
@@ -248,7 +331,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	차부 금지인 미래구의 불식자심시진불 불식자성시진법
 </span>
 <span class="chinese-korean-translation">
-	참으로 슬프구나!
+	참으로 슬프구나.
 <br>
 	요즘 사람들은 미혹된 지가 오래되어 자기 마음이 참 부처인줄 알지 못하고
 	자기의 본성이 참 진리라는 것을 알지 못하는구나.
@@ -328,13 +411,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	마음은 본래 스스로 원만한 것
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	망령된 생각만 여의면 그대로 부처이다.
 	<br>
 	부처가 그대 몸에 있는데도 보지 못할 뿐이다.
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -497,13 +578,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	불성은 작용하는 가운데 있습니다
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	무엇을 부처라고 합니까?
 	<br>
 	견성하는 것이 부처입니다.
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -766,11 +845,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	어떻게 보림保任해야 합니까?
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	입으로만 진리 말하고 사견에 빠지면 자신도 그르치고 남도 잘못되게 한다.
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -948,14 +1025,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	깨달음에 의지해 닦고 차츰 익혀야
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	망상 사라지면 광명의 작용 생기니
 	<br>
 	깨달음에 의지해 닦고 차츰 익혀야
-<br>
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -1128,14 +1202,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	성품이 본래 스스로 갖추어져 있어
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	깨달음에 의지依支해 닦고 점점 익혀서
 	<br>
 	성인聖人의 자질資質을 길러가는 것이 점수漸修
-<br>
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -1307,7 +1378,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	<font class="emph">比如有人 不見自眼 以謂無眼 更欲求見</font>
+	<font class="emph" id="see-eyes-with-eyes">比如有人 不見自眼 以謂無眼 更欲求見</font>
 <span class="chinese-korean-transliteration">
 	<font class="emph">비여유인 불견자안 이위무안 갱욕구견</font>
 </span>
@@ -1359,13 +1430,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	공하고 고요한 신령스런 지혜의 마음
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	지혜의 마음이 그대의 본래면목
-<br>
+	<br>
 	이 마음 깨친다면 삼계를 초월
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -1389,7 +1458,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </span>
 <span class="chinese-korean-translation">
 	<font class="emph">
-	다만 알 수 없다는 것임을 알면 바로 견성見性<sup><a href="#footnote09" id="ref09">9</a></sup>이니라!
+	다만 알 수 없다는 것임을 알면 바로 견성見性<sup><a href="#footnote09" id="ref09">9</a></sup>이니라.
 	</font>
 </span>
 </p>
@@ -1529,14 +1598,14 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	答汝今問我者 <font class="emph">是汝空寂靈知之心</font>
+	答<font class="emph" id="who-asks">汝今問我者 是汝空寂靈知之心</font>
 <span class="chinese-korean-transliteration">
-	답여금문아자 <font class="emph">시여공적영지지심</font>
+	답<font class="emph">여금문아자 시여공적영지지심</font>
 </span>
 <span class="chinese-korean-translation">
 	대답했다.
 	<br>
-	<font class="emph">"그대가 지금 나에게 묻는 그것이 바로 그대의 공적하고 신령스럽게 아는 마음이다!"</font>
+	<font class="emph">"그대가 지금 나에게 묻는 그것이 바로 그대의 공적하고 신령스럽게 아는 마음이다."</font>
 </span>
 </p>
 
@@ -1568,12 +1637,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	성품은 밝고 밝아 일체의 분별도 없다
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	보고 듣고 말하고 동작하는 것은 그대의 본심本心이지 육신六身이 아니다.
-<br>
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -1777,13 +1843,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	지혜로써 공들이고 노력하지 않는다면
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	어째서 깨친 뒤에도 점차로 닦습니까?
-<br>
+	<br>
 	무명의 습 갑자기 없앨 수 없기 때문이니라.
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -1960,14 +2024,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	깨달은 뒤에 소먹이는 행
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	마음마다 미혹을 끊으려 하지만
 	<br>
 	끊으려는 마음이 바로 도적이다.
-<br>
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -2045,7 +2106,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	<font class="emph">天下善知識 悟後牧牛行是也</font>
+	<font class="emph" id="feed-ox">天下善知識 悟後牧牛行是也</font>
 <span class="chinese-korean-transliteration">
 	<font class="emph">천하선지식 오후목우행시야</font>
 </span>
@@ -2191,13 +2252,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	생각이 일어나거든 곧 깨달아라
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	생각이 일어남을 두려워 말고
-<br>
+	<br>
 	깨달음이 늦을까를 두려워하라
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -2396,13 +2455,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	악을 끊거나 선을 닦는다는 것도 없다
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	마음에 산란함 없는 것이 선정
-<br>
+	<br>
 	마음이 어리석지 않음이 지혜
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -2575,11 +2632,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	걸림 없는 자유인
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	선악의 경계에서 동요하는 이는 반연을 잊고 없애는 공부
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -2738,13 +2793,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	한 생각의 망령된 정情도 일어남
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	돈문頓門과 점문漸門의 선정禪定과 지혜智慧가 다른데
-<br>
+	<br>
 	어떻게 한꺼번에 수행할 수 있나요?
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -2897,13 +2950,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	선정과 지혜에 의지해서 자유롭게 닦다
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	말을 따라 알려하면 의혹 생기고
 	<br>
 	뜻 얻고 말 잊으면 힐문詰問이 필요 없다.
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -3079,7 +3130,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	<font class="emph">무병불구약</font>
 </span>
 <span class="chinese-korean-translation">
-	<font class="emph">병이 없으면 약을 구하지 않는다!</font>
+	<font class="emph">병이 없으면 약을 구하지 않는다.</font>
 </span>
 </p>
 
@@ -3089,13 +3140,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	생각 생각에 의심이 없어 번뇌에 물
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	의심의 뿌리가 끊어지지 않으면
 	<br>
 	생사의 세계에 자재로울수 없다.
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -3292,13 +3341,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	자기에게로 돌아가 근본에 계합한다
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	글에 집착 말고 참뜻을 바로 깨닫고
 	<br>
 	자기에게 돌아가 근본에 계합해야
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -3360,7 +3407,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	<font class="emph">若非夙植般若種智 大承根器者 不能一念而生正信</font>
+	<font class="emph" id="plant-wisdom">若非夙植般若種智 大承根器者 不能一念而生正信</font>
 <span class="chinese-korean-transliteration">
 	<font class="emph">약비숙식반야종지 대승근기자 불능일념이생정신</font>
 </span>
@@ -3476,7 +3523,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	<font class="emph">실위맹구우목 섬개투침 기위경행 갈승도재</font>
 </span>
 <span class="chinese-korean-translation">
-	<font class="emph">실로 눈먼 거북이 나무를 만나고, 작은 겨자씨가 바늘에 꽂힘과 같으니 그 다행함을 어찌 말로 다 하겠는가?</font>
+	<font class="emph">실로 눈먼 거북이 나무를 만나고 작은 겨자씨가 바늘에 꽂힘과 같으니 그 다행함을 어찌 말로 다 하겠는가?</font>
 </span>
 </p>
 </div>
@@ -3485,13 +3532,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	다시 어느 생을 기다려 이 몸을 제도하겠는가?
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	수도하는 사람들은 방일하지 말고
 	<br>
 	머리에 타는 불을 끄듯이 살펴라
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -3712,11 +3757,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	보배를 얻으려거든
 </h2>
 
-<blockquote>
-<p>
+<div class="text-highlight">
 	보배 있는 곳 알고도 구하지 않겠는가?
-</p>
-</blockquote>
+</div>
 
 <div class="translation-container">
 <p>
@@ -3745,7 +3788,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	차부 금시인 기봉왕선 부지하구 병우의왕 부지복약
 </span>
 <span class="chinese-korean-translation">
-	슬프다!
+	슬프다.
 	지금 사람은 배가 고프면서도 맛난 음식을 보고 먹을 줄을 알지 못하고
 	병이 들어 의사를 만났어도 약을 먹을 줄 모르는구나.
 </span>
@@ -3822,7 +3865,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	비부정와 언지창해지활 야간하능사자지후
 </span>
 <span class="chinese-korean-translation">
-	슬프다!
+	슬프다.
 	우물 안 개구리가 어찌 바다의 넓음을 알며
 	여우가 어찌 사자의 소리를 할 수 있겠는가?
 </span>
@@ -3959,7 +4002,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </p>
 
 <p>
-	豈有智者 <font class="emph">知其寶所 反不求之 長怨孤貧</font>
+	豈有智者 <font class="emph" id="already-know-where-treasure-is">知其寶所 反不求之 長怨孤貧</font>
 <span class="chinese-korean-transliteration">
 	기유지자 <font class="emph">지기보소 반불구지 장원고빈</font>
 </span>
@@ -3977,7 +4020,7 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	약욕획보 방하피낭
 </span>
 <span class="chinese-korean-translation">
-	만약 보배를 얻으려거든 그 가죽주머니를 놓아버려라!
+	만약 보배를 얻으려거든 그 가죽주머니를 놓아버려라.
 </span>
 </p>
 
