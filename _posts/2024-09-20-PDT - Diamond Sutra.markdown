@@ -20,6 +20,7 @@ toc_sticky: true
 posted: {{ page.date| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
+
 <h1 id="intro">Intro</h1>
 
 금강반야바라밀경金剛般若波羅蜜經(산스크리트어: Vajracchedikā Prajñāpāramitā Sūtra 바즈라체디카 프라즈냐파라미타 수트라, 영어: Diamond Sūtra)은
@@ -42,6 +43,14 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 이후 보리류지, 진체, 달마급다, 현장, 의정 스님 등에 의해
 다양하게 번역이 이루어졌다.
 현재 유행하는 금강경은 구마라습본이다.<sup><a href="#footnote01" id="ref01">1</a></sup>
+
+금강경金剛經의 내용은
+석가모니가 사위국의 기수급고독원에서 제자인 <a href="#subhuti">수보리</a>와 문답 형식의 대화를 주고받는 것으로 되어있다.
+석가모니는 수보리의 질문에 답하여 보살이 마땅히 이루어야 할 것에 대해 답하고 설명한다.
+반야심경과도 일맥상통하는 공空에 대해 설명한다.
+세상의 본질은 모두 실체가 없고, 부처도, 부처의 법도 그러하니
+아무것에도 집착하지 말고 내려놓으면 모든 괴로움에서 벗어난다는 것이 주제이다.
+
 
 <h1 id="terminology-breakdown">Terminology breakdown</h1>
 
@@ -69,15 +78,152 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 따라서 금강반야바라밀다경金剛般若波羅蜜多經은 금강석과 같이 견고한 지혜를 얻어 무명을 타파하고 열반에 이르라는 부처님의 말씀이다.
 
-<h1 id="short-summary">Short summary</h1>
 
-금강경金剛經의 내용은
-석가모니가 사위국의 기수급고독원에서 제자인 <a href="#subhuti">수보리</a>와 문답 형식의 대화를 주고받는 것으로 되어있다.
-석가모니는 수보리의 질문에 답하여 보살이 마땅히 이루어야 할 것에 대해 답하고 설명한다.
-반야심경과도 일맥상통하는 공空에 대해 설명한다.
-세상의 본질은 모두 실체가 없고, 부처도, 부처의 법도 그러하니
-아무것에도 집착하지 말고 내려놓으면 모든 괴로움에서 벗어난다는 것이 주제이다.
+<h1 id="highlight">
+	Key phrases highlighted by the author
+</h1>
 
+<div class="text-highlight">
+	<a href="#how-to-subdue"><font class="emph">善男子 善女人 發阿耨 多羅三藐三菩提心 應云何住 云何降伏其心</font></a>
+	<br>
+	선남자 선여인 발아뇩다라삼먁삼보리심 응운하주 운하항복기심
+<span class="chinese-korean-translation">
+	선남자善男子 선여인善女人이
+	위없이 높고 바른 깨달음의 마음을 일으킬 때 마땅히 그 마음을 어떻게 항복 받아야 합니까?
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#no-one-to-enlighten"><font class="emph">滅度無量無數無邊衆 生實無衆生得滅度者</font></a>
+	<br>
+	멸도무량무수무변중생 실무중생득멸도자
+<span class="chinese-korean-translation">
+	한량없이 많은 중생의 생사를 제도濟度할지라도 실로 한 중생도 제도濟度된 바가 없느니라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#no-bodhisattva-with-four-notions"><font class="emph">若菩薩 有我相 人相 衆生相 壽者相 卽非菩薩</font></a>
+	<br>
+	약보살 유아상 인상 중생상 수자상 즉비보살
+<span class="chinese-korean-translation">
+	아상我相&nbsp;&sdot;&nbsp;인상人相&nbsp;&sdot;&nbsp;중생상衆生相&nbsp;&sdot;&nbsp;수자상壽者相이 있으면
+	곧 보살이 아니니라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#giving-without-notions"><font class="emph">菩薩 無住相布施福德 亦復如是 不可思量</font></a>
+	<br>
+	보살 무주상보시복덕 역부여시 불가사량
+<span class="chinese-korean-translation">
+	보살이 형상形象에 머물지 않고 보시하는 복덕福德도 또한 이와 같이 생각으로 헤아릴 수 없느니라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#see-tathagata-right-away"><font class="emph">凡所有相 皆是虛妄 若見諸相 非相 卽見如來</font></a>
+	<br>
+	범소유상 개시허망 약견제상 비상 즉견여래
+<span class="chinese-korean-translation">
+	무릇 형상形象을 가진 모든 것은 허망하니 만일 형상形象이 진실한 상이 아닌줄 알면
+	곧 여래를 보느니라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#plant-good"><font class="emph">已於無量千萬佛所 種諸善根 聞是章句 乃至 一念生 淨信者</font></a>
+	<br>
+	이어무량천만불소 종제선근 문시장구 내지 일념생 정신자
+<span class="chinese-korean-translation">
+	이미 한량없는 천만 부처님 처소에 모든 바탕을 심었으니 이 글귀를 듣고 한 생각에 거룩한 믿음을 내느니라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#raft-analogy"><font class="emph">汝等比丘 知我說法 如筏喩者 法尙應捨 何況非法</font></a>
+	<br>
+	여등비구 지아설법 여벌유자 법상응사 하황비법
+<span class="chinese-korean-translation">
+	너희들 비구는 내가 말한 법法이 뗏목과 같은 줄 알라.
+	법法도 마땅히 놓아버려야 함인데 하물며 법法 아님이야!
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#dharma-is-dharma-because-exists-no-dharma"><font class="emph">無有定法名阿耨多羅三藐三菩提 亦無有定法如來可說</font></a>
+	<br>
+	무유정법명아뇩다라삼먁삼보리 역무유정법여래가설
+<span class="chinese-korean-translation">
+	정해진 법이 없는 것을 이름하여 위없는 높은 깨달음이라하고
+	또 정해진 법이 없는 것을 여래께서 말씀하셨습니다.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#dharma-cannot-be-spoken-achieved-neither-dharma-nor-non-dharma">
+	<font class="emph">如來所說法 皆不可取 不可說 非法 非非法</font>
+	</a>
+	<br>
+	여래소설법 개불가취 불가설 비법 비비법
+<span class="chinese-korean-translation">
+	여래께서 말씀하신 법은
+	취할수도 없고 말할 수 없고 법도 아니고 법아닌 것도 아닙니다.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#only-if-four-lines-of-verses">
+	<font class="emph">
+	若復有人 於此經中受持 乃至 四句偈等 爲他人說 其福勝彼
+	</font>
+	</a>
+	<br>
+	약부유인 어차경중수지 내지 사구게등 위타인설 기복승피
+<span class="chinese-korean-translation">
+	만일 어떤 사람이 이 경가운데 네 글귀만이라도 받아지니고
+	남을 위해 말한다면 그 복이 다른 복보다 뛰어나니라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#even-dharma-is-not-dharma">
+	<font class="emph">所謂佛法者 卽非佛法</font>
+	</a>
+	<br>
+	소위불법자 즉비불법
+<span class="chinese-korean-translation">
+	이른바 불법佛法이라는 것 또한 불법佛法이 아니니라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#adornment-not-adornment-but-called-adornment">
+	<font class="emph">莊嚴佛土者 卽非莊嚴 是名莊嚴</font>
+	</a>
+	<br>
+	장엄불토자 즉비장엄 시명장엄
+<span class="chinese-korean-translation">
+	불국토佛國土를 장엄莊嚴한 것은 곧 장엄莊嚴이 아니옵고 이름하여 장엄莊嚴이라 하옵니다.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#free-your-mind-dwell-on-nowhere">
+	<font class="emph">
+	應無所住 而生其心
+	</font>
+	</a>
+	<br>
+	응무소주 이생기심
+<span class="chinese-korean-translation">
+	응당 머무는바 없이 그 마음을 낼 것이니라.
+</span>
+</div>
+<!--div class="text-highlight"-->
+<!--div class="text-highlight"-->
+<!--div class="text-highlight"-->
+<!--div class="text-highlight"-->
 
 <h1 id="main-text">
 Main text
@@ -190,7 +336,7 @@ Main text
 </p>
 
 <p>
-	世尊 <font class="emph">善男子 善女人 發阿耨 多羅三藐三菩提心 應云何住 云何降伏其心</font>
+	世尊 <font class="emph" id="how-to-subdue">善男子 善女人 發阿耨 多羅三藐三菩提心 應云何住 云何降伏其心</font>
 <span class="chinese-korean-transliteration">
 	세존 <font class="emph">선남자 선여인 발아뇩다라삼먁삼보리심 응운하주 운하항복기심</font>
 </span>
@@ -301,7 +447,7 @@ Main text
 </p>
 
 <p>
-	<font class="emph">我皆令入無餘涅槃 而滅度之</font>
+	我皆令入無餘涅槃 而滅度之
 <span class="chinese-korean-transliteration">
 	아개영입무여열반 이멸도지
 </span>
@@ -311,7 +457,7 @@ Main text
 </p>
 
 <p>
-	如是 <font class="emph">滅度無量無數無邊衆 生實無衆生得滅度者</font>
+	如是 <font class="emph" id="no-one-to-enlighten">滅度無量無數無邊衆 生實無衆生得滅度者</font>
 <span class="chinese-korean-transliteration">
 	여시 <font class="emph">멸도무량무수무변중생 실무중생득멸도자</font>
 </span>
@@ -322,14 +468,17 @@ Main text
 </p>
 
 <p>
-	何以故 須菩提 <font class="emph">若菩薩 有我相 人相 衆生相 壽者相 卽非菩薩</font>
+	何以故 須菩提 <font class="emph" id="no-bodhisattva-with-four-notions">若菩薩 有我相 人相 衆生相 壽者相 卽非菩薩</font>
 <span class="chinese-korean-transliteration">
-	하이고 수보리 약보살 유아상 인상 중생상 수자상 즉비보살
+	하이고 수보리 <font class="emph">약보살 유아상 인상 중생상 수자상 즉비보살</font>
 </span>
 <span class="chinese-korean-translation">
-	왜냐하면 수보리야 만일 보살이
+	왜냐하면 수보리야
+	<font class="emph">
+	만일 보살이
 	아상我相&nbsp;&sdot;&nbsp;인상人相&nbsp;&sdot;&nbsp;중생상衆生相&nbsp;&sdot;&nbsp;수자상壽者相이 있으면
-	곧 보살이 아니니라."
+	곧 보살이 아니니라.</font>"
+
 </span>
 </p>
 </div>
@@ -431,12 +580,15 @@ Main text
 </p>
 
 <p>
-	須菩提 <font class="emph">菩薩 無住相布施福德 亦復如是 不可思量</font>
+	須菩提 <font class="emph" id="giving-without-notions">菩薩 無住相布施福德 亦復如是 不可思量</font>
 <span class="chinese-korean-transliteration">
-	수보리 보살 무주상보시복덕 역부여시 불가사량
+	수보리 <font class="emph">보살 무주상보시복덕 역부여시 불가사량</font>
 </span>
 <span class="chinese-korean-translation">
-	"수보리야, 보살이 형상形象에 머물지 않고 보시하는 복덕福德도 또한 이와 같이 생각으로 헤아릴 수 없느니라
+	"수보리야,
+	<font class="emph">
+	보살이 형상形象에 머물지 않고 보시하는 복덕福德도 또한 이와 같이 생각으로 헤아릴 수 없느니라.
+	</font>
 </span>
 </p>
 
@@ -506,12 +658,13 @@ Main text
 </p>
 
 <p>
-	佛告 須菩提 <font class="emph">凡所有相 皆是虛妄 若見諸相 非相 卽見如來</font>
+	佛告 須菩提 <font class="emph" id="see-tathagata-right-away">凡所有相 皆是虛妄 若見諸相 非相 卽見如來</font>
 <span class="chinese-korean-transliteration">
 	불고 수보리 <font class="emph">범소유상 개시허망 약견제상 비상 즉견여래</font>
 </span>
 <span class="chinese-korean-translation">
 	부처님께서 수보리에게 말씀하셨다.
+	<br>
 	<font class="emph">
 	"무릇 형상形象을 가진 모든 것은 허망하니 만일 형상形象이 진실한 상이 아닌줄 알면
 	곧 여래를 보느니라."<sup><a href="#footnote03" id="ref03">3</a></sup></font>
@@ -569,7 +722,7 @@ Main text
 </p>
 
 <p>
-	<font class="emph">如來 滅後 後五百歲 有持戒修福者 於此章句 能生信心 以此爲實</font>
+	如來 滅後 後五百歲 有持戒修福者 於此章句 能生信心 以此爲實
 <span class="chinese-korean-transliteration">
 	여래 멸후 후오백세 유지계수복자 어차장구 능생신심 이차위실
 </span>
@@ -592,12 +745,14 @@ Main text
 </p>
 
 <p>
-	<font class="emph">已於無量千萬佛所 種諸善根 聞是章句 乃至 一念生 淨信者</font>
+	<font class="emph" id="plant-good">已於無量千萬佛所 種諸善根 聞是章句 乃至 一念生 淨信者</font>
 <span class="chinese-korean-transliteration">
-	이어무량천만불소 종제선근 문시장구 내지 일념생 정신자
+	<font class="emph">이어무량천만불소 종제선근 문시장구 내지 일념생 정신자</font>
 </span>
 <span class="chinese-korean-translation">
+	<font class="emph">
 	이미 한량없는 천만 부처님 처소에 모든 바탕을 심었으니 이 글귀를 듣고 한 생각에 거룩한 믿음을 내느니라.
+	</font>
 </span>
 </p>
 
@@ -657,14 +812,15 @@ Main text
 </p>
 
 <p>
-	以是義故 如來常說 <font class="emph">汝等比丘 知我說法 如筏喩者 法尙應捨 何況非法</font>
+	以是義故 如來常說 <font class="emph" id="raft-analogy">汝等比丘 知我說法 如筏喩者 法尙應捨 何況非法</font>
 <span class="chinese-korean-transliteration">
-	이시의고 여래상설 여등비구 지아설법 여벌유자 법상응사 하황비법
+	이시의고 여래상설 <font class="emph">여등비구 지아설법 여벌유자 법상응사 하황비법</font>
 </span>
 <span class="chinese-korean-translation">
-	그렇게 때문에 여래께서 항상 말씀하시길 너희들 비구는 내가 말한 법法이 뗏목과 같은 줄 알라.
+	그렇게 때문에 여래께서 항상 말씀하시길
 	<br>
-	법法도 마땅히 놓아버려야 함인데 하물며 법法 아님이야!"
+	<font class="emph">너희들 비구는 내가 말한 법法이 뗏목과 같은 줄 알라.
+	법法도 마땅히 놓아버려야 함인데 하물며 법法 아님이야!</font>"
 </span>
 </p>
 </div>
@@ -710,27 +866,41 @@ Main text
 </p>
 
 <p>
-	須菩提言 <font class="emph">如我解佛所說義 無有定法名阿耨多羅三藐三菩提 亦無有定法如來可說</font>
+	須菩提言 如我解佛所說義
+	<font class="emph" id="dharma-is-dharma-because-exists-no-dharma">
+	無有定法名阿耨多羅三藐三菩提 亦無有定法如來可說</font>
 <span class="chinese-korean-transliteration">
-	수보리언 여야해불소설의 무유정법명아뇩다라삼먁삼보리 역무유정법여래가설
+	수보리언 여야해불소설의
+	<font class="emph">무유정법명아뇩다라삼먁삼보리 역무유정법여래가설</font>
 </span>
 <span class="chinese-korean-translation">
 	수보리가 아뢰었다.
 <br>
-	"제가 아뢰옵기는 부처님 말씀은 정해진 법이 없는 것을 이름하여
-	위없는 높은 깨달음이라하고
+	"제가 아뢰옵기는 부처님 말씀은
+	<font class="emph">
+	정해진 법이 없는 것을 이름하여 위없는 높은 깨달음이라하고
 	또 정해진 법이 없는 것을 여래께서 말씀하셨습니다.
+	</font>
 </span>
 </p>
 
 <p>
-	何以故 <font class="emph">如來所說法 皆不可取 不可說 非法 非非法</font>
+	何以故
+	<font class="emph" id="dharma-cannot-be-spoken-achieved-neither-dharma-nor-non-dharma">
+	如來所說法 皆不可取 不可說 非法 非非法
+	</font>
 <span class="chinese-korean-transliteration">
-	하이고 여래소설법 개불가취 불가설 비법 비비법
+	하이고
+	<font class="emph">
+	여래소설법 개불가취 불가설 비법 비비법
+	</font>
 </span>
 <span class="chinese-korean-translation">
-	왜냐하면 여래께서 말씀하신 법은
+	왜냐하면
+	<font class="emph">
+	여래께서 말씀하신 법은
 	취할수도 없고 말할 수 없고 법도 아니고 법아닌 것도 아닙니다.
+	</font>
 </span>
 </p>
 
@@ -794,13 +964,13 @@ Main text
 </p>
 
 <p>
-	<font class="emph">若復有人 於此經中受持 乃至 四句偈等 爲他人說 其福勝彼</font>
+	<font class="emph" id="only-if-four-lines-of-verses">若復有人 於此經中受持 乃至 四句偈等 爲他人說 其福勝彼</font>
 <span class="chinese-korean-transliteration">
-	약부유인 어차경중수지 내지 사구게등 위타인설 기복승피
+	<font class="emph">약부유인 어차경중수지 내지 사구게등 위타인설 기복승피</font>
 </span>
 <span class="chinese-korean-translation">
-	"만일 어떤 사람이 이 경가운데 네 글귀만이라도 받아지니고
-	남을 위해 말한다면 그 복이 다른 복보다 뛰어나니라.
+	"<font class="emph">만일 어떤 사람이 이 경가운데 네 글귀만이라도 받아지니고
+	남을 위해 말한다면 그 복이 다른 복보다 뛰어나니라.</font>
 </span>
 </p>
 
@@ -817,12 +987,13 @@ Main text
 </p>
 
 <p>
-	須菩提 <font class="emph">所謂佛法者 卽非佛法</font>
+	須菩提 <font class="emph" id="even-dharma-is-not-dharma">所謂佛法者 卽非佛法</font>
 <span class="chinese-korean-transliteration">
-	수보리 소위불법자 즉비불법
+	수보리 <font class="emph">소위불법자 즉비불법</font>
 </span>
 <span class="chinese-korean-translation">
-	수보리야, 이른바 불법佛法을 가진이는 곧 불법佛法이 아니니라."
+	수보리야,
+	<font class="emph">이른바 불법佛法이라는 것 또한 불법佛法이 아니니라.</font>”
 </span>
 </p>
 </div>
@@ -1058,12 +1229,12 @@ Main text
 </p>
 
 <p>
-	不也 世尊 何以故 <font class="emph">莊嚴佛土者 卽非莊嚴 是名莊嚴</font>
+	不也 世尊 何以故 <font class="emph" id="adornment-not-adornment-but-called-adornment">莊嚴佛土者 卽非莊嚴 是名莊嚴</font>
 <span class="chinese-korean-transliteration">
-	불야 세존 하이고 장엄불토자 즉비장엄 시명장엄
+	불야 세존 하이고 <font class="emph">장엄불토자 즉비장엄 시명장엄</font>
 </span>
 <span class="chinese-korean-translation">
-	"아니옵니다, 세존이시여. 왜냐하면 불국토佛國土를 장엄莊嚴한 것은 곧 장엄莊嚴이 아니옵고 이름하여 장엄莊嚴이라 하옵니다."
+	"아니옵니다, 세존이시여. 왜냐하면 <font class="emph">불국토佛國土를 장엄莊嚴한 것은 곧 장엄莊嚴이 아니옵고 이름하여 장엄莊嚴이라 하옵니다.</font>"
 </span>
 </p>
 
@@ -1080,7 +1251,7 @@ Main text
 </p>
 
 <p>
-	<font class="emph">
+	<font class="emph" id="free-your-mind-dwell-on-nowhere">
 	應無所住 而生其心
 	</font>
 <span class="chinese-korean-transliteration">
