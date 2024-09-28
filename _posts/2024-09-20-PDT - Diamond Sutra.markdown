@@ -103,6 +103,17 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </div>
 
 <div class="text-highlight">
+	<a href="#no-single-sentinent-being-liberated">
+	<font class="emph">我應滅度一切衆生 滅度一切衆生已 而無有一衆生 實滅度者</font>
+	</a>
+	<br>
+	아응멸도일체중생 멸도일체중생이 이무유일중생 실멸도자
+<span class="chinese-korean-translation">
+	내가 마땅히 모든 중생을 제도濟度하리라하여 그 모든 중생을 제도濟度하지만 실은 한 중생도 제도濟度한 자가 없다하라.
+</span>
+</div>
+
+<div class="text-highlight">
 	<a href="#no-bodhisattva-with-four-notions"><font class="emph">若菩薩 有我相 人相 衆生相 壽者相 卽非菩薩</font></a>
 	<br>
 	약보살 유아상 인상 중생상 수자상 즉비보살
@@ -187,6 +198,32 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </div>
 
 <div class="text-highlight">
+	<a href="#if-good-men-and-women-with-four-lines-of-verses">
+	<font class="emph">
+	若善男子 善女人 於此經中 乃至 受持四句偈等 爲他人說 而此福德 勝前福德
+	</font>
+	</a>
+	<br>
+	약선남자 선여인 어차경중 내지 수지사구계등 위타인설 이차복덕 승전복덕
+<span class="chinese-korean-translation">
+	만약 착한 남자 여인이 이 경의 네 글귀만 받아지니고 남을 위해 말해준다면
+	이 복福과 덕德이 앞의 복덕福德보다 뛰어나니라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#greater-blessing-if-uphold-four-verses">
+	<font class="emph">若復有人 於此經中 乃至 受持四句偈等 爲他人說 其福甚多</font>
+	</a>
+	<br>
+	약부유인 어차경중 내지 수지사구계등 위타인설 기복심다
+<span class="chinese-korean-translation">
+	또 어떤 사람이 이 경전중에서 네 글귀를 지니거나 독송하여 남을 위해 설명하면
+	그 복이 오히려 앞의 복보다 깊고 많으니라.
+</span>
+</div>
+
+<div class="text-highlight">
 	<a href="#even-dharma-is-not-dharma">
 	<font class="emph">所謂佛法者 卽非佛法</font>
 	</a>
@@ -209,6 +246,17 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 </div>
 
 <div class="text-highlight">
+	<a  href="#adorning-budda-land-not-adorning">
+	<font class="emph">如來說莊嚴佛土者 卽非莊嚴 是名莊嚴</font>
+	</a>
+	<br>
+	여래설장엄불토자 즉비장엄 시명장엄
+<span class="chinese-korean-translation">
+	여래가 설한 불국토를 장엄莊嚴한다는 것은 곧 장엄莊嚴이 아니고 그 이름이 장엄莊嚴이니라.
+</span>
+</div>
+
+<div class="text-highlight">
 	<a href="#free-your-mind-dwell-on-nowhere">
 	<font class="emph">
 	應無所住 而生其心
@@ -220,10 +268,115 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	응당 머무는바 없이 그 마음을 낼 것이니라.
 </span>
 </div>
-<!--div class="text-highlight"-->
-<!--div class="text-highlight"-->
-<!--div class="text-highlight"-->
-<!--div class="text-highlight"-->
+
+<div class="text-highlight">
+	<a href="#dharma-beyond-words">
+	<font class="emph">世尊 如來無所說</font>
+	</a>
+	<br>
+	세존 여래무소설
+<span class="chinese-korean-translation">
+	세존이시여, 여래께서 말씀하신 법이 없습니다!
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#inconceivable">
+	<font class="emph">是經義 不可思議 果報 亦不可思議</font>
+	</a>
+	<br>
+	시경의 불가사의 과보 역불가사의
+<span class="chinese-korean-translation">
+	이 경의 뜻은 가히 생각할 수 없고 과보 역시 한량없느니라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#seek-highest-level-of-enlightenment">
+	<font class="emph">爲發大乘者說 爲發最上乘者說</font>
+	</a>
+	<br>
+	위발대승자설 위발최상승자설
+<span class="chinese-korean-translation">
+	대승의 발심자를 위한 말씀이며 최상승의 발심자를 위한 말씀이며
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#blessing-because-no-blessing">
+	<font class="emph">以福德無故 如來說 得福德多</font>
+	</a>
+	<br>
+	이복덕무고 여래설 득복덕다
+<span class="chinese-korean-translation">
+	복덕福德이 없는 고로 여래께서 복덕福德을 많이 얻는다고 말하느니라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#sentinent-being-because-not-sentinent-being">
+	<font class="emph">衆生衆生者如來說 非衆生 是名衆生</font>
+	</a>
+	<br>
+	중생중생자여래설 비중생 시명중생
+<span class="chinese-korean-translation">
+	<font class="emph">중생, 중생이라함은 여래께서 말씀하시길 중생이 아니라 이름하여 중생이라 하느니라.</font>
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#cannot-see-budda-through-form">
+	<font class="emph">
+	若以色見我 以音聲求我 是人行邪道 不能見如來
+	</font>
+	</a>
+	<br>
+	약이색견아 이음성구아 시인행사도 불능견여래
+<span class="chinese-korean-translation">
+	만약 색의 형상으로 여래를 볼려거나
+	음성으로 여래를 구한다면
+	이와 같은 사람은 삿된길이니
+	결코 여래를 보지 못하리라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#only-name-is-dharma">
+	<font class="emph">卽非法相 是名法相</font>
+	</a>
+	<br>
+	즉비법상 시명법상
+<span class="chinese-korean-translation">
+	<font class="emph">즉 진리가 아니라 이름하여 진리라 하느리라.</font>
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#stillness-without-form">
+	<font class="emph">不取於相 如如不動</font>
+	</a>
+	<br>
+	불취어상 여여부동
+<span class="chinese-korean-translation">
+	형상을 취하지 말고 참되고 한결같아 움직임이 없는 것이니라.
+</span>
+</div>
+
+<div class="text-highlight">
+	<a href="#learn-with-joyfulness">
+	<font class="emph">
+	聞佛所說 皆大歡喜 信受奉行
+	</font>
+	</a>
+	<br>
+	문불소설 개대환희 신수봉행
+<span class="chinese-korean-translation">
+	<font class="emph">
+	부처님 말씀을 듣고 모두 크게 기뻐하여 믿고 받들어 행하였다.
+	</font>
+</span>
+</div>
+
 
 <h1 id="main-text">
 Main text
@@ -1366,15 +1519,23 @@ Main text
 </p>
 
 <p>
-	佛告 須菩提 <font class="emph">若善男子 善女人 於此經中 乃至 受持四句偈等 爲他人說 而此福德 勝前福德</font>
+	佛告 須菩提
+	<font class="emph" id="if-good-men-and-women-with-four-lines-of-verses">
+	若善男子 善女人 於此經中 乃至 受持四句偈等 爲他人說 而此福德 勝前福德
+	</font>
 <span class="chinese-korean-transliteration">
-	불고 수보리 약선남자 선여인 어차경중 내지 수지사구계등 위타인설 이차복덕 승전복덕
+	불고 수보리
+	<font class="emph">
+	약선남자 선여인 어차경중 내지 수지사구계등 위타인설 이차복덕 승전복덕
+	</font>
 </span>
 <span class="chinese-korean-translation">
 	부처님이 수보리에게 말씀하셨다.
 <br>
+	<font class="emph">
 	"만약 착한 남자 여인이 이 경의 네 글귀만 받아지니고 남을 위해 말해준다면
 	이 복福과 덕德이 앞의 복덕福德보다 뛰어나니라."
+	</font>
 </span>
 </p>
 
@@ -1520,14 +1681,16 @@ Main text
 </p>
 
 <p>
-	須菩提白佛言 <font class="emph">世尊 如來無所說</font>
+	須菩提白佛言 <font class="emph" id="dharma-beyond-words">世尊 如來無所說</font>
 <span class="chinese-korean-transliteration">
-	수보리백불언 세존 여래무소설
+	수보리백불언 <font class="emph">세존 여래무소설</font>
 </span>
 <span class="chinese-korean-translation">
 	수보리가 부처님께 아뢰었다.
 	<br>
+	<font class="emph">
 	"세존이시여, 여래께서 말씀하신 법이 없습니다."
+	</font>
 </span>
 </p>
 
@@ -1595,13 +1758,14 @@ Main text
 </p>
 
 <p>
-	<font class="emph">若復有人 於此經中 乃至 受持四句偈等 爲他人說 其福甚多</font>
+	<font class="emph" id="greater-blessing-if-uphold-four-verses">若復有人 於此經中 乃至 受持四句偈等 爲他人說 其福甚多</font>
 <span class="chinese-korean-transliteration">
-	약유부인 어차경중 내지 수지사구계등 위타인설 기복심다
+	<font class="emph">약부유인 어차경중 내지 수지사구계등 위타인설 기복심다</font>
 </span>
 <span class="chinese-korean-translation">
+	<font class="emph">
 	또 어떤 사람이 이 경전중에서 네 글귀를 지니거나 독송하여 남을 위해 설명하면
-	그 복이 오히려 앞의 복보다 깊고 많으니라."
+	그 복이 오히려 앞의 복보다 깊고 많으니라.</font>"
 </span>
 </p>
 </div>
@@ -1996,7 +2160,7 @@ Main text
 </p>
 
 <p>
-	如來 <font class="emph">爲發大乘者說 爲發最上乘者說</font>
+	如來 <font class="emph" id="seek-highest-level-of-enlightenment">爲發大乘者說 爲發最上乘者說</font>
 <span class="chinese-korean-transliteration">
 	여래 <font class="emph">위발대승자설 위발최상승자설</font>
 </span>
@@ -2155,12 +2319,15 @@ Main text
 </p>
 
 <p>
-	須菩提 當知 <font class="emph">是經義 不可思議 果報 亦不可思議</font>
+	須菩提 當知 <font class="emph" id="inconceivable">是經義 不可思議 果報 亦不可思議</font>
 <span class="chinese-korean-transliteration">
-	수보리 당지 시경의 불가사의 과보 역불가사의
+	수보리 당지
+	<font class="emph">
+	시경의 불가사의 과보 역불가사의
+	</font>
 </span>
 <span class="chinese-korean-translation">
-	수보리야, 마땅히 알라. 이 경의 뜻은 가히 생각할 수 없고 과보 역시 한량없느니라."
+	수보리야, 마땅히 알라. <font class="emph">이 경의 뜻은 가히 생각할 수 없고 과보 역시 한량없느니라.</font>"
 </span>
 </p>
 
@@ -2222,12 +2389,12 @@ Main text
 </p>
 
 <p>
-	<font class="emph">我應滅度一切衆生 滅度一切衆生已 而無有一衆生 實滅度者</font>
+	<font class="emph" id="no-single-sentinent-being-liberated">我應滅度一切衆生 滅度一切衆生已 而無有一衆生 實滅度者</font>
 <span class="chinese-korean-transliteration">
+	<font class="emph">아응멸도일체중생 멸도일체중생이 이무유일중생 실멸도자</font>
 </span>
-	아응멸도일체중생 멸도일체중생이 이무유일중생 실멸도자
 <span class="chinese-korean-translation">
-	내가 마땅히 모든 중생을 제도濟度하리라하여 그 모든 중생을 제도濟度하지만 실은 한 중생도 제도濟度한 자가 없다하라.
+	<font class="emph">내가 마땅히 모든 중생을 제도濟度하리라하여 그 모든 중생을 제도濟度하지만 실은 한 중생도 제도濟度한 자가 없다하라.</font>
 </span>
 </p>
 
@@ -2448,12 +2615,12 @@ Main text
 </p>
 
 <p>
-	何以故 <font class="emph">如來說莊嚴佛土者 卽非莊嚴 是名莊嚴</font>
+	何以故 <font class="emph" id="adorning-budda-land-not-adorning">如來說莊嚴佛土者 卽非莊嚴 是名莊嚴</font>
 <span class="chinese-korean-transliteration">
-	하이고 여래설장엄불토자 즉비장엄 시명장엄
+	하이고 <font class="emph">여래설장엄불토자 즉비장엄 시명장엄</font>
 </span>
 <span class="chinese-korean-translation">
-	왜냐면 여래가 설한 불국토를 장엄莊嚴한다는 것은 곧 장엄莊嚴이 아니고 그 이름이 장엄莊嚴이니라.
+	왜냐면 <font class="emph">여래가 설한 불국토를 장엄莊嚴한다는 것은 곧 장엄莊嚴이 아니고 그 이름이 장엄莊嚴이니라.</font>
 </span>
 </p>
 
@@ -2680,13 +2847,13 @@ Main text
 </p>
 
 <p>
-	須菩提 若福德有實 如來不說 得福德多 <font class="emph">以福德無故 如來說 得福德多</font>
+	須菩提 若福德有實 如來不說 得福德多 <font class="emph" id="blessing-because-no-blessing">以福德無故 如來說 得福德多</font>
 <span class="chinese-korean-transliteration">
-	수보리 약복덕유실 여래불설 득복덕다 이복덕무고 여래설 득복덕다
+	수보리 약복덕유실 여래불설 득복덕다 <font class="emph">이복덕무고 여래설 득복덕다</font>
 </span>
 <span class="chinese-korean-translation">
 	"수보리야. 만약 복덕福德이 진실眞實로 있다면 여래如來께서 복덕福德을 많이 얻는다고 말하지 않는다.
-	복덕福德이 없는 고로 여래께서 복덕福德을 많이 얻는다고 말하느니라."
+	<font class="emph">복덕福德이 없는 고로 여래께서 복덕福德을 많이 얻는다고 말하느니라.</font>"
 </span>
 </p>
 
@@ -2868,12 +3035,12 @@ Main text
 </p>
 
 <p>
-	何以故 須菩提 <font class="emph">衆生衆生者如來說 非衆生 是名衆生</font>
+	何以故 須菩提 <font class="emph" id="sentinent-being-because-not-sentinent-being">衆生衆生者如來說 非衆生 是名衆生</font>
 <span class="chinese-korean-transliteration">
-	하이고 수보리 중생중생자여래설 비중생 시명중생
+	하이고 수보리 <font class="emph">중생중생자여래설 비중생 시명중생</font>
 </span>
 <span class="chinese-korean-translation">
-	왜냐하면 수보리야, 중생, 중생이라함은 여래께서 말씀하시길 중생이 아니라 이름하여 중생이라 하느니라."
+	왜냐하면 수보리야, <font class="emph">중생, 중생이라함은 여래께서 말씀하시길 중생이 아니라 이름하여 중생이라 하느니라.</font>"
 </span>
 </p>
 </div>
@@ -3198,18 +3365,20 @@ Main text
 
 <p>
 	爾時 世尊 而說偈言
-	<font class="emph">若以色見我 以音聲求我 是人行邪道 不能見如來</font>
+	<font class="emph" id="cannot-see-budda-through-form">若以色見我 以音聲求我 是人行邪道 不能見如來</font>
 <span class="chinese-korean-transliteration">
 	이시 세존 이설게언
-	약이색견아 이음성구아 시인행사도 불능견여래
+	<font class="emph">약이색견아 이음성구아 시인행사도 불능견여래</font>
 </span>
 <span class="chinese-korean-translation">
 	그 때 세존께서 게송으로 말씀하셨다.
 	<br>
+	<font class="emph">
 	"만약 색의 형상으로 여래를 볼려거나
 	음성으로 여래를 구한다면
 	이와 같은 사람은 삿된길이니
 	결코 여래를 보지 못하리라."
+	</font>
 </span>
 </p>
 </div>
@@ -3564,12 +3733,12 @@ Main text
 </p>
 
 <p>
-	須菩提 所言法相者如來說 <font class="emph">卽非法相 是名法相</font>
+	須菩提 所言法相者如來說 <font class="emph" id="only-name-is-dharma">卽非法相 是名法相</font>
 <span class="chinese-korean-transliteration">
-	수보리 소언법상자여래설 즉비법상 시명법상
+	수보리 소언법상자여래설 <font class="emph">즉비법상 시명법상</font>
 </span>
 <span class="chinese-korean-translation">
-	수보리야, 진리라는 말뜻도 여래께서 말씀하시길 즉 진리가 아니라 이름하여 진리라 하느리라."
+	수보리야, 진리라는 말뜻도 여래께서 말씀하시길 <font class="emph">즉 진리가 아니라 이름하여 진리라 하느리라.</font>"
 </span>
 </p>
 </div>
@@ -3624,7 +3793,7 @@ Main text
 </p>
 
 <p>
-	云何爲人演說 <font class="emph">不取於相 如如不動</font>
+	云何爲人演說 <font class="emph" id="stillness-without-form">不取於相 如如不動</font>
 <span class="chinese-korean-transliteration">
 	운하위인연설 <font class="emph">불취어상 여여부동</font>
 </span>
@@ -3657,12 +3826,18 @@ Main text
 </p>
 
 <p>
-	<font class="emph">聞佛所說 皆大歡喜 信受奉行</font>
+	<font class="emph" id="learn-with-joyfulness">
+	聞佛所說 皆大歡喜 信受奉行
+	</font>
 <span class="chinese-korean-transliteration">
+	<font class="emph">
 	문불소설 개대환희 신수봉행
+	</font>
 </span>
 <span class="chinese-korean-translation">
+	<font class="emph">
 	부처님 말씀을 듣고 모두 크게 기뻐하여 믿고 받들어 행하였다.
+	</font>
 </span>
 </p>
 </div>
