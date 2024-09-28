@@ -11,6 +11,31 @@ permalink: /todo-list/
 <h1 id="todo-list">TODO List</h1>
 
 <ul>
+<li>
+	post about Tao Te Ching
+	-
+	도덕경道德經
+	<ul>
+	<li>
+		owner - Sunghee
+	</li>
+	<li>
+		priority - M
+	</li>
+	<li>
+		written @ 27-Sep-2024 PDT
+	</li>
+	<li>
+		due @ 28-Sep-2024 PDT
+	</li>
+	<li>
+		references
+		-
+		<a href="https://ko.wikipedia.org/wiki/%EB%8F%84%EB%8D%95%EA%B2%BD">도덕경 @ 위키백과</a>
+	</li>
+	</ul>
+</li>
+
 <font color="#bbb">
 <li>
 	<s>finish up the post about Diamond Sutra - 금강경金剛經</s>
