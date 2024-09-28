@@ -91,6 +91,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	선남자善男子 선여인善女人이
 	위없이 높고 바른 깨달음의 마음을 일으킬 때 마땅히 그 마음을 어떻게 항복 받아야 합니까?
 </span>
+	<br>
+	(第一 法會因由分 - 제1 법회유인분)
 </div>
 
 <div class="text-highlight">
@@ -100,6 +102,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	한량없이 많은 중생의 생사를 제도濟度할지라도 실로 한 중생도 제도濟度된 바가 없느니라.
 </span>
+	<br>
+	(第三 大乘正宗分 - 제3 대승정종분)
 </div>
 
 <div class="text-highlight">
@@ -111,6 +115,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	내가 마땅히 모든 중생을 제도濟度하리라하여 그 모든 중생을 제도濟度하지만 실은 한 중생도 제도濟度한 자가 없다하라.
 </span>
+	<br>
+	(第十七 究竟無我分 - 제17 구경무아분)
 </div>
 
 <div class="text-highlight">
@@ -121,6 +127,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	아상我相&nbsp;&sdot;&nbsp;인상人相&nbsp;&sdot;&nbsp;중생상衆生相&nbsp;&sdot;&nbsp;수자상壽者相이 있으면
 	곧 보살이 아니니라.
 </span>
+	<br>
+	(第三 大乘正宗分 - 제3 대승정종분)
 </div>
 
 <div class="text-highlight">
@@ -130,6 +138,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	보살이 형상形象에 머물지 않고 보시하는 복덕福德도 또한 이와 같이 생각으로 헤아릴 수 없느니라.
 </span>
+	<br>
+	(第四 妙行無住分 - 제4 묘행무주분)
 </div>
 
 <div class="text-highlight">
@@ -140,6 +150,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	무릇 형상形象을 가진 모든 것은 허망하니 만일 형상形象이 진실한 상이 아닌줄 알면
 	곧 여래를 보느니라.
 </span>
+	<br>
+	(第五 如理實見分 - 제5 여리실견분)
 </div>
 
 <div class="text-highlight">
@@ -149,6 +161,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	이미 한량없는 천만 부처님 처소에 모든 바탕을 심었으니 이 글귀를 듣고 한 생각에 거룩한 믿음을 내느니라.
 </span>
+	<br>
+	(第六 正信希有分 - 제6 정신희유분)
 </div>
 
 <div class="text-highlight">
@@ -159,6 +173,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	너희들 비구는 내가 말한 법法이 뗏목과 같은 줄 알라.
 	법法도 마땅히 놓아버려야 함인데 하물며 법法 아님이야!
 </span>
+	<br>
+	(第六 正信希有分 - 제6 정신희유분)
 </div>
 
 <div class="text-highlight">
@@ -169,6 +185,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	정해진 법이 없는 것을 이름하여 위없는 높은 깨달음이라하고
 	또 정해진 법이 없는 것을 여래께서 말씀하셨습니다.
 </span>
+	<br>
+	(第七 無得無說分 - 제7 무득무설분)
 </div>
 
 <div class="text-highlight">
@@ -181,6 +199,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	여래께서 말씀하신 법은
 	취할수도 없고 말할 수 없고 법도 아니고 법아닌 것도 아닙니다.
 </span>
+	<br>
+	(第七 無得無說分 - 제7 무득무설분)
 </div>
 
 <div class="text-highlight">
@@ -195,6 +215,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	만일 어떤 사람이 이 경가운데 네 글귀만이라도 받아지니고
 	남을 위해 말한다면 그 복이 다른 복보다 뛰어나니라.
 </span>
+	<br>
+	(第八 依法出生分 - 제8 의법출생분)
 </div>
 
 <div class="text-highlight">
@@ -209,6 +231,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	만약 착한 남자 여인이 이 경의 네 글귀만 받아지니고 남을 위해 말해준다면
 	이 복福과 덕德이 앞의 복덕福德보다 뛰어나니라.
 </span>
+	<br>
+	(第十一 無爲福勝分 - 제11 무위복승분)
 </div>
 
 <div class="text-highlight">
@@ -221,6 +245,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	또 어떤 사람이 이 경전중에서 네 글귀를 지니거나 독송하여 남을 위해 설명하면
 	그 복이 오히려 앞의 복보다 깊고 많으니라.
 </span>
+	<br>
+	(第十三 如法受持分 - 제13 여법수지분)
 </div>
 
 <div class="text-highlight">
@@ -232,6 +258,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	이른바 불법佛法이라는 것 또한 불법佛法이 아니니라.
 </span>
+	<br>
+	(第八 依法出生分 - 제8 의법출생분)
 </div>
 
 <div class="text-highlight">
@@ -243,6 +271,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	불국토佛國土를 장엄莊嚴한 것은 곧 장엄莊嚴이 아니옵고 이름하여 장엄莊嚴이라 하옵니다.
 </span>
+	<br>
+	(第十 莊嚴淨土分 - 제10 장엄정토분)
 </div>
 
 <div class="text-highlight">
@@ -254,6 +284,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	여래가 설한 불국토를 장엄莊嚴한다는 것은 곧 장엄莊嚴이 아니고 그 이름이 장엄莊嚴이니라.
 </span>
+	<br>
+	(第十七 究竟無我分 - 제17 구경무아분)
 </div>
 
 <div class="text-highlight">
@@ -267,6 +299,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	응당 머무는바 없이 그 마음을 낼 것이니라.
 </span>
+	<br>
+	(第十 莊嚴淨土分 - 제10 장엄정토분)
 </div>
 
 <div class="text-highlight">
@@ -278,6 +312,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	세존이시여, 여래께서 말씀하신 법이 없습니다!
 </span>
+	<br>
+	(第十三 如法受持分 - 제13 여법수지분)
 </div>
 
 <div class="text-highlight">
@@ -289,6 +325,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	이 경의 뜻은 가히 생각할 수 없고 과보 역시 한량없느니라.
 </span>
+	<br>
+	(第十六 能淨業障分 - 제16 능장업장분)
 </div>
 
 <div class="text-highlight">
@@ -300,6 +338,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	대승의 발심자를 위한 말씀이며 최상승의 발심자를 위한 말씀이며
 </span>
+	<br>
+	(第十五 持經功德分 - 제15 지경공덕분)
 </div>
 
 <div class="text-highlight">
@@ -311,6 +351,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	복덕福德이 없는 고로 여래께서 복덕福德을 많이 얻는다고 말하느니라.
 </span>
+	<br>
+	(第十九 法界通化分 - 제19 법계통화분)
 </div>
 
 <div class="text-highlight">
@@ -322,6 +364,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	<font class="emph">중생, 중생이라함은 여래께서 말씀하시길 중생이 아니라 이름하여 중생이라 하느니라.</font>
 </span>
+	<br>
+	(第二十一 非說所說分 - 제21 비설소설분)
 </div>
 
 <div class="text-highlight">
@@ -338,6 +382,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	이와 같은 사람은 삿된길이니
 	결코 여래를 보지 못하리라.
 </span>
+	<br>
+	(第二十六 法身非相分 - 제26 법신비상분)
 </div>
 
 <div class="text-highlight">
@@ -349,6 +395,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	<font class="emph">즉 진리가 아니라 이름하여 진리라 하느리라.</font>
 </span>
+	<br>
+	(第三十一 知見不生分 - 제31 지견불생분)
 </div>
 
 <div class="text-highlight">
@@ -360,6 +408,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 <span class="chinese-korean-translation">
 	형상을 취하지 말고 참되고 한결같아 움직임이 없는 것이니라.
 </span>
+	<br>
+	(第三十二 應化非眞分 - 제32 응화비진분)
 </div>
 
 <div class="text-highlight">
@@ -375,6 +425,8 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 	부처님 말씀을 듣고 모두 크게 기뻐하여 믿고 받들어 행하였다.
 	</font>
 </span>
+	<br>
+	(第三十二 應化非眞分 - 제32 응화비진분)
 </div>
 
 
@@ -757,10 +809,11 @@ Main text
 </div>
 
 <h2 id="5">
-第五 如理實見分
--
-제5 여리실견분
+	第五 如理實見分
+	-
+	제5 여리실견분
 </h2>
+
 참된 진리를 보라.
 
 <blockquote>
@@ -2638,9 +2691,9 @@ Main text
 </div>
 
 <h2 id="18">
-第十八 一切同觀分
--
-제18 일체동관분
+	第十八 一切同觀分
+	-
+	제18 일체동관분
 </h2>
 
 일체를 하나로 보라.
@@ -2801,9 +2854,9 @@ Main text
 </div>
 
 <h2 id="19">
-第十九 法界通化分
--
-제19 법계통화분
+	第十九 法界通化分
+	-
+	제19 법계통화분
 </h2>
 
 법계法界를 두루 통하다.
@@ -2860,9 +2913,9 @@ Main text
 </div>
 
 <h2 id="20">
-第二十 離色離相分
--
-제20 이색이상분
+	第二十 離色離相分
+	-
+	제20 이색이상분
 </h2>
 
 형상形象을 떠나고 경계境界를 떠나고
@@ -2951,9 +3004,9 @@ Main text
 </div>
 
 <h2 id="21">
-第二十一 非說所說分
--
-제21 비설소설분
+	第二十一 非說所說分
+	-
+	제21 비설소설분
 </h2>
 
 말을 여윈 설법說法
@@ -3046,9 +3099,9 @@ Main text
 </div>
 
 <h2 id="22">
-第二十二 無法可得分
--
-제22 무법가득분
+	第二十二 無法可得分
+	-
+	제22 무법가득분
 </h2>
 
 위없는 진리는 얻는다고 하지 않는다.
@@ -3106,9 +3159,9 @@ Main text
 </div>
 
 <h2 id="23">
-第二十三 淨心行善分
--
-제23 정심행선분
+	第二十三 淨心行善分
+	-
+	제23 정심행선분
 </h2>
 
 깨끗한 마음으로 바른 법을 닦아라.
@@ -3161,9 +3214,9 @@ Main text
 </div>
 
 <h2 id="24">
-第二十四 福智無比分
--
-제24 복지무비분
+	第二十四 福智無比分
+	-
+	제24 복지무비분
 </h2>
 
 복과 지혜는 비교할 수 없다.
@@ -3215,9 +3268,9 @@ Main text
 </div>
 
 <h2 id="25">
-第二十五 化無所化分
--
-제25 화무소화분
+	第二十五 化無所化分
+	-
+	제25 화무소화분
 </h2>
 
 교화해도 교화한 것이 없다.
@@ -3291,9 +3344,9 @@ Main text
 </div>
 
 <h2 id="26">
-第二十六 法身非相分
--
-제26 법신비상분
+	第二十六 法身非相分
+	-
+	제26 법신비상분
 </h2>
 
 참다운 법신은 형상이 아니다.
@@ -3384,9 +3437,9 @@ Main text
 </div>
 
 <h2 id="27">
-第二十七 無斷無滅分
--
-제27 무단무멸분
+	第二十七 無斷無滅分
+	-
+	제27 무단무멸분
 </h2>
 
 끊어짐도 아니고 멸함도 아니다.
@@ -3453,9 +3506,9 @@ Main text
 </div>
 
 <h2 id="28">
-第二十八 不受不貪分
--
-제28 불수불탐분
+	第二十八 不受不貪分
+	-
+	제28 불수불탐분
 </h2>
 
 받지도 않고 탐하지도 않는다.
@@ -3523,9 +3576,9 @@ Main text
 </div>
 
 <h2 id="29">
-第二十九 威儀寂靜分
--
-제29 위의적정분
+	第二十九 威儀寂靜分
+	-
+	제29 위의적정분
 </h2>
 
 최상의 경계는 고요하고 적멸하다.
@@ -3564,9 +3617,9 @@ Main text
 </div>
 
 <h2 id="30">
-第三十 一合理相分
--
-제30 일합이상분
+	第三十 一合理相分
+	-
+	제30 일합이상분
 </h2>
 
 진리와 형상은 하나라 한다.
@@ -3667,9 +3720,9 @@ Main text
 </div>
 
 <h2 id="31">
-第三十一 知見不生分
--
-제31 지견불생분
+	第三十一 知見不生分
+	-
+	제31 지견불생분
 </h2>
 
 아는 견해를 내지마라.
@@ -3744,9 +3797,9 @@ Main text
 </div>
 
 <h2 id="32">
-第三十二 應化非眞分
--
-제32 응화비진분
+	第三十二 應化非眞分
+	-
+	제32 응화비진분
 </h2>
 
 <!--상대적인 것은 진리가 아니다-->
