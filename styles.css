@@ -180,3 +180,23 @@ figcaption {
     margin: 20px 20px 20px;
     font-style: italic;
 }
+
+.foldable-content {
+	display: none;
+	padding: 10px;
+	border: 1px solid #ccc;
+	margin-top: 5px;
+}
+.foldable-toggle {
+	cursor: pointer;
+	padding: 5px;
+	background-color: #f0f0f0;
+	display: inline-block;
+	margin-top: 10px;
+}
+.foldable-toggle::before {
+	content: '▶ ';
+}
+.foldable-toggle.active::before {
+	content: '▼ ';
+}

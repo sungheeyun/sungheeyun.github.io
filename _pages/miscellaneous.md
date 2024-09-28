@@ -29,7 +29,7 @@ Concerts
 	Chamber Music @ <a href="https://maps.app.goo.gl/QwTTAmfiJHvhZcF26">Davies Symphony Hall</a>
 	- 29-Sep-2024
 <!--a href="https://maps.app.goo.gl/QwTTAmfiJHvhZcF26"><img border="0" src="/resource/favicons/icons8-google-maps-96.png" width=20 height=20></a-->
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MHZocmliZzJ0czhnczlhc2puaGhiaXZxcDggc3VuZ2hlZS55dW5AbQ&amp;tmsrc=sunghee.yun%40gmail.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MHZocmliZzJ0czhnczlhc2puaGhiaXZxcDggc3VuZ2hlZS55dW5AbQ&amp;tmsrc=sunghee.yun%40gmail.com"><img src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 -
 <a href="/resource/music/concert-tickets/2024_0929 - Chamber Music @ DSH sfsymphony.org_Cart_Confirmation.pdf">ticket</a>
 </li>
@@ -45,28 +45,28 @@ Concerts
 	-
 	visits <a href="https://maps.app.goo.gl/DXesEpcAuX6gji3k7">The Metropolitan Museum of Art</a>
 	- 2pm on 31-Jul-2023 EDT
-	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M21yMDZvajlmMXFtcm9udmw0Y2o0bWUzcTAgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M21yMDZvajlmMXFtcm9udmw0Y2o0bWUzcTAgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 </li>
 <li>
 	Family
 	-
 	Classical to Neo-Classical @ <a href="https://maps.app.goo.gl/LWG891FhdfYc6eLr6">David Geffen Hall</a>
 	- 7:30pm on 29-Jul-2023 EDT
-	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NG9qZHRwcnB1aW44aWpkdGx0N2N0Y2czNHAgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&amp;tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NG9qZHRwcnB1aW44aWpkdGx0N2N0Y2czNHAgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&amp;tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 </li>
 <li>
 	Family
 	-
 	Hamilton @ <a href="https://maps.app.goo.gl/zzWXVSkoKck3C89x9">Richard Rodgers Theatre</a>
 	- 2pm on 26-Jul-2024 EDT
-	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoaGo2ZDloZTRwNjRxMzRlOHFqaWNyaGRkazNhc2oyZHBoamlzMzg2dG9qY3QzaTZsbjM0ZDlwY3RsNzZjOWc3MXFuNmMzZGQ0cm5hcGo4Y2dxNmUgc3VuZ2hlZS55dW5AbQ&amp;tmsrc=sunghee.yun%40gmail.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoaGo2ZDloZTRwNjRxMzRlOHFqaWNyaGRkazNhc2oyZHBoamlzMzg2dG9qY3QzaTZsbjM0ZDlwY3RsNzZjOWc3MXFuNmMzZGQ0cm5hcGo4Y2dxNmUgc3VuZ2hlZS55dW5AbQ&amp;tmsrc=sunghee.yun%40gmail.com"><img src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 </li>
 <li>
 	Family
 	-
 	visits <a href="https://maps.app.goo.gl/EzZgLWssRftzSsSj7">San Francisco Museum of Modern Art</a>
 	- 1pm on 13-Jul-2023 PDT
-	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bXA4bzZ2ZHNtMjhkOGw1NGV0djkzczY3YzQgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=bXA4bzZ2ZHNtMjhkOGw1NGV0djkzczY3YzQgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 </li>
 <li>
 	Family
@@ -75,7 +75,7 @@ Concerts
 	@ <a href="https://maps.app.goo.gl/L7c2VmFcHswadxX68">War Memorial Opera House</a>
 	-
 	6pm on 16-Jun-2023 PDT
-	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Z3YxYzAyYjFzZmNkdTRwYTllb2V0aWtkamMgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Z3YxYzAyYjFzZmNkdTRwYTllb2V0aWtkamMgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 </li>
 <li>
 	Family
@@ -83,7 +83,7 @@ Concerts
 	visits <a href="https://maps.app.goo.gl/w5wn75kmcuPMPqvy7">de Young Museum</a>
 	-
 	9:30am on 03-Jun-2023 PDT
-	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZnQybHM3MWRvaWRkZmZxNTZpa21uajFhcTQgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZnQybHM3MWRvaWRkZmZxNTZpa21uajFhcTQgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 </li>
 <li>
 	Family
@@ -91,7 +91,7 @@ Concerts
 	visits <a href="https://maps.app.goo.gl/ktQMEgr3TPyXsRwJA">Disneyland Park</a>
 	-
 	9am on 17-Apr-2023 PDT
-	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZW9pZWdiaDV2aWVyNXU0OW8wOGw2MzBvcWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZW9pZWdiaDV2aWVyNXU0OW8wOGw2MzBvcWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 </li>
 <li>
 	Family
@@ -99,7 +99,7 @@ Concerts
 	visits <a href="https://maps.app.goo.gl/BP9bfMtCjUgVbmJ88">The Getty</a>
 	-
 	11am on 16-Apr-2023 PDT
-	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZW9pZWdiaDV2aWVyNXU0OW8wOGw2MzBvcWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZW9pZWdiaDV2aWVyNXU0OW8wOGw2MzBvcWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 </li>
 </ul>
 
@@ -114,7 +114,7 @@ Concerts
 	visits <a href="https://maps.app.goo.gl/2Dq9JbRQn68fGZ499">Universal Studios Hollywood</a>
 	-
 	9am on 26-Jul-2022 PDT
-	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=YWpyMHI2Y2Mza2ZzdDAwa3U3MmwwODIxdWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=YWpyMHI2Y2Mza2ZzdDAwa3U3MmwwODIxdWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 </li>
 <li>
 	Family
@@ -122,7 +122,7 @@ Concerts
 	visits <a href="https://maps.app.goo.gl/iqfbNRNhEHAnM4R98">The Getty Villa</a>
 	-
 	11am on 25-Jul-2022 PDT
-	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Zm8yNGJyM2YxcWR1dDRkcGpucmprdGJmYWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img border="0" src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
+	<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=Zm8yNGJyM2YxcWR1dDRkcGpucmprdGJmYWcgY2l1NXY0NDlwdWlxZjdtZDRoc2hrbjlncnNAZw&tmsrc=ciu5v449puiqf7md4hshkn9grs%40group.calendar.google.com"><img src="/resource/favicons/icons8-google-calendar-96.png" width=20 height=20></a>
 </li>
 </ul>
 
@@ -190,6 +190,32 @@ Trips
 </li>
 </ul>
 
+<h4>Nov</h4>
+
+<ul>
+<li>
+	biz trip to Seoul - 10 nights (tentative)
+	<ul>
+	<li>
+		03-Nov-2024 ~ 13-Nov-2024 PDT
+	</li>
+	<li>
+		flight 1
+		-
+		- from SFO @ PDT to ICN @ KST
+	</li>
+	<li>
+		flight 2
+		-
+		- from ICN @ KST to SFO @ PDT
+	</li>
+	<li>
+		stay @
+	</li>
+	</ul>
+</li>
+</ul>
+
 <h4>Oct</h4>
 
 <ul>
@@ -223,6 +249,34 @@ Trips
 <h4>Sep</h4>
 
 <ul>
+<li>
+	biz trip to LA - 2 nights
+	<ul>
+	<li>
+		25-Sep-2024 ~ 27-Sep-2024 PDT
+	</li>
+	<li>
+		drive &amp; stay @ <a href="https://maps.app.goo.gl/sdwT1TpW2iutpSSNA">Mario's</a>
+	</li>
+	<li>
+		meet
+		<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NnQ0YWFoajVmYmRsdHZ2Mmc1bzUwcm5mMjYgc3VuZ2hlZS55dW5AbQ&amp;tmsrc=sunghee.yun%40gmail.com">Kyungsuk</a>,
+		<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=bWpndW9zZmpxMTFnOTRjYjJhaWsybWcxczQgc3VuZ2hlZS55dW5AbQ&amp;tmsrc=sunghee.yun%40gmail.com">Jungho</a>,
+		<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGlkNWExYzNtNG1rODlnN2piajdhZGE3aWIgc3VuZ2hlZS55dW5AZXJ1ZGlvLmJpbw&amp;tmsrc=sunghee.yun%40erudio.bio">Leon</a>
+		&amp;
+		<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NGV2cjF0czRqaTRlbGpybzhycHRramxsMDggc3VuZ2hlZS55dW5AbQ&amp;tmsrc=sunghee.yun%40gmail.com">Youngest Aunt's family</a>
+		<div class="foldable-toggle">photos</div>
+		<div class="foldable-content">
+			<div class="img-container">
+			<img width="50%" src="/assets/images/trips/2024_0926 - junghwan's family.jpeg">
+			&nbsp;
+			&nbsp;
+			<img width="37.46530989824237%" src="/assets/images/trips/2024_0926 - me & audrey.jpeg">
+			</div>
+		</div>
+	</li>
+	</ul>
+</li>
 <li>
 	biz trip to Seoul - 16 nights
 	<ul>
@@ -2254,4 +2308,22 @@ Maps
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6307.033404305522!2d-122.420809!3d37.777929!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808580991be02fd9%3A0xc60bb460e5f31987!2sLouise%20M.%20Davies%20Symphony%20Hall!5e0!3m2!1sen!2sus!4v1726467959724!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+		var toggles = document.querySelectorAll('.foldable-toggle');
+
+		toggles.forEach(function(toggle) {
+			toggle.addEventListener('click', function() {
+				this.classList.toggle('active');
+				var content = this.nextElementSibling;
+				if (content.style.display === 'block') {
+					content.style.display = 'none';
+				} else {
+					content.style.display = 'block';
+				}
+			});
+		});
+	});
+</script>
 
