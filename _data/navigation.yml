@@ -3,21 +3,21 @@ main:
     url: /about
   - title: "articles"
     url: /articles
+  - title: "papers"
+    url: /papers
   - title: "blog"
     url: /posts
+  - title: "tags"
+    url: /tags
   - title: "books"
     url: /books
+  - title: "lectures"
+    url: /lectures
 #  - title: "categories"
 #    url: /categories
-#  - title: "lectures"
-#    url: /lectures
 #  - title: "miscellaneous"
 #    url: /miscellaneous
 #  - title: "music"
 #    url: /music
-  - title: "papers"
-    url: /papers
-  - title: "tags"
-    url: /tags
-  - title: "todo-list"
-    url: /todo-list
+#  - title: "todo-list"
+#    url: /todo-list

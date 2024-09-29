@@ -16,9 +16,9 @@
 
 repository: sungheeyun/sungheeyun.github.io
 
-title: Mr. Funnybunny's Homepage
+title: Sunghee's Homepage
 email: sunghee.yun@gmail.com
-description: I am Mr. Funnybunny.
+description: I am Sunghee Yun.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -61,7 +61,7 @@ plugins:
 
 # Site Author
 author:
-  name             : "Mr. Funnybunny"
+  name             : "Sunghee Yun"
   avatar           : "/assets/images/profile-photo-670x671.png"
   bio              : "Co-founder & CTO @ Erudio Bio, Inc., Adjunct Professor @ [Sogang University](https://ee.sogang.ac.kr/eng/employee/professor03.php), Advisory Professor @ [DGIST](https://www.dgist.ac.kr/en_eecs/?bo_table=eng2_1&sca=Advisory+Professor)"
 #  location         : "Palo Alto, CA, USA"
