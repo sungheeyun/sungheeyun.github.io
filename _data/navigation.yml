@@ -1,16 +1,16 @@
 main:
   - title: "about"
     url: /about
-  - title: "articles"
+  - title: "AI Insights"
     url: /articles
-  - title: "papers"
+  - title: "AI papers"
     url: /papers
   - title: "blog"
     url: /posts
   - title: "tags"
     url: /tags
-  - title: "books"
-    url: /books
+#  - title: "books"
+#    url: /books
   - title: "lectures"
     url: /lectures
 #  - title: "categories"
