@@ -294,6 +294,13 @@ Welcome to your AI knowledge oasis – where curiosity meets enlightenment, and 
 	- California Legislative Information
 	@ 03-Sep-2024 PDT
 </li>
+<li>
+	<a href="https://www.deeplearning.ai/the-batch/blenders-versus-bombs-or-why-californias-proposed-ai-law-is-bad-for-everyone/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz--eyRhmWpB_UJRDrNmj3csFjGcUjEmUE-dDaEKb4BVW0d7_ivS_2SbMXtD5d-QOYT7LQCWgJd2t_LQrBmf7soGxEzvClg&_hsmi=327370286&utm_content=327370286&utm_source=hs_email">
+		Blenders Versus Bombs, or Why California’s Proposed AI Law is Bad for Everyone
+	</a>
+	- The Batch by DeepLearning.AI
+	@ 05-Jun-2024
+</li>
 </ul>
 
 <h3 id="ai-impacts-societal">societal impacts</h3>
@@ -305,13 +312,6 @@ Welcome to your AI knowledge oasis – where curiosity meets enlightenment, and 
 	</a>
 	- NY Times
 	@ 29-Sep-2024
-</li>
-<li>
-	<a href="https://www.deeplearning.ai/the-batch/blenders-versus-bombs-or-why-californias-proposed-ai-law-is-bad-for-everyone/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz--eyRhmWpB_UJRDrNmj3csFjGcUjEmUE-dDaEKb4BVW0d7_ivS_2SbMXtD5d-QOYT7LQCWgJd2t_LQrBmf7soGxEzvClg&_hsmi=327370286&utm_content=327370286&utm_source=hs_email">
-		Blenders Versus Bombs, or Why California’s Proposed AI Law is Bad for Everyone
-	</a>
-	- The Batch by DeepLearning.AI
-	@ 05-Jun-2024
 </li>
 </ul>
 
