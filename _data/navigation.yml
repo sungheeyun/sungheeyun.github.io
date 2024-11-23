@@ -15,8 +15,8 @@ main:
     url: /tags
 #  - title: "books"
 #    url: /books
-  - title: "lectures"
-    url: /lectures
+#  - title: "lectures"
+#    url: /lectures
 #  - title: "categories"
 #    url: /categories
 #  - title: "misc"
