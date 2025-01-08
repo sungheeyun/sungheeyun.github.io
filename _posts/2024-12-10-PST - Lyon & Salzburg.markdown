@@ -446,7 +446,7 @@ as I arrived during the Feast of Saint Nicholas. What awaited me was far beyond 
 <img src="/resource/trips/2024-12 Lyon & Salzburg/IMG_5141.jpg">
 </div>
 <div class="img-container">
-<img src="/resource/trips/2024-12 Lyon & Salzburg/IMG_5233.jpg">
+<img src="/resource/trips/2024-12 Lyon & Salzburg/IMG_5233.JPG">
 </div>
 <figcaption>
 Meeting Krampus - an unexpected yet delightful encounter at München's St. Nicholas festivities - where ancient Alpine folklore comes with a smile!
