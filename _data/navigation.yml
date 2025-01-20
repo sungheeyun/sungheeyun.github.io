@@ -13,8 +13,8 @@ main:
     url: /salzburg-global-seminar
   - title: "Tags"
     url: /tags
-#  - title: "Cats"
-#    url: /categories
+  - title: "Cats"
+    url: /categories
 #  - title: "Books"
 #    url: /books
 #  - title: "Lectures"
