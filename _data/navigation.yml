@@ -11,8 +11,8 @@ main:
     url: /papers
   - title: "AI Learning"
     url: /ai-learning
-  - title: "SGS"
-    url: /salzburg-global-seminar
+#  - title: "SGS"
+#    url: /salzburg-global-seminar
   - title: "Tags"
     url: /tags
   - title: "Cats"
