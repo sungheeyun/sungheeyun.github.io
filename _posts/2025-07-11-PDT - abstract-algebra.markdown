@@ -2,7 +2,7 @@
 permalink: /math/abstract-algebra
 title: The Architecture of Mathematical Truth - A Journey Through Abstract Algebra
 date: Fri Jul 11 00:17:30 PDT 2025
-last_modified_at: Fri Jul 11 03:02:20 PDT 2025
+last_modified_at: Fri Jul 11 03:18:32 PDT 2025
 categories:
  - blog
 tags:
@@ -48,10 +48,10 @@ Abstract algebra taught me that mathematical abstraction isn't a retreat from re
 	Your browser does not support this shorter audio element.
 </audio>
 
-<audio id="podcast-2" controls>
+<!--audio id="podcast-2" controls>
 	<source type="audio/wav" src="/resource/posts/2025-07-11-PDT - abstract-algebra/NotebookLM/Abstract Algebra_ Groups, Rings, Fields, and Galois Theory-02.wav">
 	Your browser does not support this shorter audio element.
-</audio>
+</audio-->
 
 # Parent blog
 
