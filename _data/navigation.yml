@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about
+  - title: "Activities"
+    url: /recent-activities
   - title: "Posts"
     url: /posts
   - title: "MATH"
