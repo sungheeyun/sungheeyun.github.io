@@ -13,14 +13,12 @@ main:
     url: /papers
   - title: "AI Learning"
     url: /ai-learning
-#  - title: "SGS"
-#    url: /salzburg-global-seminar
-  - title: "Tags"
-    url: /tags
-  - title: "Cats"
-    url: /categories
   - title: "Resonate"
     url: /resonate
+  - title: "Cats"
+    url: /categories
+  - title: "Tags"
+    url: /tags
 #  - title: "Books"
 #    url: /books
 #  - title: "Lectures"
@@ -33,5 +31,7 @@ main:
 #    url: /exercise
 #  - title: "Misc"
 #    url: /misc
+#  - title: "SGS"
+#    url: /salzburg-global-seminar
 #  - title: "SGS"
 #    url: /salzburg-global-seminar
