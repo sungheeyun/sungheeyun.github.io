@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: /about
-  - title: "Activities"
-    url: /recent-activities
+#  - title: "Activities"
+#    url: /recent-activities
   - title: "Resonate"
     url: /resonate
   - title: "Triptych"
