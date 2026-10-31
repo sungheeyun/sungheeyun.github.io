@@ -12,3 +12,5 @@ vendor/
 .*.swp
 __pycache__/
 Gemfile.lock
+
+.ipynb_checkpoints/
